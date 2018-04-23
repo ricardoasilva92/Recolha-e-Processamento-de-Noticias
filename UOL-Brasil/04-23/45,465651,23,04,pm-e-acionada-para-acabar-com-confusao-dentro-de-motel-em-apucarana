@@ -1,0 +1,666 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="pt-BR" itemscope itemtype="http://schema.org/ItemList">
+<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#">
+    <meta charset="utf-8" />
+    <script>
+    function verificaUserAgent() {
+        var user_agent  = navigator.userAgent.toLowerCase();
+        var urlAtual    = location.href;
+        var screenWidth = screen.width;
+
+        if(user_agent.match(/Android/i) || user_agent.match(/Windows Phone/i) || user_agent.match(/iPhone/i) || screenWidth <= 728) {
+            if(window.location.protocol != 'https:') {
+                urlAtual = location.href.replace("http://", "https://");
+            }
+            window.location = urlAtual.replace("://", "://m.");
+        }
+    }
+
+    verificaUserAgent();
+    </script>
+    <meta http-equiv="Content-Type" content="text/html" />
+    <meta name="Content-Language" content="pt-BR" />
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+    <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1" />
+    <meta name="referrer" content="unsafe-url" />
+    <meta name="googlebot" content="noodp" />
+    <meta name="Robots" content="INDEX,FOLLOW" />
+    <meta name="RESOURCE-TYPE" content="DOCUMENT" />
+    <meta name="DISTRIBUTION" content="GLOBAL" />
+    <meta name="AUTHOR" content="TNOnline" />
+    <meta name="COPYRIGHT" content="Copyright (c) Tribuna do Norte" />
+    <meta name="language" content="pt-BR" />
+    <meta name="RATING" content="GENERAL" />
+    <meta name="google-site-verification" content="r_kbDinNFMTTjM17fj9GIh63RMu__X-plZfySwc8d8Q" />
+    <meta name="msvalidate.01" content="5711A15BD2E6CE157476BDED9EE16087" />
+    <meta http-equiv="x-dns-prefetch-control" content="on" />
+    <link rel="dns-prefetch" href="//www.google-analytics.com" />
+    <link rel="dns-prefetch" href="//www.googletagservices.com" />
+    <link rel="dns-prefetch" href="//googleadservices.com" />
+    <link rel="dns-prefetch" href="//connect.facebook.net" />
+    <link rel="dns-prefetch" href="//m1.tnonline.com.br/" />
+    <meta name="application-name" content="TNOnline" />
+    <meta property="article:publisher" content="https://www.facebook.com/sitetnonline" />
+    <meta property="fb:admins" content="100003367970652" />
+    <meta property="fb:app_id" content="315653428516563" />
+    <meta property="fb:pages" content="380786901968808" />
+    <meta property="twitter:account_id" content="122684856" />
+    <meta name="theme-color" content="#A31E24" />
+    <link rel="amphtml" href="https://www.tnnews.com.br/amphtml/noticias/apucarana/45,465651,23,04,pm-e-acionada-para-acabar-com-confusao-dentro-de-motel-em-apucarana" />
+    <link rel="canonical" href="https://tnonline.uol.com.br/noticias/apucarana/45,465651,23,04,pm-e-acionada-para-acabar-com-confusao-dentro-de-motel-em-apucarana" />
+    <link rel="shortcut icon" href="https://tnonline.uol.com.br/favicon.png" />
+    <link rel="apple-touch-icon" href="https://tnonline.uol.com.br/notification-icon.png" />
+    <link rel="manifest" href="https://tnonline.uol.com.br/manifest.json" />
+    <link itemprop="url" rel="canonical" href="https://tnonline.uol.com.br/noticias/apucarana/45,465651,23,04,pm-e-acionada-para-acabar-com-confusao-dentro-de-motel-em-apucarana" />
+    <link rel="alternate" media="handheld" href="https://m.tnonline.com.br/noticias/apucarana/45,465651,23,04,pm-e-acionada-para-acabar-com-confusao-dentro-de-motel-em-apucarana" />
+    <link rel="alternate" media="only screen and (max-width: 640px)" href="https://m.tnonline.com.br/noticias/apucarana/45,465651,23,04,pm-e-acionada-para-acabar-com-confusao-dentro-de-motel-em-apucarana" />
+    <link rel="alternate" type="application/rss+xml" title="Notícias minuto a minuto - TNOnline RSS" href="https://tnonline.uol.com.br/rss/homepage" />
+    <link rel="search" type="application/opensearchdescription+xml" href="https://tnonline.uol.com.br/opensearch.xml" title="TNOnline" />
+    <!--<noscript> <meta http-equiv="refresh" content="250;url=?refresh=true" /> </noscript>-->
+    <script>var TIME_TO_RELOAD=4.1667*60*1000;</script>
+    <title>PM é acionada para acabar com confusão dentro de motel em Apucarana - TNOnline</title>
+    <meta itemprop="description" name="description" content="Policiais militares foram acionados na manhã desta segunda-feira (23) para conter um homem que estaria muito exaltado no interior de uma suíte de um motel à margem da BR-369 (Rodovia Mello Peixoto), n..." />
+    <meta name="keywords" content="Apucarana, Arapongas, Ivaiporã, Classificados, Imóveis, Apartametos, Imobiliárias, Automóveis, Jornais, Notícias, Informações, Esportes, Jornalismo, Entretenimento, Televisão, Novela, Horóscopo, Blog, Social, Classificados, Mapa do Crime, Opinião, Diversão" />
+    <meta property="article:section" content="Apucarana" />
+    <meta property='article:published_time' content='2018-04-23T09:41:00-03:00' />
+    <meta property="og:site_name" content="TNOnline" />
+    <meta property="og:locale" content="pt_BR" />
+    <meta property="og:url" content="https://tnonline.uol.com.br/noticias/apucarana/45,465651,23,04,pm-e-acionada-para-acabar-com-confusao-dentro-de-motel-em-apucarana" />
+    <meta property="og:description" content="Policiais militares foram acionados na manhã desta segunda-feira (23) para conter um homem que estaria muito exaltado no interior de uma suíte de um motel à margem da BR-369 (Rodovia Mello Peixoto), n..." />
+    <meta property="og:title" content="PM é acionada para acabar com confusão dentro de motel em Apucarana - TNOnline" />
+    <meta property="og:type" content="article" />
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:site" content="@tnonline_" />
+    <meta name="twitter:url" content="https://tnonline.uol.com.br/noticias/apucarana/45,465651,23,04,pm-e-acionada-para-acabar-com-confusao-dentro-de-motel-em-apucarana" />
+    <meta name="twitter:title" content="PM é acionada para acabar com confusão dentro de motel em Apucarana - TNOnline" />
+    <meta name="twitter:description" content="Policiais militares foram acionados na manhã desta segunda-feira (23) para conter um homem que estaria muito exaltado no interior de uma suíte de um motel à margem da BR-369 (Rodovia Mello Peixoto), n..." />
+    <meta property="og:image" content="https://m1.tnonline.com.br/fcb/2018/04/23/tn_abf30e8f5b_motel-690551-1920.jpg" />
+    <meta itemprop="image" content="https://m1.tnonline.com.br/fcb/2018/04/23/tn_abf30e8f5b_motel-690551-1920.jpg" />
+    <link rel="stylesheet" type="text/css" href="/static/css/home.css?id=eda83423698b6d2bee67" />
+    <link rel="stylesheet" type="text/css" href="/static/css/print.css?id=522a19fde5097ebc9c90" media="print" />
+    <script src="/static/js/home.js?id=22656f523bf9d624fa72"></script>
+    <script>
+        window.TNOnline = {"baseUrl":"https:\/\/tnonline.uol.com.br","user":null,"csrfToken":null,"vapidPublicKey":"BJEkbb0X2Of3k0a6Mi6B1McZzbs12Y11+yI2FRApCXeoPc5ePwKeJyZtoZJtS6RY2rVNcNetr96D5VwAxoo2qpI=","pusher":{"key":"bf36da00ae1c76f4690f","cluster":"mt1"}};
+    </script>
+    <script async src="//www.google.com/recaptcha/api.js"></script>
+    <script async src="//cdn.iframe.ly/embed.js" type="text/javascript" charset="utf-8"></script>
+
+            <link rel="manifest" href="/manifest.json">
+        <script src="//cdn.onesignal.com/sdks/OneSignalSDK.js" async></script>
+    <script>
+        var OneSignal = window.OneSignal || [];
+        OneSignal.push(["init", {
+            promptOptions: { actionMessage: "Deseja receber notificações das últimas notícias do TNOnline?", acceptButtonText: "CONTINUAR", cancelButtonText: "NÃO, OBRIGADO" },
+            appId: "26e00b36-0d3d-43fd-99cf-ecfe4edd212b", autoRegister: false, notifyButton: { enable: false },
+            welcomeNotification: { "title": "TNOnline", "message": "Obrigado por se inscrever!" }
+        }]);
+
+        OneSignal.push(function() {
+          OneSignal.isPushNotificationsEnabled(function(isEnabled) {
+            if (!isEnabled)
+              OneSignal.showHttpPrompt()
+          });
+        });
+    </script>
+
+    <script type="application/ld+json">
+{"@context":"http:\/\/schema.org","@type":"NewsArticle","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/tnonline.uol.com.br\/noticias\/apucarana\/45,465651,23,04,pm-e-acionada-para-acabar-com-confusao-dentro-de-motel-em-apucarana"},"headline":"PM \u00e9 acionada para acabar com confus\u00e3o dentro de motel em Apucarana","description":"Policiais militares foram acionados na manh\u00e3 desta segunda-feira (23) para...","datePublished":"2018-04-23T09:41:00-03:00","dateModified":"2018-04-23T09:51:35-03:00","author":{"@type":"Person","name":"LUIZ DEM\u00c9TRIO"},"publisher":{"@type":"Organization","name":"TNOnline","logo":{"@type":"ImageObject","url":"https:\/\/tnonline.uol.com.br\/static\/img\/logo.png"}},"image":{"@type":"ImageObject","url":"https:\/\/m1.tnonline.com.br\/fcb\/2018\/04\/23\/tn_abf30e8f5b_motel-690551-1920.jpg"}}
+</script>
+
+    <!-- Google - Analytics -->
+    <script async src="//www.googletagmanager.com/gtag/js?id=UA-11755421-1"></script>
+    <script type="text/javascript">function gtag(){dataLayer.push(arguments)}window.dataLayer=window.dataLayer||[],gtag("js",new Date),gtag("config","UA-11755421-1");</script>
+
+
+    <!-- UOL - Analytics -->
+    <script type="text/javascript">
+    window.universal_variable=window.universal_variable||{},window.universal_variable.dfp={custom_params:{subchan:""}},window.uolads=window.uolads||[],function(){var a=document.createElement("script");a.async=!0,a.src="//tm.jsuol.com.br/uoltm.js?id=2aljwf";var e=document.getElementsByTagName("script")[0];e.parentNode.insertBefore(a,e)}();
+    </script>
+    </head>
+<!--                          _
+                          .-'` `}
+                  _./)   /       }
+                .'o   \ |       }
+                '.___.'`.\    {`
+                /`\_/  , `.    }
+                \=' .-'   _`\  {
+                 `'`;/      `,  }
+                    _\       ;  }
+  O HAI THERE      /__`;-...'--'
+
+-->
+<body itemscope itemtype="http://schema.org/WebPage">
+    <div id="fb-root"></div>
+
+    <script>(function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) return;
+      js = d.createElement(s); js.id = id;
+      js.src = "//connect.facebook.net/pt_BR/all.js#xfbml=1&appId=315653428516563";
+      fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));</script>
+
+    
+
+    <img src="https://tnonline.uol.com.br/static/facebook600.jpg" alt="Facebook Img Logo" class="schema-only" width="600" height="600" />
+
+    <header id="masthead" class="height-transition">
+        <div class="tnonline">
+            <div itemscope itemtype="http://schema.org/Organization" class="logo">
+                <a href="https://tnonline.uol.com.br" itemprop="url" title="TNOnline" data-event-category="logo" data-event-action="click">
+                    <span itemprop="name" class="schema-only">TNOnline</span>
+                    <img src="https://tnonline.uol.com.br/static/img/logo.png" itemprop="logo" alt="TNOnline Logo">
+                </a>
+            </div>
+
+            <nav itemscope itemtype="http://schema.org/SiteNavigationElement">
+                <ul class="menu">
+                    <li itemprop="name"><a itemprop="url" href="https://tnonline.uol.com.br/noticias/apucarana"><span class="cor2 cor-transition"> Apucarana </span></a></li>
+                    <li itemprop="name"><a itemprop="url" href="https://tnonline.uol.com.br/noticias/arapongas"><span class="cor2 cor-transition"> Arapongas </span></a></li>
+                    <li itemprop="name"><a itemprop="url" href="https://tnonline.uol.com.br/noticias/regiao"><span class="cor2 cor-transition"> Região </span></a></li>
+                    <li itemprop="name"><a itemprop="url" href="https://tnonline.uol.com.br/empregos"><span class="cor2 cor-transition"> Empregos </span></a></li>
+                    <li itemprop="name"><a itemprop="url" href="https://tnonline.uol.com.br/noticias/ultimas"><span class="cor2 cor-transition"> Últimas </span></a></li>
+                    <li itemprop="name"><a itemprop="url" href="https://tnonline.uol.com.br/classificados/diversos"><span class="cor2 cor-transition"> Classificados </span></a></li>
+                </ul>
+            </nav>
+
+            <ol id="meta-nav">
+                <li class="search">
+                    <form class="search-container" action="https://tnonline.uol.com.br/busca/" accept-charset="utf-8" autocomplete="off" itemprop="potentialAction" itemscope itemtype="http://schema.org/SearchAction">
+                        <meta itemprop="target" content="https://tnonline.uol.com.br/busca?q={q}"/>
+                        <input type="search" name="q" class="search-input" placeholder="Busque no TNOnline." itemprop="query-input" accesskey="s" lang="pt-BR" required />
+                        <button for="search" type="button" class="search-icon" id="search-icon"><i class="fa fa-search" aria-hidden="true"></i></button>
+                    </form>
+                </li>
+                <li class="handmenu">
+                    <a href="#" class="nav-toggle" id="nav-toggle" aria-hidden="true"><i class="fa fa-bars" aria-hidden="true"></i></a>
+                </li>
+            </ol>
+        </div>
+    </header>
+
+    <nav class="menu-side" id="menu-side" role="navigation">
+        <ul>
+            <li><a href="https://tnonline.uol.com.br"><span class="cor3 cor-transition">Página principal</span></a></li>
+            <li><a href="https://tnonline.uol.com.br/classificados/diversos"><span class="cor3 cor-transition">Classificados</span></a></li>
+            <li><a href="https://tnonline.uol.com.br/noticias/apucarana"><span class="cor3 cor-transition">Apucarana</span></a></li>
+            <li><a href="https://tnonline.uol.com.br/noticias/arapongas"><span class="cor3 cor-transition">Arapongas</span></a></li>
+            <li><a href="https://tnonline.uol.com.br/noticias/regiao"><span class="cor3 cor-transition">Região</span></a></li>
+            <li><a href="https://tnonline.uol.com.br/empregos"><span class="cor3 cor-transition">Empregos</span></a></li>
+            <li><a href="https://tnonline.uol.com.br/noticias/mais-lidas"><span class="cor3 cor-transition"> Mais Lidas </span></a></li>
+            <li><a href="https://tnonline.uol.com.br/noticias/ultimas"><span class="cor3 cor-transition"> Últimas </span></a></li>
+            <li><a href="https://tnonline.uol.com.br/servicos/fale-conosco"><span class="cor3 cor-transition"> Fale Conosco </span></a></li>
+        </ul>
+    </nav>
+
+    <div id="modulo-topo-banner">
+        <div class="row">
+            <div class="centraliza728x90" style="width: inherit!important;">
+                <div class="tm-ads" id="banner-728x90-area">
+        <script> window.uolads && window.uolads.push({ id: "banner-728x90-area" }); </script>
+    </div>
+            </div>
+        </div>
+    </div>
+
+        <div class="row" id="modulo-topo">
+        <span class="content-box-title bg1 cor3">Mais lidas</span>
+
+        
+            <div class="large-2 columns moduloTopo horizontal-chamada">
+                <article data-story-id="465602" data-rank="4442">
+                    <h2>
+                        <a href="https://tnonline.uol.com.br/noticias/apucarana/45,465602,21,04,homem-e-achado-morto-com-tiro-na-cabeca-dentro-de-casa-em-apucarana" title="Homem é achado morto com tiro na cabeça dentro de casa em Apucarana">
+                                                    <div class="a-img">
+                                <img src="https://m1.tnonline.com.br/690X400/2018/04/08/tn_30626db71a_imlapucarana55.jpg" class="thumbnail float-left" alt="Corpo foi encontrado dentro de residênciao centro de de Apucarana - Foto: Reprodução">
+                            </div>
+                            <strong class="chapeu cor1 cor-transition"> NESTE SÁBADO </strong>
+                            <span class="chamada cor2 cor-transition"> Homem é achado morto com tiro na cabeça dentr... </span>
+                                                </a>
+                    </h2>
+                </article>
+            </div>
+        
+            <div class="large-2 columns moduloTopo horizontal-chamada">
+                <article data-story-id="465606" data-rank="4179">
+                    <h2>
+                        <a href="https://tnonline.uol.com.br/noticias/apucarana/45,465606,22,04,motociclista-morto-em-acidente-vai-ser-sepultado-as-11-horas-deste-domingo-em-apucarana" title="Motociclista morto em acidente vai ser sepultado às 11 horas deste domingo em Apucarana">
+                                                    <div class="a-img">
+                                <img src="https://m1.tnonline.com.br/690X400/2018/04/20/tn_0a83ac7faf_acimoto37.jpg" class="thumbnail float-left" alt="Moto ficou destruída após acidente no Contorno Sul de Apucarana,; condutor morreu no hospital - Foto: Sérgio Rodrigo">
+                            </div>
+                            <strong class="chapeu cor1 cor-transition"> MOTO X CARRO </strong>
+                            <span class="chamada cor2 cor-transition"> Motociclista morto em acidente vai ser sepult... </span>
+                                                </a>
+                    </h2>
+                </article>
+            </div>
+        
+            <div class="large-2 columns moduloTopo horizontal-chamada">
+                <article data-story-id="465613" data-rank="3939">
+                    <h2>
+                        <a href="https://tnonline.uol.com.br/noticias/cotidiano/67,465613,21,04,chuva-de-meteoros-liridas-tem-pico-entre-a-noite-deste-sabado-e-madrugada-de-domingo" title="Chuva de meteoros Líridas tem pico entre a noite deste sábado e madrugada de domingo">
+                                                    <div class="a-img">
+                                <img src="https://m1.tnonline.com.br/690X400/2018/04/21/tn_0a92784080_aaa.jpg" class="thumbnail float-left" alt="">
+                            </div>
+                            <strong class="chapeu cor1 cor-transition"> ASTRONOMIA </strong>
+                            <span class="chamada cor2 cor-transition"> Chuva de meteoros Líridas tem pico entre a no... </span>
+                                                </a>
+                    </h2>
+                </article>
+            </div>
+        
+            <div class="large-2 columns moduloTopo horizontal-chamada">
+                <article data-story-id="465617" data-rank="3573">
+                    <h2>
+                        <a href="https://tnonline.uol.com.br/noticias/cotidiano/67,465617,22,04,10-curiosidades-sobre-parana-clube-x-corinthians" title="10 curiosidades sobre Paraná Clube x Corinthians">
+                                                    <div class="a-img">
+                                <img src="https://m1.tnonline.com.br/690X400/2018/04/21/tn_8879bb5c50_dentinho7.jpg" class="thumbnail float-left" alt="Dentinho marcou um dos gols do Timão na última partida contra a equipe paranaense; Foto: © Daniel Augusto Jr/Ag. Corinthians">
+                            </div>
+                            <strong class="chapeu cor1 cor-transition"> FUTEBOL </strong>
+                            <span class="chamada cor2 cor-transition"> 10 curiosidades sobre Paraná Clube x Corinthi... </span>
+                                                </a>
+                    </h2>
+                </article>
+            </div>
+        
+            <div class="large-2 columns moduloTopo horizontal-chamada">
+                <article data-story-id="465622" data-rank="3514">
+                    <h2>
+                        <a href="https://tnonline.uol.com.br/noticias/apucarana/45,465622,22,04,festival-de-churrasco-oferece-variedade-no-country-club-apucarana" title="Festival de Churrasco oferece variedade no Country Club Apucarana">
+                                                    <div class="a-img">
+                                <img src="https://m1.tnonline.com.br/690X400/2018/04/22/tn_76cc7e4bcf_carne.jpg" class="thumbnail float-left" alt="Festival de Churrasco terá quatro estações de comidas com vários tipos de carnes. Foto: Arquivo pessoal/Igor Lino">
+                            </div>
+                            <strong class="chapeu cor1 cor-transition"> PRÓXIMO DOMINGO </strong>
+                            <span class="chamada cor2 cor-transition"> Festival de Churrasco oferece variedade no Co... </span>
+                                                </a>
+                    </h2>
+                </article>
+            </div>
+        
+            <div class="large-2 columns moduloTopo horizontal-chamada">
+                <article data-story-id="465589" data-rank="3116">
+                    <h2>
+                        <a href="https://tnonline.uol.com.br/noticias/apucarana/45,465589,21,04,prefeitura-de-apucarana-rescinde-contrato-com-fabricante-de-uniformes" title="Prefeitura de Apucarana rescinde contrato com fabricante de uniformes">
+                                                    <div class="a-img">
+                                <img src="https://m1.tnonline.com.br/690X400/2018/04/20/tn_36ec003408_coletivaprofeta-8.jpg" class="thumbnail float-left" alt="Prefeitura​ de Apucarana rescinde contrato com fabricante de uniformes - Foto: Divulgação">
+                            </div>
+                            <strong class="chapeu cor1 cor-transition"> DESCUMPRIMENTO DE PRAZOS </strong>
+                            <span class="chamada cor2 cor-transition"> Prefeitura de Apucarana rescinde contrato com... </span>
+                                                </a>
+                    </h2>
+                </article>
+            </div>
+            </div>
+    
+    <div class="banner-topo"></div>
+
+<div class="corpo-noticia">
+
+    <article class="noticia" itemscope itemtype="http://schema.org/NewsArticle" data-story-id="465651" data-rank="167">
+    <meta itemprop="keywords" content="@TAGS" />
+    <meta itemprop="inLanguage" content="pt-BR" />
+    <meta itemprop="description" content="Policiais militares foram acionados na manhã desta segunda-feira (23) para..." />
+    <meta itemscope itemprop="mainEntityOfPage" itemtype="https://schema.org/WebPage" itemid="https://google.com/article" />
+    <meta itemprop="url" content="https://tnonline.uol.com.br/noticias/apucarana/45,465651,23,04,pm-e-acionada-para-acabar-com-confusao-dentro-de-motel-em-apucarana" />
+    <meta itemprop="isFamilyFriendly" content="True" />
+    <header>
+        <div class="text-center margin-top-2">
+                        <span class="chapeu text-uppercase"> Apucarana </span>
+                    </div>
+
+        
+        <h1 itemprop="name headline" class="font-weight-bold">PM é acionada para acabar com confusão dentro de motel em Apucarana</h1>
+        <div class="publish my-3">
+            <small>
+                <p itemprop="author" class="pb-autor" itemscope itemtype="https://schema.org/Person">
+                    <strong itemprop="name"> Por LUIZ DEMÉTRIO, <a itemprop="url" href="https://tnonline.uol.com.br">TNOnline</a> </strong>
+                </p>
+
+                <p class="text-center">
+                    <time class="date" datetime="2018-04-23T09:41:00-03:00"> 23 de abril de 2018 </time> .
+                    <meta itemprop="datePublished" content="2018-04-23T09:41:00-03:00" />
+                    <time class="date" datetime="2018-04-23T09:41:00-03:00"> Atualizado há 14 minutos </time>
+                    <meta itemprop="dateModified" content="2018-04-23T09:41:00-03:00" />
+                </p>
+            </small>
+        </div>
+    </header>
+
+    <div class="centraliza728x90 ">
+        <div class="tm-ads banner-728x90">
+            <div class="tm-ads" id="banner-728x90-2-area">
+        <script> window.uolads && window.uolads.push({ id: "banner-728x90-2-area" }); </script>
+    </div>
+        </div>
+    </div>
+
+    <div class="row">
+                    <figure class="media large-horizontal" itemscope itemprop="image associatedMedia" itemid="https://m1.tnonline.com.br/665x600/2018/04/23/tn_abf30e8f5b_motel-690551-1920.jpg" itemtype="http://schema.org/ImageObject">
+    <div class="large-12 columns">
+        <div class="media-photo">
+            <meta itemprop="height" content="665">
+            <meta itemprop="width" content="600">
+            <img src="https://m1.tnonline.com.br/665x600/2018/04/23/tn_abf30e8f5b_motel-690551-1920.jpg" class="thumbnail"
+                itemprop="contentURL"
+                data-mediaviewer-src="https://m1.tnonline.com.br/665x600/2018/04/23/tn_abf30e8f5b_motel-690551-1920.jpg"
+                data-mediaviewer-caption="Foto: Pixabay/Imagem ilustrativa"
+                data-mediaviewer-credit=""
+                itemid="https://m1.tnonline.com.br/665x600/2018/04/23/tn_abf30e8f5b_motel-690551-1920.jpg"
+                alt="Foto: Pixabay/Imagem ilustrativa" itemprop="image">
+            <figcaption itemprop="caption description">
+                <span class="pb-caption">Foto: Pixabay/Imagem ilustrativa</span>
+            </figcaption>
+        </div>
+    </div>
+</figure>
+<div class="ads-300x600--right has-img">
+    <div class="tm-ads" id="banner-300x600-area">
+        <script> window.uolads && window.uolads.push({ id: "banner-300x600-area" }); </script>
+    </div>
+</div>
+            </div>
+
+    <div class="news-article-share full-bottom">
+        <a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https://tnonline.uol.com.br/noticias/apucarana/45,465651,23,04,pm-e-acionada-para-acabar-com-confusao-dentro-de-motel-em-apucarana" class="facebook-color"> <i class="fa fa-facebook-square" aria-hidden="true"></i> </a>
+        <a target="_blank" href="https://twitter.com/home?status=https://tnonline.uol.com.br/noticias/apucarana/45,465651,23,04,pm-e-acionada-para-acabar-com-confusao-dentro-de-motel-em-apucarana" class="twitter-color"> <i class="fa fa-twitter" aria-hidden="true"></i> </a>
+        <a href="#comentarios_465651" class="google-color"> <i class="fa fa-commenting" aria-hidden="true"></i> </a>
+        <a href="javascript:window.print()" title="Imprimir!" class="mail-color"> <i class="fa fa-print" aria-hidden="true"></i> </a>
+        <div class="clear"></div>
+    </div>
+
+    <div class="conteudo corpo-noticia">
+
+        
+        <div class="ads-300x250--left">
+            <div class="tm-ads" id="banner-300x250-area">
+        <script> window.uolads && window.uolads.push({ id: "banner-300x250-area" }); </script>
+    </div>
+            <p></p>
+            <div class="tm-ads" id="banner-300x250-20-area">
+        <script> window.uolads && window.uolads.push({ id: "banner-300x250-20-area" }); </script>
+    </div>
+        </div>
+
+        <section itemprop="articleBody" class="ArticleContent">
+
+            <p>Policiais militares foram acionados na manhã desta segunda-feira (23) para conter um homem que estaria muito exaltado no <a href="https://tnonline.uol.com.br/noticias/cotidiano/67,455663,25,01,advogado-de-60-anos-morre-apos-sofrer-mal-subito-em-quarto-de-motel.shtml">interior de uma suíte de um motel</a> à margem da BR-369 (Rodovia Mello Peixoto), no Parque Industrial Norte de Apucarana.</p><p>De acordo com a informação preliminar que chegou à PM, o homem teria afirmado que alguém furtou seu aparelho celular na <a href="https://tnonline.uol.com.br/noticias/apucarana/45,457219,05,02,ladroes-assaltam-motel-em-apucarana-e-deixam-vitimas-amarradas.shtml">suíte do motel</a> e em seguida começou a discutir com funcionários do estabelecimento na portaria.</p><p>Uma equipe da Polícia Militar (PM) ainda está no local tentando colocar fim ao impasse e ainda não repassou informações mais detalhadas sobre o impasse. Até o momento o telefone celular do cliente do motel ainda não foi localizado.</p>
+
+        </section>
+
+                <div class="tags-container">
+            <ul class="tag-list">
+                <li class="tag-item">Mais sobre:</li>
+                                <li class="tag-item"><a href="https://tnonline.uol.com.br/topicos/apucarana">Apucarana</a></li>
+                                <li class="tag-item"><a href="https://tnonline.uol.com.br/topicos/policia">polícia</a></li>
+                                <li class="tag-item"><a href="https://tnonline.uol.com.br/topicos/pm">PM</a></li>
+                                <li class="tag-item"><a href="https://tnonline.uol.com.br/topicos/motel">motel</a></li>
+                            </ul>
+        </div>
+        
+                    <div class="clearfix"><br></div>
+            <div class="large-12 columns cell margin-bottom-3"><iframe data-iframely-url="//www.tguia.com.br/widgets/mobile" width="100%" frameborder="0" height="300px" scrolling="no"></iframe></div>
+            <div class="clearfix"><br><br></div>
+        
+        <div class="bloco-native-rodape"></div>
+
+        <div class="modulo modulo-comentarios" id="comentarios_465651">
+            <div class="atencao">
+                <p>O portal TNOnline.com.br não se responsabiliza pelos comentários, opiniões, depoimentos, mensagens ou qualquer outro tipo de conteúdo. Seu comentário passará por um filtro de moderação. O portal TNOnline.com.br não se obriga a publicar caso não esteja de acordo com a política de privacidade do site. <span><a href="https://tnonline.uol.com.br/servicos/termo-de-uso">Leia aqui</a> o termo de uso e responsabilidade.</span></p>
+            </div>
+
+            <div class="comments">
+                <div id="disqus_thread"></div>
+                <script type="text/javascript">
+                    var disqus_config = function () {
+                        this.page.identifier = 'conteudo:conteudo#465651';
+                    };
+                    (function() {
+                        var d = document, s = d.createElement('script');
+                            s.src = '//tnonline.disqus.com/embed.js';
+                            s.setAttribute('data-timestamp', +new Date());
+                        (d.head || d.body).appendChild(s);
+                    })();
+                </script>
+                <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+            </div>
+        </div>
+    </div>
+
+</article>
+
+</div>
+
+<div class="container">
+    <div class="horizontal-header2" style="text-align: inherit;">
+        <a href="https://tnonline.uol.com.br/noticias/45" title="Mais Notícias" class="float-right margin-top-1 margin-left-3 btn-cstl"><strong class="cor1 cor-transition"> mais notícias </strong></a>
+        <h2 class="cor11"> Últimas de Apucarana </h2>
+    </div>
+
+        <div class="bloco-primario">
+        <div class="modulo horizontal-chamada3 min--h--360" data-story-id="10000000465650" data-rank="0">
+            <a href="https://tnonline.uol.com.br/noticias/apucarana/45,465650,23,04,operacao-arrastao-vistoria-tabacarias-e-conveniencias-em-apucarana">
+                                <img src="https://tnonline.uol.com.br/static/img/1x1.gif" data-src="https://m1.tnonline.com.br/690X400/2018/04/23/tn_18c3f6dfec_unnamed.jpg" class="thumbnail lazyload" alt="Operação aconteceu entre meia-noite e 01h30 do domingo. (Foto - reprodução/P`M)">
+                
+                <span class="chapeu cor3 cor-transition"> AÇÃO POLICIAL </span>
+                <h2><span class="titulo cor2 cor-transition"> Operação Arrastão vistoria tabacarias e conveniências em Apucarana </span></h2>
+
+                            </a>
+        </div>
+    </div>
+        <div class="bloco-primario">
+        <div class="modulo horizontal-chamada3 min--h--360" data-story-id="10000000465651" data-rank="0">
+            <a href="https://tnonline.uol.com.br/noticias/apucarana/45,465651,23,04,pm-e-acionada-para-acabar-com-confusao-dentro-de-motel-em-apucarana">
+                                <img src="https://tnonline.uol.com.br/static/img/1x1.gif" data-src="https://m1.tnonline.com.br/690X400/2018/04/23/tn_abf30e8f5b_motel-690551-1920.jpg" class="thumbnail lazyload" alt="Foto: Pixabay/Imagem ilustrativa">
+                
+                <span class="chapeu cor3 cor-transition"> NESTA MANHÃ </span>
+                <h2><span class="titulo cor2 cor-transition"> PM é acionada para acabar com confusão dentro de motel em Apucarana </span></h2>
+
+                            </a>
+        </div>
+    </div>
+        <div class="bloco-primario">
+        <div class="modulo horizontal-chamada3 min--h--360" data-story-id="10000000465649" data-rank="0">
+            <a href="https://tnonline.uol.com.br/noticias/apucarana/45,465649,23,04,regiao-de-apucarana-tem-28-pre-candidatos-a-deputado-nas-eleicoes-deste-ano">
+                                <img src="https://tnonline.uol.com.br/static/img/1x1.gif" data-src="https://m1.tnonline.com.br/690X400/2011/02/15/foto_20721.jpg" class="thumbnail lazyload" alt="Imagem ilustrativa">
+                
+                <span class="chapeu cor3 cor-transition"> ELEIÇÕES 2018 </span>
+                <h2><span class="titulo cor2 cor-transition"> Região de Apucarana tem 28 pré-candidatos a deputado nas eleições deste ano </span></h2>
+
+                            </a>
+        </div>
+    </div>
+        <div class="bloco-primario">
+        <div class="modulo horizontal-chamada3 min--h--360" data-story-id="10000000465646" data-rank="0">
+            <a href="https://tnonline.uol.com.br/noticias/apucarana/45,465646,23,04,filho-descumpre-medida-protetiva-e-agride-pai-a-tijolada">
+                                <img src="https://tnonline.uol.com.br/static/img/1x1.gif" data-src="https://m1.tnonline.com.br/690X400/2017/10/17/tn_1cd854ce4b_viatura-pm-9.jpeg" class="thumbnail lazyload" alt="Suspeito foi preso em flagrante pela Polícia Militar. (Foto - TNOnline)">
+                
+                <span class="chapeu cor3 cor-transition"> APUCARANA </span>
+                <h2><span class="titulo cor2 cor-transition"> Filho descumpre medida protetiva e agride pai à tijolada </span></h2>
+
+                            </a>
+        </div>
+    </div>
+        <div class="bloco-primario">
+        <div class="modulo horizontal-chamada3 min--h--360" data-story-id="10000000465644" data-rank="0">
+            <a href="https://tnonline.uol.com.br/noticias/apucarana/45,465644,23,04,agencia-do-trabalhador-de-apucarana-oferta-56-vagas-de-empregos">
+                                <img src="https://tnonline.uol.com.br/static/img/1x1.gif" data-src="https://m1.tnonline.com.br/690X400/2017/10/09/tn_d95a4402be_agenciadeempregos.jpg" class="thumbnail lazyload" alt="Agência do Trabalhador de Apucarana oferta 56 vagas de emprego  -  imagem ilustrativa -  (Arquivo)">
+                
+                <span class="chapeu cor3 cor-transition"> MERCADO DE TRABALHO </span>
+                <h2><span class="titulo cor2 cor-transition"> Agência do Trabalhador de Apucarana oferta 56 vagas de empregos </span></h2>
+
+                            </a>
+        </div>
+    </div>
+        <div class="bloco-primario">
+        <div class="modulo horizontal-chamada3 min--h--360" data-story-id="10000000465641" data-rank="0">
+            <a href="https://tnonline.uol.com.br/noticias/apucarana/45,465641,23,04,apucarana-tem-como-meta-vacinar-quase-39-mil-na-campanha-contra-gripe-que-comeca-hoje">
+                                <img src="https://tnonline.uol.com.br/static/img/1x1.gif" data-src="https://m1.tnonline.com.br/690X400/2018/01/18/tn_e95fa6d482_vacina.jpg" class="thumbnail lazyload" alt="Vacinação contra gripe começa nesta segunda-feira (23) - Foto - Divulgação">
+                
+                <span class="chapeu cor3 cor-transition"> PROFILAXIA </span>
+                <h2><span class="titulo cor2 cor-transition"> Apucarana tem como meta vacinar quase 39 mil na campanha contra gripe que começa hoje </span></h2>
+
+                            </a>
+        </div>
+    </div>
+        <div class="bloco-primario">
+        <div class="modulo horizontal-chamada3 min--h--360" data-story-id="10000000465640" data-rank="0">
+            <a href="https://tnonline.uol.com.br/noticias/apucarana/45,465640,23,04,sol-e-pouca-nebulosidade-marcam-o-inicio-de-semana-em-apucarana-e-regiao">
+                                <img src="https://tnonline.uol.com.br/static/img/1x1.gif" data-src="https://m1.tnonline.com.br/690X400/2018/04/23/tn_e07e01e8f8_sol99.jpg" class="thumbnail lazyload" alt="Foto - Pixabay - Imagem ilustrativa">
+                
+                <span class="chapeu cor3 cor-transition"> PREVISÃO DO TEMPO </span>
+                <h2><span class="titulo cor2 cor-transition"> Sol e pouca nebulosidade marcam o início de semana em Apucarana e região </span></h2>
+
+                            </a>
+        </div>
+    </div>
+        <div class="bloco-primario">
+        <div class="modulo horizontal-chamada3 min--h--360" data-story-id="10000000465639" data-rank="0">
+            <a href="https://tnonline.uol.com.br/noticias/apucarana/45,465639,22,04,queimada-ao-lado-de-residencias-exige-trabalho-rapido-dos-bombeiros">
+                                <img src="https://tnonline.uol.com.br/static/img/1x1.gif" data-src="https://m1.tnonline.com.br/690X400/2018/04/22/tn_9fe5da88a4_queimadaluizdemetrio.jpg" class="thumbnail lazyload" alt="Queimada perto de residências exige trabalho rápido dos Bombeiros  em Apucarana -  IMAGEM: LUIZ DEMÉTRIO - TNONLINE">
+                
+                <span class="chapeu cor3 cor-transition"> APUCARANA </span>
+                <h2><span class="titulo cor2 cor-transition"> Queimada ao lado de residências exige trabalho rápido dos Bombeiros  </span></h2>
+
+                            </a>
+        </div>
+    </div>
+        <div class="bloco-primario">
+        <div class="modulo horizontal-chamada3 min--h--360" data-story-id="10000000465534" data-rank="0">
+            <a href="https://tnonline.uol.com.br/noticias/apucarana/45,465534,22,04,apos-titulo-colegio-platao-treina-para-a-fase-final-dos-jogos-escolares-do-parana">
+                                <img src="https://tnonline.uol.com.br/static/img/1x1.gif" data-src="https://m1.tnonline.com.br/690X400/2018/04/19/tn_c9791b28dc_plataojpg.jpg" class="thumbnail lazyload" alt="O time masculino &quot;B&quot; de handebol do Colégio Platão já está de olho na fase final dos JEP´s - Foto: Divulgação">
+                
+                <span class="chapeu cor3 cor-transition"> 65ª edição </span>
+                <h2><span class="titulo cor2 cor-transition"> Após título, Colégio Platão treina para a fase final dos Jogos Escolares do Paraná </span></h2>
+
+                            </a>
+        </div>
+    </div>
+    
+</div>
+
+
+    <div id="banner-1x1-area"> <script> window.uolads && window.uolads.push({ id: "banner-1x1-area" }); </script> </div>
+
+    <footer id="footer">
+        <div class="row">
+            <div class="large-9 columns">
+                <div class="">
+                    <div class="large-2 columns borderw-right">
+                        <dl>
+                            <dt> <a name="rodape" href="https://tnonline.uol.com.br" class="cor7 cor-transition"> TNOnline </a> </dt>
+                            <dd> <a name="rodape" href="https://tnonline.uol.com.br/servicos/fale-conosco" class="cor9 cor-transition"> Fale conosco </a> </dd>
+                            <dd> <a name="rodape" href="https://tnonline.uol.com.br/servicos/anuncie" class="cor9 cor-transition"> Anuncie </a> </dd>
+                            <dd> <a name="rodape" href="https://tnonline.uol.com.br/servicos/expediente" class="cor9 cor-transition"> Expediente </a> </dd>
+                            <dd> <a name="rodape" href="https://tnonline.uol.com.br/servicos/copyright" class="cor9 cor-transition"> Copyright </a> </dd>
+                            <dd> <a name="rodape" href="https://tnonline.uol.com.br/servicos/termo-de-uso" class="cor9 cor-transition"> Termos e Condições </a> </dd>
+                        </dl>
+                    </div>
+
+                    <div class="large-4 columns borderw-right">
+                        <dl>
+                            <dt>  Canais  </dt>
+                            <dl class="colunas">
+                                <dd> <a name="rodape" href="https://tnonline.uol.com.br/noticias/apucarana" class="cor9 cor-transition"> Apucarana </a> </dd>
+                                <dd> <a name="rodape" href="https://tnonline.uol.com.br/noticias/arapongas" class="cor9 cor-transition"> Arapongas </a> </dd>
+                                <dd> <a name="rodape" href="https://tnonline.uol.com.br/noticias/regiao" class="cor9 cor-transition"> Região </a> </dd>
+                                <dd> <a name="rodape" href="https://tnonline.uol.com.br/noticias/cotidiano" class="cor9 cor-transition"> Cotidiano </a> </dd>
+                            </dl>
+                            <dl class="colunas">
+                                <dd> <a name="rodape" href="https://tnonline.uol.com.br/noticias/geral" class="cor9 cor-transition"> Geral </a> </dd>
+                                <dd> <a name="rodape" href="https://tnonline.uol.com.br/noticias/economia" class="cor9 cor-transition"> Economia </a> </dd>
+                                <dd> <a name="rodape" href="https://tnonline.uol.com.br/noticias/politica" class="cor9 cor-transition"> Política </a> </dd>
+                                <dd> <a name="rodape" href="https://tnonline.uol.com.br/noticias/esportes" class="cor9 cor-transition"> Esportes </a> </dd>
+                            </dl>
+                        </dl>
+                    </div>
+                    <div class="large-6 columns">
+                        <dl>
+                            <dt> Mapa do Site </dt>
+                            <dl class="colunas">
+                                <dd> <a name="rodape" href="https://tnonline.uol.com.br/servicos/sugestao-de-pauta" class="cor9 cor-transition"> Sugestão de Pauta </a> </dd>
+                                <dd> <a name="rodape" href="https://tnonline.uol.com.br/servicos/obituario" class="cor9 cor-transition"> Obituários </a> </dd>
+                                <dd> <a name="rodape" href="https://tnonline.uol.com.br/empregos" class="cor9 cor-transition"> Empregos </a> </dd>
+                            </dl>
+                            <dl class="colunas">
+                                <dd> <a name="rodape" href="https://tnonline.uol.com.br/noticias/entretenimento" class="cor9 cor-transition"> Entretenimento </a> </dd>
+                                <dd> <a name="rodape" href="https://tnonline.uol.com.br/classificados/veiculos" class="cor9 cor-transition"> Veiculos </a> </dd>
+                                <dd> <a name="rodape" href="https://tnonline.uol.com.br/classificados/diversos" class="cor9 cor-transition"> Diversos </a> </dd>
+                            </dl>
+                            <dl class="colunas">
+                                <dd> <a name="rodape" href="https://tnonline.uol.com.br/classificados/diversos" class="cor9 cor-transition"> Classificados </a> </dd>
+                                <dd> <a name="rodape" href="https://m.tnonline.uol.com.br" class="cor9 cor-transition"> Mobile </a> </dd>
+                                <dd> <a name="rodape" href="https://www.grafinorte.com.br" class="cor9 cor-transition"> Grafinorte </a> </dd>
+                                <dd> <a name="rodape" href="https://www.tribunadonorte.com" class="cor9 cor-transition"> Tribuna do Norte </a> </dd>
+                            </dl>
+                        </dl>
+                    </div>
+                </div>
+            </div>
+            <div class="large-3 columns border_left">
+                <div itemscope itemtype="http://schema.org/LocalBusiness">
+                    <div class="enderecoF0" itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                        <span class="address_title" itemprop="name">TNOnline</span>
+                        <span itemprop="streetAddress">Av. Zilda Seixas do Amaral, 4270 - Sala D</span>
+                        <br/> <span itemprop="addressLocality">Apucarana, PR - Brasil</span>
+                        <br/> <span class="phone" itemprop="telephone"><a href="tel:+554334207777">(43) 3420-7777</a></span>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <section class="databar">
+            <div class="container">
+                <div class="large-2 columns">
+                    <a href="https://tnonline.uol.com.br">
+                        <img src="https://tnonline.uol.com.br/static/img/logo_new.png" alt="TNOnline.com.br Logo">
+                    </a>
+                </div>
+
+                <div class="large-6 columns">
+                    <div class="page-footer">
+                        <div class="really-serious-copyright">© 2000 -
+                            <span href="https://tnonline.uol.com.br/servicos/copyright">
+                                <span itemprop="copyrightYear"> 2018</span>
+                                <span itemprop="copyrightHolder provider sourceOrganization" itemscope="" itemtype="http://schema.org/Organization" itemid="https://tnonline.uol.com.br">
+                                    <span itemprop="name"> TNOnline </span>
+                                </span>
+                            </span> Todos os direitos reservados
+                        </div>
+                    </div>
+                </div>
+
+                <div class="large-4 columns">
+                <!--
+                    <form class="footer-newsletter" action="https://tnonline.uol.com.br/servicos/newsletter" method="post" id="newsletter" >
+                        <input placeholder="Receba nossa Newsletter" type="email" name="newsletter_email" id="newsletter_email" value="" >
+                        <button type="submit">Cadastrar!</button>
+                    </form>
+                -->
+                </div>
+            </div>
+        </section>
+    </footer>
+
+    <script>$(document).foundation();</script>
+    <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+    <script src="//cdn.jsdelivr.net/npm/sharer.js@latest/sharer.min.js"></script>
+    <script>
+var dynadTvPlayer = '<div class="player_dynad_tv"></div>'
+$(document).ready( function() {
+    $(document).find('.ArticleContent>p:eq(3)').after(dynadTvPlayer);
+});
+</script>
+
+    <div class="widget-newsletter">
+        <div class="close" id="widget-newsletter-close" title="Clique para fechar">&times;</div>
+
+        <h4>Newsletter</h4>
+        <p>Conteúdo direto para você:</p>
+        <form id="widget-newsletter-form">
+            <input type="text" name="email" class="form-control" placeholder="Digite seu email" id="widget-newsletter-email">
+            <a class="button success" href="javascript:void(0);" id="widget-newsletter-send">Quero Receber</a>
+        </form>
+    </div>
+
+</body>
+</html>
