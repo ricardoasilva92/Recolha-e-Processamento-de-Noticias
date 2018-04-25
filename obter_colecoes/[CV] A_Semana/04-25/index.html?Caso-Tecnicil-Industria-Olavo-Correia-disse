@@ -1,0 +1,3052 @@
+
+<!DOCTYPE html PUBLIC '-//W3C//DTD XHTML 1.0 Strict//EN' 'http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd'>
+<html dir="ltr" lang="pt">
+<head>
+<title>Caso Técnicil Indústria: Olavo Correia disse que processo está arquivado e quem quer intentar em outras instâncias pode fazê-lo - Primeiro diário caboverdiano em linha - A SEMANA</title>
+
+
+
+
+
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+
+<meta name="generator" content="SPIP 3.1.4 [19425]" />
+
+
+<link rel="alternate" type="application/rss+xml" title="Subscrever todo o s&#237;tio" href="spip.php?page=backend-breves" />
+
+
+
+<link rel='stylesheet' href='local/cache-css/d86c9af6c2bbafa7adeef77c71dddfa5.css?1524491316' type='text/css' />
+<style type="text/css">
+	.bsu_almofada,.subbsu_almofada{overflow:hidden; min-height: 36px;backgroundcolor:#222;}
+	.subbsu_almofada {background-color:#fafafa;}
+</style>
+
+
+<script type='text/javascript' src='local/cache-js/54d6a605e02aa04c78c22743e7154dc2.js?1524491316'></script>
+
+
+
+
+
+
+
+
+<script type="text/javascript">/* <![CDATA[ */
+var box_settings = {tt_img:true,sel_g:"#documents_portfolio a[type='image/jpeg'],#documents_portfolio a[type='image/png'],#documents_portfolio a[type='image/gif']",sel_c:".mediabox",trans:"elastic",speed:"200",ssSpeed:"2500",maxW:"90%",maxH:"90%",minW:"400px",minH:"",opa:"0.9",str_ssStart:"Slideshow",str_ssStop:"Parar",str_cur:"{current}/{total}",str_prev:"Anterior",str_next:"Seguinte",str_close:"Fechar",splash_url:""};
+var box_settings_splash_width = "600px";
+var box_settings_splash_height = "90%";
+var box_settings_iframe = true;
+/* ]]> */</script>
+<!-- insert_head_css -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- insert_head -->
+	
+	
+
+
+<!-- google search -->
+    <script src="https://www.google.com/jsapi"></script>
+    <script type="text/javascript">
+		function getParameterByName(name) {
+			name = name.replace(/[\[]/, "\\[").replace(/[\]]/, "\\]");
+			var regex = new RegExp("[\?&]" + name + "=([^&#]*)"),
+				results = regex.exec(location.search);
+			return results == null ? "" : decodeURIComponent(results[1].replace(/\+/g, " "));
+		}
+        google.load('search', '1');
+        google.setOnLoadCallback(function(){
+          var searchControl = new google.search.CustomSearchControl();
+		  searchControl.draw('searchcontrol');
+ 		  searchControl.execute(getParameterByName('recherche'));
+       }, true);
+    </script>
+<!-- CS vide -->
+
+
+<!-- Debut CS -->
+<script type="text/javascript"><!--
+var cs_prive=window.location.pathname.match(/\/ecrire\/$/)!=null;
+jQuery.fn.cs_todo=function(){return this.not('.cs_done').addClass('cs_done');};
+if(window.jQuery) {
+var cs_sel_jQuery='';
+var cs_CookiePlugin="prive/javascript/jquery.cookie.js";
+}
+// --></script>
+
+<!-- Fin CS -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<script type="text/javascript">	
+		window.addEvent("domready", function() {
+
+			// <![CDATA[
+					
+				var fo = new SWFObject("mes_squelettes/swf/player_mp3_asemana.swf", "FlashObject", "298", "250", "9,0,0", "#00000");
+
+				fo.addParam("quality", "high");
+
+				fo.addParam("allowScriptAccess", "sameDomain");
+				
+				fo.addParam("wmode", "transparent");
+
+				fo.addParam("flashvars", "domaine=http://www.asemana.publ.cv/");
+
+				if(document.getElementById('audio1')){
+					fo.write("audio1");
+				}
+
+				// ]]>
+				
+
+				if ($('all_breve')) {
+
+				var reperesList = new Moostick(
+
+					$('all_breve'),
+					false,
+					5000,
+					{duration: 500},
+					true,
+					false
+
+				);
+
+	            reperesList.startTick();
+
+			}
+
+
+		});
+
+	</script>
+<!--script type="text/javascript" src="mes_squelettes/js/thickbox.js"></script>
+
+<link rel="stylesheet" href="mes_squelettes/css/thickbox.css" type="text/css" media="screen" /-->
+
+<script language="javascript">
+
+  var top=(screen.height-125)/2;
+
+	var left=(screen.width-200)/2;
+
+	function popup(id,lang){
+
+	window.open("spip.php?page=envoiami&recalcul=oui&id_article="+id+"&lang="+lang,"_blank", "top="+top+",left="+left+",scrollbars=no,width=200,height=125");
+	}
+
+	function verifierForm()
+	{
+		if(document.formforum.pseudoReagir.value== "")
+		{
+			return false;
+		}
+		if(document.formforum.commentaireReagir.value== "")
+		{
+			return false;
+		}
+		if(document.formforum.titreReagir.value== "")
+		{
+			return false;
+		}
+		
+		return true;
+		
+	}
+
+</script>
+
+<script type="text/javascript">
+
+			var commmenta = {};
+			var envoyerAm = {};
+
+			var ecrireAuteur = {};
+
+			var overlay = {};
+
+			window.addEvent('load', function(){
+			
+				commmenta = new MultiBox('mbComment', {
+
+									initialWidth : 250,
+									initialHeight : 250,
+									useOverlay: true,
+									showNumbers : false,
+									showControls : false,
+									movieWidth: 480,
+									movieHeight: 305,
+									path : 'mes_squelettes/swf/',
+									slideshow : false,								
+									descClassName: false,
+									showNumbers: false
+				});
+				
+				envoyerAm = new MultiBox('mbEnvoyerAm', {
+
+									initialWidth : 250,
+									initialHeight : 250,
+									useOverlay: true,
+									showNumbers : false,
+									showControls : false,
+									movieWidth: 500,
+									movieHeight: 305,
+									path : 'mes_squelettes/swf/',
+									slideshow : false,								
+									descClassName: false,
+									showNumbers: false
+				});
+
+				ecrireAuteur = new MultiBox('mbEcrireAuteur', {
+
+									initialWidth : 250,
+									initialHeight : 250,
+									useOverlay: true,
+									showNumbers : false,
+									showControls : false,
+									movieWidth: 480,
+									movieHeight: 305,
+									path : 'mes_squelettes/swf/',
+									slideshow : false,								
+									descClassName: false,
+									showNumbers: false
+				});
+				
+				galarie = new MultiBox('mbGala', {
+
+					initialWidth : 250,
+					initialHeight : 250,
+					useOverlay: true,				
+					path : 'mes_squelettes/swf/',
+					slideshow : false,								
+					descClassName: false,
+					showNumbers: false
+				});
+
+
+
+			
+			});
+			
+			/* Load Event fires when the whole page is loaded, included all images */
+			window.addEvent('load', function() {
+				
+				$('menuArticle').style.visibility = 'visible';
+			});
+
+		</script>
+		
+			
+
+		
+		
+</head>
+
+
+
+	
+
+
+
+	
+		
+
+					
+		
+			
+
+				
+			
+
+				
+			
+
+				
+			
+
+				
+			
+
+				
+			
+
+				
+			
+
+				
+			
+
+				
+			
+
+				
+			
+
+				
+			
+
+				
+			
+
+				
+			
+
+				
+			
+
+				
+			
+
+				
+			
+
+				
+			
+
+				
+			
+
+				
+			
+
+				
+			
+
+				
+			
+		
+		
+
+					
+		
+			
+
+				
+			
+
+				
+			
+
+				
+			
+
+				
+			
+
+				
+			
+
+				
+			
+
+				
+			
+		
+		
+
+					
+		
+			
+
+				
+			
+
+				
+			
+
+				
+			
+
+				
+			
+
+				
+			
+		
+		
+
+					
+		
+			
+
+				
+			
+
+				
+			
+
+				
+			
+
+				
+			
+
+				
+			
+
+				
+			
+
+				
+			
+
+				
+			
+
+				
+			
+
+				
+			
+
+				
+			
+
+				
+			
+		
+		
+
+					
+		
+			
+
+				
+			
+
+				
+			
+
+				
+			
+
+				
+			
+
+				
+			
+		
+		
+
+
+
+
+<body onLoad="javascript:montre('menu1','smenu1','lienMenu1');">
+
+<script type='text/javascript'><!--//<![CDATA[
+   var m3_u = (location.protocol=='https:'?'https://pub.sapo.pt/ajs.php':'http://pub.sapo.pt/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?zoneid=5175");
+   document.write ('&cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&exclude=" + document.MAX_used);
+   document.write (document.charset ? '&charset='+document.charset : (document.characterSet ? '&charset='+document.characterSet : ''));
+   document.write ("&loc=" + escape(window.location));
+   if (document.referrer) document.write ("&referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if (document.mmm_fo) document.write ("&;mmm_fo=1");
+   document.write ("'><\/scr"+"ipt>");
+//]]>--></script><noscript><a href='http://pub.sapo.pt/ck.php?n=a090a981&cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://pub.sapo.pt/avw.php?zoneid=5175&cb=INSERT_RANDOM_NUMBER_HERE&n=a090a981' border='0' alt='' /></a></noscript>
+<!--DEBUT WREPORT A semana CV -->
+<script language="javascript">
+var WRP_ID= 344524;
+var WRP_SECTION='AccuAil';
+var WRP_SUBSECTION='Accueil general';
+var WRP_SECTION_GRP='Accueil groupe';
+var WRP_SUBSECTION_GRP= WRP_ID;
+var WRP_CONTENT='Accueil contenu';
+var WRP_CHANNEL;
+
+/* Profondeur Frame */
+var WRP_ACC ;
+
+wreport_ok=0;
+</script>
+<script language="javascript" src="script/wreport.js"></SCRIPT>
+<SCRIPT>
+if(wreport_ok==1){ var w_counter = new wreport_counter(WRP_SECTION, WRP_SUBSECTION, WRP_ID, WRP_ACC, WRP_CHANNEL, WRP_SECTION_GRP, WRP_SUBSECTION_GRP);
+w_counter.add_content(WRP_CONTENT);
+w_counter.count();}
+</script>
+<!-- FIN WREPORT COPYRIGHT WEBORAMA-->
+
+			<div id="page">
+		
+			
+			<!--<div id="bsu_root">
+<div class="bsu_almofada"></div>
+</div>-->
+<div id="entete">
+			
+	<div id="menuEntete">
+
+			<!--<script language="javascript" src="https://bars.sapo.pt/bsu_v1.0/barra.js?parceiro=true&width=960px"></script>-->
+				
+	<div id="bandeauEntete">
+
+		<div id="titreEntete">
+						
+			<h1><a href="http://www.asemana.publ.cv/spip.php?ak=1&lang=pt" title="Asemana">ASemana</a></h1>
+
+			<div id="date">
+			
+				<div class="drapeau">
+			
+			<a href="spip.php?lang=en&ak=1" title="Asemana in English" id="lang_anglais">English</a>			
+				
+			</div>
+			
+			<span class="jour">Quarta-feira</span><span class="jourDate">25</span> <span class="moisDate">Abril</span> 2018</span></div>
+			
+			
+		
+		</div>
+
+		<div id="pubEntete">
+			
+			<div class="pubHaut ">
+				
+				<!-- <h6><span class="publicite"><a href="#" title="publicidade">publicidade</a></span></h6> -->
+				<!-- <h6><span class="publicite">publicidade</span></h6>
+				 
+				 <div align="right"> -->
+
+					 
+				<!-- </div> -->
+
+			</div>
+			
+		</div>
+	
+	</div>
+	
+	<div id="navigation">
+			
+	<div id="menuNavigation">
+		
+		<div class="accueil" >
+
+			<div  onMouseOver="javascript:montre('menu6','smenu6','lienMenu6');" onMouseOut="javascript:montre('menu','smenu','lienMenu');">
+
+				<h4><a href="http://www.asemana.publ.cv/spip.php?ak=1&lang=pt" title=""  class="lienAccueil"> ACOLHIMENTO</a></h4>
+	
+			</div>
+		
+		</div>
+				
+		
+
+			
+			
+				<div id="menu1">
+
+					<div onMouseOver="javascript:montre('menu1','smenu1','lienMenu1');"  onMouseOut="javascript:montre('menu','smenu','lienMenu');">
+
+						
+						
+							
+						
+								<h4><a href="./?-Caso-Monte-Tchota-&ak=1" title="Asemana"  id="lienMenu1">Asemana</a></h4>
+							
+							
+							
+						
+						
+					</div>
+				
+				</div>
+			
+				<ul id="smenu1" onMouseOver="javascript:montre('menu1','smenu1','lienMenu1');" onMouseOut="javascript:montre('menu','smenu','lienMenu');" >
+												
+				
+					
+
+						
+							
+							<li class="liNavigation"  ><a href="./?-Caso-Monte-Tchota-&ak=1" >Caso Monte Tchota</a></li>
+
+						
+
+					
+
+						
+							
+							<li class="liNavigation"  ><a href="./?-Presidenciais-2016-&ak=1" >Presidenciais 2016</a></li>
+
+						
+
+					
+
+						
+							
+							<li class="liNavigation"  ><a href="./?-MUNDO-INSOLITO-&ak=1" >MUNDO INSÓLITO</a></li>
+
+						
+
+					
+
+						
+							
+							<li class="liNavigation"  ><a href="./?-CORREIO-DAS-ILHAS-278-&ak=1" >CORREIO DAS ILHAS</a></li>
+
+						
+
+					
+
+						
+							
+							<li class="liActif"  ><a href="./?-ACTUALIDADE-&ak=1" >ACTUALIDADE</a></li>
+
+						
+
+					
+
+						
+							
+							<li class="liNavigation"  ><a href="./?-ECONOMIA-&ak=1" >ECONOMIA</a></li>
+
+						
+
+					
+
+						
+							
+							<li class="liNavigation"  ><a href="./?-DESPORTO-&ak=1" >DESPORTO</a></li>
+
+						
+
+					
+
+						
+							
+							<li class="liNavigation"  ><a href="./?-SERA-NOTICIA-&ak=1" >SERÁ NOTÍCIA</a></li>
+
+						
+
+					
+
+						
+							
+							<li class="liNavigation"  ><a href="./?-POLITICA-&ak=1" >POLÍTICA</a></li>
+
+						
+
+					
+
+						
+							
+							<li class="liNavigation"  ><a href="./?-INTERNACIONAL-&ak=1" >INTERNACIONAL</a></li>
+
+						
+
+					
+
+						
+							
+							<li class="liNavigation"  ><a href="./?-SOCIAL-&ak=1" >SOCIAL</a></li>
+
+						
+
+					
+
+						
+							
+							<li class="liNavigation"  ><a href="./?-BREVES-NOTICIAS-&ak=1" >BREVES NOTÍCIAS</a></li>
+
+						
+
+					
+
+						
+							
+							<li class="liNavigation"  ><a href="./?-OPINIAO-&ak=1" >OPINIÃO</a></li>
+
+						
+
+					
+
+						
+							
+							<li class="liNavigation"  ><a href="./?-REGISTOS-&ak=1" >REGISTOS</a></li>
+
+						
+
+					
+
+						
+							
+							<li class="liNavigation"  ><a href="./?-Publicidade-&ak=1" >Publicidade</a></li>
+
+						
+
+					
+
+						
+							
+							<li class="liNavigation"  ><a href="./?-Autarquicas-2016-&ak=1" >Autárquicas 2016</a></li>
+
+						
+
+					
+
+						
+							
+							<li class="liNavigation"  ><a href="./?-25o-aniversario-do-A-Semana-&ak=1" >25º aniversário do A Semana</a></li>
+
+						
+
+					
+						
+												
+				</ul>
+				
+			
+			
+				<div id="menu2">
+
+					<div onMouseOver="javascript:montre('menu2','smenu2','lienMenu2');"  onMouseOut="javascript:montre('menu','smenu','lienMenu');">
+
+						
+						
+							<h4><a href="./?-Cabo-Verde-&ak=1" title="Cabo Verde"  id="lienMenu0">Cabo Verde</a></h4>
+						
+						
+						
+					</div>
+				
+				</div>
+			
+				<ul id="smenu2" onMouseOver="javascript:montre('menu2','smenu2','lienMenu2');" onMouseOut="javascript:montre('menu','smenu','lienMenu');" >
+												
+				
+					
+
+						
+							
+							<li class="liNavigation"  ><a href="./?-LEGISLATIVAS-2016-&ak=1" >LEGISLATIVAS 2016</a></li>
+
+						
+
+					
+
+						
+							
+							<li class="liNavigation"  ><a href="./?-HISTORIA-&ak=1" >HISTÓRIA</a></li>
+
+						
+
+					
+
+						
+							
+							<li class="liNavigation"  ><a href="./?-DIRIGENTES-&ak=1" >DIRIGENTES</a></li>
+
+						
+
+					
+
+						
+							
+							<li class="liNavigation"  ><a href="./?-ILHAS-&ak=1" >ILHAS</a></li>
+
+						
+
+					
+
+						
+							
+							<li class="liNavigation"  ><a href="./?-SITUACAO-GEOGRAFICA-&ak=1" >SITUAÇÃO GEOGRÁFICA</a></li>
+
+						
+
+					
+
+						
+							
+							<li class="liNavigation"  ><a href="./?-AMBIENTE-&ak=1" >AMBIENTE</a></li>
+
+						
+
+					
+
+						
+							
+							<li class="liNavigation"  ><a href="./?-INDICADORES-DO-PAIS-&ak=1" >INDICADORES DO PAÍS</a></li>
+
+						
+
+					
+						
+												
+				</ul>
+				
+			
+			
+				<div id="menu3">
+
+					<div onMouseOver="javascript:montre('menu3','smenu3','lienMenu3');"  onMouseOut="javascript:montre('menu','smenu','lienMenu');">
+
+						
+						
+							<h4><a href="./?-100-Pratico-&ak=1" title="100% Prático"  id="lienMenu0">100% Prático</a></h4>
+						
+						
+						
+					</div>
+				
+				</div>
+			
+				<ul id="smenu3" onMouseOver="javascript:montre('menu3','smenu3','lienMenu3');" onMouseOut="javascript:montre('menu','smenu','lienMenu');" >
+												
+				
+					
+
+						
+
+							
+							
+								
+								
+									
+								
+								<li class="liNavigation"  ><a href="./?Temperatura-do-dia-16-02-2018&ak=1&artunique=1" >TEMPO</a></li>
+								
+							
+
+					
+
+						
+							
+							<li class="liNavigation"  ><a href="./?-CULINARIA-&ak=1" >CULINÁRIA</a></li>
+
+						
+
+					
+
+						
+							
+							<li class="liNavigation"  ><a href="./?-INFORMACOES-UTEIS-&ak=1" >INFORMAÇÕES ÚTEIS</a></li>
+
+						
+
+					
+
+						
+
+							
+							
+								
+								
+									
+								
+								<li class="liNavigation"  ><a href="./?Taxas-e-Cambios-do-Banco-de-Cabo-Verde-de-24-de-Abril-de-2018&ak=1&artunique=1" >Taxas e Câmbios</a></li>
+								
+							
+
+					
+
+						
+							
+							<li class="liNavigation"  ><a href="./?-ANUNCIOS-&ak=1" >ANÚNCIOS</a></li>
+
+						
+
+					
+						
+												
+				</ul>
+				
+			
+			
+				<div id="menu4">
+
+					<div onMouseOver="javascript:montre('menu4','smenu4','lienMenu4');"  onMouseOut="javascript:montre('menu','smenu','lienMenu');">
+
+						
+						
+							<h4><a href="./?-Cultura-&ak=1" title="Cultura"  id="lienMenu0">Cultura</a></h4>
+						
+						
+						
+					</div>
+				
+				</div>
+			
+				<ul id="smenu4" onMouseOver="javascript:montre('menu4','smenu4','lienMenu4');" onMouseOut="javascript:montre('menu','smenu','lienMenu');" >
+												
+				
+					
+
+						
+							
+							<li class="liNavigation"  ><a href="./?-Nova-rubrica-44-&ak=1" >Chun Su &amp; Banda  e  Josimar Gonçalves animam, no dia 18, Quintal da Música</a></li>
+
+						
+
+					
+
+						
+							
+							<li class="liNavigation"  ><a href="./?-CARNAVAL-&ak=1" >CARNAVAL</a></li>
+
+						
+
+					
+
+						
+							
+							<li class="liNavigation"  ><a href="./?-AME-e-KJF-&ak=1" >AME e KJF</a></li>
+
+						
+
+					
+
+						
+							
+							<li class="liNavigation"  ><a href="./?-CVMA-&ak=1" >CVMA</a></li>
+
+						
+
+					
+
+						
+							
+							<li class="liNavigation"  ><a href="./?-Crioulo-&ak=1" >Crioulo</a></li>
+
+						
+
+					
+
+						
+							
+							<li class="liNavigation"  ><a href="./?-Nho-Sonjon-&ak=1" >Nho Sonjon</a></li>
+
+						
+
+					
+
+						
+							
+							<li class="liNavigation"  ><a href="./?-Agenda-Cultural-&ak=1" >Agenda Cultural</a></li>
+
+						
+
+					
+
+						
+							
+							<li class="liNavigation"  ><a href="./?-NOTICIAS-&ak=1" >NOTÍCIAS</a></li>
+
+						
+
+					
+
+						
+							
+							<li class="liNavigation"  ><a href="./?-CINEMA-&ak=1" >CINEMA</a></li>
+
+						
+
+					
+
+						
+							
+							<li class="liNavigation"  ><a href="./?-FOTO-DA-SEMANA-&ak=1" >FOTO DA SEMANA</a></li>
+
+						
+
+					
+
+						
+							
+							<li class="liNavigation"  ><a href="./?-NOS-TRADISON-&ak=1" >NÔS TRADISON</a></li>
+
+						
+
+					
+
+						
+							
+							<li class="liNavigation"  ><a href="./?-SUGESTOES-&ak=1" >SUGESTÕES</a></li>
+
+						
+
+					
+						
+												
+				</ul>
+				
+			
+			
+				<div id="menu5">
+
+					<div onMouseOver="javascript:montre('menu5','smenu5','lienMenu5');"  onMouseOut="javascript:montre('menu','smenu','lienMenu');">
+
+						
+						
+							<h4><a href="./?-Comunidade-&ak=1" title="Comunidade"  id="lienMenu0">Comunidade</a></h4>
+						
+						
+						
+					</div>
+				
+				</div>
+			
+				<ul id="smenu5" onMouseOver="javascript:montre('menu5','smenu5','lienMenu5');" onMouseOut="javascript:montre('menu','smenu','lienMenu');" >
+												
+				
+					
+
+						
+							
+							<li class="liNavigation"  ><a href="./?-Sem-titulo-&ak=1" >Sem t&iacute;tulo</a></li>
+
+						
+
+					
+
+						
+							
+							<li class="liNavigation"  ><a href="./?-NOS-KU-NOS-&ak=1" >NOS KU NOS</a></li>
+
+						
+
+					
+
+						
+							
+							<li class="liNavigation"  ><a href="./?-DIASPORA-&ak=1" >DIÁSPORA</a></li>
+
+						
+
+					
+
+						
+							
+							<li class="liNavigation"  ><a href="./?-ESCREVA-NOS-&ak=1" >ESCREVA-NOS</a></li>
+
+						
+
+					
+
+						
+							
+							<li class="liNavigation"  ><a href="./?-LUSOFONIA-&ak=1" >LUSOFONIA</a></li>
+
+						
+
+					
+						
+												
+				</ul>
+				
+			
+
+		
+					
+		<div id="menuForm">			
+			
+			<form id="form1" action="" method="get" >
+		
+                
+<input type="hidden" name="lang" value="pt" />
+<input type="hidden" name="ak" value="1" />
+		
+	<input type="text" name="recherche" id="recherche" value="Procurar" onfocus="this.value='';" onblur="javascript:if(this.value=='') this.value='Procurar'"/>
+
+	
+	<input type="image" src="mes_squelettes/img/bouttonRecherchePied.gif"  value="Envoyer" id="bouttonRechechePeid" />
+	
+</form>			
+		</div>
+					
+	</div>
+				
+</div>
+</div>
+
+<link rel="icon" type="image/png" href="mes_squelettes/img/favicon.png" />						
+			<div id="corps">
+			
+				<div id="colonneGauche" class="praticogauche">							
+								
+							
+
+									<h2 class="grandtitre crayon rubrique-titre-2 ">ACTUALIDADE</h2>
+									<h2 class="portofolio">A SEMANA : Primeiro di?rio caboverdiano em linha</h2>
+
+							
+
+				
+				
+											
+					<div id="article">
+								
+
+													<h2 class="crayon article-titre-130998 ">Caso Técnicil Indústria: Olavo Correia disse que  processo está arquivado e quem quer intentar em outras instâncias pode fazê-lo<span class="date"> 25 Abril 2018 </span></h2>
+							
+													
+							<h4 class="chapo crayon article-descriptif-130998 "><p>O vice-primeiro-ministro e ministro das Finanças, Olavo Correia, reagiu hoje.24,ao arquivamento do processo no caso Tecnicil Indústria no qual era visado como suspeito de favorecimento e disse estar tranquilo e sem qualquer problema de ética.</p></h4>
+						
+							<div class="bordureImgAlaUne crayon article-logo-130998 ">
+						
+								<img src="IMG/arton130998.jpg"  alt="Caso Técnicil Indústria: Olavo Correia disse que  processo está arquivado e quem quer intentar em outras instâncias pode fazê-lo"  />									
+						
+							</div>
+
+												
+													<div class="crayon article-texte-130998 ">
+							<p>O governante falava aos jornalistas no final da cerimónia de assinatura de protocolo com os bancos comerciais para o financiamento das empresas cabo-verdianas, quando foi instado a reagir ao facto.</p>
+<p>Segundo a Inforpress, Olavo Correia disse que desde início demonstrou em como era importante para ele essa intervenção do Ministério Público para esclarecer o alegado favorecimento da empresa Tecnicil Indústria com o aumento da taxa de direitos aduaneiros na importação de produtos lácteos e sumos naturais, aprovado no quadro do Orçamento de Estado de 2018.</p>
+<p>&#8220;Não tenho nenhum problema de ética. O processo foi arquivado, quem quiser intentar em outras instâncias pode fazê-lo. Estou tranquilamente ao serviço da República. Enquanto houver condições estou a trabalhar 100 por cento. Se não houver condições faço outras coisas&#8221;, salientou.</p>
+<p>Olavo Correia reiterou que a medida 2018 serviu de protecção para mais de várias empresas de diversos sectores</p>
+<p>&#8220;A produção de cerveja ficou beneficiada, a produção de tinta, as empresas de produção de alimentos como frangos, empresas de distribuição de combustíveis e de tabacos. O que nós estamos a fazer é tomar as medidas para que as empresas cabo-verdianas possam ter acesso às condições para poderem competir à escala global&#8221;, sublinhou a mesma fonte.</p>
+<p>De acordo com o governante, mesmo com toda a polémica gerada e com questões éticas aventadas, hoje ele faria a mesma coisa.</p>
+<p>&#8220;A Técnicil Indústria é uma empresa autónoma, até porque a Procuradoria-Geral da Republica acabou de informar que eu não sou acionista da Técnicil Indústria e eu estou tranquilo em relação a esta matéria&#8221;, disse, reiterando que o grupo GPS de que é acionista não tem nada a ver com a Tecnicil Indústria.</p>
+<p>O processo tinha sido aberto pelo Ministério Público no intuito de averiguar o alegado favorecimento do ministro das Finanças ao grupo Tecnicil, na decorrência do aumento da taxa de direitos aduaneiros na importação de produtos lácteos e sumos naturais, aprovado no quadro do Orçamento de Estado de 2018.</p>
+<p>Num comunicado, a PGR afirmou que &#8220;após recolha e análise de um conjunto de elementos e documentos com relevância para apreciação do seguimento a dar às denúncias, o Ministério Público determinou o arquivamento do referido processo, por ter considerado que da factualidade denunciada e analisada inexiste conduta criminalmente tipificada e punível nos termos do ordenamento jurídico cabo-verdiano&#8221;, refere a Inforpress.</p>
+							</div>
+						
+						
+						
+								<div id="audioArtic1"  >
+		
+								</div>
+						
+						
+												
+						<!-- encre  pour les commentaires -->
+						<A NAME="ancre_comm"> </A>
+						
+					</div>
+					
+					
+										
+						<div id="menuArticle" style="visibility:hidden" >
+						
+							<div><h4 class="reagir">
+							
+							<a   href="spip.php?page=reagir&id_article=130998&ak=1" class="mbComment" rel="width : 500px, height : 250" title="Comentar">Comentar</a>
+							
+							</h4></div>
+							
+							
+							
+								
+									
+										
+										<div><h4 class="nbCommentaire"><a href="#ancre_comm" onClick=" afficheId('lesCommentaires');" title="29"><span>29</span>Coment&#225;rio</a></h4></div>  
+										
+									
+									
+								
+							
+							<div><h4 class="imprimer"><a href="#" target="_blank"  onclick="print();" title="IMPRIMIR ESTE ARTIGO">Imprimir</a></h4></div>
+
+							<div>
+
+								<h4  class="envoyer">					
+										
+									<a href="spip.php?page=envoiami&id_article=130998&ak=1" class="mbEnvoyerAm" rel="width : 500px, height : 250" title="Enviar">Enviar</a>
+									<!--a href="spip.php?page=envoiami&ak=1&id_article=130998&keepThis=true&height=180&width=200&modal=true" title="Enviar" class="thickbox">Enviar</a-->  
+								</h4>
+							</div>
+
+							<div><h4 class="ecrireauteur">
+
+							<a   href="spip.php?page=ecrireauteur&id_article=130998&ak=1" class="mbEcrireAuteur" rel="width : 500px, height : 300" title="Escrever ao autor">Escrever ao autor</a>
+							
+												
+							</h4></div>
+
+							
+						
+						</div>
+						
+						<div id="lesCommentaires" style="display:none;">
+
+		<div class="titreArticleCommentaire"><p> Caso Técnicil Indústria: Olavo Correia disse que  processo está arquivado e quem quer intentar em outras instâncias pode fazê-lo</p></div>
+										
+		
+		
+			<div class="fondTitre">
+			
+                        <h4 class="siteCommentaire">Fusku</h4> <h5> 25 Abril 2018  13:56</h5></div>
+		
+			<div class="textCommentaire"><p>Estamos conversados.</p></div>
+			
+		
+		
+			<div class="fondTitre">
+			
+                        <h4 class="siteCommentaire">caso socrates me portugal?</h4> <h5> 25 Abril 2018  13:49</h5></div>
+		
+			<div class="textCommentaire"><p>meu caro mo mpd já colocou o seus jovens nas fileiras do ministério publico, está tudo controlado. a malta do mpd esta forte na maquina judicial, sempre esteve.</p></div>
+			
+		
+		
+			<div class="fondTitre">
+			
+                        <h4 class="siteCommentaire">O Leite é Mau para Saúde</h4> <h5> 25 Abril 2018  13:28</h5></div>
+		
+			<div class="textCommentaire"><p>Aconselho os cabo-verdianos a não comprarem Leites e Iogurtes do Sr. Olávo Correia, em protexto. Mais, a bem da saúde, está provado cientificamente, que o Leite é muito prejudicial à Saúde, talvez seja o mais prejudicial à nossa Saúde.</p></div>
+			
+		
+		
+			<div class="fondTitre">
+			
+                        <h4 class="siteCommentaire">COPERASAN</h4> <h5> 25 Abril 2018  13:13</h5></div>
+		
+			<div class="textCommentaire"><p>Ami in ka spanta ku rizultado, pamodi tanto letinho ma ulissinho dja fraba ma ka ta daba em nada es li e pa nu odja ma es governo e di coparativa.</p></div>
+			
+		
+		
+			<div class="fondTitre">
+			
+                        <h4 class="siteCommentaire">Terralonge</h4> <h5> 25 Abril 2018  13:06</h5></div>
+		
+			<div class="textCommentaire"><p>Se judicialmente o caso está arquivado, Moralmente não. Ou seja o homem deve ser responsabilizado politicamente para coisas do género não façam escolas neste país. O País é de todos e quem está a governar deve estar ao SERVIÇO do POVO e não ao seu serviço. Com a medida tomada, o Sr. Olávo Correia viu a sua empresa protegida e com o caminho aberto para aumentar o lucro e logo, a sua riqueza vai aumentar ainda mais. Por outro, quando alugou o edificio da Tecnicil para instalar os serviços das Finanças por 500 contos mês, ele, automaticamente passou a receber do Ministério da Finanças 50 contos mensal, já que tem 10% da Tecnicil. Isso diz-se IMORALIDADE. E é isso que está em causa.</p></div>
+			
+		
+		
+			<div class="fondTitre">
+			
+                        <h4 class="siteCommentaire">Mindelense</h4> <h5> 25 Abril 2018  12:58</h5></div>
+		
+			<div class="textCommentaire"><p>Olavo tu tas muito arrogante. KK dia cosa te muda de figura pe bo lot.</p></div>
+			
+		
+		
+			<div class="fondTitre">
+			
+                        <h4 class="siteCommentaire">Chuta Lata</h4> <h5> 25 Abril 2018  12:29</h5></div>
+		
+			<div class="textCommentaire"><p>Sim, fazendo fé no que estão a dizer sobre o relatório da PGR, embora eu particularmente desconfio da isenção da mesma, ele não é acionista. Mas eu perguntos vocês ai, todos, se eu tenho em casa a minha esposa e filhos como acionistas duma empresa que foi favorecida por uma medida e se um dia eu ficar sem dinheiro para comprar um pão, entretanto, por via do favorecimento, eles têm alguma sobra no cofre e comprarem esse pão, este dito cujo fica na mesma situação que eu que não tenho nenhuma ligação com a empresa ? Quero que respondam.</p></div>
+			
+		
+		
+			<div class="fondTitre">
+			
+                        <h4 class="siteCommentaire">O LEITE DEU FRUTO</h4> <h5> 25 Abril 2018  12:27</h5></div>
+		
+			<div class="textCommentaire"><p>Veio a confirmar que não temos justiça nesse pais,<br class="autobr" />
+mas a justiça divina não falha homem do LEITE. O que é seu esta bem guardado.</p></div>
+			
+		
+		
+			<div class="fondTitre">
+			
+                        <h4 class="siteCommentaire">Martim</h4> <h5> 25 Abril 2018  12:27</h5></div>
+		
+			<div class="textCommentaire"><p>Sob a capa do anonimato o cobarde e valente.</p></div>
+			
+		
+		
+			<div class="fondTitre">
+			
+                        <h4 class="siteCommentaire">caso socrates me portugal</h4> <h5> 25 Abril 2018  12:22</h5></div>
+		
+			<div class="textCommentaire"><p>o fim do senhor olavo será igualzinho ao do socrates em portugal. os jovens quadros do ministério publico vão acabar com a mentira da tecnicil nos proximos 15 anos.</p></div>
+			
+		
+		
+			<div class="fondTitre">
+			
+                        <h4 class="siteCommentaire">Nhu Nacho</h4> <h5> 25 Abril 2018  12:12</h5></div>
+		
+			<div class="textCommentaire"><p>Você devia respeitar o seu avô que sabia o que era honra, ética e dignidade. Que nunca se escondia atrás de leis, bem ou mal feitas, fazer ou defender canalhices. Aqui se vê a evolução do crioulo: antes andava de burro e tiravam-lhe o chapéu por onde passasse, hoje o seu neto carrega títulos e é desprezado.</p></div>
+			
+		
+		
+			<div class="fondTitre">
+			
+                        <h4 class="siteCommentaire">C Lopes</h4> <h5> 25 Abril 2018  12:01</h5></div>
+		
+			<div class="textCommentaire"><p>Esta simulação da procuradoria foi bem sucedida.</p></div>
+			
+		
+		
+			<div class="fondTitre">
+			
+                        <h4 class="siteCommentaire">CONFUSÃO INTENCIONAL</h4> <h5> 25 Abril 2018  11:57</h5></div>
+		
+			<div class="textCommentaire"><p>Sr. Ministro. A ética e a justiça são coisas bem diferentes. A sua consciência  também vale o quanto valem os seus interesses.</p></div>
+			
+		
+		
+			<div class="fondTitre">
+			
+                        <h4 class="siteCommentaire">?kkkkkkkkk</h4> <h5> 25 Abril 2018  11:53</h5></div>
+		
+			<div class="textCommentaire"><p>E onde para a étcia???????????</p></div>
+			
+		
+		
+			<div class="fondTitre">
+			
+                        <h4 class="siteCommentaire">Ai como doi!</h4> <h5> 25 Abril 2018  11:30</h5></div>
+		
+			<div class="textCommentaire"><p>O sr. em causa é um bom Vice primeiro Ministro.<br class="autobr" />
+Minha gente, estamos num século que domeu ponto de vista basta acusar pessoas por causa de partidarismo. Vejam, CV foi descuberto em 1460, o povoamento das ilhas iniciaram em 1962 pelos portugueses, tornamos um país independente em 5 de julho de 1975. A partir desta data C.V toma um outro rumo, começamos a caminhar com os pés dos caboverdianidade, até esta parte ja temos: PAICV, MPD na governação do país.graças a Deus todos lutaram para um CABO VERDE MELHOR. Por isso deixa Olavo trabalhar pelo país, esse sennhor está a fazer um bom trabalho, está a ajudar os Caboverdianos, não esqueçam que o nosso país é pequeno, pobre em recursos naturais, rico em pessoas com capasidade de ministrar algo. Força Olavo. (Ka bu fika ku medu).</p></div>
+			
+		
+		
+			<div class="fondTitre">
+			
+                        <h4 class="siteCommentaire">POVO</h4> <h5> 25 Abril 2018  10:57</h5></div>
+		
+			<div class="textCommentaire"><p>E claro, a lei e o governo, e o governo e voce.Os caboverdeanos que chupam limao.</p></div>
+			
+		
+		
+			<div class="fondTitre">
+			
+                        <h4 class="siteCommentaire">Comunistas</h4> <h5> 25 Abril 2018  10:54</h5></div>
+		
+			<div class="textCommentaire"><p>Sr. olavo a sua palavra é uma ordem, por isso ninguém vai atrever a intentar o seu caso de corrupçao que voces tem implantado neste país, quem intenta vai fazer companhia o ex. chefe da policia no sal</p></div>
+			
+		
+		
+			<div class="fondTitre">
+			
+                        <h4 class="siteCommentaire">Milionários!</h4> <h5> 25 Abril 2018  10:20</h5></div>
+		
+			<div class="textCommentaire"><p>O Olavo disse há bem pouco tempo que \"quer ver milionários em Cabo Verde\", a começar por ele e os seus amigalhaços, é claro!! Até o leite entornar!</p></div>
+			
+		
+		
+			<div class="fondTitre">
+			
+                        <h4 class="siteCommentaire">Terra Terra</h4> <h5> 25 Abril 2018  10:17</h5></div>
+		
+			<div class="textCommentaire"><p>Corrupção em miniatura á, escala de Cabo Verde.</p></div>
+			
+		
+		
+			<div class="fondTitre">
+			
+                        <h4 class="siteCommentaire">Djosa Neves</h4> <h5> 25 Abril 2018  09:42</h5></div>
+		
+			<div class="textCommentaire"><p>Os cuspidores de serviço (porque nada de útil têm para fazer!!!) com certeza vão tentar pegar em alguma outra ponta para tentarem atacar alguém que vem trabalhando muito bem em pról do país. Mas podem preparar as glândulas salivares, porque os 7% de crescimento económico vão chegar mesmo e a xerostomia vai invadir os espaços cuspideiros.</p></div>
+			
+		
+		
+			<div class="fondTitre">
+			
+                        <h4 class="siteCommentaire">Atento</h4> <h5> 25 Abril 2018  08:15</h5></div>
+		
+			<div class="textCommentaire"><p>QUando diz que quem quer intentalo noutras instâncias pode o faze-lo....QUER CONFIRMAR QUE O SISTEMA JUDICIAL EM CABO VERDE É UMA MERDA???? ESTÁ A CONFIRMAR AQUILO QUE OS CABOVERDIANOS TÊM DITO: QUE OS JUIZES...E PROFISSIONAIS DA LEI ESTÃO TODOS SOB O CONTROLO DOS POLÍTICOS? Ser\&#8217;a que vala a pena ter justiça em Cabo Verde? Este governo est\&#8217;a a enterrar literalmente o MPD que passará a história pelas piores razões! Estão implementando ditadura em Cabo Verde...enquanto que vosso sigla do partido é Movimento para a democracia! Ao menos mudem o nome do vosso partido porque não fica bem a forma de agir deste governo e o nome que leva. ESPERO SINCERAMENTE QUE OS CABOVERDIANOS ABREM OS OLHOS QUANTO ANTES PARA VOS POR FORA DO GOVERNO PORQUE AT\&#8217;E O FIM DA LEGISLATURA SERÁ TARDE DEMAIS!</p></div>
+			
+		
+		
+			<div class="fondTitre">
+			
+                        <h4 class="siteCommentaire">Sabe Pa...</h4> <h5> 25 Abril 2018  08:14</h5></div>
+		
+			<div class="textCommentaire"><p>Lendo Cosas de Soncente apreendi que Vice significa ovo pequeno quando o ovo grande é abalado e ... não funciona!</p></div>
+			
+		
+		
+			<div class="fondTitre">
+			
+                        <h4 class="siteCommentaire">Tiro Nope</h4> <h5> 25 Abril 2018  08:04</h5></div>
+		
+			<div class="textCommentaire"><p>Voltamos aos anos 90 ah, ah, ah.<br class="autobr" />
+Nu ta pita nu ta djuga e ao fim do ano vemos a nossa conta bancária a engordar sem mánha!</p></div>
+			
+		
+		
+			<div class="fondTitre">
+			
+                        <h4 class="siteCommentaire">Desiludido</h4> <h5> 25 Abril 2018  06:53</h5></div>
+		
+			<div class="textCommentaire"><p>Era de esperar o resultado e agora a garganta deste CORRUPTO.<br class="autobr" />
+As instituições são manipuladas.<br class="autobr" />
+O poder único está instalado.<br class="autobr" />
+A partir de agora é só passar a Máfia para o nome da mulher ou amante</p></div>
+			
+		
+		
+			<div class="fondTitre">
+			
+                        <h4 class="siteCommentaire">Mundo Novo</h4> <h5> 25 Abril 2018  06:07</h5></div>
+		
+			<div class="textCommentaire"><p>KkkkkJustica? Governo, tribunalinho porcaria e mesma merda Há terra pacencia.</p></div>
+			
+		
+		
+			<div class="fondTitre">
+			
+                        <h4 class="siteCommentaire">PITABOLA</h4> <h5> 25 Abril 2018  05:01</h5></div>
+		
+			<div class="textCommentaire"><p>Ninguém  mais  está  interessado  no caso da sua  corrupção.  Todo o mundo  sabe  que o senhor  é  um  corrupto  da marca  G . Igualmente  sabemos  que o sistema  de Justiça  caboverdeano  é  fraco  . Aproveitando  dessas lacunas  legais, o senhor  urdiu a sua operação  corrupta, perfeitamente  orquestrada  !<br class="autobr" />
+   O julgamento  dos factos  não  é  visto  apenas  pelas decisões  judiciais, mas também  pela  faculdade  intelectiva consciente  do homem  honesto, íntegro  e imparcial,pelo que o senhor  deve ficar sabendo  que  saiu ileso desse crime , por causa  das lacunas  existentes  na legislação  caboverdeana , mas tanto  do ponto  de vista  ética  como moral, o senhor  incorreu vários  actos  de corrupção  !!!!!!</p></div>
+			
+		
+		
+			<div class="fondTitre">
+			
+                        <h4 class="siteCommentaire">Gonçalves</h4> <h5> 25 Abril 2018  03:28</h5></div>
+		
+			<div class="textCommentaire"><p>Oh Sr Olavo, o senhor livrou porque a lei cabo-verdiana é omissa nessas trafulhices de lobbies e favorecimentos. Eu li o relatório e este deixa entre linhas que há um problema de ética. E toda a gente já sabia que isto não ia fazer de si um arguido de nada. Continua sim a ser um governante pouco ético e capaz de alguns malabarismos para favorecer o verdadeiro patrão.</p></div>
+			
+		
+		
+			<div class="fondTitre">
+			
+                        <h4 class="siteCommentaire">Silvino</h4> <h5> 25 Abril 2018  02:51</h5></div>
+		
+			<div class="textCommentaire"><p>Já tinha dito que não ia dar em nada mesmo antes de qualquer pronunciamento do Ministério Público. Agora nos vem dizer isto? Pois é Sr. Leitoso, queixar aonde???? Traduzido para Kioulo, assim quis dizer o Sr ao povo destas ilhas: Agora Nhós bai kexa na kem Nhos kré!!! Nós é ki ta manda!!!!!</p></div>
+			
+		
+		
+			<div class="fondTitre">
+			
+                        <h4 class="siteCommentaire">Mantenha</h4> <h5> 25 Abril 2018  02:42</h5></div>
+		
+			<div class="textCommentaire"><p>Cara de pau voltou aparecer mas sem vergonha. O documento esta arquivado mas o malfeitor nao foi absolvido. Se no futuro acontecer outra manobra o documento sera desarquivado e com dupla responsabilidade.</p></div>
+			
+		
+	
+	</div>						
+						<script language="javascript">
+						
+							var url = document.location.toString();
+							var anchor = url.split('#')
+
+							if (anchor[1] && anchor[1] != "") {
+
+								afficheId('lesCommentaires');
+
+							}
+								
+						</script>
+					
+					
+					
+					<!--<div id="pubGauche">
+						 <h6><span class="publicite"><a href="#" title="Publicite">publicidade</a></span></h6> -->
+						<!-- <h6><span class="publicite">publicidade</span></h6>
+						<img  src="mes_squelettes/img/pubCarteVisa.jpg" alt="Carte visa" /> -->
+											<!-- </div> -->
+					
+					<div class="articlesRecentes">
+					
+	<div class="fontBleuH3"><h3>Os artigos mais recentes</h3></div>
+	
+	
+	                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
+	
+
+		<div class="articleRecente">
+			
+			<div>
+			
+				<span class="jourArticlesRecentes">25</span >
+				
+				<span class="moisArticlesRecentes"><em>Apr.</em> 2018</span>
+				
+			</div>
+			
+			<dl>
+			
+				<dt class="rubriqueArticlesRecentes">
+			
+					
+
+						<a href="./?-ACTUALIDADE-&ak=1" title="ACTUALIDADE">ACTUALIDADE</a>
+
+						
+
+				</dt>
+			
+				<dd class="texteArticlesRecentes"><a href="./?Ilha-do-Fogo-Morreu-o-enfermeiro-e-fundador-do-Botafogo-Rolando-Lima-Barber&ak=1" title="">Ilha do Fogo de luto: Morreu o enfermeiro e fundador do Botafogo Rolando « Senhor Zuca» Lima Barber </a></dd>
+				
+			</dl>
+			
+		</div>
+
+		<img src="mes_squelettes/img/ligneNews.gif" alt="" />
+
+	
+
+		<div class="articleRecente">
+			
+			<div>
+			
+				<span class="jourArticlesRecentes">25</span >
+				
+				<span class="moisArticlesRecentes"><em>Apr.</em> 2018</span>
+				
+			</div>
+			
+			<dl>
+			
+				<dt class="rubriqueArticlesRecentes">
+			
+					
+
+						<a href="./?-REGISTOS-&ak=1" title="REGISTOS">REGISTOS</a>
+
+						
+
+				</dt>
+			
+				<dd class="texteArticlesRecentes"><a href="./?Cientistas-criam-implante-vaginal-que-protege-contra-o-virus-da-SIDA&ak=1" title="">Cientistas criam implante vaginal que protege contra o vírus da SIDA</a></dd>
+				
+			</dl>
+			
+		</div>
+
+		<img src="mes_squelettes/img/ligneNews.gif" alt="" />
+
+	
+
+		<div class="articleRecente">
+			
+			<div>
+			
+				<span class="jourArticlesRecentes">25</span >
+				
+				<span class="moisArticlesRecentes"><em>Apr.</em> 2018</span>
+				
+			</div>
+			
+			<dl>
+			
+				<dt class="rubriqueArticlesRecentes">
+			
+					
+
+						<a href="./?-INTERNACIONAL-&ak=1" title="INTERNACIONAL">INTERNACIONAL</a>
+
+						
+
+				</dt>
+			
+				<dd class="texteArticlesRecentes"><a href="./?Tragedia-Policia-de-Toronto-revela-mensagens&ak=1" title="">Tragédia: Polícia de Toronto revela mensagens do autor do atropelamento</a></dd>
+				
+			</dl>
+			
+		</div>
+
+		<img src="mes_squelettes/img/ligneNews.gif" alt="" />
+
+	
+
+		<div class="articleRecente">
+			
+			<div>
+			
+				<span class="jourArticlesRecentes">25</span >
+				
+				<span class="moisArticlesRecentes"><em>Apr.</em> 2018</span>
+				
+			</div>
+			
+			<dl>
+			
+				<dt class="rubriqueArticlesRecentes">
+			
+					
+
+						<a href="./?-POLITICA-&ak=1" title="POLÍTICA">POLÍTICA</a>
+
+						
+
+				</dt>
+			
+				<dd class="texteArticlesRecentes"><a href="./?Santo-Antao-PAICV-acusa-edil-do-Porto-Novo-de-perseguicao-politica&ak=1" title="">PAICV preocupado com situação  de desemprego no Porto Novo: Líder concelhia  acusa edil local  de perseguição política, descriminação e nepotismo</a></dd>
+				
+			</dl>
+			
+		</div>
+
+		<img src="mes_squelettes/img/ligneNews.gif" alt="" />
+
+	
+
+		<div class="articleRecente">
+			
+			<div>
+			
+				<span class="jourArticlesRecentes">25</span >
+				
+				<span class="moisArticlesRecentes"><em>Apr.</em> 2018</span>
+				
+			</div>
+			
+			<dl>
+			
+				<dt class="rubriqueArticlesRecentes">
+			
+					
+
+						<a href="./?-DESPORTO-&ak=1" title="DESPORTO">DESPORTO</a>
+
+						
+
+				</dt>
+			
+				<dd class="texteArticlesRecentes"><a href="./?Futebol-Internacional-Ruben-Semedo-vai-voltar-a-pedir-liberdade-condicional-sob&ak=1" title="">Futebol: Internacional Rúben Semedo vai voltar a pedir liberdade condicional sob fiança</a></dd>
+				
+			</dl>
+			
+		</div>
+
+		<img src="mes_squelettes/img/ligneNews.gif" alt="" />
+
+	
+
+		<div class="articleRecente">
+			
+			<div>
+			
+				<span class="jourArticlesRecentes">25</span >
+				
+				<span class="moisArticlesRecentes"><em>Apr.</em> 2018</span>
+				
+			</div>
+			
+			<dl>
+			
+				<dt class="rubriqueArticlesRecentes">
+			
+					
+
+						<a href="./?-LUSOFONIA-&ak=1" title="LUSOFONIA">LUSOFONIA</a>
+
+						
+
+				</dt>
+			
+				<dd class="texteArticlesRecentes"><a href="./?Brasil-Lula-diz-ao-PT-para-escolher-outro&ak=1" title="">Brasil: Lula diz ao PT para escolher outro candidato às eleições presidenciais</a></dd>
+				
+			</dl>
+			
+		</div>
+
+		<img src="mes_squelettes/img/ligneNews.gif" alt="" />
+
+	
+
+		<div class="articleRecente">
+			
+			<div>
+			
+				<span class="jourArticlesRecentes">25</span >
+				
+				<span class="moisArticlesRecentes"><em>Apr.</em> 2018</span>
+				
+			</div>
+			
+			<dl>
+			
+				<dt class="rubriqueArticlesRecentes">
+			
+					
+
+						<a href="./?-ECONOMIA-&ak=1" title="ECONOMIA">ECONOMIA</a>
+
+						
+
+				</dt>
+			
+				<dd class="texteArticlesRecentes"><a href="./?Governo-cria-linha-de-credito-de-cinco&ak=1" title="">Governo cria linha de crédito de cinco milhões de contos para financiamento das empresas cabo-verdianas</a></dd>
+				
+			</dl>
+			
+		</div>
+
+		<img src="mes_squelettes/img/ligneNews.gif" alt="" />
+
+	
+
+		<div class="articleRecente">
+			
+			<div>
+			
+				<span class="jourArticlesRecentes">25</span >
+				
+				<span class="moisArticlesRecentes"><em>Apr.</em> 2018</span>
+				
+			</div>
+			
+			<dl>
+			
+				<dt class="rubriqueArticlesRecentes">
+			
+					
+
+						<a href="./?-LUSOFONIA-&ak=1" title="LUSOFONIA">LUSOFONIA</a>
+
+						
+
+				</dt>
+			
+				<dd class="texteArticlesRecentes"><a href="./?Governo-portugues-aprova-novo-embaixador-de&ak=1" title="">Governo português «aprova» novo embaixador de Angola em Lisboa</a></dd>
+				
+			</dl>
+			
+		</div>
+
+		<img src="mes_squelettes/img/ligneNews.gif" alt="" />
+
+	
+
+		<div class="articleRecente">
+			
+			<div>
+			
+				<span class="jourArticlesRecentes">25</span >
+				
+				<span class="moisArticlesRecentes"><em>Apr.</em> 2018</span>
+				
+			</div>
+			
+			<dl>
+			
+				<dt class="rubriqueArticlesRecentes">
+			
+					
+
+						<a href="./?-LUSOFONIA-&ak=1" title="LUSOFONIA">LUSOFONIA</a>
+
+						
+
+				</dt>
+			
+				<dd class="texteArticlesRecentes"><a href="./?Guine-Bissau-Impasse-na-formacao-do-Governo&ak=1" title="">Guiné-Bissau: Impasse na formação do Governo, CEDEAO regressa a Bissau</a></dd>
+				
+			</dl>
+			
+		</div>
+
+		<img src="mes_squelettes/img/ligneNews.gif" alt="" />
+
+	
+
+		<div class="articleRecente">
+			
+			<div>
+			
+				<span class="jourArticlesRecentes">25</span >
+				
+				<span class="moisArticlesRecentes"><em>Apr.</em> 2018</span>
+				
+			</div>
+			
+			<dl>
+			
+				<dt class="rubriqueArticlesRecentes">
+			
+					
+
+						<a href="./?-ACTUALIDADE-&ak=1" title="ACTUALIDADE">ACTUALIDADE</a>
+
+						
+
+				</dt>
+			
+				<dd class="texteArticlesRecentes"><a href="./?Caso-Tecnicil-Industria-Olavo-Correia-disse&ak=1" title="">Caso Técnicil Indústria: Olavo Correia disse que  processo está arquivado e quem quer intentar em outras instâncias pode fazê-lo</a></dd>
+				
+			</dl>
+			
+		</div>
+
+		<img src="mes_squelettes/img/ligneNews.gif" alt="" />
+
+	
+
+		<div class="articleRecente">
+			
+			<div>
+			
+				<span class="jourArticlesRecentes">25</span >
+				
+				<span class="moisArticlesRecentes"><em>Apr.</em> 2018</span>
+				
+			</div>
+			
+			<dl>
+			
+				<dt class="rubriqueArticlesRecentes">
+			
+					
+
+						<a href="./?-BREVES-NOTICIAS-&ak=1" title="BREVES NOTÍCIAS">BREVES NOTÍCIAS</a>
+
+						
+
+				</dt>
+			
+				<dd class="texteArticlesRecentes"><a href="./?Praia-acolhe-III-Reuniao-do-Comite-Director&ak=1" title="">Praia acolhe III Reunião do Comité Director do projecto de apoio à melhoria da qualidade e proximidade dos serviços dos PALOP   e Timor Leste </a></dd>
+				
+			</dl>
+			
+		</div>
+
+		<img src="mes_squelettes/img/ligneNews.gif" alt="" />
+
+	
+
+		<div class="articleRecente">
+			
+			<div>
+			
+				<span class="jourArticlesRecentes">25</span >
+				
+				<span class="moisArticlesRecentes"><em>Apr.</em> 2018</span>
+				
+			</div>
+			
+			<dl>
+			
+				<dt class="rubriqueArticlesRecentes">
+			
+					
+
+						<a href="./?-POLITICA-&ak=1" title="POLÍTICA">POLÍTICA</a>
+
+						
+
+				</dt>
+			
+				<dd class="texteArticlesRecentes"><a href="./?Parlamento-Deputados-do-MpD-e-do-PAICV&ak=1" title="">Parlamento: Deputados do MpD e do PAICV divergem quanto ao Relatório da Comissão Eventual para a Reforma do Parlamento Cabo-verdiano</a></dd>
+				
+			</dl>
+			
+		</div>
+
+		<img src="mes_squelettes/img/ligneNews.gif" alt="" />
+
+	
+
+		<div class="articleRecente">
+			
+			<div>
+			
+				<span class="jourArticlesRecentes">25</span >
+				
+				<span class="moisArticlesRecentes"><em>Apr.</em> 2018</span>
+				
+			</div>
+			
+			<dl>
+			
+				<dt class="rubriqueArticlesRecentes">
+			
+					
+
+						<a href="./?-Agenda-Cultural-&ak=1" title="Agenda Cultural">Agenda Cultural</a>
+
+						
+
+				</dt>
+			
+				<dd class="texteArticlesRecentes"><a href="./?Sara-Tavares-canta-no-Kintal-di-Belinha&ak=1" title="">Sara Tavares canta no Kintal di Belinha</a></dd>
+				
+			</dl>
+			
+		</div>
+
+		<img src="mes_squelettes/img/ligneNews.gif" alt="" />
+
+	
+
+		<div class="articleRecente">
+			
+			<div>
+			
+				<span class="jourArticlesRecentes">25</span >
+				
+				<span class="moisArticlesRecentes"><em>Apr.</em> 2018</span>
+				
+			</div>
+			
+			<dl>
+			
+				<dt class="rubriqueArticlesRecentes">
+			
+					
+
+						<a href="./?-OPINIAO-&ak=1" title="OPINIÃO">OPINIÃO</a>
+
+						
+
+				</dt>
+			
+				<dd class="texteArticlesRecentes"><a href="./?A-DEMOCRACIA-PARTICIPATIVA&ak=1" title="">A DEMOCRACIA PARTICIPATIVA</a></dd>
+				
+			</dl>
+			
+		</div>
+
+		<img src="mes_squelettes/img/ligneNews.gif" alt="" />
+
+	
+
+		<div class="articleRecente">
+			
+			<div>
+			
+				<span class="jourArticlesRecentes">25</span >
+				
+				<span class="moisArticlesRecentes"><em>Apr.</em> 2018</span>
+				
+			</div>
+			
+			<dl>
+			
+				<dt class="rubriqueArticlesRecentes">
+			
+					
+
+						<a href="./?-MUNDO-INSOLITO-&ak=1" title="MUNDO INSÓLITO">MUNDO INSÓLITO</a>
+
+						
+
+				</dt>
+			
+				<dd class="texteArticlesRecentes"><a href="./?Prisao-para-youtuber-do-ReSet-que-humilhou-mendigo-deu-lhe-bolacha-recheada-de&ak=1" title="">Prisão para &#8217;youtuber&#8217; ReSet que humilhou mendigo &mdash; deu-lhe bolacha recheada de pasta dentífrica </a></dd>
+				
+			</dl>
+			
+		</div>
+
+		<img src="mes_squelettes/img/ligneNews.gif" alt="" />
+
+	
+
+		<div class="articleRecente">
+			
+			<div>
+			
+				<span class="jourArticlesRecentes">24</span >
+				
+				<span class="moisArticlesRecentes"><em>Apr.</em> 2018</span>
+				
+			</div>
+			
+			<dl>
+			
+				<dt class="rubriqueArticlesRecentes">
+			
+					
+
+						<a href="./?-SOCIAL-&ak=1" title="SOCIAL">SOCIAL</a>
+
+						
+
+				</dt>
+			
+				<dd class="texteArticlesRecentes"><a href="./?Mais-um-caso-de-assassinato-em-Santiago-Homem-decapitado-na-zona-da-Figueira&ak=1" title="">Mais um caso de assassinato em Santiago: Homem decapitado na zona da Figueira das Naus</a></dd>
+				
+			</dl>
+			
+		</div>
+
+		
+
+	
+
+</div>					
+					<div class="fontBleuH3"><h3>100% Prático</h3></div>
+						
+							
+							
+					
+					
+					<div id="rubriquePratico">
+
+						<div class="boxPraticoPetit">
+						<!-- Meteo (pt=29, en=239) -->
+							
+								
+									<h4><a href="./?Temperatura-do-dia-16-02-2018&ak=1" title="Tempo">Tempo</a> <span class="jourPratico">16 </span><span class="moisPratico">Fevereiro</span> <span class="anneePratico">2018</span></h4>
+									<ul>
+										<li>
+											<span class="degre">
+												<a href="./?Temperatura-do-dia-16-02-2018&ak=1" title="Tempo"><img src="mes_squelettes/img/logo_tempo.gif" alt="Tempo" />	
+												Praia
+
+
+												</a>
+											</span>											
+										</li>
+										<li class="liDer"><a href="./?Temperatura-do-dia-16-02-2018&ak=1" title="Tempo">20º</a></li>
+									</ul>
+								
+							
+						</div>
+						
+						<div id="combiobox" class="boxPraticoPetit">
+							<!-- Banque (pt=207, en=165) -->
+							
+								
+									<h4><a href="./?Taxas-e-Cambios-do-Banco-de-Cabo-Verde-de-24-de-Abril-de-2018&ak=1" title="C&#226;mbio"  >  C&#226;mbio</a> <span class="jourPratico">25</span><span class="moisPratico">Abril</span> <span class="anneePratico">2018</span></h4>
+									<p><a href="./?Taxas-e-Cambios-do-Banco-de-Cabo-Verde-de-24-de-Abril-de-2018&ak=1" title="C&#226;mbio">As taxas aqui retratadas são praticadas nas operações entre o bcv e as instituições de crédito.&nbsp;(...)</a></p>
+								
+							
+						</div>
+						
+						
+						<div id="informationUtile" class="boxPraticoLong">
+							<!-- debut Informations utiles (pt=35, en=166)-->
+							
+								<h4>Informa&#231;&#245;es &#250;teis</h4>
+								<ul>
+									<!-- Pharmacies (pt=57, en=168) -->
+									
+										
+											<li id="pharmacie">
+												<a href="./?Farmacias-de-Servico-do-mes-de-Novembro-de-2016&ak=1"><img src="mes_squelettes/img/farmacia.jpg" alt="" /></a>
+												<span><a href="./?Farmacias-de-Servico-do-mes-de-Novembro-de-2016&ak=1" title="FARM&#193;CIA DE SERVI&#199;O">FarmÁcia de serviÇo </a></span>
+											</li>
+										
+									
+									<!-- téléphone (pt=59, en=170) -->
+									
+										
+											<li>
+											<a href="./?Telefones-Uteis-de-Cabo-Verde&ak=1"><img src="mes_squelettes/img/pratico6.gif" alt="" /></a>
+											<span><a href="./?Telefones-Uteis-de-Cabo-Verde&ak=1" title="TELEFONES &#218;TEIS">Telefones Úteis </a></span>
+											</li>
+										
+									
+									<!-- vols (pt=58, en=169) -->
+									
+										<li class="liDer">
+										
+											<a href="./?Horario-dos-Voos-da-Halcyonair&ak=1"><img src="mes_squelettes/img/pratico2.jpg" alt="" /></a>
+											<span><a href="./?Horario-dos-Voos-da-Halcyonair&ak=1" title="VOOS ">Voos </a></span>
+										
+										</li>
+									
+							</ul>
+							 	<!-- fin Informations utiles-->
+						</div>
+						
+						
+						<!-- Annonces ( pt=222, en=162) -->
+						
+						<div class="boxPraticoInfo">
+							<h4>AnÚncios</h4>
+							
+								
+								<h3><a href="./?EXTRACTO-129463&ak=1" title="EXTRACTO ">EXTRACTO</a></h3>
+								<span> 25 Janeiro 2018 </span> 
+								<p class="textSansImg"  ><a href="./?EXTRACTO-129463&ak=1" title="EXTRACTO "></a></p>	
+							
+						</div>	
+						
+
+						
+							<!-- vols (pt=32, en=164) -->
+							
+							
+							<div class="boxPraticoInfo">	
+								<h4>CulinÁria</h4>
+								
+									<a href="./?CABRITO-COM-INHAME&ak=1" title="CABRITO COM INHAME"><img src="IMG/arton129443.jpg" alt="CABRITO COM INHAME" /></a>
+									<h3><a href="./?CABRITO-COM-INHAME&ak=1" title="CABRITO COM INHAME">CABRITO COM INHAME</a></h3>
+									<span> 25 Janeiro 2018 </span> 
+									<p ><a href="./?CABRITO-COM-INHAME&ak=1" title="CABRITO COM INHAME"></a></p>
+								
+								</div>	
+							
+					</div>
+				</div>
+				
+				<div id="colonneCentre">
+	
+		<div id="pubsapo">
+		
+			<!-- <h6><span class="publicite"><a href="#" title="publicidade">publicidade</a></span></h6> -->
+			<h6><span class="publicite">publicidade</span></h6>
+			
+			
+			<script type="text/javascript">
+				
+                   //document.write ('<SCR' + 'IPT  SRC="http://ads.sapo.pt/js.ng/site=sapocv&chancv=cvother&adsize=300x250&type=mrec&affiliate=asemana"></SCR' + 'IPT>');
+				
+            </script>
+			
+			<!--/* OpenX Javascript Tag v2.8.5 */-->
+
+			<script type='text/javascript'><!--//<![CDATA[
+			   var m3_u = (location.protocol=='https:'?'https://pub.sapo.pt/ajs.php':'http://pub.sapo.pt/ajs.php');
+			   var m3_r = Math.floor(Math.random()*99999999999);
+			   if (!document.MAX_used) document.MAX_used = ',';
+			   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+			   document.write ("?zoneid=526");
+			   document.write ('&cb=' + m3_r);
+			   if (document.MAX_used != ',') document.write ("&exclude=" + document.MAX_used);
+			   document.write (document.charset ? '&charset='+document.charset : (document.characterSet ? '&charset='+document.characterSet : ''));
+			   document.write ("&loc=" + escape(window.location));
+			   if (document.referrer) document.write ("&referer=" + escape(document.referrer));
+			   if (document.context) document.write ("&context=" + escape(document.context));
+			   document.write ('&cpid=asemana');
+			   if (document.mmm_fo) document.write ("&;mmm_fo=1");
+			   document.write ("'><\/scr"+"ipt>");
+			//]]>--></script><noscript><a href='http://pub.sapo.pt/ck.php?n=a973c50b&cb=INSERT_RANDOM_NUMBER_HERE&cpid=asemana' target='_blank'><img src='http://pub.sapo.pt/avw.php?zoneid=526&cb=INSERT_RANDOM_NUMBER_HERE&n=a973c50b&cpid=asemana' border='0' alt='' /></a></noscript>
+					
+
+		
+		</div>
+		
+
+		<div id="depeches">
+					
+	<div class="fontBleuH3">
+	
+		<h3>Breves</h3>
+		
+		<a href="http://www.asemana.publ.cv/spip.php?page=backend-breves&ak=1"  title="Breves"><img  src="mes_squelettes/img/puceRss.gif" alt="Breves" /></a>
+		
+	</div>
+	
+	<ul id="all_breve"><li>
+	
+	
+		
+		
+
+
+		<div>
+
+		<span class='jourDepeches'> 16 Abril 2018 </span>			<span class="heureDepeches">00:51</span>
+			
+			<h4><a href="./?+Criminalidade-PN-detem-mais-um-cidadao-na-posse-de-documento-de-viagem-falso+&ak=1" title="Criminalidade: PN det&#233;m mais um cidad&#227;o na posse de documento de viagem falso ">Criminalidade: PN detém  mais um cidadão  na posse de documento  de viagem&nbsp;(...) 20180416</a></h4>
+		
+		</div>
+
+
+		
+	
+	
+		
+		     
+
+
+		<div>
+
+					<span class="heureDepeches">00:49</span>
+			
+			<h4><a href="./?+Descoberto-meio-de-acelerar-processo-de-tratamento-do-cancro-4758+&ak=1" title="Descoberto meio de acelerar processo de tratamento do cancro">Descoberto meio de acelerar processo de tratamento do cancro 20180416</a></h4>
+		
+		</div>
+
+
+		
+	
+	
+		
+		</li><li>      
+
+
+		<div>
+
+					<span class="heureDepeches">00:48</span>
+			
+			<h4><a href="./?+Guine-Bissau-Policia-impede-jovens-de-manifestar+&ak=1" title="Guin&#233;-Bissau: Pol&#237;cia impede jovens de manifestar">Guiné-Bissau: Polícia impede jovens de manifestar 20180416</a></h4>
+		
+		</div>
+
+
+		
+	
+	
+		
+		     
+
+
+		<div>
+
+					<span class="heureDepeches">00:47</span>
+			
+			<h4><a href="./?+Primeiro-ministro-visita-empresa-BONAKO-no-ambito-da-preparacao-do-Cabo-Verde+&ak=1" title="Primeiro-ministro visita empresa BONAKO no &#226;mbito da prepara&#231;&#227;o do Cabo Verde Nex">Primeiro-ministro visita empresa BONAKO no âmbito da preparação do Cabo&nbsp;(...) 20180416</a></h4>
+		
+		</div>
+
+
+		
+	
+	
+		
+		</li><li>      
+
+
+		<div>
+
+		<br/><span class='jourDepeches'> 12 Abril 2018 </span>			<span class="heureDepeches">13:07</span>
+			
+			<h4><a href="./?+Ministro-da-Agricultura-e-Ambiente-participa-no-CORAF-em-Dakar-4755+&ak=1" title="Ministro da Agricultura e Ambiente participa no CORAF em Dakar">Ministro da Agricultura e Ambiente participa no CORAF em Dakar 20180412</a></h4>
+		
+		</div>
+
+
+		
+	
+	
+		
+		     
+
+
+		<div>
+
+					<span class="heureDepeches">13:07</span>
+			
+			<h4><a href="./?+Professores-do-IUE-dizem-se-indignados-e-apelam-a-revisao-do-Decreto-Lei-que+&ak=1" title="Professores do IUE dizem-se indignados e apelam &#224; revis&#227;o do Decreto-Lei que regula a integra&#231;&#227;o do instituto na Uni-CV antes da sua promulga&#231;&#227;o pelo Presidente da Rep&#250;blica">Professores do IUE dizem-se indignados e apelam à revisão do Decreto-Lei&nbsp;(...) 20180412</a></h4>
+		
+		</div>
+
+
+		
+	
+	
+		
+		</li><li>      
+
+
+		<div>
+
+					<span class="heureDepeches">13:07</span>
+			
+			<h4><a href="./?+Criminalidade-no-Sal-TIR-com-interdicao-de-saida-a-cidada-portuguesa-por-crime+&ak=1" title="Criminalidade no Sal: TIR com interdi&#231;&#227;o de sa&#237;da a cidad&#227; portuguesa por crime de burla agravada e falsifica&#231;&#227;o de documentos">Criminalidade no Sal: TIR com interdição de saída a cidadã portuguesa por&nbsp;(...) 20180412</a></h4>
+		
+		</div>
+
+
+		
+	
+	
+		
+		   
+
+
+		<div>
+
+		<br/><span class='jourDepeches'> 06 Abril 2018 </span>			<span class="heureDepeches">12:39</span>
+			
+			<h4><a href="./?+INPS-vai-injectar-600-mil-contos-na-Afreximbank-Lider-do-PAICV-anuncia-que-o+&ak=1" title="INPS vai injectar 600 mil contos na Afreximbank: L&#237;der do PAICV anuncia que o Grupo Parlamentar vai solicitar informa&#231;&#245;es sobre o &#8220;neg&#243;cio&#8221;">INPS vai injectar 600 mil contos na Afreximbank: Líder do PAICV anuncia que&nbsp;(...) 2018046</a></h4>
+		
+		</div>
+
+
+		
+	
+</li></ul>
+			
+	<h6><span class="voirDepeches"><a href="spip.php?page=breve&ak=1" title="Ver mais">Ver mais</a></span></h6>
+
+</div>
+		<div id="photosVideosAudio">
+
+	<div id="menuMultimedia">
+	
+				
+		<div id="divTitre1">
+
+			<div onclick="lien('pt',11);afficheActiverTitre(1);afficheDiv(1,'photo');afficheDiv(0,'video');afficheDiv(0,'audio');return false;" ><h3><a href="#" title="Fotos" id="titreMultimadia1">Fotos</a></h3></div>
+			
+		</div>
+		
+		<div id="page1" >
+			
+			<ul>
+			
+				
+
+					
+
+					 
+					
+												<li><a href="#" onclick="javascript:afficheDiv('1','photo');return false; " title="120874 - 49306">1</a></li>
+					
+					
+
+				
+
+					
+
+					 
+					
+												<li><a href="#" onclick="javascript:afficheDiv('2','photo');return false; " title="125549 - 51850">2</a></li>
+					
+					
+
+				
+
+					
+
+					 
+					
+												<li><a href="#" onclick="javascript:afficheDiv('3','photo');return false; " title="120892 - 49388">3</a></li>
+					
+					
+
+				
+
+					
+
+					 
+					
+												<li><a href="#" onclick="javascript:afficheDiv('4','photo');return false; " title="120872 - 49317">4</a></li>
+					
+					
+
+				
+
+					
+
+					 
+					
+												<li><a href="#" onclick="javascript:afficheDiv('5','photo');return false; " title="120753 - 49271">5</a></li>
+					
+					
+
+				
+
+					
+
+					 
+					
+												<li><a href="#" onclick="javascript:afficheDiv('6','photo');return false; " title="119431 - 48775">6</a></li>
+					
+					
+
+				
+														
+			</ul>
+		
+		</div>
+		
+				
+		<div  id="divTitre2">
+		
+			<div onclick="lien('pt',10); afficheActiverTitre(2);afficheDiv(1,'video');afficheDiv(0,'photo');afficheDiv(0,'audio');return false;" ><h3><a href="#" title="V&#237;deos" id="titreMultimadia2">V&#237;deos</a></h3></div>
+			
+		</div>
+	
+		<div id="page2" class="cacher"  >
+			
+			
+		</div>
+		
+			
+		<div  id="divTitre3">
+		
+			<div onclick="lien('pt',9); afficheActiverTitre(3);afficheDiv(1,'audio');afficheDiv(0,'video');afficheDiv(0,'photo');return false;" ><h3><a href="#" title="Audio" id="titreMultimadia3">Audio</a></h3></div>
+			
+		</div>
+	
+		<div id="page3"  >
+					
+		
+		</div>
+		
+		
+	</div>
+
+	<!-- DIV des photo -->
+		
+
+		
+		
+			 
+			
+			
+				<div class="lemedia" id="photo1"	class="cacher" >
+					<!-- <br><a href="./?A-belissima-ilha-Brava-em-fotos" title=""><img src="IMG/jpg_14371928_1053172994750886_2136915435_n.jpg" alt="71779" title="71779" class="full" width="299" height="250" /></a> -->
+
+					<br><a a href="./?A-belissima-ilha-Brava-em-fotos" title=""><img src="local/cache-vignettes/L300xH250/jpg_14371928_1053172994750886_2136915435_n-f032f.jpg?1524490899" alt="" title="" /></a>
+					
+					
+				</div>	
+			
+
+		
+
+	
+
+		
+		
+			 
+			
+			
+				<div class="lemedia" id="photo2"	class="cacher" >
+					<!-- <br><a href="./?Fotografo-Emerson-Goncalves-expoe-encantos-da-ilha-Brava" title=""><img src="IMG/jpg_19243903_1330992653635584_1529303402_o.jpg" alt="11154" title="11154" class="full" width="299" height="250" /></a> -->
+
+					<br><a a href="./?Fotografo-Emerson-Goncalves-expoe-encantos-da-ilha-Brava" title=""><img src="local/cache-vignettes/L300xH200/jpg_19243903_1330992653635584_1529303402_o-8be46.jpg?1524490899" alt="" title="" /></a>
+					
+					
+				</div>	
+			
+
+		
+
+	
+
+		
+		
+			 
+			
+			
+				<div class="lemedia" id="photo3"	class="cacher" >
+					<!-- <br><a href="./?Milhares-de-pessoas-no-ultimo-adeus-a-Antonio-Mascarenhas-Monteiro" title=""><img src="IMG/jpg_Funeral_Mascarenhas_M-11.jpg" alt="59125" title="59125" class="full" width="299" height="250" /></a> -->
+
+					<br><a a href="./?Milhares-de-pessoas-no-ultimo-adeus-a-Antonio-Mascarenhas-Monteiro" title=""><img src="local/cache-vignettes/L300xH201/jpg_Funeral_Mascarenhas_M-11-f9900.jpg?1524490899" alt="" title="" /></a>
+					
+					
+				</div>	
+			
+
+		
+
+	
+
+		
+		
+			 
+			
+			
+				<div class="lemedia" id="photo4"	class="cacher" >
+					<!-- <br><a href="./?Corpo-de-Mascarenhas-Monteiro-estara-na-Presidencia-da-Republica-ate-as-20" title=""><img src="IMG/jpg_Morte_Mascarenhas-1.jpg" alt="117405" title="117405" class="full" width="299" height="250" /></a> -->
+
+					<br><a a href="./?Corpo-de-Mascarenhas-Monteiro-estara-na-Presidencia-da-Republica-ate-as-20" title=""><img src="local/cache-vignettes/L300xH201/jpg_Morte_Mascarenhas-1-db29f.jpg?1524490899" alt="" title="" /></a>
+					
+					
+				</div>	
+			
+
+		
+
+	
+
+		
+		
+			 
+			
+			
+				<div class="lemedia" id="photo5"	class="cacher" >
+					<!-- <br><a href="./?Ilha-do-Fogo-bafejada-pelas-chuvas-E-surge-o-verde-da-esperanca" title=""><img src="IMG/jpg_14137949_1203879953010243_1021444555_n.jpg" alt="90578" title="90578" class="full" width="299" height="250" /></a> -->
+
+					<br><a a href="./?Ilha-do-Fogo-bafejada-pelas-chuvas-E-surge-o-verde-da-esperanca" title=""><img src="local/cache-vignettes/L300xH403/jpg_14137949_1203879953010243_1021444555_n-43547.jpg?1524490899" alt="" title="" /></a>
+					
+					
+				</div>	
+			
+
+		
+
+	
+
+		
+		
+			 
+			
+			
+				<div class="lemedia" id="photo6"	class="cacher" >
+					<!-- <br><a href="./?Somos-Cabo-Verde-Os-Melhores-do-Ano-Jornalista-Alirio-Dias-de-Pina-vence" title=""><img src="IMG/jpg_somos_cv_2016-38.jpg" alt="134109" title="134109" class="full" width="299" height="250" /></a> -->
+
+					<br><a a href="./?Somos-Cabo-Verde-Os-Melhores-do-Ano-Jornalista-Alirio-Dias-de-Pina-vence" title=""><img src="local/cache-vignettes/L300xH201/jpg_somos_cv_2016-38-6f5c3.jpg?1524490899" alt="" title="" /></a>
+					
+					
+				</div>	
+			
+
+		
+
+	
+	
+
+	
+
+		
+		
+	
+		
+		<div id="audio1" class="cacher" >
+		
+		</div>
+
+
+
+<!--h6 class="toutes"><span class="voirDepeches"><a href="spip.php?mot11&ak=1&lang=pt" title="Ver mais" id="hrefmedia">M&eacute;diatheque </a></span></h6-->
+
+
+
+		
+	<script type="text/javascript">
+
+			//afficheIdall(1,'41','video');
+			afficheActiverTitre(1);
+			afficheDiv(1,'photo');
+		
+			
+		</script>
+
+	<h6 class="toutes"><span class="voirDepeches"><a href="spip.php?mot11&ak=1&lang=pt" title="Mediateca" id="hrefmedia">Mediateca </a></span></h6>
+
+
+	<!--img src="mes_squelettes/img/logoPhotosVideosAudio.jpg" alt="" id="imgPhotosVideosAudio" /-->
+
+		
+</div>		
+					
+		<!--div id="pubCentre">
+		
+			<h6><span class="publicite"><a href="#" title="publicidade">publicidade</a></span></h6>
+			
+			<a href="#" title="publicidade"><img  src="mes_squelettes/img/blog_cafe_margoso.jpg" alt="pub" /></a>
+		
+		</div-->
+		
+		
+		
+		
+							
+		
+		
+			<a href="./?-Cabo-Verde-&ak=1" title="Cabo Verde"><img  src="mes_squelettes/img/caboVerde_pt.jpg" alt="Cap-vert" /></a>
+		
+		
+		
+
+		
+			<div id="cultura">
+
+	<h2><a href="./?-Cultura-&ak=1" title="Cultura"><span>Cultura</span><img src="mes_squelettes/img/cultura_pt.gif"></a></h2>
+
+	
+	
+		<div>
+		
+			<a href="./?Sara-Tavares-canta-no-Kintal-di-Belinha&ak=1" title="Sara Tavares canta no Kintal di Belinha">
+			
+			<img src="local/cache-vignettes/L70xH25/arton130992-c9f5e.jpg?1524609179" alt="Sara Tavares canta no Kintal di Belinha">
+			
+			</a>
+
+			<p>
+			
+			<span><a href="./?Sara-Tavares-canta-no-Kintal-di-Belinha&ak=1" title=" 25 Abril 2018 "> 25 Abril 2018 </a></span>
+			
+			<a href="./?Sara-Tavares-canta-no-Kintal-di-Belinha&ak=1" title="Sara Tavares canta no Kintal di Belinha">Sara Tavares canta no Kintal di Belinha</a>
+			
+			</p>
+		
+		</div>
+
+	
+	
+		<div>
+		
+			<a href="./?Teatro-Mindelo-acolhe-a-peca-de-Viagem-de-Lua-e-Areia-em-homenagem-a-poesia-e&ak=1" title="Teatro: Mindelo acolhe a pe&#231;a de &#171;Viagem de Lua e Areia&#8221;, em homenagem &#224; poesia e ao escritor espanhol Federico Garc&#237;a">
+			
+			<img src="local/cache-vignettes/L70xH37/arton130988-00cef.jpg?1524537203" alt="Teatro: Mindelo acolhe a pe&#231;a de &#171;Viagem de Lua e Areia&#8221;, em homenagem &#224; poesia e ao escritor espanhol Federico Garc&#237;a">
+			
+			</a>
+
+			<p>
+			
+			<span><a href="./?Teatro-Mindelo-acolhe-a-peca-de-Viagem-de-Lua-e-Areia-em-homenagem-a-poesia-e&ak=1" title=" 24 Abril 2018 "> 24 Abril 2018 </a></span>
+			
+			<a href="./?Teatro-Mindelo-acolhe-a-peca-de-Viagem-de-Lua-e-Areia-em-homenagem-a-poesia-e&ak=1" title="Teatro: Mindelo acolhe a pe&#231;a de &#171;Viagem de Lua e Areia&#8221;, em homenagem &#224; poesia e ao escritor espanhol Federico Garc&#237;a">Teatro: Mindelo acolhe a peça de «Viagem de Lua e Areia&#8221;, em homenagem à poesia e ao escritor espanhol Federico García</a>
+			
+			</p>
+		
+		</div>
+
+	
+
+</div>		
+		
+
+		<!--div id="pubCentre1">
+		
+			<h6><span class="publicite"><a href="#" title="publicidade">publicidade</a></span></h6>
+			
+			<a href="#" title="publicidade"><img  src="mes_squelettes/img/pubCentre.jpg" alt="pub" /></a>
+		
+		</div-->
+
+		
+
+		<div id="uhau">
+						
+		<div class="fontBleuH3">
+		
+			<h3>Uhau</h3>		
+			
+		</div>
+
+			<a href="IMG/rubon238.jpg"  title="Uhau" target="_blank" ><img src="IMG/rubon238.jpg" alt="Uhau" width="300" /></a>
+		
+
+	</div>
+		
+					
+		<!--div id="investirAuCapvert">
+		
+			<a href="#" title="Investir Au Cap-vert"><img src="mes_squelettes/img/investirAuCapvert.jpg" alt="Investir Au Cap-vert" /></a>
+		
+		</div-->
+		
+	</div>
+				<div id="colonneDroite">
+				
+	
+
+	 
+
+		<div id="retro">
+
+	<div class="fontBleuH3"><h3>Retratos</h3></div>
+	
+	
+						
+		<div class="centrerDroite">
+		
+			<a href="./?EUA-Morreu-Steve-Bochco-criador-de-A&ak=1"  title="EUA: Morreu Steve Bochco, criador de "A Balada de Hill Street"">
+			<img class='spip_logo spip_logos' alt='Retro' src="local/cache-vignettes/L150xH85/arton130650-b632f.jpg?1522720330" width='150' height='85' />
+								
+			</a><br>
+		
+			<span><a href="./?EUA-Morreu-Steve-Bochco-criador-de-A&ak=1"  title="EUA: Morreu Steve Bochco, criador de "A Balada de Hill Street"">EUA: Morreu Steve Bochco, criador de "A Balada de Hill Street"</a></span>
+			
+		</div>
+
+	
+
+</div>
+
+	
+	<!-- <div class="pubDroite">
+
+		<h6><span class="publicite"><a href="#" title="Publicite">publicidade</a></span></h6> 
+		<h6><span class="publicite">publicidade</span></h6> -->
+	
+		 
+	<!-- </div> -->
+
+	<!-- IN CLURE{ fon d=inc/ publica tion}{lang} --> 
+		
+	<!-- <div id="pubDroite1">
+	
+		<h6><span class="publicite"><a href="#" title="Publicite">publicidade</a></span></h6> 
+		<h6><span class="publicite">publicidade</span></h6>
+		
+		<a href="#" title="pub"><img  src="mes_squelettes/img/pubDroite1.jpg" alt="pub" /></a>-->
+			<!-- </div> -->
+
+	
+
+	<div id="sondage">
+	
+		<div class="fontBleuH3"><h3>Sondagem</h3></div>
+		
+		<div class="centrerDroite">
+		
+			<tr height=16 bgcolor="#3366CC">
+	<td class=titre_menu align=center>
+		</td>
+</tr>
+<tr height=1 bgcolor="#000000">
+	<td>
+	</td>
+</tr>
+<tr valign=top>
+	<td><table border=0 cellpadding=0 width="100%" class=base><tr>
+	<td width=10 align=center><img src="images/fleche.gif"></td>
+	<td>
+		<a href=spip.php?article10481&langue=CV&ak=1&lang=pt class=menu>
+		Ver todas as sondagens		</a>
+	</td>
+	</tr></table></td>
+</tr>		
+		</div>
+	
+	</div>
+
+	<div id="newsletter">
+	
+		<div class="fontBleuH3"><a name="spip-listes"></a><h3>Newsletter</h3></div>
+		
+		<div class="centrerDroite">
+
+			
+			
+		
+		</div>
+	
+	</div>
+	
+	<div id="nosFluxRss">
+	
+		<a href="spip.php?page=inc-page_rss&ak=1" title="FLUXOS RSS"><img  src="mes_squelettes/img/photoRss.jpg" alt="FLUX RSS" /></a>
+		
+		<a href="spip.php?page=inc-page_rss&ak=1" title="FLUXOS RSS"><h4>FLUXOS RSS</h4></a>
+		
+		<!-- <p><a href="spip.php?page=inc-page_rss&ak=1" title="NOS FLUX RSS">L'&eacute;dition du jour et l'actualit&eacute; th&eacute;matique en continu</a></p> -->
+	
+	</div>	
+	
+			<!-- <div class="pubDroite2">
+	
+		<h6><span class="publicite"><a href="#" title="Publicite">publicidade</a></span></h6>
+		<h6><span class="publicite">publicidade</span></h6>
+		
+		<a href="#" title="pub"><img  src="mes_squelettes/img/pubDroite2.jpg" alt="pub" /></a> -->
+		
+	<!-- </div> -->
+	
+
+
+</div>				
+				<div id="pubBas">
+			
+				<!-- <h6><span class="publicite"><a href="#" title="Publicite">publicidade</a></span></h6> -->
+				<!--<h6><span class="publicite">publicidade</span></h6>
+
+				 <div align="center"> -->
+				 							<!-- </div> -->
+			
+				</div>
+			
+			</div>
+						
+			
+			<div id="pied">
+			
+				<div id="hautPied">
+					
+					
+					
+					<div class="menu1HautPied">
+					
+					
+					
+					
+			
+						<h4>A Semana</h4>
+							<ul>
+						
+								<li><a href="./?-ACTUALIDADE-&ak=1&lang=pt" title="ACTUALIDADE">ACTUALIDADE</a> </li>
+						<li>|</li>
+								<li><a href="./?-ECONOMIA-&ak=1&lang=pt" title="ECONOMIA">ECONOMIA</a> </li>
+						<li>|</li>
+								<li><a href="./?-DESPORTO-&ak=1&lang=pt" title="DESPORTO">DESPORTO</a> </li>
+						<li>|</li>
+								<li><a href="./?-SERA-NOTICIA-&ak=1&lang=pt" title="SERÁ NOTÍCIA">SERÁ NOTÍCIA</a> </li>
+						<li>|</li>
+								<li><a href="./?-POLITICA-&ak=1&lang=pt" title="POLÍTICA">POLÍTICA</a> </li>
+						<li>|</li>
+								<li><a href="./?-INTERNACIONAL-&ak=1&lang=pt" title="INTERNACIONAL">INTERNACIONAL</a> </li>
+						<li>|</li>
+								<li><a href="./?-SOCIAL-&ak=1&lang=pt" title="SOCIAL">SOCIAL</a> </li>
+						<li>|</li>
+								<li><a href="./?-BREVES-NOTICIAS-&ak=1&lang=pt" title="BREVES NOTÍCIAS">BREVES NOTÍCIAS</a> </li>
+						<li>|</li>
+								<li><a href="./?-OPINIAO-&ak=1&lang=pt" title="OPINIÃO">OPINIÃO</a> </li>
+						<li>|</li>
+								<li><a href="./?-REGISTOS-&ak=1&lang=pt" title="REGISTOS">REGISTOS</a> </li>
+						<li>|</li>
+								<li><a href="./?-Publicidade-&ak=1&lang=pt" title="Publicidade">Publicidade</a> </li>
+						<li>|</li>
+								<li><a href="./?-Autarquicas-2016-&ak=1&lang=pt" title="Autárquicas 2016">Autárquicas 2016</a> </li>
+						<li>|</li>
+								<li><a href="./?-25o-aniversario-do-A-Semana-&ak=1&lang=pt" title="25º aniversário do A Semana">25º aniversário do A Semana</a> </li>
+						<li>|</li>
+								<li><a href="./?-Caso-Monte-Tchota-&ak=1&lang=pt" title="Caso Monte Tchota">Caso Monte Tchota</a> </li>
+						<li>|</li>
+								<li><a href="./?-CORREIO-DAS-ILHAS-278-&ak=1&lang=pt" title="CORREIO DAS ILHAS">CORREIO DAS ILHAS</a> </li>
+						<li>|</li>
+								<li><a href="./?-MUNDO-INSOLITO-&ak=1&lang=pt" title="MUNDO INSÓLITO">MUNDO INSÓLITO</a> </li>
+						<li>|</li>
+								<li><a href="./?-Presidenciais-2016-&ak=1&lang=pt" title="Presidenciais 2016">Presidenciais 2016</a> </li>
+						
+					
+					
+						</ul>
+						
+					</div>
+					
+
+					<div id="autresMenuHautPied">
+					
+					
+					
+			
+							<div class="menuHautPied">
+						
+								<h4>Cabo Verde</h4>
+							
+								<ul>
+							
+									
+										
+											<li><a href="./?-LEGISLATIVAS-2016-&ak=1&lang=pt" title="LEGISLATIVAS 2016">LEGISLATIVAS 2016</a></li>
+										
+									<li>|</li>
+										
+											<li><a href="./?-HISTORIA-&ak=1&lang=pt" title="HISTÓRIA">HISTÓRIA</a></li>
+										
+									<li>|</li>
+										
+											<li><a href="./?-DIRIGENTES-&ak=1&lang=pt" title="DIRIGENTES">DIRIGENTES</a></li>
+										
+									<li>|</li>
+										
+											<li><a href="./?-ILHAS-&ak=1&lang=pt" title="ILHAS">ILHAS</a></li>
+										
+									<li>|</li>
+										
+											<li><a href="./?-SITUACAO-GEOGRAFICA-&ak=1&lang=pt" title="SITUAÇÃO GEOGRÁFICA">SITUAÇÃO GEOGRÁFICA</a></li>
+										
+									<li>|</li>
+										
+											<li><a href="./?-AMBIENTE-&ak=1&lang=pt" title="AMBIENTE">AMBIENTE</a></li>
+										
+									<li>|</li>
+										
+											<li><a href="./?-INDICADORES-DO-PAIS-&ak=1&lang=pt" title="INDICADORES DO PAÍS">INDICADORES DO PAÍS</a></li>
+										
+									
+									
+									</ul>
+							
+						</div>
+									
+								
+			
+							<div class="menuHautPied">
+						
+								<h4>100% Prático</h4>
+							
+								<ul>
+							
+									
+										
+											<li><a href="./?-TEMPO-&ak=1&lang=pt" title="TEMPO">TEMPO</a></li>
+										
+									<li>|</li>
+										
+											<li><a href="./?-CULINARIA-&ak=1&lang=pt" title="CULINÁRIA">CULINÁRIA</a></li>
+										
+									<li>|</li>
+										
+											<li><a href="./?-INFORMACOES-UTEIS-&ak=1&lang=pt" title="INFORMAÇÕES ÚTEIS">INFORMAÇÕES ÚTEIS</a></li>
+										
+									<li>|</li>
+										
+											<li><a href="./?-CAMBIO-&ak=1&lang=pt" title="Taxas e Câmbios">Taxas e Câmbios</a></li>
+										
+									<li>|</li>
+										
+											<li><a href="./?-ANUNCIOS-&ak=1&lang=pt" title="ANÚNCIOS">ANÚNCIOS</a></li>
+										
+									
+									
+									</ul>
+							
+						</div>
+									
+								
+			
+							<div class="menuHautPied">
+						
+								<h4>Cultura</h4>
+							
+								<ul>
+							
+									
+										
+											<li><a href="./?-Nova-rubrica-44-&ak=1&lang=pt" title="Chun Su &amp; Banda  e  Josimar Gonçalves animam, no dia 18, Quintal da Música">Chun Su &amp; Banda  e  Josimar Gonçalves animam, no dia 18, Quintal da Música</a></li>
+										
+									<li>|</li>
+										
+											<li><a href="./?-CARNAVAL-&ak=1&lang=pt" title="CARNAVAL">CARNAVAL</a></li>
+										
+									<li>|</li>
+										
+											<li><a href="./?-AME-e-KJF-&ak=1&lang=pt" title="AME e KJF">AME e KJF</a></li>
+										
+									<li>|</li>
+										
+											<li><a href="./?-CVMA-&ak=1&lang=pt" title="CVMA">CVMA</a></li>
+										
+									<li>|</li>
+										
+											<li><a href="./?-Crioulo-&ak=1&lang=pt" title="Crioulo">Crioulo</a></li>
+										
+									<li>|</li>
+										
+											<li><a href="./?-Nho-Sonjon-&ak=1&lang=pt" title="Nho Sonjon">Nho Sonjon</a></li>
+										
+									<li>|</li>
+										
+											<li><a href="./?-Agenda-Cultural-&ak=1&lang=pt" title="Agenda Cultural">Agenda Cultural</a></li>
+										
+									<li>|</li>
+										
+											<li><a href="./?-NOTICIAS-&ak=1&lang=pt" title="NOTÍCIAS">NOTÍCIAS</a></li>
+										
+									<li>|</li>
+										
+											<li><a href="./?-CINEMA-&ak=1&lang=pt" title="CINEMA">CINEMA</a></li>
+										
+									<li>|</li>
+										
+											<li><a href="./?-FOTO-DA-SEMANA-&ak=1&lang=pt" title="FOTO DA SEMANA">FOTO DA SEMANA</a></li>
+										
+									<li>|</li>
+										
+											<li><a href="./?-NOS-TRADISON-&ak=1&lang=pt" title="NÔS TRADISON">NÔS TRADISON</a></li>
+										
+									<li>|</li>
+										
+											<li><a href="./?-SUGESTOES-&ak=1&lang=pt" title="SUGESTÕES">SUGESTÕES</a></li>
+										
+									
+									
+									</ul>
+							
+						</div>
+									
+								
+			
+							<div class="menuHautPied">
+						
+								<h4>Comunidade</h4>
+							
+								<ul>
+							
+									
+										
+											<li><a href="./?-Sem-titulo-&ak=1&lang=pt" title="Sem t&iacute;tulo">Sem t&iacute;tulo</a></li>
+										
+									<li>|</li>
+										
+											<li><a href="./?-NOS-KU-NOS-&ak=1&lang=pt" title="NOS KU NOS">NOS KU NOS</a></li>
+										
+									<li>|</li>
+										
+											<li><a href="./?-DIASPORA-&ak=1&lang=pt" title="DIÁSPORA">DIÁSPORA</a></li>
+										
+									<li>|</li>
+										
+											<li><a href="./?-ESCREVA-NOS-&ak=1&lang=pt" title="ESCREVA-NOS">ESCREVA-NOS</a></li>
+										
+									<li>|</li>
+										
+											<li><a href="./?-LUSOFONIA-&ak=1&lang=pt" title="LUSOFONIA">LUSOFONIA</a></li>
+										
+									
+									
+									</ul>
+							
+						</div>
+									
+								
+					
+					</div>
+					
+					<div id="titreBas"><h1><a href="http://www.asemana.publ.cv/?ak=1" title="Asemana">ASemana</a></h1></div>
+	
+				</div>
+				<div id="millieuPied">
+					<form id="form1" action="" method="get" >
+		
+                
+<input type="hidden" name="lang" value="pt" />
+<input type="hidden" name="ak" value="1" />
+		
+	<input type="text" name="recherche" id="recherche" value="Procurar" onfocus="this.value='';" onblur="javascript:if(this.value=='') this.value='Procurar'"/>
+
+	
+	<input type="image" src="mes_squelettes/img/bouttonRecherchePied.gif"  value="Envoyer" id="bouttonRechechePeid" />
+	
+</form>						<ul>
+						
+						<li><a href="spip.php?ak=1&lang=pt" title="ACOLHIMENTO">ACOLHIMENTO</a>|</li>
+						
+						<li><a href="spip.php?article10484&ak=1&lang=pt" title="ASSINATURAS">ASSINATURAS</a>|</li>
+						
+						<li><a href="spip.php?article10483&ak=1&lang=pt" title="ARQUIVOS">ARQUIVOS</a>|</li>
+						
+						<li><a href="spip.php?page=breve&ak=1&lang=pt" title="BREVES">BREVES</a>|</li>
+						
+						
+						
+                                                    
+                                                        <li><a href="./?Enderecos-do-Jornal-A-Semana-29906&lang=pt" title="Endereços do Jornal A Semana">FICHA TÉCNICA</a>|</li>
+                                                    
+						
+						
+						<li><a href="spip.php?page=plan&id_rubrique=1&ak=1&lang=pt" title="MAPA">MAPA</a>|</li>
+						
+						<li><a href="spip.php?page=inc-page_rss&ak=1&lang=pt" title="Rss"><img  src="mes_squelettes/img/puceRss.gif" alt="Rss" class=""/> RSS</a></li>
+								
+					</ul>
+			
+				</div>
+				
+				<div id="basPied">Copyrights 2009 <a href="http://www.asemana.publ.cv/?ak=1" title="ASemana">ASemana</a> Online | Crédito:  <a href="http://www.ak-project.com" title=""  class="ak">AK-Project</a></div>
+			
+			</div>
+
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-2485929-54']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+<script id="bsu-v2-sapo" src="http://bars.sapo.pt/bsu_v2.0/barra.js" data-partner="true" data-country="cv" data-width="960"></script>			
+		</div>
+ 		
+	</body>
+	
+</html>
