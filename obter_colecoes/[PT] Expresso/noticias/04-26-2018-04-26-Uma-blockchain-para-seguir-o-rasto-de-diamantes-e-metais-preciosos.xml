@@ -1,0 +1,32 @@
+<?xml version=1.0 encoding=UTF-8?>
+<Date>
+26.04.2018 às 19h38
+</Date>
+<Sec>
+Economia
+</Sec>
+<Title>
+Expresso | Uma blockchain para seguir o rasto de diamantes e metais preciosos
+</Title>
+<Description>
+Empresas da indústria joalheira e a IBM vão usar a tecnologia na base das criptomoedas para permitir que consumidores e empresas verifiquem a autenticidade do ouro e diamantes. Solução será disponibilizada a partir do final do ano
+</Description>
+<Text>
+A tecnológica IBM - International Business Machines e um consórcio de empresas da indústria joalheira anunciaram esta quinta-feira “a primeira iniciativa intersectorial para rastrear a origem de peças de joalharia através da blockchain”, anunciou a empresa norte-americana em comunicado enviado ao Expresso. A refinadora de metais preciosos Asahi Refining, a joalheira Helzberg Diamonds, a fornecedora LeachGarner, a fabricante The Richline Group e a entidade independente de supervisão UL lançaram a TrustChainTM, assente na plataforma de blockchain da IBM e no Hyperledger (projeto de colaboração entre várias indústrias desenvolvido pela Linux). A solução deverá ser disponibilizada aos consumidores a partir do final do ano. O objetivo é, numa primeira fase, utilizar a blockchain para seguir o rasto de seis categorias de anéis de noivado de ouro e diamantes ao longo da cadeia de distribuição - desde a sua origem até à fase de comercialização -, disponibilizando verificação digital, verificação de produto e processo e supervisão de terceiros. Numa fase posterior, esta plataforma pode será alargada outros diamantes e metais preciosos. Com esta tecnologia (normalmente associada às criptomoedas como a bitcoin e o ether), as empresas pretendem aumentar a transparência do setor, permitindo que consumidores e empresas possam verificar a sua origem e autenticidade.     
+        require( [ 'ipub/video-player', 'parts/ads-setup' ], function( Player, Ads ) {
+            // init player widget
+            Player.start( '#video-5ae239ff55571', {
+                                                vast: {"skip":true,"showCountdown":true,"url":"https:\/\/www8.smartadserver.com\/ac?siteid=89002&pgid=618879&fmtid=37785&ab=1&tgt=&oc=1&out=vast3&ps=1&pb=0&visit=S&vcn=s&tmstp=[timestamp]","entries":[{"offset":0}]},
+                vastTarget: Ads.getTargetingInfo(),
+                                autoplay: false,
+                panorama: false,
+                volume: 0.50,
+                meta: {
+                    contentUri: '/economia/2017-04-18-IBM-Diamond-Announce.mp4',
+                    title: document.title,
+                    label: '2017-04-18-IBM-Diamond-Announce.mp4'
+                }
+            } );
+        } );
+     “A complexidade e escala global do mercado de jóias cria uma oportunidade para a blockchain ser usada pelos vários intervenientes para melhorar a confiança, transparência e eficiência”, sublinha em comunicado Bridget van Kralingen, vice-presidente sénior da IBM Indústria, Plataformas e Blockchain. “A colaboração beneficiará não só parceiros de negócio, mas também os consumidores.” A blockchain é uma tecnologia inovadora que permite registar, de forma transparente e descentralizada, listas de transações. Estas são armazenadas e validadas de forma segura, distribuída, transparente e autonomizada, sem os dados serem guardados num servidor ou validados por uma única entidade. Pelo contrário, são armazenados e validados por uma rede distribuída de computadores que resolvem problemas matemáticos complexos. Esta é uma tecnologia que faz sentido especialmente em situações em que é necessário conhecer e rastrear um registo de propriedade de um ativo. Saúde, pagamentos, retalho e cadeia de distribuição são alguns dos sectores que podem beneficiar desta tecnologia.
+</Text>

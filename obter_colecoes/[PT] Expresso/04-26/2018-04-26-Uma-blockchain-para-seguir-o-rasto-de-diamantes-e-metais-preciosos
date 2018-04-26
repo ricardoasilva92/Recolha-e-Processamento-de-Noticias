@@ -1,0 +1,246 @@
+<!DOCTYPE html><html class="no-js" lang="pt-PT"><head> <meta charset="UTF-8"/> <meta http-equiv="X-UA-Compatible" content="IE=edge"/> <meta http-equiv="Content-Language" content="pt"> <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no"/> <link rel="manifest" href="/manifest.json"/> <meta name="apple-mobile-web-app-title" content="Expresso"/> <meta name="theme-color" content="#e65100"/> <meta name="msapplication-TileColor" content="#e65100"/> <link rel="icon" sizes="152x152" href="//static.impresa.pt/expresso/2477//assets/gfx/icon.png"/> <meta name="msapplication-square150x150logo" content="//static.impresa.pt/expresso/2477//assets/gfx/icon.png"/> <link rel="dns-prefetch" href="//ajax.googleapis.com"><link rel="preconnect" href="//images-cdn.impresa.pt/"><link rel="stylesheet" type="text/css" href="//static.impresa.pt/expresso/2477//assets/css/main.min.css"/> <!--[if lte IE 8]>
+     <link href="//static.impresa.pt/expresso/2477//assets/respond-proxy.html" id="respond-proxy" rel="respond-proxy"/>  <link href="/assets/gfx/respond.proxy.gif" id="respond-redirect" rel="respond-redirect"/> <script src="//static.impresa.pt/expresso/2477//assets/js/legacy.min.js"></script> <![endif]--> <script src="//static.impresa.pt/expresso/2477//assets/js/head.min.js"></script> <script>
+        require.config({
+            baseUrl: '//static.impresa.pt/expresso/2477//assets/js/'
+        });
+    </script><script>
+    require.config({
+        map: {
+            "*": {
+                'user': 'parts/web/user',
+                'parts/config': 'parts/web/config'
+            }
+        },
+        paths: {
+            'ImpresaSSO': 'https://id.impresa.pt/js/impresa-sso.min'
+        },
+        config: {
+            'parts/web/user': {"profile":{"url":"https:\/\/api.impresa.pt\/profile"},"sso":{"url":"https:\/\/id.impresa.pt","gigyaKey":"3_SlQdOiQ8k-7grQ_Mx0LfKus2fvYJ7ge7QRBxXcLAk0x_hhvxLLYiLrGZwQrLpUlW"}},
+
+            'parts/escolas/2016': {"fbag":{"url":"https:\/\/api.impresa.pt\/bag"}},
+
+            'parts/escolas/2017': {"fbag":{"url":"https:\/\/api.impresa.pt\/bag"}},
+
+            'parts/eleicoes/autarquicas2017': {"fbag":{"url":"https:\/\/api.impresa.pt\/bag"}}
+        }
+    });
+
+        window.lazySizesConfig = window.lazySizesConfig || {};
+    window.lazySizesConfig.lazyClass = "js-lazy-picture";
+    window.lazySizesConfig.preloadClass = "js-lazy-picture-preload";
+    window.lazySizesConfig.loadingClass = "js-lazy-picture-loading";
+    window.lazySizesConfig.loadedClass = "js-lazy-picture-loaded";
+    </script><script async>
+    require(['modernizr', 'parts/ua']);
+
+        require(['picturefill', 'lazysizes']);
+    
+        require(['parts/trackr'], function (Trackr) { Trackr.trackPage(document.location.pathname, document.title); });
+    
+        require( ['parts/getSocial' ], function( GetSocial ) {
+        GetSocial.init( { id: 'ffe7f9' } );
+    } );
+    </script> <title>Expresso | Uma blockchain para seguir o rasto de diamantes e metais preciosos</title><meta name="twitter:title" property="og:title" content="Uma blockchain para seguir o rasto de diamantes e metais preciosos"/><link rel="canonical" href="http://expresso.sapo.pt/economia/2018-04-26-Uma-blockchain-para-seguir-o-rasto-de-diamantes-e-metais-preciosos"><meta name="twitter:url" property="og:url" content="http://expresso.sapo.pt/economia/2018-04-26-Uma-blockchain-para-seguir-o-rasto-de-diamantes-e-metais-preciosos"> <meta name="description" content="Empresas da indústria joalheira e a IBM vão usar a tecnologia na base das criptomoedas para permitir que consumidores e empresas verifiquem a autenticidade do ouro e diamantes. Solução será disponibilizada a partir do final do ano"> <meta name="twitter:description" property="og:description" content="Empresas da indústria joalheira e a IBM vão usar a tecnologia na base das criptomoedas para permitir que consumidores e empresas verifiquem a autenticidade do ouro e diamantes. Solução será disponibilizada a partir do final do ano"/> <meta name="twitter:image" property="og:image" content="http://images-cdn.impresa.pt/expresso/2018-02-08-diamantes/fb/wm"/><meta property="og:image:width" content="1200"/><meta property="og:image:height" content="630"/><meta name="twitter:card" content="summary"><meta property="og:type" content="article"><meta name="twitter:site" content="@expresso"/><meta property="og:site_name" content="Jornal Expresso"/><link rel="alternate" type="application/rss+xml" title="Expresso RSS" href="http://feeds.feedburner.com/expresso-geral"/> <meta property="impresa:id" content="885cc83e-a752-4834-9865-7ebefe841fa6"/> <meta property="impresa:type" content="ARTICLE"/> <meta property="impresa:publishedDate" content="2018-04-26T18:38:38.655Z"/> <script>
+        window.ImpresaAdTargeting = {"_":"economia","url":"2018-04-26-Uma-blockchain-para-seguir-o-rasto-de-diamantes-e-metais-preciosos","tag":""};
+    </script> </head><body class="skin-economia full-article "> <!--[if lt IE 8]>
+    <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a
+            href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+    <![endif]--> <div id="impresaBar" class="impresaBar"></div><script async>
+    require(['impresa-bars'], function (Bar) {
+        Bar.init("#impresaBar", {template: "expresso", active: "olimpia"});
+    });
+</script> <div class="headerElementsWrapper"> <div class="headerElements"> <ul class="headerTopLinks"> <li> <a href="http://promo.impresa.pt/cartaomx/COB7I.html" target="_blank">Assinar</a> </li> <li> <a href="https://loja.expresso.pt" target="_blank">Loja</a> </li> </ul> <section class="headerSocial"> <h2 class="socialLinksHeader">Siga-nos</h2><ul class="social"> <li class="facebook"> <a href="https://www.facebook.com/jornalexpresso" title="Facebook"><i class="icon icon-facebook"></i><span>Facebook</span></a> </li> <li class="twitter"> <a href="https://twitter.com/expresso" title="Twitter"><i class="icon icon-twitter"></i><span>Twitter</span></a> </li> <li class="rss"> <a href="http://feeds.feedburner.com/expresso-geral" title="RSS"><i class="icon icon-rss"></i><span>RSS</span></a> </li> </ul> </section> <div class="headerActions"> <p class="headerUser"> <button class="btn login js-loginButton" title="Login"><span>Login</span> <i class="icon icon-user"></i></button> <button class="btn logout js-logoutButton" title="Logout"><span>Logout</span></button> <a class="btn profile" href="https://perfil.impresa.pt" target="_blank" title="Perfil"><span>Perfil</span> <i class="icon icon-user"></i></a></p><script async>
+    require(['user'], function(User) {
+        User.update();
+    });
+</script> </div></div> </div> <div id="bsu_root"></div> <script async>
+        require(['parts/relative-times'], function(RelativeTimes) {
+            RelativeTimes.start(document, { selector: '.js-relative-time' });
+        });
+    </script> <div class="adContainer billboard" id="impresaBillboard"></div><script async>
+    require(['ipub'], function (Ads) {
+        Ads.register("#impresaBillboard", 'billboard');
+    });
+</script> <header class="mainHeader js-mainHeader"> <section class="headerTop"> <button class="menuTrigger js-menuTrigger" style="display: none;"><i class="icon icon-menu"></i><span>Menu</span></button> <h1 class="headerLogo"><a href="/economia">Economia</a></h1> <div class="headerRight"> <ul class="headerMajorLinks"> <li><a class="expresso" href="/destaques"><span>Expresso</span></a></li> <li><a class="diario" href="/diario" title="Diário"><span>Diário</span></a></li> <li><a class="semanario" href="/semanario" title="Semanário"><span>Semanário</span></a></li> </ul> </div> </section> <section class="headerNavigation js-headerNavigation" data-href="/api/molecule/header/navigation/"></section> <section class="subHeader" id="headerNavigationTarget"> <section class="default"></section> <section class="content"></section> </section></header><div class="js-header-target"></div><script async>
+    require(['jquery', 'widgets/visibility-checker', 'parts/header', 'parts/sidebar', 'widgets/content-loader'],
+            function($, VisibilityChecker, Header, Sidebar, ContentLoader) {
+                var $header = $('.js-mainHeader'),
+                    $menuTrigger = $header.find('.js-menuTrigger'),
+                    $parts = $header.find('.js-headerNavigation, .js-headerTopLinks');
+
+                                // Header Collapse
+                Header.start($header, {
+                    className: 'collapsedHeader',
+                    target: '.js-header-target',
+                    placeholder: true,
+                    placeholderClass: 'mainHeaderPlaceholder',
+                    placeholderOutClass: 'mainHeaderPlaceholderOut'
+                });
+                
+                                // Sidebar trigger
+                Sidebar.start($menuTrigger, {
+                    className: 'sideMenuIsExpanded',
+                    ignore: '.sideNavigation',
+                    scrollTarget: $header,
+                    targetSelector: '.js-sideNavigation'
+                });
+
+                // Show the menu trigger
+                $menuTrigger.show();
+                
+                // Load Header Parts
+                VisibilityChecker.start($parts, {
+                    onVisible: function($el) {
+                        this.stop();
+
+                        ContentLoader.start($el, {
+                            cache: true
+                        });
+                    }
+                });
+            });
+</script> <div class="adContainer pushdown homePushdown" id="pushdown"></div><script async>
+    require(['ipub'], function (Ads) {
+        Ads.register("#pushdown", 'pushdown');
+    });
+</script> <div class="wrapper"> <main class="mainContent"> <article itemscope itemtype="http://schema.org/NewsArticle" class="MC-ex_sections_23413 AT-noticia noPicture noLead notHeadline notIsolated"> <div class="innerMaster"> <section class="content halfWidth marginLess"> <div class="fullArticle"> <header> <p class="mainSection"> <a href="/economia">Economia</a></p> <h1 class="title " itemprop="name"> Uma blockchain para seguir o rasto de diamantes e metais preciosos </h1> <div class="articleToolsContainer"> <p class="timeStamp publishedDate" datetime="2018-04-26T18:38:38.655Z" itemprop="datePublished"> 26.04.2018 às 19h38</p> <ul class="shareTools " id="social-5ae239ff5499c"> <li class="share-facebook"> <a href="http://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fexpresso.sapo.pt%2Feconomia%2F2018-04-26-Uma-blockchain-para-seguir-o-rasto-de-diamantes-e-metais-preciosos&amp;t=Uma%20blockchain%20para%20seguir%20o%20rasto%20de%20diamantes%20e%20metais%20preciosos" data-type="facebook" class="shareToolsEntry js-share gs-foreign-tracking gs-provider-facebook" target="_blank" title="Facebook"> <i class="icon icon-facebook"></i> <span>Facebook</span> </a> </li> <li class="share-twitter"> <a href="http://twitter.com/intent/tweet?url=http%3A%2F%2Fexpresso.sapo.pt%2Feconomia%2F2018-04-26-Uma-blockchain-para-seguir-o-rasto-de-diamantes-e-metais-preciosos&amp;text=Uma%20blockchain%20para%20seguir%20o%20rasto%20de%20diamantes%20e%20metais%20preciosos&amp;via=expresso" data-type="twitter" class="shareToolsEntry js-sharegs-foreign-tracking gs-provider-twitter" target="_blank" title="Twitter"> <i class="icon icon-twitter"></i> <span>Twitter</span> </a> </li> <li class="share-mail"> <a href="mailto:?subject=Uma%20blockchain%20para%20seguir%20o%20rasto%20de%20diamantes%20e%20metais%20preciosos&amp;body=Uma%20blockchain%20para%20seguir%20o%20rasto%20de%20diamantes%20e%20metais%20preciosos%0D%0A%0D%0AEmpresas%20da%20ind%C3%BAstria%20joalheira%20e%20a%20IBM%20v%C3%A3o%20usar%20a%20tecnologia%20na%20base%20das%20criptomoedas%20para%20permitir%20que%20consumidores%20e%20empresas%20verifiquem%20a%20autenticidade%20do%20ouro%20e%20diamantes.%20Solu%C3%A7%C3%A3o%20ser%C3%A1%20disponibilizada%20a%20partir%20do%20final%20do%20ano%0D%0A%0D%0ALer mais: http%3A%2F%2Fexpresso.sapo.pt%2Feconomia%2F2018-04-26-Uma-blockchain-para-seguir-o-rasto-de-diamantes-e-metais-preciosos" data-type="email" title="Email" class="shareToolsEntry gs-foreign-tracking gs-provider-email"> <i class="icon icon-mail"></i> <span>Email</span> </a> </li> <li class="share-whatsapp"> <a href="whatsapp://send?text=Uma%20blockchain%20para%20seguir%20o%20rasto%20de%20diamantes%20e%20metais%20preciosos%20http%3A%2F%2Fexpresso.sapo.pt%2Feconomia%2F2018-04-26-Uma-blockchain-para-seguir-o-rasto-de-diamantes-e-metais-preciosos" class="shareToolsEntry" data-type="whatsapp" target="_blank" title="Whatsapp" style="display:none"> <i class="icon icon-whatsapp"></i> <span>Whatsapp</span> </a> </li> <li class="share-showMore"> <div class="shareToolsEntry"> <i class="icon icon-dot-3"></i> <span>Mais</span> </div> <div class="moreShareTools"> <div class="moreShareToolsInner"> <ul> <li class="share-google+"> <a href="http://plus.google.com/share?url=http%3A%2F%2Fexpresso.sapo.pt%2Feconomia%2F2018-04-26-Uma-blockchain-para-seguir-o-rasto-de-diamantes-e-metais-preciosos" data-type="googleplus" class="shareToolsEntry js-share gs-foreign-tracking gs-provider-google" target="_blank" title="Google+"> <i class="icon icon-gplus"></i> <span>Google+</span> </a> </li> <li class="share-linkedin"> <a href="https://www.linkedin.com/shareArticle?mini=true&amp;title=Uma%20blockchain%20para%20seguir%20o%20rasto%20de%20diamantes%20e%20metais%20preciosos&amp;summary=Empresas%20da%20ind%C3%BAstria%20joalheira%20e%20a%20IBM%20v%C3%A3o%20usar%20a%20tecnologia%20na%20base%20das%20criptomoedas%20para%20permitir%20que%20consumidores%20e%20empresas%20verifiquem%20a%20autenticidade%20do%20ouro%20e%20diamantes.%20Solu%C3%A7%C3%A3o%20ser%C3%A1%20disponibilizada%20a%20partir%20do%20final%20do%20ano&amp;url=http%3A%2F%2Fexpresso.sapo.pt%2Feconomia%2F2018-04-26-Uma-blockchain-para-seguir-o-rasto-de-diamantes-e-metais-preciosos&amp;source=Expresso" data-type="linkedin" class="shareToolsEntry js-share gs-foreign-tracking gs-provider-linkedin" target="_blank" title="Linkedin"> <i class="icon icon-linkedin"></i> <span>Linkedin</span> </a> </li> <li class="share-pinterest"> <a href="https://www.pinterest.com/pin/create/link/?url=http%3A%2F%2Fexpresso.sapo.pt%2Feconomia%2F2018-04-26-Uma-blockchain-para-seguir-o-rasto-de-diamantes-e-metais-preciosos&amp;media=%2F%2Fimages-cdn.impresa.pt%2Fexpresso%2F2018-02-08-diamantes%3Fv%3Dw620h395&amp;description=Uma%20blockchain%20para%20seguir%20o%20rasto%20de%20diamantes%20e%20metais%20preciosos" data-type="pinterest" class="shareToolsEntry js-share gs-foreign-tracking gs-provider-pinterest" target="_blank" title="Pinterest"> <i class="icon icon-pinterest"></i> <span>Pinterest</span> </a> </li> </ul> <div class="linkTool"> <p class="inputLabel">Link:</p> <div class="inputContainer"> <input aria-label="Link para partilha" readonly="readonly" class="url" type="text" value="http://expresso.sapo.pt/economia/2018-04-26-Uma-blockchain-para-seguir-o-rasto-de-diamantes-e-metais-preciosos" onclick="this.focus();this.select()"> </div> </div> </div> </div> </li> </ul><script async>
+    require(['widgets/social-share'], function (SocialShare) {
+        SocialShare.start('#social-5ae239ff5499c');
+    });
+</script> </div></header> </div> </section> </div> <div class="innerMaster article-bottom"> <section class="content halfWidth content-top"> <div class="fullArticle"> <div class="afterHeader"> <figure> <picture class="landscape"> <img src="//images-cdn.impresa.pt/expresso/2018-02-08-diamantes/original/mw-860" alt="" class="js-lazy-picture" data-srcset="//images-cdn.impresa.pt/expresso/2018-02-08-diamantes/original/mw-240 240w, //images-cdn.impresa.pt/expresso/2018-02-08-diamantes/original/mw-320 320w, //images-cdn.impresa.pt/expresso/2018-02-08-diamantes/original/mw-480 480w, //images-cdn.impresa.pt/expresso/2018-02-08-diamantes/original/mw-680 680w, //images-cdn.impresa.pt/expresso/2018-02-08-diamantes/original/mw-768 768w, //images-cdn.impresa.pt/expresso/2018-02-08-diamantes/original/mw-860 860w, //images-cdn.impresa.pt/expresso/2018-02-08-diamantes/original/mw-960 960w, //images-cdn.impresa.pt/expresso/2018-02-08-diamantes/original/mw-1024 1024w, //images-cdn.impresa.pt/expresso/2018-02-08-diamantes/original/mw-1280 1280w, //images-cdn.impresa.pt/expresso/2018-02-08-diamantes/original/mw-1920 1920w, //images-cdn.impresa.pt/expresso/2018-02-08-diamantes/original/mw-2048 2048w" data-sizes="(min-width: 1280px) 860px, (min-width: 768px) 75vw, 100vw" /> </picture> <figcaption> <p class="credits">Getty Images</p> </figcaption> </figure> <h2 class="lead"> Empresas da indústria joalheira e a IBM vão usar a tecnologia na base das criptomoedas para permitir que consumidores e empresas verifiquem a autenticidade do ouro e diamantes. Solução será disponibilizada a partir do final do ano </h2></div><div class="articleSide"> <section class="signature singleAuthor"> <div class="authorContainer"> <figure> <a href="/autores/2015-05-02-Maria-Joao-Bourbon" target="_self" > <picture class="portrait"> <img src="//images-cdn.impresa.pt/expresso/2015-05-20-Maria-Joao-Bourbon.jpg-1/1x1/mw-30" alt="Maria João Bourbon" class="js-lazy-picture" data-srcset="//images-cdn.impresa.pt/expresso/2015-05-20-Maria-Joao-Bourbon.jpg-1/1x1/mw-30 30w, //images-cdn.impresa.pt/expresso/2015-05-20-Maria-Joao-Bourbon.jpg-1/1x1/mw-50 50w, //images-cdn.impresa.pt/expresso/2015-05-20-Maria-Joao-Bourbon.jpg-1/1x1/mw-70 70w, //images-cdn.impresa.pt/expresso/2015-05-20-Maria-Joao-Bourbon.jpg-1/1x1/mw-100 100w, //images-cdn.impresa.pt/expresso/2015-05-20-Maria-Joao-Bourbon.jpg-1/1x1/mw-140 140w, //images-cdn.impresa.pt/expresso/2015-05-20-Maria-Joao-Bourbon.jpg-1/1x1/mw-200 200w, //images-cdn.impresa.pt/expresso/2015-05-20-Maria-Joao-Bourbon.jpg-1/1x1/mw-380 380w" data-sizes="(min-width: 768px) 50px, 30px" /> </picture></a> </figure> <p class="author"> <a href="/autores/2015-05-02-Maria-Joao-Bourbon"> Maria João Bourbon </a></p> <p class="profession">Jornalista</p> </div> </section> </div> <div class="adContainer atHomeFeed mrec onlyWithoutSidebar bottomLabel" id="Pub5ae239ff552e5"> <div class="adWrapper" style="display:none;"></div> </div> <script async>
+            require(['ipub'], function (Ads) {
+                Ads.register("#Pub5ae239ff552e5", 'mrec-alt', '#Pub5ae239ff552e5 .adWrapper');
+            });
+        </script> <div class="articleContent"> <p>A tecnológica IBM - International Business Machines e um consórcio de empresas da indústria joalheira anunciaram esta quinta-feira “a primeira iniciativa intersectorial para rastrear a origem de peças de joalharia através da blockchain”, anunciou a empresa norte-americana em comunicado enviado ao Expresso.</p> <p>A refinadora de metais preciosos Asahi Refining, a joalheira Helzberg Diamonds, a fornecedora LeachGarner, a fabricante The Richline Group e a entidade independente de supervisão UL lançaram a TrustChainTM, assente na plataforma de blockchain da IBM e no Hyperledger (projeto de colaboração entre várias indústrias desenvolvido pela Linux). A solução deverá ser disponibilizada aos consumidores a partir do final do ano.</p> <p>O objetivo é, numa primeira fase, utilizar a blockchain para seguir o rasto de seis categorias de anéis de noivado de ouro e diamantes ao longo da cadeia de distribuição - desde a sua origem até à fase de comercialização -, disponibilizando verificação digital, verificação de produto e processo e supervisão de terceiros. Numa fase posterior, esta plataforma pode será alargada outros diamantes e metais preciosos.</p> <p>Com esta tecnologia (normalmente associada às criptomoedas como a bitcoin e o ether), as empresas pretendem aumentar a transparência do setor, permitindo que consumidores e empresas possam verificar a sua origem e autenticidade.</p> <div class="videoContainer placement-"> <video id="video-5ae239ff55571" class="video-player-container video-js vjs-default-skin" width="1024" height="576" controls preload="none" poster="//images-cdn.impresa.pt/expresso/2018-04-26-h264_thumb0_sec_0.png-1/16x9/mw-680"> <source src="//videos.impresa.pt/expresso/2018-04-26/3c66c66c-5dc0-4a03-a178-6d8628815034_ibm-diamond-announce.mp4/net_wide" type="video/mp4"/> </video> <script async>
+        require( [ 'ipub/video-player', 'parts/ads-setup' ], function( Player, Ads ) {
+            // init player widget
+            Player.start( '#video-5ae239ff55571', {
+                                                vast: {"skip":true,"showCountdown":true,"url":"https:\/\/www8.smartadserver.com\/ac?siteid=89002&pgid=618879&fmtid=37785&ab=1&tgt=&oc=1&out=vast3&ps=1&pb=0&visit=S&vcn=s&tmstp=[timestamp]","entries":[{"offset":0}]},
+                vastTarget: Ads.getTargetingInfo(),
+                                autoplay: false,
+                panorama: false,
+                volume: 0.50,
+                meta: {
+                    contentUri: '/economia/2017-04-18-IBM-Diamond-Announce.mp4',
+                    title: document.title,
+                    label: '2017-04-18-IBM-Diamond-Announce.mp4'
+                }
+            } );
+        } );
+    </script></div> <p>“A complexidade e escala global do mercado de jóias cria uma oportunidade para a blockchain ser usada pelos vários intervenientes para melhorar a confiança, transparência e eficiência”, sublinha em comunicado Bridget van Kralingen, vice-presidente sénior da IBM Indústria, Plataformas e Blockchain. “A colaboração beneficiará não só parceiros de negócio, mas também os consumidores.”</p> <p>A blockchain é uma tecnologia inovadora que permite registar, de forma transparente e descentralizada, listas de transações. Estas são armazenadas e validadas de forma segura, distribuída, transparente e autonomizada, sem os dados serem guardados num servidor ou validados por uma única entidade. Pelo contrário, são armazenados e validados por uma rede distribuída de computadores que resolvem problemas matemáticos complexos.</p> <p>Esta é uma tecnologia que faz sentido especialmente em situações em que é necessário conhecer e rastrear um registo de propriedade de um ativo. Saúde, pagamentos, retalho e cadeia de distribuição são alguns dos sectores que podem beneficiar desta tecnologia.</p> </div><footer class="articleFooter"> <div class="articleToolsContainer"> <ul class="shareTools " id="social-5ae239ff55691"> <li class="share-facebook"> <a href="http://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fexpresso.sapo.pt%2Feconomia%2F2018-04-26-Uma-blockchain-para-seguir-o-rasto-de-diamantes-e-metais-preciosos&amp;t=Uma%20blockchain%20para%20seguir%20o%20rasto%20de%20diamantes%20e%20metais%20preciosos" data-type="facebook" class="shareToolsEntry js-share gs-foreign-tracking gs-provider-facebook" target="_blank" title="Facebook"> <i class="icon icon-facebook"></i> <span>Facebook</span> </a> </li> <li class="share-twitter"> <a href="http://twitter.com/intent/tweet?url=http%3A%2F%2Fexpresso.sapo.pt%2Feconomia%2F2018-04-26-Uma-blockchain-para-seguir-o-rasto-de-diamantes-e-metais-preciosos&amp;text=Uma%20blockchain%20para%20seguir%20o%20rasto%20de%20diamantes%20e%20metais%20preciosos&amp;via=expresso" data-type="twitter" class="shareToolsEntry js-sharegs-foreign-tracking gs-provider-twitter" target="_blank" title="Twitter"> <i class="icon icon-twitter"></i> <span>Twitter</span> </a> </li> <li class="share-mail"> <a href="mailto:?subject=Uma%20blockchain%20para%20seguir%20o%20rasto%20de%20diamantes%20e%20metais%20preciosos&amp;body=Uma%20blockchain%20para%20seguir%20o%20rasto%20de%20diamantes%20e%20metais%20preciosos%0D%0A%0D%0AEmpresas%20da%20ind%C3%BAstria%20joalheira%20e%20a%20IBM%20v%C3%A3o%20usar%20a%20tecnologia%20na%20base%20das%20criptomoedas%20para%20permitir%20que%20consumidores%20e%20empresas%20verifiquem%20a%20autenticidade%20do%20ouro%20e%20diamantes.%20Solu%C3%A7%C3%A3o%20ser%C3%A1%20disponibilizada%20a%20partir%20do%20final%20do%20ano%0D%0A%0D%0ALer mais: http%3A%2F%2Fexpresso.sapo.pt%2Feconomia%2F2018-04-26-Uma-blockchain-para-seguir-o-rasto-de-diamantes-e-metais-preciosos" data-type="email" title="Email" class="shareToolsEntry gs-foreign-tracking gs-provider-email"> <i class="icon icon-mail"></i> <span>Email</span> </a> </li> <li class="share-whatsapp"> <a href="whatsapp://send?text=Uma%20blockchain%20para%20seguir%20o%20rasto%20de%20diamantes%20e%20metais%20preciosos%20http%3A%2F%2Fexpresso.sapo.pt%2Feconomia%2F2018-04-26-Uma-blockchain-para-seguir-o-rasto-de-diamantes-e-metais-preciosos" class="shareToolsEntry" data-type="whatsapp" target="_blank" title="Whatsapp" style="display:none"> <i class="icon icon-whatsapp"></i> <span>Whatsapp</span> </a> </li> <li class="share-showMore"> <div class="shareToolsEntry"> <i class="icon icon-dot-3"></i> <span>Mais</span> </div> <div class="moreShareTools"> <div class="moreShareToolsInner"> <ul> <li class="share-google+"> <a href="http://plus.google.com/share?url=http%3A%2F%2Fexpresso.sapo.pt%2Feconomia%2F2018-04-26-Uma-blockchain-para-seguir-o-rasto-de-diamantes-e-metais-preciosos" data-type="googleplus" class="shareToolsEntry js-share gs-foreign-tracking gs-provider-google" target="_blank" title="Google+"> <i class="icon icon-gplus"></i> <span>Google+</span> </a> </li> <li class="share-linkedin"> <a href="https://www.linkedin.com/shareArticle?mini=true&amp;title=Uma%20blockchain%20para%20seguir%20o%20rasto%20de%20diamantes%20e%20metais%20preciosos&amp;summary=Empresas%20da%20ind%C3%BAstria%20joalheira%20e%20a%20IBM%20v%C3%A3o%20usar%20a%20tecnologia%20na%20base%20das%20criptomoedas%20para%20permitir%20que%20consumidores%20e%20empresas%20verifiquem%20a%20autenticidade%20do%20ouro%20e%20diamantes.%20Solu%C3%A7%C3%A3o%20ser%C3%A1%20disponibilizada%20a%20partir%20do%20final%20do%20ano&amp;url=http%3A%2F%2Fexpresso.sapo.pt%2Feconomia%2F2018-04-26-Uma-blockchain-para-seguir-o-rasto-de-diamantes-e-metais-preciosos&amp;source=Expresso" data-type="linkedin" class="shareToolsEntry js-share gs-foreign-tracking gs-provider-linkedin" target="_blank" title="Linkedin"> <i class="icon icon-linkedin"></i> <span>Linkedin</span> </a> </li> <li class="share-pinterest"> <a href="https://www.pinterest.com/pin/create/link/?url=http%3A%2F%2Fexpresso.sapo.pt%2Feconomia%2F2018-04-26-Uma-blockchain-para-seguir-o-rasto-de-diamantes-e-metais-preciosos&amp;media=%2F%2Fimages-cdn.impresa.pt%2Fexpresso%2F2018-02-08-diamantes%3Fv%3Dw620h395&amp;description=Uma%20blockchain%20para%20seguir%20o%20rasto%20de%20diamantes%20e%20metais%20preciosos" data-type="pinterest" class="shareToolsEntry js-share gs-foreign-tracking gs-provider-pinterest" target="_blank" title="Pinterest"> <i class="icon icon-pinterest"></i> <span>Pinterest</span> </a> </li> </ul> <div class="linkTool"> <p class="inputLabel">Link:</p> <div class="inputContainer"> <input aria-label="Link para partilha" readonly="readonly" class="url" type="text" value="http://expresso.sapo.pt/economia/2018-04-26-Uma-blockchain-para-seguir-o-rasto-de-diamantes-e-metais-preciosos" onclick="this.focus();this.select()"> </div> </div> </div> </div> </li> </ul><script async>
+    require(['widgets/social-share'], function (SocialShare) {
+        SocialShare.start('#social-5ae239ff55691');
+    });
+</script> </div></footer> </div> <div class="adContainer autopromo"> <div id="Pub5ae239ff557bc" class="adWrapper"></div> <script async>
+            require(['ipub'], function (Ads) {
+                Ads.register("#Pub5ae239ff557bc", "ad-slot");
+            });
+        </script> </div> </section> <section class="rightSidebar js-sidebar js-right-sidebar article-top" id="rightSidebar5ae239ff5598a" data-ads-section="/economia" data-href="/api/molecule/sidebar/top?location=site"> <div class="placeholder mrec"></div> <div class="placeholder"> <span></span> <span></span> </div> <script async>
+            require(['widgets/visibility-checker', 'widgets/content-loader'],
+                    function(VisibilityChecker, ContentLoader) {
+                        // Load Sidebar Parts
+                        VisibilityChecker.start("#rightSidebar5ae239ff5598a", {
+                            viewport: false,
+                            onVisible: function($el) {
+                                this.stop();
+
+                                ContentLoader.start($el, {
+                                    cache: true
+                                });
+                            }
+                        });
+                    });
+        </script> </section> </div> </article> <div class="innerMaster"> <section class="content halfWidth"> <div class="adContainer atHomeFeed mrec onlyWithoutSidebar" id="Pub5ae239ff55a53"> <div class="adWrapper" style="display:none;"></div> </div> <script async>
+            require(['ipub'], function (Ads) {
+                Ads.register("#Pub5ae239ff55a53", 'mrec', '#Pub5ae239ff55a53 .adWrapper');
+            });
+        </script> <div id="List5ae239ff55c19" data-href="/api/molecule/recommendation"> <div class="loading js-loader" style="display: none; margin-bottom:40px">A carregar...</div> </div> <script async>
+        require(['parts/recommended-priberam'], function(RecommendedPriberam) {
+            RecommendedPriberam.start('#List5ae239ff55c19', {
+                'limit': 3,
+                'articleId': '885cc83e-a752-4834-9865-7ebefe841fa6'
+            });
+        });
+    </script> <div class="adContainer revcontent" id="revContent"></div><script async>
+    require(['ipub'], function (Ads) {
+        Ads.register("#revContent", 'revcontent');
+    });
+</script> <div id="homeLatest" data-href="/api/molecule/latest//economia"> <div class="js-container inArticleContext"></div> <button class="js-more moreButton" style="display: none">Mais Artigos</button> <div class="loading js-loader" style="display: none; margin-bottom:40px">a carregar...</div></div><script async>
+    require(['parts/latest'], function(InfiniteScroll) {
+        InfiniteScroll.start('#homeLatest', {
+            'auto': true,
+            'title': 'Economia',
+            'offset-attribute': 'datetime',
+            'more-selector': '.js-more',
+            'loader-selector': '.js-loader',
+            'container-selector': '.js-container'
+        });
+    });
+</script> </section> <section class="rightSidebar js-sidebar js-right-sidebar article-bottom" id="rightSidebar5ae239ff55f14" data-ads-section="/economia" data-href="/api/molecule/sidebar/bottom?location=site"> <div class="placeholder"> <span></span> <span></span> </div> <script async>
+            require(['widgets/visibility-checker', 'widgets/content-loader'],
+                    function(VisibilityChecker, ContentLoader) {
+                        // Load Sidebar Parts
+                        VisibilityChecker.start("#rightSidebar5ae239ff55f14", {
+                            viewport: false,
+                            onVisible: function($el) {
+                                this.stop();
+
+                                ContentLoader.start($el, {
+                                    cache: true
+                                });
+                            }
+                        });
+                    });
+        </script> </section><script async>
+    require(['parts/sticky-scroll'], function(StickyScroll) {
+        StickyScroll.start("#rightSidebar5ae239ff55f14", {
+            infinite: 1
+        });
+    });
+</script> </div> </main> <nav class="sideNavigation js-sideNavigation"> <div class="inner"> <div class="sidenavActions"> <form class="sidenavSearch search-bar" action="/pesquisa" > <div class="search-input-wrap"> <input type="search" placeholder="Pesquisa" class="search-input" name="q" value=""/> </div> <button type="submit" title="Pesquisar" class="search-submit icon icon-search"><span>Pesquisar</span></button> </form> <p class="sidenavUser"> <button class="btn login js-loginButton" title="Login"><span>Login</span> <i class="icon icon-user"></i></button> <button class="btn register js-registerButton" title="Registo"><span>Registo</span> <i class="icon icon-user"></i></button> <button class="btn logout js-logoutButton" title="Logout"><span>Logout</span></button> <a class="btn profile" href="https://perfil.impresa.pt" target="_blank" title="Perfil"><span>Perfil</span> <i class="icon icon-user"></i></a> </p> <script async>
+    require(['user'], function(User) {
+        User.update();
+    });
+</script> </div> <section > <h2>Edições</h2> <ul> <li><a href="/diario" >Diário</a> </li> <li><a href="/semanario" >Semanário</a> </li> <li><a href="/newsletters/expressomatinal" >Expresso Curto</a> </li> <li><a href="/podcasts" >Podcasts</a> </li> <li><a href="http://tribuna.expresso.pt" >Tribuna</a> </li> </ul> </section> <section > <h2>Secções</h2> <ul> <li><a href="/destaques" >Início</a> </li> <li><a href="/ultimas" >Últimas</a> </li> <li><a href="/ineditos" >Inéditos</a> </li> <li><a href="/multimedia" >Multimédia</a> </li> <li><a href="/politica" >Política</a> </li> <li><a href="/sociedade" >Sociedade</a> </li> <li><a href="/internacional" >Internacional</a> </li> <li><a href="/economia" >Economia</a> </li> <li><a href="http://tribuna.expresso.pt" >Desporto</a> </li> <li><a href="/cultura" >Cultura</a> </li> <li><a href="/opiniao" >Opinião</a> </li> <li><a href="/gen.pl?sid=ex.sections/25024&amp;amp;m2=48" >Cartoons</a> </li> <li><a href="/gen.pl?sid=ex.sections/23425&amp;amp;m2=45" >Está dito</a> </li> </ul> </section> <section > <h2>Iniciativas</h2> <ul> <li><a href="/economia/gic" >Global Investment Challenge</a> </li> <li><a href="/iniciativaseprodutos/entrepreneur-of-the-year" >Entrepreneur Of The Year</a> </li> </ul> </section> <section > <h2>Classificados</h2> <ul> <li><a href="http://expressoemprego.pt/" target="_blank">Emprego</a> </li> <li><a href="http://bpiexpressoimobiliario.pt/" target="_blank">Imobiliário</a> </li> </ul> </section> <section class="meta"> <h2 class="socialLinksHeader">Siga-nos</h2><ul class="social"> <li class="facebook"> <a href="https://www.facebook.com/jornalexpresso" title="Facebook"><i class="icon icon-facebook"></i><span>Facebook</span></a> </li> <li class="twitter"> <a href="https://twitter.com/expresso" title="Twitter"><i class="icon icon-twitter"></i><span>Twitter</span></a> </li> <li class="googlePlus"> <a href="https://plus.google.com/110189231159586871953/posts" title="Google+"><i class="icon icon-gplus"></i><span>Google+</span></a> </li> <li class="linkedIn"> <a href="https://www.linkedin.com/company/expresso-emprego" title="LinkedIn"><i class="icon icon-linkedin"></i><span>LinkedIn</span></a> </li> <li class="rss"> <a href="http://feeds.feedburner.com/expresso-geral" title="RSS"><i class="icon icon-rss"></i><span>RSS</span></a> </li> </ul> <ul class="institucional"> <li><a href="/gen.pl?p=stories&amp;fokey=ex.stories/774690&amp;op=view&amp;mid1=ex.menus/66&amp;m2=487" >Estatuto editorial</a> </li> <li><a href="/gen.pl?p=stories&amp;fokey=ex.stories/198040&amp;op=view&amp;mid1=ex.menus/66&amp;m2=487" >Código de Conduta</a> </li> <li><a href="/gen.pl?p=stories&amp;fokey=ex.stories/774685&amp;op=view&amp;mid1=ex.menus/66&amp;m2=488" >Ficha Técnica do Expresso</a> </li> <li><a href="/informacao/cookies/2015-05-03-Politica-de-cookies" >Política de cookies</a> </li> <li><a href="/arquivo/paginas_institucionais/termos_de_utilizacao/2015-05-03-Termos-de-Utilizacao-1" >Termos de utilização</a> </li> <li><a href="/informacao/PolticadePrivacidade/2015-05-04-Politica-de-privacidade" >Política de privacidade</a> </li> <li><a href="/regras-da-comunidade=f740487" >Regras da Comunidade</a> </li> <li><a href="/gen.pl?p=stories&amp;op=view&amp;fokey=ex.stories/723177" >Publicidade</a> </li> <li><a href="/contactos-directos=f774722" >Contactos</a> </li> <li><a href="http://www.impresa.pt/lei782015" target="_blank">Lei da Transparência</a> </li> <li><a href="http://promo.impresa.pt/cartaomx/COB7I.html" target="_blank">Assinar</a> </li> <li><a href="/cartas-ao-diretor" >Cartas ao Director</a> </li> <li><a href="https://loja.expresso.pt" target="_blank">Loja</a> </li> </ul> <p class="copyright">&copy; Expresso Impresa Publishing S.A.</p> </section> <section class="footerImpresaContainer"> <div id="impresaFooter"></div> <script>
+                require(['impresa-footer'], function(Lib) {
+                    Lib.init('#impresaFooter',{responsive:false});
+                });
+            </script> </section> </div> <script async>
+        require(['jquery', 'parts/scroll-binder'], function ($, ScrollBinder) {
+            var $el = $('.js-sideNavigation');
+
+            ScrollBinder.start($el, {
+                scroller: $el.find('.inner'),
+                mq: '(min-width: 768px)'
+            });
+        });
+    </script></nav> </div> <script async>
+                require(['ipub'], function(Ads) {
+                    Ads.enableOverlay("/1058775/Expresso_Overlay");
+                });
+            </script> <script async>
+    require(['impresa-cookie-policy'], function(Lib) {
+        Lib.init("body", {
+            policyUrl: "/informacao/cookies/2015-05-03-Politica-de-cookies",
+            usageUrl: "/informacao/cookies/2015-05-03-Politica-de-cookies"
+        });
+    });
+</script> <div class="adContainer sniffer" id="Pub5ae239ff56498"></div><script async>
+    require(['ipub'], function (Ads) {
+        Ads.register("#Pub5ae239ff56498", 'xaxis');
+    });
+</script> <div class="adContainer sniffer" id="Pub5ae239ff564df"></div><script async>
+    require(['ipub'], function (Ads) {
+        Ads.register("#Pub5ae239ff564df", 'tracking');
+    });
+</script> <script async>
+            require(['parts/ads-setup'], function (Ads) {
+                Ads.run({"siteId":89002,"pageId":618887,"revcontent":{"widgetId":84556}});
+            });
+        </script> <script async>
+            require(['parts/push-notifications'], function (PushNotifications) {
+                PushNotifications.start('body', {
+                    onesignal: {"subdomainName":"expresso","appId":"14f37390-73dd-4ccf-9a46-0384a2846344","safari_web_id":"web.onesignal.auto.560021c2-877c-448b-9811-f001e7b5ec58"}
+                });
+            });
+        </script> </body></html>

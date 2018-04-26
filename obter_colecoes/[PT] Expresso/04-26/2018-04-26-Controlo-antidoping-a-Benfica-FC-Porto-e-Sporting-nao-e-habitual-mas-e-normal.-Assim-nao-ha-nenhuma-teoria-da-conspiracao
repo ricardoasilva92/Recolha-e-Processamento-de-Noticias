@@ -1,0 +1,185 @@
+<!DOCTYPE html><html class="no-js" lang="pt-PT"><head> <meta charset="UTF-8"/> <meta http-equiv="X-UA-Compatible" content="IE=edge"/> <meta http-equiv="Content-Language" content="pt"> <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no"/> <link rel="manifest" href="/manifest.json"/> <meta name="apple-mobile-web-app-title" content="Tribuna Expresso"/> <meta name="theme-color" content="#102d7b"/> <meta name="msapplication-TileColor" content="#102d7b"/> <link rel="icon" sizes="152x152" href="//static.impresa.pt/tribuna/215//assets/gfx/icon.png"/> <meta name="msapplication-square150x150logo" content="//static.impresa.pt/tribuna/215//assets/gfx/icon.png"/> <link rel="shortcut icon" href="/favicon.ico"/> <link rel="preconnect" href="//ajax.googleapis.com"><link rel="preconnect" href="//images-cdn.impresa.pt/"/><link rel="stylesheet" type="text/css" href="//static.impresa.pt/tribuna/215//assets/css/main.min.css"/> <!--[if lte IE 8]>
+     <link href="//static.impresa.pt/tribuna/215//assets/respond-proxy.html" id="respond-proxy" rel="respond-proxy"/>  <link href="/assets/gfx/respond.proxy.gif" id="respond-redirect" rel="respond-redirect"/> <script src="//static.impresa.pt/tribuna/215//assets/js/legacy.min.js"></script> <![endif]--> <script src="//static.impresa.pt/tribuna/215//assets/js/head.min.js"></script> <script>
+        require.config({
+            baseUrl: '//static.impresa.pt/tribuna/215//assets/js/'
+        });
+    </script><script>
+    require.config({
+        map: {
+            "*": { 'user': 'parts/web/user' }
+        },
+        paths: {
+            'ImpresaSSO': 'https://id.impresa.pt/js/impresa-sso.min'
+        },
+        config: {
+            'parts/web/user': {"profile":{"url":"https:\/\/api.impresa.pt\/profile"},"sso":{"url":"https:\/\/id.impresa.pt","gigyaKey":"3_SlQdOiQ8k-7grQ_Mx0LfKus2fvYJ7ge7QRBxXcLAk0x_hhvxLLYiLrGZwQrLpUlW"}}
+        }
+    });
+
+        window.lazySizesConfig = window.lazySizesConfig || {};
+    window.lazySizesConfig.lazyClass = "js-lazy-picture";
+    window.lazySizesConfig.preloadClass = "js-lazy-picture-preload";
+    window.lazySizesConfig.loadingClass = "js-lazy-picture-loading";
+    window.lazySizesConfig.loadedClass = "js-lazy-picture-loaded";
+    </script><script async>
+    require(['modernizr', 'parts/ua']);
+
+        require(['picturefill', 'lazysizes']);
+    
+        require(['parts/trackr'], function (Trackr) { Trackr.trackPage(document.location.pathname, document.title); });
+    </script> <title>Tribuna Expresso | Controlo antidoping aos três grandes “não é habitual, mas é normal. Assim não há nenhuma teoria da conspiração”</title><meta name="twitter:title" property="og:title" content="Controlo antidoping aos três grandes “não é habitual, mas é normal. Assim não há nenhuma teoria da conspiração”"/><link rel="canonical" href="http://tribunaexpresso.pt/multimedia/video/2018-04-26-Controlo-antidoping-aos-tres-grandes-nao-e-habitual-mas-e-normal.-Assim-nao-ha-nenhuma-teoria-da-conspiracao"><meta name="twitter:url" property="og:url" content="http://tribunaexpresso.pt/multimedia/video/2018-04-26-Controlo-antidoping-aos-tres-grandes-nao-e-habitual-mas-e-normal.-Assim-nao-ha-nenhuma-teoria-da-conspiracao"> <meta name="description" content="A Autoridade Antidopagem de Portugal realizou esta quinta-feira ações de controlo antidoping às principais equipas de futebol dos três grandes. Em entrevista à SIC Notícias, o médico Domingos Gomes explicou que este tipo de ação é normal, embora se tratem de &quot;testes extraordinários&quot;"> <meta name="twitter:description" property="og:description" content="A Autoridade Antidopagem de Portugal realizou esta quinta-feira ações de controlo antidoping às principais equipas de futebol dos três grandes. Em entrevista à SIC Notícias, o médico Domingos Gomes explicou que este tipo de ação é normal, embora se tratem de &quot;testes extraordinários&quot;"/> <meta name="twitter:image" property="og:image" content="http://images-cdn.impresa.pt/olimpia/2018-04-26-domingos-gomes.JPG/fb/wm"/><meta property="og:image:width" content="1200"/><meta property="og:image:height" content="630"/> <meta name="twitter:card" content="summary"> <meta property="og:type" content="article"><meta property="og:site_name" content="Tribuna Expresso"/><link rel="alternate" type="application/rss+xml" title="Tribuna Expresso RSS" href="http://rss.impresa.pt/feed/latest/olimpia.rss"/><meta property="fb:pages" content="44028982543"/><meta property="fb:article_style" content="default"> <meta property="impresa:id" content="1fa103f3-d29e-4f04-906b-ba1d61f6d88f"/> <meta property="impresa:type" content="VIDEO"/> <script>
+        window.ImpresaAdTargeting = {"_":"multimedia_video","url":"2018-04-26-Controlo-antidoping-aos-tres-grandes-nao-e-habitual-mas-e-normal.-Assim-nao-ha-nenhuma-teoria-da-conspiracao","tag":""};
+    </script> </head><body class="skin-olimpia hasLeftSidebar multimediaPage full-article-video"> <!--[if lt IE 8]>
+    <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a
+            href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+    <![endif]--> <div id="impresaBar" class="impresaBar"></div><script async>
+    require(['impresa-bars'], function (Bar) {
+        Bar.init("#impresaBar", {template: "expresso", active: "olimpia"});
+    });
+</script> <div class="adContainer billboard" id="impresaBillboard"></div><script async>
+    require(['ipub'], function (Ads) {
+        Ads.register("#impresaBillboard", 'billboard');
+    });
+</script> <header class="mainHeader js-mainHeader"> <section class="headerTop"> <h1 class="headerLogo "><a href="/">Tribuna Expresso</a></h1> <div class="headerElements"> <ul class="headerTopLinks"> <li> <a href="http://assineja.pt/images/landing/expresso/2016/20160520_smartwatch/C09YU.html?utm_source=expresso&amp;utm_medium=displayhpexpresso_menuheader&amp;utm_content=&amp;utm_campaign=MX_SMARTWATCH_2016" target="_blank">Assinar</a> </li> <li> <a href="https://lojaimpresa.pt" target="_blank">Loja</a> </li> </ul> <section class="headerSocial"> <ul class="social"> <li class="facebook"> <a href="https://www.facebook.com/jornalexpresso" title="Facebook"> <span>Facebook</span> <i class="icon icon-facebook"></i></a> </li> <li class="twitter"> <a href="https://twitter.com/expresso" title="Twitter"> <span>Twitter</span> <i class="icon icon-twitter"></i></a> </li> <li class="rss"> <a href="http://rss.impresa.pt/feed/latest/olimpia.rss" title="RSS"> <span>RSS Feed</span> <i class="icon icon-rss"></i></a> </li> </ul> </section> <div class="headerActions"> <p class="headerUser"> <button class="btn login js-loginButton" title="Login"><span>Login</span> <i class="icon icon-user"></i></button> <button class="btn logout js-logoutButton" title="Logout"><span>Logout</span></button> <a class="btn profile" href="https://perfil.impresa.pt" target="_blank" title="Perfil"><span>Perfil</span> <i class="icon icon-user"></i></a></p><script async>
+    require(['user'], function(User) {
+        User.update();
+    });
+</script> </div> </div> <div class="headerBrands headerBrands__top"> <ul> <li class="brandLogo brandLogo__sicnot"> <a href="http://sicnoticias.sapo.pt/" target="_blank" title="SIC Notícias"><span>SIC Notícias</span></a> </li> </ul></div> <button class="menuTrigger js-menuTrigger" style="display: none;"><span>Menu</span><i class="icon icon-menu"></i></button> </section> <section class="headerBottom js-headerBottom" data-href="/api/molecule/header/bottom"></section></header><div class="js-header-target"></div><script async>
+    require(['jquery', 'widgets/visibility-checker', 'parts/header', 'parts/sidebar', 'widgets/content-loader'],
+            function($, VisibilityChecker, Header, Sidebar, ContentLoader) {
+                var $header = $('.js-mainHeader'),
+                    $menuTrigger = $header.find('.js-menuTrigger'),
+                    $parts = $header.find('.js-headerBottom');
+
+                                // Header Collapse
+                Header.start($header, {
+                    className: 'collapsedHeader',
+                    target: '.js-header-target',
+                    placeholder: true,
+                    placeholderClass: 'mainHeaderPlaceholder',
+                    placeholderOutClass: 'mainHeaderPlaceholderOut'
+                });
+                
+                                // Sidebar trigger
+                Sidebar.start($menuTrigger, {
+                    className: 'sideMenuIsExpanded',
+                    ignore: '.siteMenu',
+                    menuSelector: '.js-siteMenu',
+                    mq: 'screen and (min-width: 768px)'
+                });
+
+                // Show the menu trigger
+                $menuTrigger.show();
+                
+                // Load Header Parts
+                VisibilityChecker.start($parts, {
+                    onVisible: function($el) {
+                        this.stop();
+
+                        ContentLoader.start($el, {
+                            cache: true
+                        });
+                    }
+                });
+            });
+</script> <div class="adContainer pushdown homePushdown" id="pushdown"></div><script async>
+    require(['ipub'], function (Ads) {
+        Ads.register("#pushdown", 'pushdown');
+    });
+</script> <div class="wrapper"> <main class="mainContent"> <div class="sponsorSlot"></div> <article itemscope itemtype="http://schema.org/NewsArticle" class="MC-multimedia_video AT-video hasLead noPicture notHeadline notIsolated notSpecial"> <div class="innerMaster fullWidth skipMarginTopBody"> <section class="content fullArticle"> <div class="titleZone darkStyle"> <div class="inner"> <header class="articleHeader"> <p class="mainSection"> <a href="/multimedia/video">vídeo</a></p> <h1 class="title" itemprop="name"> Controlo antidoping aos três grandes “não é habitual, mas é normal. Assim não há nenhuma teoria da conspiração” </h1> <h2 class="lead"> A Autoridade Antidopagem de Portugal realizou esta quinta-feira ações de controlo antidoping às principais equipas de futebol dos três grandes. Em entrevista à SIC Notícias, o médico Domingos Gomes explicou que este tipo de ação é normal, embora se tratem de "testes extraordinários" </h2> <div class="inlineArticleData"> <p class="author"> SIC Notícias</p> <p class="timeStamp publishedDate" datetime="2018-04-26T17:45:29.785Z" itemprop="datePublished"> 26.04.2018 às 18h45</p> </div> </header> </div></div><div class="mediaZone darkStyle"> <div class="inner"> <div > <div class="videoContainer"> <video id="video-5ae23a2acbd06" class="video-player-container video-js vjs-default-skin" width="1024" height="576" controls preload="none" poster="//images-cdn.impresa.pt/olimpia/2018-04-26-domingos-gomes.JPG/16x9/mw-680"> <source src="http://videos.impresa.pt/sicnot/2018-04-26/3218e79c-ce23-4de1-a6fa-f035a377539e_th-mc3a9dico-domingos-gomes/net_wide" type="video/mp4"/> </video> <script async>
+            require( [ 'ipub/video-player', 'parts/ads-setup' ], function( Player, Ads ) {
+                // init player widget
+                Player.start( '#video-5ae23a2acbd06', {
+                                                            vast: {"skip":true,"showCountdown":true,"url":"https:\/\/www8.smartadserver.com\/ac?siteid=104874&pgid=663616&fmtid=37785&ab=1&oc=1&out=vast3&ps=1&pb=0&visit=S&vcn=s&tmstp=[timestamp]","entries":[{"offset":0}]},
+                    vastTarget: Ads.getTargetingInfo(),
+                                        volume: 0.50,
+                    meta: {
+                        contentUri: '/multimedia/video/2018-04-26-Controlo-antidoping-aos-tres-grandes-nao-e-habitual-mas-e-normal.-Assim-nao-ha-nenhuma-teoria-da-conspiracao',
+                        title: document.title,
+                        label: '2018-04-26-Controlo-antidoping-aos-tres-grandes-nao-e-habitual-mas-e-normal.-Assim-nao-ha-nenhuma-teoria-da-conspiracao'
+                    }
+                } );
+            } );
+        </script> </div></div> </div></div> </section> </div> <div class="innerMaster article-bottom"> <section class="content halfWidth"> <div class="fullArticle"> <div class="articleShareToolsContainer floatable"> <p class="subSectionLabel"> <span>Partilhar</span> </p> <ul class="shareTools" id="social-5ae23a2acbedd"> <li class="share-facebook"> <a href="http://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Ftribunaexpresso.pt%2Fmultimedia%2Fvideo%2F2018-04-26-Controlo-antidoping-aos-tres-grandes-nao-e-habitual-mas-e-normal.-Assim-nao-ha-nenhuma-teoria-da-conspiracao&amp;t=Controlo%20antidoping%20aos%20tr%C3%AAs%20grandes%20%E2%80%9Cn%C3%A3o%20%C3%A9%20habitual%2C%20mas%20%C3%A9%20normal.%20Assim%20n%C3%A3o%20h%C3%A1%20nenhuma%20teoria%20da%20conspira%C3%A7%C3%A3o%E2%80%9D" data-type="facebook" class="js-share" target="_blank" title="Facebook"> <i class="icon icon-facebook"></i> <span>Facebook</span> </a> </li> <li class="share-twitter"> <a href="http://twitter.com/intent/tweet?url=http%3A%2F%2Ftribunaexpresso.pt%2Fmultimedia%2Fvideo%2F2018-04-26-Controlo-antidoping-aos-tres-grandes-nao-e-habitual-mas-e-normal.-Assim-nao-ha-nenhuma-teoria-da-conspiracao&amp;text=Controlo%20antidoping%20aos%20tr%C3%AAs%20grandes%20%E2%80%9Cn%C3%A3o%20%C3%A9%20habitual%2C%20mas%20%C3%A9%20normal.%20Assim%20n%C3%A3o%20h%C3%A1%20nenhuma%20teoria%20da%20conspira%C3%A7%C3%A3o%E2%80%9D" data-type="twitter" class="js-share" target="_blank" title="Twitter"> <i class="icon icon-twitter"></i> <span>Twitter</span> </a> </li> <li class="share-mail"> <a href="mailto:?subject=Controlo%20antidoping%20aos%20tr%C3%AAs%20grandes%20%E2%80%9Cn%C3%A3o%20%C3%A9%20habitual%2C%20mas%20%C3%A9%20normal.%20Assim%20n%C3%A3o%20h%C3%A1%20nenhuma%20teoria%20da%20conspira%C3%A7%C3%A3o%E2%80%9D&amp;body=Controlo%20antidoping%20aos%20tr%C3%AAs%20grandes%20%E2%80%9Cn%C3%A3o%20%C3%A9%20habitual%2C%20mas%20%C3%A9%20normal.%20Assim%20n%C3%A3o%20h%C3%A1%20nenhuma%20teoria%20da%20conspira%C3%A7%C3%A3o%E2%80%9D%0D%0A%0D%0AA%20Autoridade%20Antidopagem%20de%20Portugal%20realizou%20esta%20quinta-feira%20a%C3%A7%C3%B5es%20de%20controlo%20antidoping%20%C3%A0s%20principais%20equipas%20de%20futebol%20dos%20tr%C3%AAs%20grandes.%20Em%20entrevista%20%C3%A0%20SIC%20Not%C3%ADcias%2C%20o%20m%C3%A9dico%20Domingos%20Gomes%20explicou%20que%20este%20tipo%20de%20a%C3%A7%C3%A3o%20%C3%A9%20normal%2C%20embora%20se%20tratem%20de%20%22testes%20extraordin%C3%A1rios%22%0D%0A%0D%0ALer mais: http%3A%2F%2Ftribunaexpresso.pt%2Fmultimedia%2Fvideo%2F2018-04-26-Controlo-antidoping-aos-tres-grandes-nao-e-habitual-mas-e-normal.-Assim-nao-ha-nenhuma-teoria-da-conspiracao" data-type="email" title="Email"> <i class="icon icon-mail"></i> <span>Email</span> </a> </li> <li class="share-whatsapp"> <a href="whatsapp://send?text=Controlo%20antidoping%20aos%20tr%C3%AAs%20grandes%20%E2%80%9Cn%C3%A3o%20%C3%A9%20habitual%2C%20mas%20%C3%A9%20normal.%20Assim%20n%C3%A3o%20h%C3%A1%20nenhuma%20teoria%20da%20conspira%C3%A7%C3%A3o%E2%80%9D%20http%3A%2F%2Ftribunaexpresso.pt%2Fmultimedia%2Fvideo%2F2018-04-26-Controlo-antidoping-aos-tres-grandes-nao-e-habitual-mas-e-normal.-Assim-nao-ha-nenhuma-teoria-da-conspiracao" data-type="whatsapp" target="_blank" title="Whatsapp" style="display:none"> <i class="icon icon-whatsapp"></i> <span>Whatsapp</span> </a> </li> <li class="share-showMore"> <a> <i class="icon icon-dot-3"></i> <span>Mais</span> </a> <div class="moreShareTools"> <div class="moreShareToolsInner"> <ul> <li class="share-googlePlus"> <a href="http://plus.google.com/share?url=http%3A%2F%2Ftribunaexpresso.pt%2Fmultimedia%2Fvideo%2F2018-04-26-Controlo-antidoping-aos-tres-grandes-nao-e-habitual-mas-e-normal.-Assim-nao-ha-nenhuma-teoria-da-conspiracao" data-type="googleplus" class="js-share" target="_blank" title="Google+"> <i class="icon icon-gplus"></i> <span>Google+</span> </a> </li> <li class="share-linkedin"> <a href="https://www.linkedin.com/shareArticle?mini=true&amp;title=Controlo%20antidoping%20aos%20tr%C3%AAs%20grandes%20%E2%80%9Cn%C3%A3o%20%C3%A9%20habitual%2C%20mas%20%C3%A9%20normal.%20Assim%20n%C3%A3o%20h%C3%A1%20nenhuma%20teoria%20da%20conspira%C3%A7%C3%A3o%E2%80%9D&amp;summary=A%20Autoridade%20Antidopagem%20de%20Portugal%20realizou%20esta%20quinta-feira%20a%C3%A7%C3%B5es%20de%20controlo%20antidoping%20%C3%A0s%20principais%20equipas%20de%20futebol%20dos%20tr%C3%AAs%20grandes.%20Em%20entrevista%20%C3%A0%20SIC%20Not%C3%ADcias%2C%20o%20m%C3%A9dico%20Domingos%20Gomes%20explicou%20que%20este%20tipo%20de%20a%C3%A7%C3%A3o%20%C3%A9%20normal%2C%20embora%20se%20tratem%20de%20%22testes%20extraordin%C3%A1rios%22&amp;url=http%3A%2F%2Ftribunaexpresso.pt%2Fmultimedia%2Fvideo%2F2018-04-26-Controlo-antidoping-aos-tres-grandes-nao-e-habitual-mas-e-normal.-Assim-nao-ha-nenhuma-teoria-da-conspiracao" data-type="linkedin" class="js-share" target="_blank" title="Linkedin"> <i class="icon icon-linkedin"></i> <span>Linkedin</span> </a> </li> <li class="share-pinterest"> <a href="https://www.pinterest.com/pin/create/link/?url=http%3A%2F%2Ftribunaexpresso.pt%2Fmultimedia%2Fvideo%2F2018-04-26-Controlo-antidoping-aos-tres-grandes-nao-e-habitual-mas-e-normal.-Assim-nao-ha-nenhuma-teoria-da-conspiracao&amp;media=%2F%2Fimages-cdn.impresa.pt%2Folimpia%2F2018-04-26-domingos-gomes.JPG%3Fv%3Dw620h395&amp;description=Controlo%20antidoping%20aos%20tr%C3%AAs%20grandes%20%E2%80%9Cn%C3%A3o%20%C3%A9%20habitual%2C%20mas%20%C3%A9%20normal.%20Assim%20n%C3%A3o%20h%C3%A1%20nenhuma%20teoria%20da%20conspira%C3%A7%C3%A3o%E2%80%9D" data-type="pinterest" class="js-share" target="_blank" title="Pinterest"> <i class="icon icon-pinterest"></i> <span>Pinterest</span> </a> </li> </ul> <div class="linkTool"> <p class="inputLabel">Link:</p> <div class="inputContainer"> <input class="url" type="text" readonly="readonly" value="http://tribunaexpresso.pt/multimedia/video/2018-04-26-Controlo-antidoping-aos-tres-grandes-nao-e-habitual-mas-e-normal.-Assim-nao-ha-nenhuma-teoria-da-conspiracao" onclick="this.focus();this.select()"> </div> </div> </div> </div> </li> </ul> <script async>
+		require(['widgets/social-share'], function (SocialShare) {
+			SocialShare.start('#social-5ae23a2acbedd');
+		});
+	</script></div> <div class="articleContent horizontalSpacer"> <p>A Autoridade Antidopagem de Portugal (ADoP) realizou esta quinta-feira controlos antidoping às principais equipas de futebol dos três 'grandes', confirmou à agência Lusa o presidente do organismo, Rogério Jóia.</p> <p>Rogério Jóia disse que "haver uma grande operação de combate ao doping" e que "os plantéis completos" dos três primeiros classificados estão a ser controlados, sendo realizados testes de sangue, urina e à EPO (eritropoietina).</p> </div><footer class="articleFooter horizontalSpacer"> <div class="articleShareToolsContainer "> <p class="subSectionLabel"> <span>Partilhar</span> </p> <ul class="shareTools" id="social-5ae23a2acc280"> <li class="share-facebook"> <a href="http://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Ftribunaexpresso.pt%2Fmultimedia%2Fvideo%2F2018-04-26-Controlo-antidoping-aos-tres-grandes-nao-e-habitual-mas-e-normal.-Assim-nao-ha-nenhuma-teoria-da-conspiracao&amp;t=Controlo%20antidoping%20aos%20tr%C3%AAs%20grandes%20%E2%80%9Cn%C3%A3o%20%C3%A9%20habitual%2C%20mas%20%C3%A9%20normal.%20Assim%20n%C3%A3o%20h%C3%A1%20nenhuma%20teoria%20da%20conspira%C3%A7%C3%A3o%E2%80%9D" data-type="facebook" class="js-share" target="_blank" title="Facebook"> <i class="icon icon-facebook"></i> <span>Facebook</span> </a> </li> <li class="share-twitter"> <a href="http://twitter.com/intent/tweet?url=http%3A%2F%2Ftribunaexpresso.pt%2Fmultimedia%2Fvideo%2F2018-04-26-Controlo-antidoping-aos-tres-grandes-nao-e-habitual-mas-e-normal.-Assim-nao-ha-nenhuma-teoria-da-conspiracao&amp;text=Controlo%20antidoping%20aos%20tr%C3%AAs%20grandes%20%E2%80%9Cn%C3%A3o%20%C3%A9%20habitual%2C%20mas%20%C3%A9%20normal.%20Assim%20n%C3%A3o%20h%C3%A1%20nenhuma%20teoria%20da%20conspira%C3%A7%C3%A3o%E2%80%9D" data-type="twitter" class="js-share" target="_blank" title="Twitter"> <i class="icon icon-twitter"></i> <span>Twitter</span> </a> </li> <li class="share-mail"> <a href="mailto:?subject=Controlo%20antidoping%20aos%20tr%C3%AAs%20grandes%20%E2%80%9Cn%C3%A3o%20%C3%A9%20habitual%2C%20mas%20%C3%A9%20normal.%20Assim%20n%C3%A3o%20h%C3%A1%20nenhuma%20teoria%20da%20conspira%C3%A7%C3%A3o%E2%80%9D&amp;body=Controlo%20antidoping%20aos%20tr%C3%AAs%20grandes%20%E2%80%9Cn%C3%A3o%20%C3%A9%20habitual%2C%20mas%20%C3%A9%20normal.%20Assim%20n%C3%A3o%20h%C3%A1%20nenhuma%20teoria%20da%20conspira%C3%A7%C3%A3o%E2%80%9D%0D%0A%0D%0AA%20Autoridade%20Antidopagem%20de%20Portugal%20realizou%20esta%20quinta-feira%20a%C3%A7%C3%B5es%20de%20controlo%20antidoping%20%C3%A0s%20principais%20equipas%20de%20futebol%20dos%20tr%C3%AAs%20grandes.%20Em%20entrevista%20%C3%A0%20SIC%20Not%C3%ADcias%2C%20o%20m%C3%A9dico%20Domingos%20Gomes%20explicou%20que%20este%20tipo%20de%20a%C3%A7%C3%A3o%20%C3%A9%20normal%2C%20embora%20se%20tratem%20de%20%22testes%20extraordin%C3%A1rios%22%0D%0A%0D%0ALer mais: http%3A%2F%2Ftribunaexpresso.pt%2Fmultimedia%2Fvideo%2F2018-04-26-Controlo-antidoping-aos-tres-grandes-nao-e-habitual-mas-e-normal.-Assim-nao-ha-nenhuma-teoria-da-conspiracao" data-type="email" title="Email"> <i class="icon icon-mail"></i> <span>Email</span> </a> </li> <li class="share-whatsapp"> <a href="whatsapp://send?text=Controlo%20antidoping%20aos%20tr%C3%AAs%20grandes%20%E2%80%9Cn%C3%A3o%20%C3%A9%20habitual%2C%20mas%20%C3%A9%20normal.%20Assim%20n%C3%A3o%20h%C3%A1%20nenhuma%20teoria%20da%20conspira%C3%A7%C3%A3o%E2%80%9D%20http%3A%2F%2Ftribunaexpresso.pt%2Fmultimedia%2Fvideo%2F2018-04-26-Controlo-antidoping-aos-tres-grandes-nao-e-habitual-mas-e-normal.-Assim-nao-ha-nenhuma-teoria-da-conspiracao" data-type="whatsapp" target="_blank" title="Whatsapp" style="display:none"> <i class="icon icon-whatsapp"></i> <span>Whatsapp</span> </a> </li> <li class="share-showMore"> <a> <i class="icon icon-dot-3"></i> <span>Mais</span> </a> <div class="moreShareTools"> <div class="moreShareToolsInner"> <ul> <li class="share-googlePlus"> <a href="http://plus.google.com/share?url=http%3A%2F%2Ftribunaexpresso.pt%2Fmultimedia%2Fvideo%2F2018-04-26-Controlo-antidoping-aos-tres-grandes-nao-e-habitual-mas-e-normal.-Assim-nao-ha-nenhuma-teoria-da-conspiracao" data-type="googleplus" class="js-share" target="_blank" title="Google+"> <i class="icon icon-gplus"></i> <span>Google+</span> </a> </li> <li class="share-linkedin"> <a href="https://www.linkedin.com/shareArticle?mini=true&amp;title=Controlo%20antidoping%20aos%20tr%C3%AAs%20grandes%20%E2%80%9Cn%C3%A3o%20%C3%A9%20habitual%2C%20mas%20%C3%A9%20normal.%20Assim%20n%C3%A3o%20h%C3%A1%20nenhuma%20teoria%20da%20conspira%C3%A7%C3%A3o%E2%80%9D&amp;summary=A%20Autoridade%20Antidopagem%20de%20Portugal%20realizou%20esta%20quinta-feira%20a%C3%A7%C3%B5es%20de%20controlo%20antidoping%20%C3%A0s%20principais%20equipas%20de%20futebol%20dos%20tr%C3%AAs%20grandes.%20Em%20entrevista%20%C3%A0%20SIC%20Not%C3%ADcias%2C%20o%20m%C3%A9dico%20Domingos%20Gomes%20explicou%20que%20este%20tipo%20de%20a%C3%A7%C3%A3o%20%C3%A9%20normal%2C%20embora%20se%20tratem%20de%20%22testes%20extraordin%C3%A1rios%22&amp;url=http%3A%2F%2Ftribunaexpresso.pt%2Fmultimedia%2Fvideo%2F2018-04-26-Controlo-antidoping-aos-tres-grandes-nao-e-habitual-mas-e-normal.-Assim-nao-ha-nenhuma-teoria-da-conspiracao" data-type="linkedin" class="js-share" target="_blank" title="Linkedin"> <i class="icon icon-linkedin"></i> <span>Linkedin</span> </a> </li> <li class="share-pinterest"> <a href="https://www.pinterest.com/pin/create/link/?url=http%3A%2F%2Ftribunaexpresso.pt%2Fmultimedia%2Fvideo%2F2018-04-26-Controlo-antidoping-aos-tres-grandes-nao-e-habitual-mas-e-normal.-Assim-nao-ha-nenhuma-teoria-da-conspiracao&amp;media=%2F%2Fimages-cdn.impresa.pt%2Folimpia%2F2018-04-26-domingos-gomes.JPG%3Fv%3Dw620h395&amp;description=Controlo%20antidoping%20aos%20tr%C3%AAs%20grandes%20%E2%80%9Cn%C3%A3o%20%C3%A9%20habitual%2C%20mas%20%C3%A9%20normal.%20Assim%20n%C3%A3o%20h%C3%A1%20nenhuma%20teoria%20da%20conspira%C3%A7%C3%A3o%E2%80%9D" data-type="pinterest" class="js-share" target="_blank" title="Pinterest"> <i class="icon icon-pinterest"></i> <span>Pinterest</span> </a> </li> </ul> <div class="linkTool"> <p class="inputLabel">Link:</p> <div class="inputContainer"> <input class="url" type="text" readonly="readonly" value="http://tribunaexpresso.pt/multimedia/video/2018-04-26-Controlo-antidoping-aos-tres-grandes-nao-e-habitual-mas-e-normal.-Assim-nao-ha-nenhuma-teoria-da-conspiracao" onclick="this.focus();this.select()"> </div> </div> </div> </div> </li> </ul> <script async>
+		require(['widgets/social-share'], function (SocialShare) {
+			SocialShare.start('#social-5ae23a2acc280');
+		});
+	</script></div></footer> </div> <div class="adContainer atHomeFeed mrec onlyWithoutSidebar onlyWithoutSidebar" id="Pub5ae23a2acc483"> <div class="adWrapper" style="display:none;"></div> </div> <script async>
+        require(['ipub'], function (Ads) {
+            Ads.register("#Pub5ae23a2acc483", 'mrec', '#Pub5ae23a2acc483 .adWrapper');
+        });
+    </script> <div class="listPortlet hasListTitle" > <h2 class="sectionLabel"> <span>Relacionados</span> </h2> <ul class="js-list-articles listArticles listRelacionados floated applySplitter itemCount_1"> <li class="js-list-articles-entry entry_1 odd"> <article itemscope itemtype="http://schema.org/NewsArticle" class="MC-futebol-nacional AT-noticia hasLead hasPicture notHeadline notIsolated notSpecial"> <figure> <a href="/futebol-nacional/2018-04-26-Benfica-Sporting-e-Porto-alvos-de-uma-grande-operacao-antidoping" target="_self" > <picture class="landscape"> <img src="//images-cdn.impresa.pt/olimpia/2017-07-12-futebol_bola_baliza_golo_geral_Reuters.jpg-1/3x2/mw-320" alt="Benfica, Sporting e Porto alvos de uma “grande operação antidoping”" class="js-lazy-picture" data-srcset="//images-cdn.impresa.pt/olimpia/2017-07-12-futebol_bola_baliza_golo_geral_Reuters.jpg-1/3x2/mw-80 80w, //images-cdn.impresa.pt/olimpia/2017-07-12-futebol_bola_baliza_golo_geral_Reuters.jpg-1/3x2/mw-120 120w, //images-cdn.impresa.pt/olimpia/2017-07-12-futebol_bola_baliza_golo_geral_Reuters.jpg-1/3x2/mw-160 160w, //images-cdn.impresa.pt/olimpia/2017-07-12-futebol_bola_baliza_golo_geral_Reuters.jpg-1/3x2/mw-200 200w, //images-cdn.impresa.pt/olimpia/2017-07-12-futebol_bola_baliza_golo_geral_Reuters.jpg-1/3x2/mw-240 240w, //images-cdn.impresa.pt/olimpia/2017-07-12-futebol_bola_baliza_golo_geral_Reuters.jpg-1/3x2/mw-320 320w, //images-cdn.impresa.pt/olimpia/2017-07-12-futebol_bola_baliza_golo_geral_Reuters.jpg-1/3x2/mw-360 360w, //images-cdn.impresa.pt/olimpia/2017-07-12-futebol_bola_baliza_golo_geral_Reuters.jpg-1/3x2/mw-480 480w, //images-cdn.impresa.pt/olimpia/2017-07-12-futebol_bola_baliza_golo_geral_Reuters.jpg-1/3x2/mw-640 640w, //images-cdn.impresa.pt/olimpia/2017-07-12-futebol_bola_baliza_golo_geral_Reuters.jpg-1/3x2/mw-720 720w, //images-cdn.impresa.pt/olimpia/2017-07-12-futebol_bola_baliza_golo_geral_Reuters.jpg-1/3x2/mw-800 800w, //images-cdn.impresa.pt/olimpia/2017-07-12-futebol_bola_baliza_golo_geral_Reuters.jpg-1/3x2/mw-960 960w, //images-cdn.impresa.pt/olimpia/2017-07-12-futebol_bola_baliza_golo_geral_Reuters.jpg-1/3x2/mw-1024 1024w, //images-cdn.impresa.pt/olimpia/2017-07-12-futebol_bola_baliza_golo_geral_Reuters.jpg-1/3x2/mw-1280 1280w, //images-cdn.impresa.pt/olimpia/2017-07-12-futebol_bola_baliza_golo_geral_Reuters.jpg-1/3x2/mw-1360 1360w" data-sizes="(min-width: 768px) 240px, 100px" /> </picture></a> </figure> <div class="textDetails"> <p class="mainSection"> <a href="/futebol-nacional">Futebol nacional</a></p> <h1 class="title" itemprop="name"> <a href="/futebol-nacional/2018-04-26-Benfica-Sporting-e-Porto-alvos-de-uma-grande-operacao-antidoping" itemprop="url" rel="canonical" > Benfica, Sporting e Porto alvos de uma “grande operação antidoping” </a> </h1> <h2 class="lead"> Jogadores dos clubes estão a ser controlados, sendo realizados testes de sangue, urina e à EPO (eritropoietina) </h2> <input type="hidden" datetime="2018-04-26T10:34:42.809Z" itemprop="datePublished"/> </div></article> </li> </ul> </div> <div id="List5ae23a2acca88" data-href="/api/molecule/recommendation"> <div class="loading js-loader" style="display: none; margin-bottom:40px">A carregar...</div> </div> <script async>
+        require(['parts/recommended-priberam'], function(RecommendedPriberam) {
+            RecommendedPriberam.start('#List5ae23a2acca88', {
+                'limit': 4,
+                'articleId': '1fa103f3-d29e-4f04-906b-ba1d61f6d88f'
+            });
+        });
+    </script> <div class="adContainer revcontent" id="revContent"></div><script async>
+    require(['ipub'], function (Ads) {
+        Ads.register("#revContent", 'revcontent');
+    });
+</script> <section id="homeLatest" data-href="/api/molecule/latest//multimedia/video" class="listPortlet hasListTitle "> <h2 class="sectionLabel"><span>Últimas</span></h2> <ul class="js-container listArticles latestList"></ul> <button class="js-more" style="display: none">Mais Artigos</button> <div class="loading js-loader" style="display: none; margin-bottom:40px"><span>A carregar...</span></div></section><script async>
+    require(['parts/latest'], function(InfiniteScroll) {
+        InfiniteScroll.start('#homeLatest', {
+            'auto': true,
+            'title': '',
+            'offset-attribute': 'datetime',
+            'more-selector': '.js-more',
+            'loader-selector': '.js-loader',
+            'container-selector': '.js-container'
+        });
+    });
+</script> </section> <section class="rightSidebar js-sidebar js-right-sidebar" id="rightSidebar5ae23a2acce20" data-ads-section="/multimedia/video" data-href="/api/molecule/sidebar?location=site"> <div class="placeholder"></div> <script async>
+            require(['widgets/visibility-checker', 'widgets/content-loader'],
+                    function(VisibilityChecker, ContentLoader) {
+                        // Load Sidebar Parts
+                        VisibilityChecker.start("#rightSidebar5ae23a2acce20", {
+                            viewport: false,
+                            onVisible: function($el) {
+                                this.stop();
+
+                                ContentLoader.start($el, {
+                                    cache: true
+                                });
+                            }
+                        });
+                    });
+        </script> </section><script async>
+    require(['parts/sticky-scroll'], function(StickyScroll) {
+        StickyScroll.start("#rightSidebar5ae23a2acce20", {
+            infinite: 1
+        });
+    });
+</script> </div> </article> </main> </div> <nav class="siteMenu js-siteMenu"> <div class="wrapper"> <h1 class="headerLogo headerLogo__small"><a href="/">Tribuna Expresso</a></h1> <button class="js-sidebar-close-button menuCloseButton"><span>Fechar</span><i class="icon icon-cancel"></i></button> <section class="sectionSearchAndSocial"> <div class="searchWrapper"> <form class="sidenavSearch search-bar" action="/pesquisa" > <div class="search-input-wrap"> <input type="search" placeholder="Pesquisa" class="search-input" name="q" value=""/> </div> <button type="submit" title="Pesquisar" class="search-submit icon icon-search"><span>Pesquisar</span></button> </form> </div> <div class="socialWrapper"> <ul class="social"> <li class="rss"> <a href="http://rss.impresa.pt/feed/latest/olimpia.rss" title="RSS"> <span>RSS Feed</span> <i class="icon icon-rss"></i></a> </li> </ul> </div> <div class="userWrapper"> <p class="sidenavUser"> <button class="btn login js-loginButton" title="Login"><span>Login</span> <i class="icon icon-user"></i></button> <button class="btn register js-registerButton" title="Registo"><span>Registo</span> <i class="icon icon-user"></i></button> <button class="btn logout js-logoutButton" title="Logout"><span>Logout</span></button> <a class="btn profile" href="https://perfil.impresa.pt" target="_blank" title="Perfil"><span>Perfil</span> <i class="icon icon-user"></i></a> </p> <script async>
+                    require(['user'], function (User) {
+                        User.update();
+                    });
+                </script> </div> </section> <section class="sectionMenu hasTitle"> <h2> Secções </h2> <ul> <li><a href="/" >Início</a> </li> <li><a href="/ultimas" >Últimas</a> </li> <li><a href="/selecao" >Seleção</a> </li> <li><a href="/opiniao" >Opinião</a> </li> </ul> </section> <section class="sectionMenu hasTitle"> <h2> Competições </h2> <ul> <li><a href="/liga-dos-campeoes" >Liga dos Campeões</a> </li> <li><a href="/liga-europa" >Liga Europa</a> </li> </ul> </section> <section class="sectionMenu hasTitle"> <h2> Clubes </h2> <ul> <li><a href="/benfica" >Benfica</a> </li> <li><a href="/sporting" >Sporting</a> </li> <li><a href="/porto" >Porto</a> </li> </ul> </section> <section class="sectionBrands"> <div class="headerBrands "> <ul> <li class="brandLogo brandLogo__expresso"> <a href="http://www.expresso.pt/" target="_blank" title="Expresso"><span>Expresso</span></a> </li> <li class="brandLogo brandLogo__sicnot"> <a href="http://sicnoticias.sapo.pt/" target="_blank" title="SIC Notícias"><span>SIC Notícias</span></a> </li> </ul></div> </section> <section class="sectionInstitucional"> <div class="institucionalWrapper"> <ul class="institucional"> <li><a href="http://expresso.sapo.pt/gen.pl?p=stories&amp;fokey=ex.stories/774690&amp;op=view&amp;mid1=ex.menus/66&amp;m2=487" >Estatuto editorial</a> </li> <li><a href="http://expresso.sapo.pt/gen.pl?p=stories&amp;fokey=ex.stories/198040&amp;op=view&amp;mid1=ex.menus/66&amp;m2=487" >Código de Conduta</a> </li> <li><a href="http://expresso.sapo.pt/gen.pl?p=stories&amp;fokey=ex.stories/774685&amp;op=view&amp;mid1=ex.menus/66&amp;m2=488" >Ficha Técnica</a> </li> <li><a href="http://expresso.sapo.pt/informacao/cookies/2015-05-03-Politica-de-cookies" >Política de cookies</a> </li> <li><a href="http://expresso.sapo.pt/arquivo/paginas_institucionais/termos_de_utilizacao/2015-05-03-Termos-de-Utilizacao-1" >Termos de utilização</a> </li> <li><a href="http://expresso.sapo.pt/informacao/PolticadePrivacidade/2015-05-04-Politica-de-privacidade" >Política de privacidade</a> </li> <li><a href="http://expresso.sapo.pt/regras-da-comunidade=f740487" >Regras da Comunidade</a> </li> <li><a href="http://expresso.sapo.pt/gen.pl?p=stories&amp;op=view&amp;fokey=ex.stories/723177" >Publicidade</a> </li> <li><a href="http://expresso.sapo.pt/contactos-directos=f774722" >Contactos</a> </li> <li><a href="http://www.impresa.pt/lei782015" target="_blank">Lei da Transparência</a> </li> <li><a href="http://assineja.pt/images/landing/expresso/2016/20160520_smartwatch/C09YU.html?utm_source=expresso&amp;utm_medium=displayhpexpresso_menuheader&amp;utm_content=&amp;utm_campaign=MX_SMARTWATCH_2016" target="_blank">Assinar</a> </li> <li><a href="https://www.lojaimpresa.pt/" target="_blank">Loja</a> </li> </ul> </div> <p class="copyright">&copy; Impresa Publishing S.A.</p> </section> </div> <div id="impresaFooter"></div> <script>
+        require(['impresa-footer'], function (F) {
+            F.init('#impresaFooter');
+        });
+    </script></nav> <script async>
+    require(['impresa-cookie-policy'], function(Lib) {
+        Lib.init("body", {
+            policyUrl: "http://expresso.sapo.pt/informacao/cookies/2015-05-03-Politica-de-cookies",
+            usageUrl: "http://expresso.sapo.pt/informacao/cookies/2015-05-03-Politica-de-cookies"
+        });
+    });
+</script> <div class="adContainer sniffer" id="Pub5ae23a2acd361"></div><script async>
+    require(['ipub'], function (Ads) {
+        Ads.register("#Pub5ae23a2acd361", 'xaxis');
+    });
+</script> <div class="adContainer sniffer" id="Pub5ae23a2acd3a9"></div><script async>
+    require(['ipub'], function (Ads) {
+        Ads.register("#Pub5ae23a2acd3a9", 'tracking');
+    });
+</script> <script async>
+            require(['parts/ads-setup'], function (Ads) {
+                Ads.run({"siteId":104874,"pageId":663616,"revcontent":{"widgetId":80170}});
+            });
+        </script> </body></html>

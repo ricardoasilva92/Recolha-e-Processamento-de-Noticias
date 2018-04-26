@@ -1,0 +1,230 @@
+<!DOCTYPE html><html class="no-js" lang="pt-PT"><head> <meta charset="UTF-8"/> <meta http-equiv="X-UA-Compatible" content="IE=edge"/> <meta http-equiv="Content-Language" content="pt"> <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no"/> <link rel="manifest" href="/manifest.json"/> <meta name="apple-mobile-web-app-title" content="Expresso"/> <meta name="theme-color" content="#015782"/> <meta name="msapplication-TileColor" content="#015782"/> <link rel="icon" sizes="152x152" href="//static.impresa.pt/expresso/2477//assets/gfx/icon.png"/> <meta name="msapplication-square150x150logo" content="//static.impresa.pt/expresso/2477//assets/gfx/icon.png"/> <link rel="dns-prefetch" href="//ajax.googleapis.com"><link rel="preconnect" href="//images-cdn.impresa.pt/"><link rel="stylesheet" type="text/css" href="//static.impresa.pt/expresso/2477//assets/css/main.min.css"/> <!--[if lte IE 8]>
+     <link href="//static.impresa.pt/expresso/2477//assets/respond-proxy.html" id="respond-proxy" rel="respond-proxy"/>  <link href="/assets/gfx/respond.proxy.gif" id="respond-redirect" rel="respond-redirect"/> <script src="//static.impresa.pt/expresso/2477//assets/js/legacy.min.js"></script> <![endif]--> <script src="//static.impresa.pt/expresso/2477//assets/js/head.min.js"></script> <script>
+        require.config({
+            baseUrl: '//static.impresa.pt/expresso/2477//assets/js/'
+        });
+    </script><script>
+    require.config({
+        map: {
+            "*": {
+                'user': 'parts/web/user',
+                'parts/config': 'parts/web/config'
+            }
+        },
+        paths: {
+            'ImpresaSSO': 'https://id.impresa.pt/js/impresa-sso.min'
+        },
+        config: {
+            'parts/web/user': {"profile":{"url":"https:\/\/api.impresa.pt\/profile"},"sso":{"url":"https:\/\/id.impresa.pt","gigyaKey":"3_SlQdOiQ8k-7grQ_Mx0LfKus2fvYJ7ge7QRBxXcLAk0x_hhvxLLYiLrGZwQrLpUlW"}},
+
+            'parts/escolas/2016': {"fbag":{"url":"https:\/\/api.impresa.pt\/bag"}},
+
+            'parts/escolas/2017': {"fbag":{"url":"https:\/\/api.impresa.pt\/bag"}},
+
+            'parts/eleicoes/autarquicas2017': {"fbag":{"url":"https:\/\/api.impresa.pt\/bag"}}
+        }
+    });
+
+        window.lazySizesConfig = window.lazySizesConfig || {};
+    window.lazySizesConfig.lazyClass = "js-lazy-picture";
+    window.lazySizesConfig.preloadClass = "js-lazy-picture-preload";
+    window.lazySizesConfig.loadingClass = "js-lazy-picture-loading";
+    window.lazySizesConfig.loadedClass = "js-lazy-picture-loaded";
+    </script><script async>
+    require(['modernizr', 'parts/ua']);
+
+        require(['picturefill', 'lazysizes']);
+    
+        require(['parts/trackr'], function (Trackr) { Trackr.trackPage(document.location.pathname, document.title); });
+    
+        require( ['parts/getSocial' ], function( GetSocial ) {
+        GetSocial.init( { id: 'ffe7f9' } );
+    } );
+    </script> <title>Expresso | Conselho de Ministros aprova diplomas para Nova Geração de Políticas de Habitação</title><meta name="twitter:title" property="og:title" content="Conselho de Ministros aprova diplomas para Nova Geração de Políticas de Habitação"/><link rel="canonical" href="http://expresso.sapo.pt/politica/2018-04-26-Conselho-de-Ministros-aprova-diplomas-para-Nova-Geracao-de-Politicas-de-Habitacao"><meta name="twitter:url" property="og:url" content="http://expresso.sapo.pt/politica/2018-04-26-Conselho-de-Ministros-aprova-diplomas-para-Nova-Geracao-de-Politicas-de-Habitacao"> <meta name="description" content="O ministro do ambiente reforçou que durante os próximos sete anos o Executivo vai investir para que “as carências habitacionais sejam muito minimizadas”, através de programas definidos em cada município"> <meta name="twitter:description" property="og:description" content="O ministro do ambiente reforçou que durante os próximos sete anos o Executivo vai investir para que “as carências habitacionais sejam muito minimizadas”, através de programas definidos em cada município"/> <meta name="twitter:image" property="og:image" content="http://images-cdn.impresa.pt/expresso/2018-01-26-casa-habitacao-lisboa/fb/wm"/><meta property="og:image:width" content="1200"/><meta property="og:image:height" content="630"/><meta name="twitter:card" content="summary"><meta property="og:type" content="article"><meta name="twitter:site" content="@expresso"/><meta property="og:site_name" content="Jornal Expresso"/><link rel="alternate" type="application/rss+xml" title="Expresso RSS" href="http://feeds.feedburner.com/expresso-geral"/> <meta property="impresa:id" content="71db8a5f-4d5e-4b8f-b89f-0700f34f7026"/> <meta property="impresa:type" content="ARTICLE"/> <meta property="impresa:publishedDate" content="2018-04-26T17:47:31.155Z"/> <script>
+        window.ImpresaAdTargeting = {"_":"politica","url":"2018-04-26-Conselho-de-Ministros-aprova-diplomas-para-Nova-Geracao-de-Politicas-de-Habitacao","tag":[{"code":"concept\/22.1.1","label":"Quotidiano \/ Habitat \/ habitat"},{"code":"entity\/unk\/Executivo","label":"Executivo"},{"code":"topic\/SubjectDetail\/11016002","label":"habita\u00e7\u00e3o e urbanismo"},{"code":"entity\/job\/ministro-do-Ambiente","label":"ministro do Ambiente"},{"code":"topic\/Subject\/11000000","label":"pol\u00edtica"},{"code":"entity\/people\/Joao-Matos-Fernandes","label":"Jo\u00e3o Matos Fernandes"},{"code":"concept\/24.5.1","label":"Actividades econ\u00f3micas \/ Com\u00e9rcio e bens \/ bens"},{"code":"topic\/Subject\/14000000","label":"quest\u00f5es sociais"},{"code":"concept\/24.5.2","label":"Actividades econ\u00f3micas \/ Com\u00e9rcio e bens \/ com\u00e9rcio"},{"code":"concept\/6.1.2","label":" Ac\u00e7\u00e3o \/ Ac\u00e7\u00e3o \/ projecto"},{"code":"entity\/organization\/Governo","label":"Governo"},{"code":"entity\/humanworks\/Programa-de-Arrendamento-Acessivel","label":"Programa de Arrendamento Acess\u00edvel"},{"code":"entity\/unk\/Nova-Geracao-de-Politicas-de-Habitacao","label":"Nova Gera\u00e7\u00e3o de Pol\u00edticas de Habita\u00e7\u00e3o"},{"code":"topic\/SubjectMatter\/11016000","label":"pol\u00edtica interna"}]};
+    </script> </head><body class="skin-expresso full-article "> <!--[if lt IE 8]>
+    <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a
+            href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+    <![endif]--> <div id="impresaBar" class="impresaBar"></div><script async>
+    require(['impresa-bars'], function (Bar) {
+        Bar.init("#impresaBar", {template: "expresso", active: "olimpia"});
+    });
+</script> <div class="headerElementsWrapper"> <div class="headerElements"> <ul class="headerTopLinks"> <li> <a href="http://promo.impresa.pt/cartaomx/COB7I.html" target="_blank">Assinar</a> </li> <li> <a href="https://loja.expresso.pt" target="_blank">Loja</a> </li> </ul> <section class="headerSocial"> <h2 class="socialLinksHeader">Siga-nos</h2><ul class="social"> <li class="facebook"> <a href="https://www.facebook.com/jornalexpresso" title="Facebook"><i class="icon icon-facebook"></i><span>Facebook</span></a> </li> <li class="twitter"> <a href="https://twitter.com/expresso" title="Twitter"><i class="icon icon-twitter"></i><span>Twitter</span></a> </li> <li class="rss"> <a href="http://feeds.feedburner.com/expresso-geral" title="RSS"><i class="icon icon-rss"></i><span>RSS</span></a> </li> </ul> </section> <div class="headerActions"> <p class="headerUser"> <button class="btn login js-loginButton" title="Login"><span>Login</span> <i class="icon icon-user"></i></button> <button class="btn logout js-logoutButton" title="Logout"><span>Logout</span></button> <a class="btn profile" href="https://perfil.impresa.pt" target="_blank" title="Perfil"><span>Perfil</span> <i class="icon icon-user"></i></a></p><script async>
+    require(['user'], function(User) {
+        User.update();
+    });
+</script> </div></div> </div> <div id="bsu_root"></div> <script async>
+        require(['parts/relative-times'], function(RelativeTimes) {
+            RelativeTimes.start(document, { selector: '.js-relative-time' });
+        });
+    </script> <div class="adContainer billboard" id="impresaBillboard"></div><script async>
+    require(['ipub'], function (Ads) {
+        Ads.register("#impresaBillboard", 'billboard');
+    });
+</script> <header class="mainHeader js-mainHeader"> <section class="headerTop"> <button class="menuTrigger js-menuTrigger" style="display: none;"><i class="icon icon-menu"></i><span>Menu</span></button> <h1 class="headerLogo"><a href="/">Expresso</a></h1> <div class="headerRight"> <ul class="headerMajorLinks"> <li><a class="diario" href="/diario" title="Diário"><span>Diário</span></a></li> <li><a class="semanario" href="/semanario" title="Semanário"><span>Semanário</span></a></li> </ul> </div> </section> <section class="headerNavigation js-headerNavigation" data-href="/api/molecule/header/navigation/"></section> <section class="subHeader" id="headerNavigationTarget"> <section class="default"></section> <section class="content"></section> </section></header><div class="js-header-target"></div><script async>
+    require(['jquery', 'widgets/visibility-checker', 'parts/header', 'parts/sidebar', 'widgets/content-loader'],
+            function($, VisibilityChecker, Header, Sidebar, ContentLoader) {
+                var $header = $('.js-mainHeader'),
+                    $menuTrigger = $header.find('.js-menuTrigger'),
+                    $parts = $header.find('.js-headerNavigation, .js-headerTopLinks');
+
+                                // Header Collapse
+                Header.start($header, {
+                    className: 'collapsedHeader',
+                    target: '.js-header-target',
+                    placeholder: true,
+                    placeholderClass: 'mainHeaderPlaceholder',
+                    placeholderOutClass: 'mainHeaderPlaceholderOut'
+                });
+                
+                                // Sidebar trigger
+                Sidebar.start($menuTrigger, {
+                    className: 'sideMenuIsExpanded',
+                    ignore: '.sideNavigation',
+                    scrollTarget: $header,
+                    targetSelector: '.js-sideNavigation'
+                });
+
+                // Show the menu trigger
+                $menuTrigger.show();
+                
+                // Load Header Parts
+                VisibilityChecker.start($parts, {
+                    onVisible: function($el) {
+                        this.stop();
+
+                        ContentLoader.start($el, {
+                            cache: true
+                        });
+                    }
+                });
+            });
+</script> <div class="adContainer pushdown homePushdown" id="pushdown"></div><script async>
+    require(['ipub'], function (Ads) {
+        Ads.register("#pushdown", 'pushdown');
+    });
+</script> <div class="wrapper"> <main class="mainContent"> <article itemscope itemtype="http://schema.org/NewsArticle" class="MC-ex_sections_25630 AT-noticia noPicture noLead notHeadline notIsolated"> <div class="innerMaster"> <section class="content halfWidth marginLess"> <div class="fullArticle"> <header> <p class="mainSection"> <a href="/politica">Política</a></p> <h1 class="title " itemprop="name"> Conselho de Ministros aprova diplomas para Nova Geração de Políticas de Habitação </h1> <div class="articleToolsContainer"> <p class="timeStamp publishedDate" datetime="2018-04-26T17:47:31.155Z" itemprop="datePublished"> 26.04.2018 às 18h47</p> <ul class="shareTools " id="social-5ae23a28c5fe3"> <li class="share-facebook"> <a href="http://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fexpresso.sapo.pt%2Fpolitica%2F2018-04-26-Conselho-de-Ministros-aprova-diplomas-para-Nova-Geracao-de-Politicas-de-Habitacao&amp;t=Conselho%20de%20Ministros%20aprova%20diplomas%20para%20Nova%20Gera%C3%A7%C3%A3o%20de%20Pol%C3%ADticas%20de%20Habita%C3%A7%C3%A3o" data-type="facebook" class="shareToolsEntry js-share gs-foreign-tracking gs-provider-facebook" target="_blank" title="Facebook"> <i class="icon icon-facebook"></i> <span>Facebook</span> </a> </li> <li class="share-twitter"> <a href="http://twitter.com/intent/tweet?url=http%3A%2F%2Fexpresso.sapo.pt%2Fpolitica%2F2018-04-26-Conselho-de-Ministros-aprova-diplomas-para-Nova-Geracao-de-Politicas-de-Habitacao&amp;text=Conselho%20de%20Ministros%20aprova%20diplomas%20para%20Nova%20Gera%C3%A7%C3%A3o%20de%20Pol%C3%ADticas%20de%20Habita%C3%A7%C3%A3o&amp;via=expresso" data-type="twitter" class="shareToolsEntry js-sharegs-foreign-tracking gs-provider-twitter" target="_blank" title="Twitter"> <i class="icon icon-twitter"></i> <span>Twitter</span> </a> </li> <li class="share-mail"> <a href="mailto:?subject=Conselho%20de%20Ministros%20aprova%20diplomas%20para%20Nova%20Gera%C3%A7%C3%A3o%20de%20Pol%C3%ADticas%20de%20Habita%C3%A7%C3%A3o&amp;body=Conselho%20de%20Ministros%20aprova%20diplomas%20para%20Nova%20Gera%C3%A7%C3%A3o%20de%20Pol%C3%ADticas%20de%20Habita%C3%A7%C3%A3o%0D%0A%0D%0AO%20ministro%20do%20ambiente%20refor%C3%A7ou%20que%20durante%20os%20pr%C3%B3ximos%20sete%20anos%20o%20Executivo%20vai%20investir%20para%20que%20%E2%80%9Cas%20car%C3%AAncias%20habitacionais%20sejam%20muito%20minimizadas%E2%80%9D%2C%20atrav%C3%A9s%20de%20programas%20definidos%20em%20cada%20munic%C3%ADpio%0D%0A%0D%0ALer mais: http%3A%2F%2Fexpresso.sapo.pt%2Fpolitica%2F2018-04-26-Conselho-de-Ministros-aprova-diplomas-para-Nova-Geracao-de-Politicas-de-Habitacao" data-type="email" title="Email" class="shareToolsEntry gs-foreign-tracking gs-provider-email"> <i class="icon icon-mail"></i> <span>Email</span> </a> </li> <li class="share-whatsapp"> <a href="whatsapp://send?text=Conselho%20de%20Ministros%20aprova%20diplomas%20para%20Nova%20Gera%C3%A7%C3%A3o%20de%20Pol%C3%ADticas%20de%20Habita%C3%A7%C3%A3o%20http%3A%2F%2Fexpresso.sapo.pt%2Fpolitica%2F2018-04-26-Conselho-de-Ministros-aprova-diplomas-para-Nova-Geracao-de-Politicas-de-Habitacao" class="shareToolsEntry" data-type="whatsapp" target="_blank" title="Whatsapp" style="display:none"> <i class="icon icon-whatsapp"></i> <span>Whatsapp</span> </a> </li> <li class="share-showMore"> <div class="shareToolsEntry"> <i class="icon icon-dot-3"></i> <span>Mais</span> </div> <div class="moreShareTools"> <div class="moreShareToolsInner"> <ul> <li class="share-google+"> <a href="http://plus.google.com/share?url=http%3A%2F%2Fexpresso.sapo.pt%2Fpolitica%2F2018-04-26-Conselho-de-Ministros-aprova-diplomas-para-Nova-Geracao-de-Politicas-de-Habitacao" data-type="googleplus" class="shareToolsEntry js-share gs-foreign-tracking gs-provider-google" target="_blank" title="Google+"> <i class="icon icon-gplus"></i> <span>Google+</span> </a> </li> <li class="share-linkedin"> <a href="https://www.linkedin.com/shareArticle?mini=true&amp;title=Conselho%20de%20Ministros%20aprova%20diplomas%20para%20Nova%20Gera%C3%A7%C3%A3o%20de%20Pol%C3%ADticas%20de%20Habita%C3%A7%C3%A3o&amp;summary=O%20ministro%20do%20ambiente%20refor%C3%A7ou%20que%20durante%20os%20pr%C3%B3ximos%20sete%20anos%20o%20Executivo%20vai%20investir%20para%20que%20%E2%80%9Cas%20car%C3%AAncias%20habitacionais%20sejam%20muito%20minimizadas%E2%80%9D%2C%20atrav%C3%A9s%20de%20programas%20definidos%20em%20cada%20munic%C3%ADpio&amp;url=http%3A%2F%2Fexpresso.sapo.pt%2Fpolitica%2F2018-04-26-Conselho-de-Ministros-aprova-diplomas-para-Nova-Geracao-de-Politicas-de-Habitacao&amp;source=Expresso" data-type="linkedin" class="shareToolsEntry js-share gs-foreign-tracking gs-provider-linkedin" target="_blank" title="Linkedin"> <i class="icon icon-linkedin"></i> <span>Linkedin</span> </a> </li> <li class="share-pinterest"> <a href="https://www.pinterest.com/pin/create/link/?url=http%3A%2F%2Fexpresso.sapo.pt%2Fpolitica%2F2018-04-26-Conselho-de-Ministros-aprova-diplomas-para-Nova-Geracao-de-Politicas-de-Habitacao&amp;media=%2F%2Fimages-cdn.impresa.pt%2Fexpresso%2F2018-01-26-casa-habitacao-lisboa%3Fv%3Dw620h395&amp;description=Conselho%20de%20Ministros%20aprova%20diplomas%20para%20Nova%20Gera%C3%A7%C3%A3o%20de%20Pol%C3%ADticas%20de%20Habita%C3%A7%C3%A3o" data-type="pinterest" class="shareToolsEntry js-share gs-foreign-tracking gs-provider-pinterest" target="_blank" title="Pinterest"> <i class="icon icon-pinterest"></i> <span>Pinterest</span> </a> </li> </ul> <div class="linkTool"> <p class="inputLabel">Link:</p> <div class="inputContainer"> <input aria-label="Link para partilha" readonly="readonly" class="url" type="text" value="http://expresso.sapo.pt/politica/2018-04-26-Conselho-de-Ministros-aprova-diplomas-para-Nova-Geracao-de-Politicas-de-Habitacao" onclick="this.focus();this.select()"> </div> </div> </div> </div> </li> </ul><script async>
+    require(['widgets/social-share'], function (SocialShare) {
+        SocialShare.start('#social-5ae23a28c5fe3');
+    });
+</script> </div></header> </div> </section> </div> <div class="innerMaster article-bottom"> <section class="content halfWidth content-top"> <div class="fullArticle"> <div class="afterHeader"> <figure> <picture class="landscape"> <img src="//images-cdn.impresa.pt/expresso/2018-01-26-casa-habitacao-lisboa/original/mw-860" alt="" class="js-lazy-picture" data-srcset="//images-cdn.impresa.pt/expresso/2018-01-26-casa-habitacao-lisboa/original/mw-240 240w, //images-cdn.impresa.pt/expresso/2018-01-26-casa-habitacao-lisboa/original/mw-320 320w, //images-cdn.impresa.pt/expresso/2018-01-26-casa-habitacao-lisboa/original/mw-480 480w, //images-cdn.impresa.pt/expresso/2018-01-26-casa-habitacao-lisboa/original/mw-680 680w, //images-cdn.impresa.pt/expresso/2018-01-26-casa-habitacao-lisboa/original/mw-768 768w, //images-cdn.impresa.pt/expresso/2018-01-26-casa-habitacao-lisboa/original/mw-860 860w, //images-cdn.impresa.pt/expresso/2018-01-26-casa-habitacao-lisboa/original/mw-960 960w, //images-cdn.impresa.pt/expresso/2018-01-26-casa-habitacao-lisboa/original/mw-1024 1024w, //images-cdn.impresa.pt/expresso/2018-01-26-casa-habitacao-lisboa/original/mw-1280 1280w, //images-cdn.impresa.pt/expresso/2018-01-26-casa-habitacao-lisboa/original/mw-1920 1920w, //images-cdn.impresa.pt/expresso/2018-01-26-casa-habitacao-lisboa/original/mw-2048 2048w" data-sizes="(min-width: 1280px) 860px, (min-width: 768px) 75vw, 100vw" /> </picture> <figcaption> <p class="credits">FOTO GONÇALO ROSA DA SILVA</p> </figcaption> </figure> <h2 class="lead"> O ministro do ambiente reforçou que durante os próximos sete anos o Executivo vai investir para que “as carências habitacionais sejam muito minimizadas”, através de programas definidos em cada município </h2></div><div class="articleSide"> <section class="signature singleAuthor"> <div class="authorContainer"> <figure> <a href="/autores/2015-05-03-Lusa" target="_self" > <picture class="portrait"> <img src="//images-cdn.impresa.pt/expresso/2015-05-03-LusaAutor.jpg-1/1x1/mw-30" alt="Lusa" class="js-lazy-picture" data-srcset="//images-cdn.impresa.pt/expresso/2015-05-03-LusaAutor.jpg-1/1x1/mw-30 30w, //images-cdn.impresa.pt/expresso/2015-05-03-LusaAutor.jpg-1/1x1/mw-50 50w, //images-cdn.impresa.pt/expresso/2015-05-03-LusaAutor.jpg-1/1x1/mw-70 70w, //images-cdn.impresa.pt/expresso/2015-05-03-LusaAutor.jpg-1/1x1/mw-100 100w, //images-cdn.impresa.pt/expresso/2015-05-03-LusaAutor.jpg-1/1x1/mw-140 140w, //images-cdn.impresa.pt/expresso/2015-05-03-LusaAutor.jpg-1/1x1/mw-200 200w, //images-cdn.impresa.pt/expresso/2015-05-03-LusaAutor.jpg-1/1x1/mw-380 380w" data-sizes="(min-width: 768px) 50px, 30px" /> </picture></a> </figure> <p class="author"> <a href="/autores/2015-05-03-Lusa"> Lusa </a></p> </div> </section> </div> <div class="adContainer atHomeFeed mrec onlyWithoutSidebar bottomLabel" id="Pub5ae23a28c6893"> <div class="adWrapper" style="display:none;"></div> </div> <script async>
+            require(['ipub'], function (Ads) {
+                Ads.register("#Pub5ae23a28c6893", 'mrec-alt', '#Pub5ae23a28c6893 .adWrapper');
+            });
+        </script> <div class="articleContent"> <p>O Conselho de Ministros aprovou esta quinta-feira sete diplomas do pacote legislativo da Nova Geração de Políticas de Habitação, com uma estratégia "pensada nas pessoas e não nas casas", respondendo às carências habitacionais e promovendo o arrendamento acessível.</p> <p>Para acabar com as cerca de 26 mil famílias identificadas em situação de carência habitacional, o Governo aprovou o programa Primeiro Direito, pretendendo "comemorar os 50 anos do 25 de Abril já sem famílias carenciadas em Portugal", avançou o ministro do Ambiente, João Matos Fernandes, recordando assim o compromisso já assumido pelo primeiro-ministro, na segunda-feira.</p> <p>Na conferência de imprensa após a reunião do Conselho de Ministros desta quinta-feira, João Matos Fernandes reforçou que durante os próximos sete anos o Executivo vai investir para que "as carências habitacionais sejam muito minimizadas", através de programas definidos em cada município, cujo apoio "pode ir até 60% a fundo perdido", privilegiando-se "os investimentos que forem feitos para arrendamento em reabilitação de imóveis em detrimento da construção para aquisição".</p> <p>Além da preocupação com as famílias mais carenciadas, o Governo pretende dar resposta a "todos quantos estão em falha de mercado", através do Programa de Arrendamento Acessível, que visa promover uma oferta alargada de habitação para arrendamento a preços reduzidos, compatível com os rendimentos das famílias.</p> <p>Somando à oferta pública de habitação a partir do Fundo Nacional de Reabilitação do Edificado, o Programa de Arrendamento Acessível visa mobilizar os proprietários privados para uma oferta de habitação a rendas que sejam "no máximo de 80% do valor de referência" do mercado de arrendamento, informou o ministro do Ambiente, explicando que os contratos têm que ser celebrados por um período mínimo de três anos.</p> <p>"A taxa de esforço das famílias não pode ser para o arrendamento acessível nem inferior a 10% nem superior a 35%", afirmou o governante.</p> <p>O novo programa é também dirigido a estudantes do ensino superior, com contratos de nove meses.</p> <p>De acordo com o ministro, os proprietários que aderirem ao Programa de Arrendamento Acessível vão beneficiar de "uma isenção total de IRS e IRC" sobre os rendimentos auferidos.</p> <p>Neste âmbito, o Conselho de Ministro aprovou ainda um pacote de seguros para "garantir ao senhorio que vai auferir da renda que está à espera e para permitir aos inquilinos quando tiverem quebras de rendimento continuarem a pagar".</p> <p>Com o intuito de promover uma maior estabilidade contratual no arrendamento, o Governo vai avançar com taxas autónomas diferenciadas para os arrendamentos habitacionais com contratos de longa duração, concedendo aos proprietários a descida da taxa liberatória de 28% para 14% quando aplicada a contratos superiores a dez anos e a aplicação de uma taxa liberatória de 10% se os contratos de arrendamento forem superiores a 20 anos.</p> <p>Além desta medida de caráter fiscal, o Executivo vai propor à Assembleia da República alterações ao enquadramento legislativo do arrendamento habitacional para corrigir situações de desequilíbrio entre os direitos dos arrendatários e dos senhorios, "em particular proteger os arrendatários em situação de especial fragilidade".</p> <p>Neste sentido, as pessoas com mais de 65 anos ou com mais de 60% de incapacidade, "há mais de 25 anos a residir nessas mesmas habitações", tem o direito à renovação do contrato de arrendamento.</p> <p>Na reunião do Conselho de Ministro foi ainda aprovado o programa Chave na Mão, que visa facilitar a mobilidade habitacional das famílias residentes em áreas de forte pressão urbana para o interior do país, permitindo que quem opte por sair das grandes cidades inclua as respetivas habitações no Programa de Arrendamento Acessível, sem perderem o direito de propriedade, através de contrato celebrado com o Instituto da Habitação e da Reabilitação Urbana (IHRU).</p> </div><footer class="articleFooter"> <section class="keywordsList"> <p class="sectionLabel">Palavras-chave</p> <ul> <li><a rel="tag" href="/palavra/concept/22.1.1">Quotidiano / Habitat / habitat</a></li> <li><a rel="tag" href="/palavra/entity/unk/Executivo">Executivo</a></li> <li><a rel="tag" href="/palavra/topic/SubjectDetail/11016002">habitação e urbanismo</a></li> <li><a rel="tag" href="/palavra/entity/job/ministro-do-Ambiente">ministro do Ambiente</a></li> <li><a rel="tag" href="/palavra/topic/Subject/11000000">política</a></li> <li><a rel="tag" href="/palavra/entity/people/Joao-Matos-Fernandes">João Matos Fernandes</a></li> <li><a rel="tag" href="/palavra/concept/24.5.1">Actividades económicas / Comércio e bens / bens</a></li> <li><a rel="tag" href="/palavra/topic/Subject/14000000">questões sociais</a></li> <li><a rel="tag" href="/palavra/concept/24.5.2">Actividades económicas / Comércio e bens / comércio</a></li> <li><a rel="tag" href="/palavra/concept/6.1.2"> Acção / Acção / projecto</a></li> <li><a rel="tag" href="/palavra/entity/organization/Governo">Governo</a></li> <li><a rel="tag" href="/palavra/entity/humanworks/Programa-de-Arrendamento-Acessivel">Programa de Arrendamento Acessível</a></li> <li><a rel="tag" href="/palavra/entity/unk/Nova-Geracao-de-Politicas-de-Habitacao">Nova Geração de Políticas de Habitação</a></li> <li><a rel="tag" href="/palavra/topic/SubjectMatter/11016000">política interna</a></li> </ul> </section> <div class="articleToolsContainer"> <ul class="shareTools " id="social-5ae23a28c6ae2"> <li class="share-facebook"> <a href="http://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fexpresso.sapo.pt%2Fpolitica%2F2018-04-26-Conselho-de-Ministros-aprova-diplomas-para-Nova-Geracao-de-Politicas-de-Habitacao&amp;t=Conselho%20de%20Ministros%20aprova%20diplomas%20para%20Nova%20Gera%C3%A7%C3%A3o%20de%20Pol%C3%ADticas%20de%20Habita%C3%A7%C3%A3o" data-type="facebook" class="shareToolsEntry js-share gs-foreign-tracking gs-provider-facebook" target="_blank" title="Facebook"> <i class="icon icon-facebook"></i> <span>Facebook</span> </a> </li> <li class="share-twitter"> <a href="http://twitter.com/intent/tweet?url=http%3A%2F%2Fexpresso.sapo.pt%2Fpolitica%2F2018-04-26-Conselho-de-Ministros-aprova-diplomas-para-Nova-Geracao-de-Politicas-de-Habitacao&amp;text=Conselho%20de%20Ministros%20aprova%20diplomas%20para%20Nova%20Gera%C3%A7%C3%A3o%20de%20Pol%C3%ADticas%20de%20Habita%C3%A7%C3%A3o&amp;via=expresso" data-type="twitter" class="shareToolsEntry js-sharegs-foreign-tracking gs-provider-twitter" target="_blank" title="Twitter"> <i class="icon icon-twitter"></i> <span>Twitter</span> </a> </li> <li class="share-mail"> <a href="mailto:?subject=Conselho%20de%20Ministros%20aprova%20diplomas%20para%20Nova%20Gera%C3%A7%C3%A3o%20de%20Pol%C3%ADticas%20de%20Habita%C3%A7%C3%A3o&amp;body=Conselho%20de%20Ministros%20aprova%20diplomas%20para%20Nova%20Gera%C3%A7%C3%A3o%20de%20Pol%C3%ADticas%20de%20Habita%C3%A7%C3%A3o%0D%0A%0D%0AO%20ministro%20do%20ambiente%20refor%C3%A7ou%20que%20durante%20os%20pr%C3%B3ximos%20sete%20anos%20o%20Executivo%20vai%20investir%20para%20que%20%E2%80%9Cas%20car%C3%AAncias%20habitacionais%20sejam%20muito%20minimizadas%E2%80%9D%2C%20atrav%C3%A9s%20de%20programas%20definidos%20em%20cada%20munic%C3%ADpio%0D%0A%0D%0ALer mais: http%3A%2F%2Fexpresso.sapo.pt%2Fpolitica%2F2018-04-26-Conselho-de-Ministros-aprova-diplomas-para-Nova-Geracao-de-Politicas-de-Habitacao" data-type="email" title="Email" class="shareToolsEntry gs-foreign-tracking gs-provider-email"> <i class="icon icon-mail"></i> <span>Email</span> </a> </li> <li class="share-whatsapp"> <a href="whatsapp://send?text=Conselho%20de%20Ministros%20aprova%20diplomas%20para%20Nova%20Gera%C3%A7%C3%A3o%20de%20Pol%C3%ADticas%20de%20Habita%C3%A7%C3%A3o%20http%3A%2F%2Fexpresso.sapo.pt%2Fpolitica%2F2018-04-26-Conselho-de-Ministros-aprova-diplomas-para-Nova-Geracao-de-Politicas-de-Habitacao" class="shareToolsEntry" data-type="whatsapp" target="_blank" title="Whatsapp" style="display:none"> <i class="icon icon-whatsapp"></i> <span>Whatsapp</span> </a> </li> <li class="share-showMore"> <div class="shareToolsEntry"> <i class="icon icon-dot-3"></i> <span>Mais</span> </div> <div class="moreShareTools"> <div class="moreShareToolsInner"> <ul> <li class="share-google+"> <a href="http://plus.google.com/share?url=http%3A%2F%2Fexpresso.sapo.pt%2Fpolitica%2F2018-04-26-Conselho-de-Ministros-aprova-diplomas-para-Nova-Geracao-de-Politicas-de-Habitacao" data-type="googleplus" class="shareToolsEntry js-share gs-foreign-tracking gs-provider-google" target="_blank" title="Google+"> <i class="icon icon-gplus"></i> <span>Google+</span> </a> </li> <li class="share-linkedin"> <a href="https://www.linkedin.com/shareArticle?mini=true&amp;title=Conselho%20de%20Ministros%20aprova%20diplomas%20para%20Nova%20Gera%C3%A7%C3%A3o%20de%20Pol%C3%ADticas%20de%20Habita%C3%A7%C3%A3o&amp;summary=O%20ministro%20do%20ambiente%20refor%C3%A7ou%20que%20durante%20os%20pr%C3%B3ximos%20sete%20anos%20o%20Executivo%20vai%20investir%20para%20que%20%E2%80%9Cas%20car%C3%AAncias%20habitacionais%20sejam%20muito%20minimizadas%E2%80%9D%2C%20atrav%C3%A9s%20de%20programas%20definidos%20em%20cada%20munic%C3%ADpio&amp;url=http%3A%2F%2Fexpresso.sapo.pt%2Fpolitica%2F2018-04-26-Conselho-de-Ministros-aprova-diplomas-para-Nova-Geracao-de-Politicas-de-Habitacao&amp;source=Expresso" data-type="linkedin" class="shareToolsEntry js-share gs-foreign-tracking gs-provider-linkedin" target="_blank" title="Linkedin"> <i class="icon icon-linkedin"></i> <span>Linkedin</span> </a> </li> <li class="share-pinterest"> <a href="https://www.pinterest.com/pin/create/link/?url=http%3A%2F%2Fexpresso.sapo.pt%2Fpolitica%2F2018-04-26-Conselho-de-Ministros-aprova-diplomas-para-Nova-Geracao-de-Politicas-de-Habitacao&amp;media=%2F%2Fimages-cdn.impresa.pt%2Fexpresso%2F2018-01-26-casa-habitacao-lisboa%3Fv%3Dw620h395&amp;description=Conselho%20de%20Ministros%20aprova%20diplomas%20para%20Nova%20Gera%C3%A7%C3%A3o%20de%20Pol%C3%ADticas%20de%20Habita%C3%A7%C3%A3o" data-type="pinterest" class="shareToolsEntry js-share gs-foreign-tracking gs-provider-pinterest" target="_blank" title="Pinterest"> <i class="icon icon-pinterest"></i> <span>Pinterest</span> </a> </li> </ul> <div class="linkTool"> <p class="inputLabel">Link:</p> <div class="inputContainer"> <input aria-label="Link para partilha" readonly="readonly" class="url" type="text" value="http://expresso.sapo.pt/politica/2018-04-26-Conselho-de-Ministros-aprova-diplomas-para-Nova-Geracao-de-Politicas-de-Habitacao" onclick="this.focus();this.select()"> </div> </div> </div> </div> </li> </ul><script async>
+    require(['widgets/social-share'], function (SocialShare) {
+        SocialShare.start('#social-5ae23a28c6ae2');
+    });
+</script> </div></footer> </div> <div class="adContainer autopromo"> <div id="Pub5ae23a28c6be5" class="adWrapper"></div> <script async>
+            require(['ipub'], function (Ads) {
+                Ads.register("#Pub5ae23a28c6be5", "ad-slot");
+            });
+        </script> </div> </section> <section class="rightSidebar js-sidebar js-right-sidebar article-top" id="rightSidebar5ae23a28c6d61" data-ads-section="/politica" data-href="/api/molecule/sidebar/top?location=site"> <div class="placeholder mrec"></div> <div class="placeholder"> <span></span> <span></span> </div> <script async>
+            require(['widgets/visibility-checker', 'widgets/content-loader'],
+                    function(VisibilityChecker, ContentLoader) {
+                        // Load Sidebar Parts
+                        VisibilityChecker.start("#rightSidebar5ae23a28c6d61", {
+                            viewport: false,
+                            onVisible: function($el) {
+                                this.stop();
+
+                                ContentLoader.start($el, {
+                                    cache: true
+                                });
+                            }
+                        });
+                    });
+        </script> </section> </div> </article> <div class="innerMaster"> <section class="content halfWidth"> <div class="adContainer atHomeFeed mrec onlyWithoutSidebar" id="Pub5ae23a28c6e23"> <div class="adWrapper" style="display:none;"></div> </div> <script async>
+            require(['ipub'], function (Ads) {
+                Ads.register("#Pub5ae23a28c6e23", 'mrec', '#Pub5ae23a28c6e23 .adWrapper');
+            });
+        </script> <div id="List5ae23a28c6fb5" data-href="/api/molecule/recommendation"> <div class="loading js-loader" style="display: none; margin-bottom:40px">A carregar...</div> </div> <script async>
+        require(['parts/recommended-priberam'], function(RecommendedPriberam) {
+            RecommendedPriberam.start('#List5ae23a28c6fb5', {
+                'limit': 3,
+                'articleId': '71db8a5f-4d5e-4b8f-b89f-0700f34f7026'
+            });
+        });
+    </script> <div class="adContainer revcontent" id="revContent"></div><script async>
+    require(['ipub'], function (Ads) {
+        Ads.register("#revContent", 'revcontent');
+    });
+</script> <div id="homeLatest" data-href="/api/molecule/latest//politica"> <div class="js-container inArticleContext"></div> <button class="js-more moreButton" style="display: none">Mais Artigos</button> <div class="loading js-loader" style="display: none; margin-bottom:40px">a carregar...</div></div><script async>
+    require(['parts/latest'], function(InfiniteScroll) {
+        InfiniteScroll.start('#homeLatest', {
+            'auto': true,
+            'title': 'Política',
+            'offset-attribute': 'datetime',
+            'more-selector': '.js-more',
+            'loader-selector': '.js-loader',
+            'container-selector': '.js-container'
+        });
+    });
+</script> </section> <section class="rightSidebar js-sidebar js-right-sidebar article-bottom" id="rightSidebar5ae23a28c7293" data-ads-section="/politica" data-href="/api/molecule/sidebar/bottom?location=site"> <div class="placeholder"> <span></span> <span></span> </div> <script async>
+            require(['widgets/visibility-checker', 'widgets/content-loader'],
+                    function(VisibilityChecker, ContentLoader) {
+                        // Load Sidebar Parts
+                        VisibilityChecker.start("#rightSidebar5ae23a28c7293", {
+                            viewport: false,
+                            onVisible: function($el) {
+                                this.stop();
+
+                                ContentLoader.start($el, {
+                                    cache: true
+                                });
+                            }
+                        });
+                    });
+        </script> </section><script async>
+    require(['parts/sticky-scroll'], function(StickyScroll) {
+        StickyScroll.start("#rightSidebar5ae23a28c7293", {
+            infinite: 1
+        });
+    });
+</script> </div> </main> <nav class="sideNavigation js-sideNavigation"> <div class="inner"> <div class="sidenavActions"> <form class="sidenavSearch search-bar" action="/pesquisa" > <div class="search-input-wrap"> <input type="search" placeholder="Pesquisa" class="search-input" name="q" value=""/> </div> <button type="submit" title="Pesquisar" class="search-submit icon icon-search"><span>Pesquisar</span></button> </form> <p class="sidenavUser"> <button class="btn login js-loginButton" title="Login"><span>Login</span> <i class="icon icon-user"></i></button> <button class="btn register js-registerButton" title="Registo"><span>Registo</span> <i class="icon icon-user"></i></button> <button class="btn logout js-logoutButton" title="Logout"><span>Logout</span></button> <a class="btn profile" href="https://perfil.impresa.pt" target="_blank" title="Perfil"><span>Perfil</span> <i class="icon icon-user"></i></a> </p> <script async>
+    require(['user'], function(User) {
+        User.update();
+    });
+</script> </div> <section > <h2>Edições</h2> <ul> <li><a href="/diario" >Diário</a> </li> <li><a href="/semanario" >Semanário</a> </li> <li><a href="/newsletters/expressomatinal" >Expresso Curto</a> </li> <li><a href="/podcasts" >Podcasts</a> </li> <li><a href="http://tribuna.expresso.pt" >Tribuna</a> </li> </ul> </section> <section > <h2>Secções</h2> <ul> <li><a href="/destaques" >Início</a> </li> <li><a href="/ultimas" >Últimas</a> </li> <li><a href="/ineditos" >Inéditos</a> </li> <li><a href="/multimedia" >Multimédia</a> </li> <li><a href="/politica" >Política</a> </li> <li><a href="/sociedade" >Sociedade</a> </li> <li><a href="/internacional" >Internacional</a> </li> <li><a href="/economia" >Economia</a> </li> <li><a href="http://tribuna.expresso.pt" >Desporto</a> </li> <li><a href="/cultura" >Cultura</a> </li> <li><a href="/opiniao" >Opinião</a> </li> <li><a href="/gen.pl?sid=ex.sections/25024&amp;amp;m2=48" >Cartoons</a> </li> <li><a href="/gen.pl?sid=ex.sections/23425&amp;amp;m2=45" >Está dito</a> </li> </ul> </section> <section > <h2>Iniciativas</h2> <ul> <li><a href="/economia/gic" >Global Investment Challenge</a> </li> <li><a href="/iniciativaseprodutos/entrepreneur-of-the-year" >Entrepreneur Of The Year</a> </li> </ul> </section> <section > <h2>Classificados</h2> <ul> <li><a href="http://expressoemprego.pt/" target="_blank">Emprego</a> </li> <li><a href="http://bpiexpressoimobiliario.pt/" target="_blank">Imobiliário</a> </li> </ul> </section> <section class="meta"> <h2 class="socialLinksHeader">Siga-nos</h2><ul class="social"> <li class="facebook"> <a href="https://www.facebook.com/jornalexpresso" title="Facebook"><i class="icon icon-facebook"></i><span>Facebook</span></a> </li> <li class="twitter"> <a href="https://twitter.com/expresso" title="Twitter"><i class="icon icon-twitter"></i><span>Twitter</span></a> </li> <li class="googlePlus"> <a href="https://plus.google.com/110189231159586871953/posts" title="Google+"><i class="icon icon-gplus"></i><span>Google+</span></a> </li> <li class="linkedIn"> <a href="https://www.linkedin.com/company/expresso-emprego" title="LinkedIn"><i class="icon icon-linkedin"></i><span>LinkedIn</span></a> </li> <li class="rss"> <a href="http://feeds.feedburner.com/expresso-geral" title="RSS"><i class="icon icon-rss"></i><span>RSS</span></a> </li> </ul> <ul class="institucional"> <li><a href="/gen.pl?p=stories&amp;fokey=ex.stories/774690&amp;op=view&amp;mid1=ex.menus/66&amp;m2=487" >Estatuto editorial</a> </li> <li><a href="/gen.pl?p=stories&amp;fokey=ex.stories/198040&amp;op=view&amp;mid1=ex.menus/66&amp;m2=487" >Código de Conduta</a> </li> <li><a href="/gen.pl?p=stories&amp;fokey=ex.stories/774685&amp;op=view&amp;mid1=ex.menus/66&amp;m2=488" >Ficha Técnica do Expresso</a> </li> <li><a href="/informacao/cookies/2015-05-03-Politica-de-cookies" >Política de cookies</a> </li> <li><a href="/arquivo/paginas_institucionais/termos_de_utilizacao/2015-05-03-Termos-de-Utilizacao-1" >Termos de utilização</a> </li> <li><a href="/informacao/PolticadePrivacidade/2015-05-04-Politica-de-privacidade" >Política de privacidade</a> </li> <li><a href="/regras-da-comunidade=f740487" >Regras da Comunidade</a> </li> <li><a href="/gen.pl?p=stories&amp;op=view&amp;fokey=ex.stories/723177" >Publicidade</a> </li> <li><a href="/contactos-directos=f774722" >Contactos</a> </li> <li><a href="http://www.impresa.pt/lei782015" target="_blank">Lei da Transparência</a> </li> <li><a href="http://promo.impresa.pt/cartaomx/COB7I.html" target="_blank">Assinar</a> </li> <li><a href="/cartas-ao-diretor" >Cartas ao Director</a> </li> <li><a href="https://loja.expresso.pt" target="_blank">Loja</a> </li> </ul> <p class="copyright">&copy; Expresso Impresa Publishing S.A.</p> </section> <section class="footerImpresaContainer"> <div id="impresaFooter"></div> <script>
+                require(['impresa-footer'], function(Lib) {
+                    Lib.init('#impresaFooter',{responsive:false});
+                });
+            </script> </section> </div> <script async>
+        require(['jquery', 'parts/scroll-binder'], function ($, ScrollBinder) {
+            var $el = $('.js-sideNavigation');
+
+            ScrollBinder.start($el, {
+                scroller: $el.find('.inner'),
+                mq: '(min-width: 768px)'
+            });
+        });
+    </script></nav> </div> <script async>
+                require(['ipub'], function(Ads) {
+                    Ads.enableOverlay("/1058775/Expresso_Overlay");
+                });
+            </script> <script async>
+    require(['impresa-cookie-policy'], function(Lib) {
+        Lib.init("body", {
+            policyUrl: "/informacao/cookies/2015-05-03-Politica-de-cookies",
+            usageUrl: "/informacao/cookies/2015-05-03-Politica-de-cookies"
+        });
+    });
+</script> <div class="adContainer sniffer" id="Pub5ae23a28c7798"></div><script async>
+    require(['ipub'], function (Ads) {
+        Ads.register("#Pub5ae23a28c7798", 'xaxis');
+    });
+</script> <div class="adContainer sniffer" id="Pub5ae23a28c77e1"></div><script async>
+    require(['ipub'], function (Ads) {
+        Ads.register("#Pub5ae23a28c77e1", 'tracking');
+    });
+</script> <script async>
+            require(['parts/ads-setup'], function (Ads) {
+                Ads.run({"siteId":89002,"pageId":618880,"revcontent":{"widgetId":84556}});
+            });
+        </script> <script async>
+            require(['parts/push-notifications'], function (PushNotifications) {
+                PushNotifications.start('body', {
+                    onesignal: {"subdomainName":"expresso","appId":"14f37390-73dd-4ccf-9a46-0384a2846344","safari_web_id":"web.onesignal.auto.560021c2-877c-448b-9811-f001e7b5ec58"}
+                });
+            });
+        </script> </body></html>
