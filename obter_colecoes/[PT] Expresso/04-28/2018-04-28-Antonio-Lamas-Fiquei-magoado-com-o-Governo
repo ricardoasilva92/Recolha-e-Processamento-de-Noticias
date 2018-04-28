@@ -1,0 +1,230 @@
+<!DOCTYPE html><html class="no-js" lang="pt-PT"><head> <meta charset="UTF-8"/> <meta http-equiv="X-UA-Compatible" content="IE=edge"/> <meta http-equiv="Content-Language" content="pt"> <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no"/> <link rel="manifest" href="/manifest.json"/> <meta name="apple-mobile-web-app-title" content="Expresso"/> <meta name="theme-color" content="#015782"/> <meta name="msapplication-TileColor" content="#015782"/> <link rel="icon" sizes="152x152" href="//static.impresa.pt/expresso/2477//assets/gfx/icon.png"/> <meta name="msapplication-square150x150logo" content="//static.impresa.pt/expresso/2477//assets/gfx/icon.png"/> <link rel="dns-prefetch" href="//ajax.googleapis.com"><link rel="preconnect" href="//images-cdn.impresa.pt/"><link rel="stylesheet" type="text/css" href="//static.impresa.pt/expresso/2477//assets/css/main.min.css"/> <!--[if lte IE 8]>
+     <link href="//static.impresa.pt/expresso/2477//assets/respond-proxy.html" id="respond-proxy" rel="respond-proxy"/>  <link href="/assets/gfx/respond.proxy.gif" id="respond-redirect" rel="respond-redirect"/> <script src="//static.impresa.pt/expresso/2477//assets/js/legacy.min.js"></script> <![endif]--> <script src="//static.impresa.pt/expresso/2477//assets/js/head.min.js"></script> <script>
+        require.config({
+            baseUrl: '//static.impresa.pt/expresso/2477//assets/js/'
+        });
+    </script><script>
+    require.config({
+        map: {
+            "*": {
+                'user': 'parts/web/user',
+                'parts/config': 'parts/web/config'
+            }
+        },
+        paths: {
+            'ImpresaSSO': 'https://id.impresa.pt/js/impresa-sso.min'
+        },
+        config: {
+            'parts/web/user': {"profile":{"url":"https:\/\/api.impresa.pt\/profile"},"sso":{"url":"https:\/\/id.impresa.pt","gigyaKey":"3_SlQdOiQ8k-7grQ_Mx0LfKus2fvYJ7ge7QRBxXcLAk0x_hhvxLLYiLrGZwQrLpUlW"}},
+
+            'parts/escolas/2016': {"fbag":{"url":"https:\/\/api.impresa.pt\/bag"}},
+
+            'parts/escolas/2017': {"fbag":{"url":"https:\/\/api.impresa.pt\/bag"}},
+
+            'parts/eleicoes/autarquicas2017': {"fbag":{"url":"https:\/\/api.impresa.pt\/bag"}}
+        }
+    });
+
+        window.lazySizesConfig = window.lazySizesConfig || {};
+    window.lazySizesConfig.lazyClass = "js-lazy-picture";
+    window.lazySizesConfig.preloadClass = "js-lazy-picture-preload";
+    window.lazySizesConfig.loadingClass = "js-lazy-picture-loading";
+    window.lazySizesConfig.loadedClass = "js-lazy-picture-loaded";
+    </script><script async>
+    require(['modernizr', 'parts/ua']);
+
+        require(['picturefill', 'lazysizes']);
+    
+        require(['parts/trackr'], function (Trackr) { Trackr.trackPage(document.location.pathname, document.title); });
+    
+        require( ['parts/getSocial' ], function( GetSocial ) {
+        GetSocial.init( { id: 'ffe7f9' } );
+    } );
+    </script> <title>Expresso | António Lamas: “Fiquei magoado com o Governo”</title><meta name="twitter:title" property="og:title" content="António Lamas: “Fiquei magoado com o Governo”"/><link rel="canonical" href="http://expresso.sapo.pt/cultura/2018-04-28-Antonio-Lamas-Fiquei-magoado-com-o-Governo"><meta name="twitter:url" property="og:url" content="http://expresso.sapo.pt/cultura/2018-04-28-Antonio-Lamas-Fiquei-magoado-com-o-Governo"> <meta name="description" content="Foi há dois anos exonerado da administração do CCB pelo então ministro da Cultura, João Soares, e o seu nome ficou ligado a um buraco financeiro de 6 milhões de euros na instituição. Nos 25 anos desta, quebra o silêncio para falar do que se passou"> <meta name="twitter:description" property="og:description" content="Foi há dois anos exonerado da administração do CCB pelo então ministro da Cultura, João Soares, e o seu nome ficou ligado a um buraco financeiro de 6 milhões de euros na instituição. Nos 25 anos desta, quebra o silêncio para falar do que se passou"/> <meta name="twitter:image" property="og:image" content="http://images-cdn.impresa.pt/expresso/2018-04-23-antonio-lamas-1/fb/wm"/><meta property="og:image:width" content="1200"/><meta property="og:image:height" content="630"/><meta name="twitter:card" content="summary"><meta property="og:type" content="article"><meta name="twitter:site" content="@expresso"/><meta property="og:site_name" content="Jornal Expresso"/><link rel="alternate" type="application/rss+xml" title="Expresso RSS" href="http://feeds.feedburner.com/expresso-geral"/> <meta property="impresa:id" content="17fc90bb-9f4f-4e30-b467-5ec5038144d7"/> <meta property="impresa:type" content="ARTICLE"/> <meta property="impresa:publishedDate" content="2018-04-28T16:00:49.000Z"/> <script>
+        window.ImpresaAdTargeting = {"_":"cultura","url":"2018-04-28-Antonio-Lamas-Fiquei-magoado-com-o-Governo","tag":""};
+    </script> </head><body class="skin-expresso full-article "> <!--[if lt IE 8]>
+    <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a
+            href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+    <![endif]--> <div id="impresaBar" class="impresaBar"></div><script async>
+    require(['impresa-bars'], function (Bar) {
+        Bar.init("#impresaBar", {template: "expresso", active: "olimpia"});
+    });
+</script> <div class="headerElementsWrapper"> <div class="headerElements"> <ul class="headerTopLinks"> <li> <a href="http://promo.impresa.pt/cartaomx/COB7I.html" target="_blank">Assinar</a> </li> <li> <a href="https://loja.expresso.pt" target="_blank">Loja</a> </li> </ul> <section class="headerSocial"> <h2 class="socialLinksHeader">Siga-nos</h2><ul class="social"> <li class="facebook"> <a href="https://www.facebook.com/jornalexpresso" title="Facebook"><i class="icon icon-facebook"></i><span>Facebook</span></a> </li> <li class="twitter"> <a href="https://twitter.com/expresso" title="Twitter"><i class="icon icon-twitter"></i><span>Twitter</span></a> </li> <li class="rss"> <a href="http://feeds.feedburner.com/expresso-geral" title="RSS"><i class="icon icon-rss"></i><span>RSS</span></a> </li> </ul> </section> <div class="headerActions"> <p class="headerUser"> <button class="btn login js-loginButton" title="Login"><span>Login</span> <i class="icon icon-user"></i></button> <button class="btn logout js-logoutButton" title="Logout"><span>Logout</span></button> <a class="btn profile" href="https://perfil.impresa.pt" target="_blank" title="Perfil"><span>Perfil</span> <i class="icon icon-user"></i></a></p><script async>
+    require(['user'], function(User) {
+        User.update();
+    });
+</script> </div></div> </div> <div id="bsu_root"></div> <script async>
+        require(['parts/relative-times'], function(RelativeTimes) {
+            RelativeTimes.start(document, { selector: '.js-relative-time' });
+        });
+    </script> <div class="adContainer billboard" id="impresaBillboard"></div><script async>
+    require(['ipub'], function (Ads) {
+        Ads.register("#impresaBillboard", 'billboard');
+    });
+</script> <header class="mainHeader js-mainHeader"> <section class="headerTop"> <button class="menuTrigger js-menuTrigger" style="display: none;"><i class="icon icon-menu"></i><span>Menu</span></button> <h1 class="headerLogo"><a href="/">Expresso</a></h1> <div class="headerRight"> <ul class="headerMajorLinks"> <li><a class="diario" href="/diario" title="Diário"><span>Diário</span></a></li> <li><a class="semanario" href="/semanario" title="Semanário"><span>Semanário</span></a></li> </ul> </div> </section> <section class="headerNavigation js-headerNavigation" data-href="/api/molecule/header/navigation/"></section> <section class="subHeader" id="headerNavigationTarget"> <section class="default"></section> <section class="content"></section> </section></header><div class="js-header-target"></div><script async>
+    require(['jquery', 'widgets/visibility-checker', 'parts/header', 'parts/sidebar', 'widgets/content-loader'],
+            function($, VisibilityChecker, Header, Sidebar, ContentLoader) {
+                var $header = $('.js-mainHeader'),
+                    $menuTrigger = $header.find('.js-menuTrigger'),
+                    $parts = $header.find('.js-headerNavigation, .js-headerTopLinks');
+
+                                // Header Collapse
+                Header.start($header, {
+                    className: 'collapsedHeader',
+                    target: '.js-header-target',
+                    placeholder: true,
+                    placeholderClass: 'mainHeaderPlaceholder',
+                    placeholderOutClass: 'mainHeaderPlaceholderOut'
+                });
+                
+                                // Sidebar trigger
+                Sidebar.start($menuTrigger, {
+                    className: 'sideMenuIsExpanded',
+                    ignore: '.sideNavigation',
+                    scrollTarget: $header,
+                    targetSelector: '.js-sideNavigation'
+                });
+
+                // Show the menu trigger
+                $menuTrigger.show();
+                
+                // Load Header Parts
+                VisibilityChecker.start($parts, {
+                    onVisible: function($el) {
+                        this.stop();
+
+                        ContentLoader.start($el, {
+                            cache: true
+                        });
+                    }
+                });
+            });
+</script> <div class="adContainer pushdown homePushdown" id="pushdown"></div><script async>
+    require(['ipub'], function (Ads) {
+        Ads.register("#pushdown", 'pushdown');
+    });
+</script> <div class="wrapper"> <main class="mainContent"> <article itemscope itemtype="http://schema.org/NewsArticle" class="MC-ex_sections_25038 AT-noticia noPicture noLead notHeadline notIsolated"> <div class="innerMaster"> <section class="content halfWidth marginLess"> <div class="fullArticle"> <header> <p class="mainSection"> <a href="/cultura">Cultura</a></p> <h1 class="title " itemprop="name"> António Lamas: “Fiquei magoado com o Governo” </h1> <div class="articleToolsContainer"> <p class="timeStamp publishedDate" datetime="2018-04-28T16:00:49.000Z" itemprop="datePublished"> 28.04.2018 às 17h00</p> <ul class="shareTools " id="social-5ae4a6b82b0ce"> <li class="share-facebook"> <a href="http://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fexpresso.sapo.pt%2Fcultura%2F2018-04-28-Antonio-Lamas-Fiquei-magoado-com-o-Governo&amp;t=Ant%C3%B3nio%20Lamas%3A%20%E2%80%9CFiquei%20magoado%20com%20o%20Governo%E2%80%9D" data-type="facebook" class="shareToolsEntry js-share gs-foreign-tracking gs-provider-facebook" target="_blank" title="Facebook"> <i class="icon icon-facebook"></i> <span>Facebook</span> </a> </li> <li class="share-twitter"> <a href="http://twitter.com/intent/tweet?url=http%3A%2F%2Fexpresso.sapo.pt%2Fcultura%2F2018-04-28-Antonio-Lamas-Fiquei-magoado-com-o-Governo&amp;text=Ant%C3%B3nio%20Lamas%3A%20%E2%80%9CFiquei%20magoado%20com%20o%20Governo%E2%80%9D&amp;via=expresso" data-type="twitter" class="shareToolsEntry js-sharegs-foreign-tracking gs-provider-twitter" target="_blank" title="Twitter"> <i class="icon icon-twitter"></i> <span>Twitter</span> </a> </li> <li class="share-mail"> <a href="mailto:?subject=Ant%C3%B3nio%20Lamas%3A%20%E2%80%9CFiquei%20magoado%20com%20o%20Governo%E2%80%9D&amp;body=Ant%C3%B3nio%20Lamas%3A%20%E2%80%9CFiquei%20magoado%20com%20o%20Governo%E2%80%9D%0D%0A%0D%0AFoi%20h%C3%A1%20dois%20anos%20exonerado%20da%20administra%C3%A7%C3%A3o%20do%20CCB%20pelo%20ent%C3%A3o%20ministro%20da%20Cultura%2C%20Jo%C3%A3o%20Soares%2C%20e%20o%20seu%20nome%20ficou%20ligado%20a%20um%20buraco%20financeiro%20de%206%20milh%C3%B5es%20de%20euros%20na%20institui%C3%A7%C3%A3o.%20Nos%2025%20anos%20desta%2C%20quebra%20o%20sil%C3%AAncio%20para%20falar%20do%20que%20se%20passou%0D%0A%0D%0ALer mais: http%3A%2F%2Fexpresso.sapo.pt%2Fcultura%2F2018-04-28-Antonio-Lamas-Fiquei-magoado-com-o-Governo" data-type="email" title="Email" class="shareToolsEntry gs-foreign-tracking gs-provider-email"> <i class="icon icon-mail"></i> <span>Email</span> </a> </li> <li class="share-whatsapp"> <a href="whatsapp://send?text=Ant%C3%B3nio%20Lamas%3A%20%E2%80%9CFiquei%20magoado%20com%20o%20Governo%E2%80%9D%20http%3A%2F%2Fexpresso.sapo.pt%2Fcultura%2F2018-04-28-Antonio-Lamas-Fiquei-magoado-com-o-Governo" class="shareToolsEntry" data-type="whatsapp" target="_blank" title="Whatsapp" style="display:none"> <i class="icon icon-whatsapp"></i> <span>Whatsapp</span> </a> </li> <li class="share-showMore"> <div class="shareToolsEntry"> <i class="icon icon-dot-3"></i> <span>Mais</span> </div> <div class="moreShareTools"> <div class="moreShareToolsInner"> <ul> <li class="share-google+"> <a href="http://plus.google.com/share?url=http%3A%2F%2Fexpresso.sapo.pt%2Fcultura%2F2018-04-28-Antonio-Lamas-Fiquei-magoado-com-o-Governo" data-type="googleplus" class="shareToolsEntry js-share gs-foreign-tracking gs-provider-google" target="_blank" title="Google+"> <i class="icon icon-gplus"></i> <span>Google+</span> </a> </li> <li class="share-linkedin"> <a href="https://www.linkedin.com/shareArticle?mini=true&amp;title=Ant%C3%B3nio%20Lamas%3A%20%E2%80%9CFiquei%20magoado%20com%20o%20Governo%E2%80%9D&amp;summary=Foi%20h%C3%A1%20dois%20anos%20exonerado%20da%20administra%C3%A7%C3%A3o%20do%20CCB%20pelo%20ent%C3%A3o%20ministro%20da%20Cultura%2C%20Jo%C3%A3o%20Soares%2C%20e%20o%20seu%20nome%20ficou%20ligado%20a%20um%20buraco%20financeiro%20de%206%20milh%C3%B5es%20de%20euros%20na%20institui%C3%A7%C3%A3o.%20Nos%2025%20anos%20desta%2C%20quebra%20o%20sil%C3%AAncio%20para%20falar%20do%20que%20se%20passou&amp;url=http%3A%2F%2Fexpresso.sapo.pt%2Fcultura%2F2018-04-28-Antonio-Lamas-Fiquei-magoado-com-o-Governo&amp;source=Expresso" data-type="linkedin" class="shareToolsEntry js-share gs-foreign-tracking gs-provider-linkedin" target="_blank" title="Linkedin"> <i class="icon icon-linkedin"></i> <span>Linkedin</span> </a> </li> <li class="share-pinterest"> <a href="https://www.pinterest.com/pin/create/link/?url=http%3A%2F%2Fexpresso.sapo.pt%2Fcultura%2F2018-04-28-Antonio-Lamas-Fiquei-magoado-com-o-Governo&amp;media=%2F%2Fimages-cdn.impresa.pt%2Fexpresso%2F2018-04-23-antonio-lamas-1%3Fv%3Dw620h395&amp;description=Ant%C3%B3nio%20Lamas%3A%20%E2%80%9CFiquei%20magoado%20com%20o%20Governo%E2%80%9D" data-type="pinterest" class="shareToolsEntry js-share gs-foreign-tracking gs-provider-pinterest" target="_blank" title="Pinterest"> <i class="icon icon-pinterest"></i> <span>Pinterest</span> </a> </li> </ul> <div class="linkTool"> <p class="inputLabel">Link:</p> <div class="inputContainer"> <input aria-label="Link para partilha" readonly="readonly" class="url" type="text" value="http://expresso.sapo.pt/cultura/2018-04-28-Antonio-Lamas-Fiquei-magoado-com-o-Governo" onclick="this.focus();this.select()"> </div> </div> </div> </div> </li> </ul><script async>
+    require(['widgets/social-share'], function (SocialShare) {
+        SocialShare.start('#social-5ae4a6b82b0ce');
+    });
+</script> </div></header> </div> </section> </div> <div class="innerMaster article-bottom"> <section class="content halfWidth content-top"> <div class="fullArticle"> <div class="afterHeader"> <figure> <picture class="landscape"> <img src="//images-cdn.impresa.pt/expresso/2018-04-23-antonio-lamas-1/original/mw-860" alt="" class="js-lazy-picture" data-srcset="//images-cdn.impresa.pt/expresso/2018-04-23-antonio-lamas-1/original/mw-240 240w, //images-cdn.impresa.pt/expresso/2018-04-23-antonio-lamas-1/original/mw-320 320w, //images-cdn.impresa.pt/expresso/2018-04-23-antonio-lamas-1/original/mw-480 480w, //images-cdn.impresa.pt/expresso/2018-04-23-antonio-lamas-1/original/mw-680 680w, //images-cdn.impresa.pt/expresso/2018-04-23-antonio-lamas-1/original/mw-768 768w, //images-cdn.impresa.pt/expresso/2018-04-23-antonio-lamas-1/original/mw-860 860w, //images-cdn.impresa.pt/expresso/2018-04-23-antonio-lamas-1/original/mw-960 960w, //images-cdn.impresa.pt/expresso/2018-04-23-antonio-lamas-1/original/mw-1024 1024w, //images-cdn.impresa.pt/expresso/2018-04-23-antonio-lamas-1/original/mw-1280 1280w, //images-cdn.impresa.pt/expresso/2018-04-23-antonio-lamas-1/original/mw-1920 1920w, //images-cdn.impresa.pt/expresso/2018-04-23-antonio-lamas-1/original/mw-2048 2048w" data-sizes="(min-width: 1280px) 860px, (min-width: 768px) 75vw, 100vw" /> </picture> <figcaption> <p class="credits">ANTÓNIO PEDRO FERREIRA</p> </figcaption> </figure> <h2 class="lead"> Foi há dois anos exonerado da administração do CCB pelo então ministro da Cultura, João Soares, e o seu nome ficou ligado a um buraco financeiro de 6 milhões de euros na instituição. Nos 25 anos desta, quebra o silêncio para falar do que se passou </h2></div><div class="articleSide"> <section class="signature"> <div class="authorContainer"> <figure> <a href="/autores/2015-05-05-Luciana-Leiderfarb" target="_self" > <picture class="portrait"> <img src="//images-cdn.impresa.pt/expresso/2015-05-04-Luciana-Leiderfarb.jpg/1x1/mw-30" alt="Luciana Leiderfarb" class="js-lazy-picture" data-srcset="//images-cdn.impresa.pt/expresso/2015-05-04-Luciana-Leiderfarb.jpg/1x1/mw-30 30w, //images-cdn.impresa.pt/expresso/2015-05-04-Luciana-Leiderfarb.jpg/1x1/mw-50 50w, //images-cdn.impresa.pt/expresso/2015-05-04-Luciana-Leiderfarb.jpg/1x1/mw-70 70w, //images-cdn.impresa.pt/expresso/2015-05-04-Luciana-Leiderfarb.jpg/1x1/mw-100 100w, //images-cdn.impresa.pt/expresso/2015-05-04-Luciana-Leiderfarb.jpg/1x1/mw-140 140w, //images-cdn.impresa.pt/expresso/2015-05-04-Luciana-Leiderfarb.jpg/1x1/mw-200 200w, //images-cdn.impresa.pt/expresso/2015-05-04-Luciana-Leiderfarb.jpg/1x1/mw-380 380w" data-sizes="(min-width: 768px) 50px, 30px" /> </picture></a> </figure> <p class="author"> <a href="/autores/2015-05-05-Luciana-Leiderfarb"> Luciana Leiderfarb </a></p><p class="where"> texto</p> <p class="profession">Jornalista</p> </div> <div class="authorContainer"> <figure> <a href="/autores/2015-05-13-Antonio-Pedro-Ferreira" target="_self" > <picture class="portrait"> <img src="//images-cdn.impresa.pt/expresso/2016-03-16-Antonio-Pedro-Ferreira-1/1x1/mw-30" alt="António Pedro Ferreira" class="js-lazy-picture" data-srcset="//images-cdn.impresa.pt/expresso/2016-03-16-Antonio-Pedro-Ferreira-1/1x1/mw-30 30w, //images-cdn.impresa.pt/expresso/2016-03-16-Antonio-Pedro-Ferreira-1/1x1/mw-50 50w, //images-cdn.impresa.pt/expresso/2016-03-16-Antonio-Pedro-Ferreira-1/1x1/mw-70 70w, //images-cdn.impresa.pt/expresso/2016-03-16-Antonio-Pedro-Ferreira-1/1x1/mw-100 100w, //images-cdn.impresa.pt/expresso/2016-03-16-Antonio-Pedro-Ferreira-1/1x1/mw-140 140w, //images-cdn.impresa.pt/expresso/2016-03-16-Antonio-Pedro-Ferreira-1/1x1/mw-200 200w, //images-cdn.impresa.pt/expresso/2016-03-16-Antonio-Pedro-Ferreira-1/1x1/mw-380 380w" data-sizes="(min-width: 768px) 50px, 30px" /> </picture></a> </figure> <p class="author"> <a href="/autores/2015-05-13-Antonio-Pedro-Ferreira"> António Pedro Ferreira </a></p><p class="where"> foto</p> <p class="profession">Fotojornalista</p> </div> </section> </div> <div class="adContainer atHomeFeed mrec onlyWithoutSidebar bottomLabel" id="Pub5ae4a6b82b8f8"> <div class="adWrapper" style="display:none;"></div> </div> <script async>
+            require(['ipub'], function (Ads) {
+                Ads.register("#Pub5ae4a6b82b8f8", 'mrec-alt', '#Pub5ae4a6b82b8f8 .adWrapper');
+            });
+        </script> <div class="articleContent"> <p></p> <p><strong>Porque quis voltar a falar agora?</strong><br> Fui nomeado para o Instituto Português do Património Cultural [IPPC] em 1987 e acompanhei a criação do CCB. E 25 anos depois o programa ainda não está completo. Mesmo avançando para a construção dos módulos 4 e 5, que vai finalmente acontecer, continua a ser preciso pensar no que queremos para o CCB nos próximos 25 anos.</p> <p><strong>A construção desses módulos não abre por si só caminho para isso?</strong><br> Essa foi uma das primeiras coisas de que me ocupei quando assumi a presidência. Existiam quatro projetos, mas disseram-me que nenhum foi para a frente porque havia terrenos por legalizar. Ora, eu próprio encarreguei-me de os expropriar enquanto estive no IPPC. Portanto, eram do Estado. Havia apenas um problema de registo, que ficou resolvido em dois meses. Agora gosto imenso de ver que esta administração considera isso uma prioridade.</p> <p><strong>Então, o que é que falta?</strong><br> Os módulos são importantes por duas razões: primeiro porque a zona ficara expectante, ocupada com tendas durante 30 anos; segundo porque a ideia foi sempre criar uma cidade aberta, com um percurso que ligasse a Praça do Império à Torre de Belém. Mas a sua construção era óbvia, tinha de se fazer. Há outras questões a pensar e que se ligam com a modernização do CCB. Cheguei a convidar o atual presidente da Câmara para um almoço com o arquiteto Manuel Salgado, para falarmos do entorno urbanístico, sobretudo da linha de comboio. Não por acaso, tanto o BE como o CDS têm isto no seu programa.</p> <p><strong>“Cidade Aberta” é o conceito defendido pelo atual administrador. Concorda então com ele?</strong><br> Isso está escrito. Ainda bem que o defende, porque retoma as linhas do projeto original: a condução dos visitantes do CCB para uma área que não seja um beco, que tenha continuidade. E que represente uma maior autonomia financeira para o CCB, reduzindo a dependência do Estado.</p> <p><strong>Saiu exonerado, com o então ministro da Cultura, João Soares, a dizer que o plano estratégico Belém-Ajuda era “um disparate”. Continua a defender esse projeto?</strong><br> O plano não tem nada de controverso. É um distrito cultural, uma zona delimitada em que a proximidade entre muitos equipamentos e agentes culturais cria por si só uma energia dinamizadora, em rede, que exponencia as suas qualidades.</p> <p><strong>E com um modelo de gestão centralizado. Não foi essa a maior crítica que recebeu?</strong><br> Na altura, o Governo criou uma estrutura de missão, por mim liderada, e pediu um plano estratégico, que foi entregue. Como estava de saída, deixou a aprovação para o seu sucessor. Este achou que aquela estrutura tiraria à Câmara protagonismo na transformação da zona. Isto é que é um disparate. A zona tem 30 equipamentos, a maioria dependente do Ministério da Cultura [MC], com bilhética, pessoal e horários diferentes. Em 2014 passavam por aqui 5 milhões de turistas — hoje devem ser o dobro. Os equipamentos da Cultura geravam qualquer coisa como 8 milhões de euros. A uma escala menor, Sintra teve 3,2 milhões de visitas e gerou, este ano, 30 milhões de euros só em bilhetes. O que digo é que é possível criar em Belém algo de semelhante. Todas as instituições aqui localizadas queixam-se de falta de dinheiro. Faz sentido uma gestão partilhada.</p> <p><strong>Há um ano, Elisio Summavielle disse ao Expresso que a gestão centralizada traria algumas injustiças. Como o facto de as receitas do Mosteiro dos Jerónimos serem aplicadas no CCB em vez de noutros monumentos mais pobres do país. Quer comentar?</strong><br> Conheço bem o exemplo de Sintra. A Parques de Sintra não é dona dos monumentos que gere. A ideia da gestão integrada é criar um ‘círculo virtuoso’: gerar receitas, investir, gerar mais visitas e mais receitas e tornar a investir. No fundo, fazer com que o património recuperado seja ele próprio motor da sua multiplicação.</p> <p><strong>Como é que isso poderia replicar-se em Belém?</strong><br> Estamos a falar da Cultura. O ministro de então disse que era um disparate. Mas existe aqui um potencial enorme de resolver os problemas destes 30 locais e de lançar uma transformação urbanística. Gestão integrada não quer dizer anulação da autonomia das instituições. O Palácio da Pena gera receitas que são aplicadas no Palácio de Queluz, que por si só gera muito pouco.</p> <p><strong>O autarca Fernando Medina acusou-o de querer concentrar poder.</strong><br> Este projeto é tão aliciante que imagino que lhe tenha passado pela cabeça: “Eu quero fazer isto, e não é o Lamas que o vai fazer.” Ao contrário do que foi noticiado, eu reuni-me com o dr. Fernando Medina. Mas, naquele momento, o Governo nomeou a estrutura de missão e atribuiu-lhe competências que podiam ser lidas como uma substituição da Câmara numa zona do município. E o Medina achou que queria ser ele a fazer isso.</p> <p><strong>O projeto foi abolido por ser uma boa ideia?</strong><br> Foi abolido por ser uma ideia apetitosa. O resultado é uma zona carente, porque o MC não consegue montar um projeto de gestão à escala do seu potencial e mantém o conjunto esfomeado e sem recursos.</p> <p><strong>Logo que chegou, a atual administração do CCB afirmou ter encontrado um buraco financeiro de 6 milhões de euros. O que se passou?</strong><br> Isso é falso, embora tenha servido para o dr. Summavielle andar há dois anos a lamentar-se de estar a corrigir a situação. Esses 6 milhões só podem ter resultado da soma de dois números constantes em relatórios que ele encontrou no Ministério: uma parte do subsídio do Fundo de Fomento Cultural [FFC] previsto para 2015, de 2,2 milhões, que por erros vários só foi recebido depois da minha exoneração, e o valor das candidaturas ao POR Lisboa, de 3,6 milhões, que correspondeu a investimentos já realizados e por realizar — e que no fim resultou num incentivo aprovado de 2 milhões. Uma vez que o programa estava em overbooking, o dinheiro só veio a ser recebido este ano.</p> <p><strong>Que investimentos foram esses? Na altura foi dito que gastou grande parte do dinheiro a preparar o plano Belém-Ajuda.</strong><br> O CCB só gastou 211.500 euros no plano estratégico e mais 88 mil euros em estudos para a reabilitação do Jardim Botânico Tropical. Entretanto, no âmbito da candidatura ao POR Lisboa, investimos na mobilidade dentro do CCB, nos sistemas de ar condicionado, nas salas de espetáculos, numa máquina para exibir filmes, hoje muito utilizada...</p> <p><strong>Mas então porque é que foi dito que esgotou as reservas do CCB, deixando-o na penúria?</strong><br> O CCB tinha um fundo de reserva, atribuído pelos diferentes governos quando havia superavit no Ministério. Acumulou desta forma 10 milhões de euros. Toda a casa os tratava quase como a sua salvação e ninguém mexia neles. Mas com 10 milhões faz-se imensa coisa! Mexi em parte do fundo, usei-o na candidatura, e o dinheiro investido voltou. Todo o dinheiro foi reposto. Isso nunca veio a público. Mesmo internamente havia um total desconhecimento deste facto.</p> <p><strong>É falso que havia um buraco financeiro quando saiu do CCB?</strong><br> É. Fui exposto de forma sangrenta e por isso remeti-me ao silêncio.</p> <p><strong>Não achou que a reposição destes números fosse importante?</strong><br> Agora que os montantes foram pagos, posso fazê-lo. Mas eu queria dizer o seguinte: o CCB é o maior equipamento português, não se pode limitar a programar coisas. Tem de viver em rede com os centros culturais do resto do país. Não pode não fazer exposições e ter despesas com a Fundação Berardo. E não pode estar alheio à transformação de Belém.</p> <p><strong>Ficou magoado com o processo do seu afastamento?</strong><br> Fiquei magoado com o Governo. Não com o ministro, ele não tem capacidade para me magoar. </p> </div><footer class="articleFooter"> <div class="articleToolsContainer"> <ul class="shareTools " id="social-5ae4a6b82bad6"> <li class="share-facebook"> <a href="http://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fexpresso.sapo.pt%2Fcultura%2F2018-04-28-Antonio-Lamas-Fiquei-magoado-com-o-Governo&amp;t=Ant%C3%B3nio%20Lamas%3A%20%E2%80%9CFiquei%20magoado%20com%20o%20Governo%E2%80%9D" data-type="facebook" class="shareToolsEntry js-share gs-foreign-tracking gs-provider-facebook" target="_blank" title="Facebook"> <i class="icon icon-facebook"></i> <span>Facebook</span> </a> </li> <li class="share-twitter"> <a href="http://twitter.com/intent/tweet?url=http%3A%2F%2Fexpresso.sapo.pt%2Fcultura%2F2018-04-28-Antonio-Lamas-Fiquei-magoado-com-o-Governo&amp;text=Ant%C3%B3nio%20Lamas%3A%20%E2%80%9CFiquei%20magoado%20com%20o%20Governo%E2%80%9D&amp;via=expresso" data-type="twitter" class="shareToolsEntry js-sharegs-foreign-tracking gs-provider-twitter" target="_blank" title="Twitter"> <i class="icon icon-twitter"></i> <span>Twitter</span> </a> </li> <li class="share-mail"> <a href="mailto:?subject=Ant%C3%B3nio%20Lamas%3A%20%E2%80%9CFiquei%20magoado%20com%20o%20Governo%E2%80%9D&amp;body=Ant%C3%B3nio%20Lamas%3A%20%E2%80%9CFiquei%20magoado%20com%20o%20Governo%E2%80%9D%0D%0A%0D%0AFoi%20h%C3%A1%20dois%20anos%20exonerado%20da%20administra%C3%A7%C3%A3o%20do%20CCB%20pelo%20ent%C3%A3o%20ministro%20da%20Cultura%2C%20Jo%C3%A3o%20Soares%2C%20e%20o%20seu%20nome%20ficou%20ligado%20a%20um%20buraco%20financeiro%20de%206%20milh%C3%B5es%20de%20euros%20na%20institui%C3%A7%C3%A3o.%20Nos%2025%20anos%20desta%2C%20quebra%20o%20sil%C3%AAncio%20para%20falar%20do%20que%20se%20passou%0D%0A%0D%0ALer mais: http%3A%2F%2Fexpresso.sapo.pt%2Fcultura%2F2018-04-28-Antonio-Lamas-Fiquei-magoado-com-o-Governo" data-type="email" title="Email" class="shareToolsEntry gs-foreign-tracking gs-provider-email"> <i class="icon icon-mail"></i> <span>Email</span> </a> </li> <li class="share-whatsapp"> <a href="whatsapp://send?text=Ant%C3%B3nio%20Lamas%3A%20%E2%80%9CFiquei%20magoado%20com%20o%20Governo%E2%80%9D%20http%3A%2F%2Fexpresso.sapo.pt%2Fcultura%2F2018-04-28-Antonio-Lamas-Fiquei-magoado-com-o-Governo" class="shareToolsEntry" data-type="whatsapp" target="_blank" title="Whatsapp" style="display:none"> <i class="icon icon-whatsapp"></i> <span>Whatsapp</span> </a> </li> <li class="share-showMore"> <div class="shareToolsEntry"> <i class="icon icon-dot-3"></i> <span>Mais</span> </div> <div class="moreShareTools"> <div class="moreShareToolsInner"> <ul> <li class="share-google+"> <a href="http://plus.google.com/share?url=http%3A%2F%2Fexpresso.sapo.pt%2Fcultura%2F2018-04-28-Antonio-Lamas-Fiquei-magoado-com-o-Governo" data-type="googleplus" class="shareToolsEntry js-share gs-foreign-tracking gs-provider-google" target="_blank" title="Google+"> <i class="icon icon-gplus"></i> <span>Google+</span> </a> </li> <li class="share-linkedin"> <a href="https://www.linkedin.com/shareArticle?mini=true&amp;title=Ant%C3%B3nio%20Lamas%3A%20%E2%80%9CFiquei%20magoado%20com%20o%20Governo%E2%80%9D&amp;summary=Foi%20h%C3%A1%20dois%20anos%20exonerado%20da%20administra%C3%A7%C3%A3o%20do%20CCB%20pelo%20ent%C3%A3o%20ministro%20da%20Cultura%2C%20Jo%C3%A3o%20Soares%2C%20e%20o%20seu%20nome%20ficou%20ligado%20a%20um%20buraco%20financeiro%20de%206%20milh%C3%B5es%20de%20euros%20na%20institui%C3%A7%C3%A3o.%20Nos%2025%20anos%20desta%2C%20quebra%20o%20sil%C3%AAncio%20para%20falar%20do%20que%20se%20passou&amp;url=http%3A%2F%2Fexpresso.sapo.pt%2Fcultura%2F2018-04-28-Antonio-Lamas-Fiquei-magoado-com-o-Governo&amp;source=Expresso" data-type="linkedin" class="shareToolsEntry js-share gs-foreign-tracking gs-provider-linkedin" target="_blank" title="Linkedin"> <i class="icon icon-linkedin"></i> <span>Linkedin</span> </a> </li> <li class="share-pinterest"> <a href="https://www.pinterest.com/pin/create/link/?url=http%3A%2F%2Fexpresso.sapo.pt%2Fcultura%2F2018-04-28-Antonio-Lamas-Fiquei-magoado-com-o-Governo&amp;media=%2F%2Fimages-cdn.impresa.pt%2Fexpresso%2F2018-04-23-antonio-lamas-1%3Fv%3Dw620h395&amp;description=Ant%C3%B3nio%20Lamas%3A%20%E2%80%9CFiquei%20magoado%20com%20o%20Governo%E2%80%9D" data-type="pinterest" class="shareToolsEntry js-share gs-foreign-tracking gs-provider-pinterest" target="_blank" title="Pinterest"> <i class="icon icon-pinterest"></i> <span>Pinterest</span> </a> </li> </ul> <div class="linkTool"> <p class="inputLabel">Link:</p> <div class="inputContainer"> <input aria-label="Link para partilha" readonly="readonly" class="url" type="text" value="http://expresso.sapo.pt/cultura/2018-04-28-Antonio-Lamas-Fiquei-magoado-com-o-Governo" onclick="this.focus();this.select()"> </div> </div> </div> </div> </li> </ul><script async>
+    require(['widgets/social-share'], function (SocialShare) {
+        SocialShare.start('#social-5ae4a6b82bad6');
+    });
+</script> </div></footer> </div> <div class="adContainer autopromo"> <div id="Pub5ae4a6b82bbe1" class="adWrapper"></div> <script async>
+            require(['ipub'], function (Ads) {
+                Ads.register("#Pub5ae4a6b82bbe1", "ad-slot");
+            });
+        </script> </div> </section> <section class="rightSidebar js-sidebar js-right-sidebar article-top" id="rightSidebar5ae4a6b82bd76" data-ads-section="/cultura" data-href="/api/molecule/sidebar/top?location=site"> <div class="placeholder mrec"></div> <div class="placeholder"> <span></span> <span></span> </div> <script async>
+            require(['widgets/visibility-checker', 'widgets/content-loader'],
+                    function(VisibilityChecker, ContentLoader) {
+                        // Load Sidebar Parts
+                        VisibilityChecker.start("#rightSidebar5ae4a6b82bd76", {
+                            viewport: false,
+                            onVisible: function($el) {
+                                this.stop();
+
+                                ContentLoader.start($el, {
+                                    cache: true
+                                });
+                            }
+                        });
+                    });
+        </script> </section> </div> </article> <div class="innerMaster"> <section class="content halfWidth"> <div class="adContainer atHomeFeed mrec onlyWithoutSidebar" id="Pub5ae4a6b82be2b"> <div class="adWrapper" style="display:none;"></div> </div> <script async>
+            require(['ipub'], function (Ads) {
+                Ads.register("#Pub5ae4a6b82be2b", 'mrec', '#Pub5ae4a6b82be2b .adWrapper');
+            });
+        </script> <div id="List5ae4a6b82bfc8" data-href="/api/molecule/recommendation"> <div class="loading js-loader" style="display: none; margin-bottom:40px">A carregar...</div> </div> <script async>
+        require(['parts/recommended-priberam'], function(RecommendedPriberam) {
+            RecommendedPriberam.start('#List5ae4a6b82bfc8', {
+                'limit': 3,
+                'articleId': '17fc90bb-9f4f-4e30-b467-5ec5038144d7'
+            });
+        });
+    </script> <div class="adContainer revcontent" id="revContent"></div><script async>
+    require(['ipub'], function (Ads) {
+        Ads.register("#revContent", 'revcontent');
+    });
+</script> <div id="homeLatest" data-href="/api/molecule/latest//cultura"> <div class="js-container inArticleContext"></div> <button class="js-more moreButton" style="display: none">Mais Artigos</button> <div class="loading js-loader" style="display: none; margin-bottom:40px">a carregar...</div></div><script async>
+    require(['parts/latest'], function(InfiniteScroll) {
+        InfiniteScroll.start('#homeLatest', {
+            'auto': true,
+            'title': 'Cultura',
+            'offset-attribute': 'datetime',
+            'more-selector': '.js-more',
+            'loader-selector': '.js-loader',
+            'container-selector': '.js-container'
+        });
+    });
+</script> </section> <section class="rightSidebar js-sidebar js-right-sidebar article-bottom" id="rightSidebar5ae4a6b82c249" data-ads-section="/cultura" data-href="/api/molecule/sidebar/bottom?location=site"> <div class="placeholder"> <span></span> <span></span> </div> <script async>
+            require(['widgets/visibility-checker', 'widgets/content-loader'],
+                    function(VisibilityChecker, ContentLoader) {
+                        // Load Sidebar Parts
+                        VisibilityChecker.start("#rightSidebar5ae4a6b82c249", {
+                            viewport: false,
+                            onVisible: function($el) {
+                                this.stop();
+
+                                ContentLoader.start($el, {
+                                    cache: true
+                                });
+                            }
+                        });
+                    });
+        </script> </section><script async>
+    require(['parts/sticky-scroll'], function(StickyScroll) {
+        StickyScroll.start("#rightSidebar5ae4a6b82c249", {
+            infinite: 1
+        });
+    });
+</script> </div> </main> <nav class="sideNavigation js-sideNavigation"> <div class="inner"> <div class="sidenavActions"> <form class="sidenavSearch search-bar" action="/pesquisa" > <div class="search-input-wrap"> <input type="search" placeholder="Pesquisa" class="search-input" name="q" value=""/> </div> <button type="submit" title="Pesquisar" class="search-submit icon icon-search"><span>Pesquisar</span></button> </form> <p class="sidenavUser"> <button class="btn login js-loginButton" title="Login"><span>Login</span> <i class="icon icon-user"></i></button> <button class="btn register js-registerButton" title="Registo"><span>Registo</span> <i class="icon icon-user"></i></button> <button class="btn logout js-logoutButton" title="Logout"><span>Logout</span></button> <a class="btn profile" href="https://perfil.impresa.pt" target="_blank" title="Perfil"><span>Perfil</span> <i class="icon icon-user"></i></a> </p> <script async>
+    require(['user'], function(User) {
+        User.update();
+    });
+</script> </div> <section > <h2>Edições</h2> <ul> <li><a href="/diario" >Diário</a> </li> <li><a href="/semanario" >Semanário</a> </li> <li><a href="/newsletters/expressomatinal" >Expresso Curto</a> </li> <li><a href="/podcasts" >Podcasts</a> </li> <li><a href="http://tribuna.expresso.pt" >Tribuna</a> </li> </ul> </section> <section > <h2>Secções</h2> <ul> <li><a href="/destaques" >Início</a> </li> <li><a href="/ultimas" >Últimas</a> </li> <li><a href="/ineditos" >Inéditos</a> </li> <li><a href="/multimedia" >Multimédia</a> </li> <li><a href="/politica" >Política</a> </li> <li><a href="/sociedade" >Sociedade</a> </li> <li><a href="/internacional" >Internacional</a> </li> <li><a href="/economia" >Economia</a> </li> <li><a href="http://tribuna.expresso.pt" >Desporto</a> </li> <li><a href="/cultura" >Cultura</a> </li> <li><a href="/opiniao" >Opinião</a> </li> <li><a href="/gen.pl?sid=ex.sections/25024&amp;amp;m2=48" >Cartoons</a> </li> <li><a href="/gen.pl?sid=ex.sections/23425&amp;amp;m2=45" >Está dito</a> </li> </ul> </section> <section > <h2>Iniciativas</h2> <ul> <li><a href="/economia/gic" >Global Investment Challenge</a> </li> <li><a href="/iniciativaseprodutos/entrepreneur-of-the-year" >Entrepreneur Of The Year</a> </li> </ul> </section> <section > <h2>Classificados</h2> <ul> <li><a href="http://expressoemprego.pt/" target="_blank">Emprego</a> </li> <li><a href="http://bpiexpressoimobiliario.pt/" target="_blank">Imobiliário</a> </li> </ul> </section> <section class="meta"> <h2 class="socialLinksHeader">Siga-nos</h2><ul class="social"> <li class="facebook"> <a href="https://www.facebook.com/jornalexpresso" title="Facebook"><i class="icon icon-facebook"></i><span>Facebook</span></a> </li> <li class="twitter"> <a href="https://twitter.com/expresso" title="Twitter"><i class="icon icon-twitter"></i><span>Twitter</span></a> </li> <li class="googlePlus"> <a href="https://plus.google.com/110189231159586871953/posts" title="Google+"><i class="icon icon-gplus"></i><span>Google+</span></a> </li> <li class="linkedIn"> <a href="https://www.linkedin.com/company/expresso-emprego" title="LinkedIn"><i class="icon icon-linkedin"></i><span>LinkedIn</span></a> </li> <li class="rss"> <a href="http://feeds.feedburner.com/expresso-geral" title="RSS"><i class="icon icon-rss"></i><span>RSS</span></a> </li> </ul> <ul class="institucional"> <li><a href="/gen.pl?p=stories&amp;fokey=ex.stories/774690&amp;op=view&amp;mid1=ex.menus/66&amp;m2=487" >Estatuto editorial</a> </li> <li><a href="/gen.pl?p=stories&amp;fokey=ex.stories/198040&amp;op=view&amp;mid1=ex.menus/66&amp;m2=487" >Código de Conduta</a> </li> <li><a href="/gen.pl?p=stories&amp;fokey=ex.stories/774685&amp;op=view&amp;mid1=ex.menus/66&amp;m2=488" >Ficha Técnica do Expresso</a> </li> <li><a href="/informacao/cookies/2015-05-03-Politica-de-cookies" >Política de cookies</a> </li> <li><a href="/arquivo/paginas_institucionais/termos_de_utilizacao/2015-05-03-Termos-de-Utilizacao-1" >Termos de utilização</a> </li> <li><a href="/informacao/PolticadePrivacidade/2015-05-04-Politica-de-privacidade" >Política de privacidade</a> </li> <li><a href="/regras-da-comunidade=f740487" >Regras da Comunidade</a> </li> <li><a href="/gen.pl?p=stories&amp;op=view&amp;fokey=ex.stories/723177" >Publicidade</a> </li> <li><a href="/contactos-directos=f774722" >Contactos</a> </li> <li><a href="http://www.impresa.pt/lei782015" target="_blank">Lei da Transparência</a> </li> <li><a href="http://promo.impresa.pt/cartaomx/COB7I.html" target="_blank">Assinar</a> </li> <li><a href="/cartas-ao-diretor" >Cartas ao Director</a> </li> <li><a href="https://loja.expresso.pt" target="_blank">Loja</a> </li> </ul> <p class="copyright">&copy; Expresso Impresa Publishing S.A.</p> </section> <section class="footerImpresaContainer"> <div id="impresaFooter"></div> <script>
+                require(['impresa-footer'], function(Lib) {
+                    Lib.init('#impresaFooter',{responsive:false});
+                });
+            </script> </section> </div> <script async>
+        require(['jquery', 'parts/scroll-binder'], function ($, ScrollBinder) {
+            var $el = $('.js-sideNavigation');
+
+            ScrollBinder.start($el, {
+                scroller: $el.find('.inner'),
+                mq: '(min-width: 768px)'
+            });
+        });
+    </script></nav> </div> <script async>
+                require(['ipub'], function(Ads) {
+                    Ads.enableOverlay("/1058775/Expresso_Overlay");
+                });
+            </script> <script async>
+    require(['impresa-cookie-policy'], function(Lib) {
+        Lib.init("body", {
+            policyUrl: "/informacao/cookies/2015-05-03-Politica-de-cookies",
+            usageUrl: "/informacao/cookies/2015-05-03-Politica-de-cookies"
+        });
+    });
+</script> <div class="adContainer sniffer" id="Pub5ae4a6b82c71b"></div><script async>
+    require(['ipub'], function (Ads) {
+        Ads.register("#Pub5ae4a6b82c71b", 'xaxis');
+    });
+</script> <div class="adContainer sniffer" id="Pub5ae4a6b82c762"></div><script async>
+    require(['ipub'], function (Ads) {
+        Ads.register("#Pub5ae4a6b82c762", 'tracking');
+    });
+</script> <script async>
+            require(['parts/ads-setup'], function (Ads) {
+                Ads.run({"siteId":89002,"pageId":618880,"revcontent":{"widgetId":84556}});
+            });
+        </script> <script async>
+            require(['parts/push-notifications'], function (PushNotifications) {
+                PushNotifications.start('body', {
+                    onesignal: {"subdomainName":"expresso","appId":"14f37390-73dd-4ccf-9a46-0384a2846344","safari_web_id":"web.onesignal.auto.560021c2-877c-448b-9811-f001e7b5ec58"}
+                });
+            });
+        </script> </body></html>
