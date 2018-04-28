@@ -1,6 +1,6 @@
 rss='http://jornaldeangola.sapo.ao/feeds/articles?format=xml'
 hoje=$(shell date '+%m-%d')
-xpath=//p[4]
+xpath=//article[@class="half-bottom-space"]/p
 xpath_time=(//time[@class="date-time"])[1]
 xpath_seccao=//div[@class="categoria"]
 xpath_autor=//p[@class="info-autor"]
