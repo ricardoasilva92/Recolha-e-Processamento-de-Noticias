@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-
+import xml.etree.ElementTree as ET
 
 from nltk.tokenize import sent_tokenize, word_tokenize
 from nltk.corpus import stopwords
@@ -30,5 +30,6 @@ for w in palavras:
         noticia_filtrada.append(w)
 
 print(noticia_filtrada)
+
 
 
