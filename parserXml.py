@@ -2,7 +2,7 @@
 
 import xml.etree.ElementTree as ET
 import pprint
-import os
+import os, json
 from os import listdir
 from os.path import isfile, join
 
@@ -51,3 +51,10 @@ for filename in onlyfiles:
     
 
 pp.pprint(dict_DN)
+
+json = json.dumps(dict_DN)
+f=open("DN.json","w")
+f.write(json)
+f.close()
+
+
