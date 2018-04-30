@@ -33,6 +33,7 @@ pp.pprint(dict_JA)
 #print(os.path.basename('obter_colecoes/[PT] Diario de Noticias/noticias/04-28-a-solidariedade-marchou-pelas-ruas-de-santana-DC3073371.xml'))
 
 #obter todos os nomes do ficheiros da diretoria
+"""
 onlyfiles = [f for f in listdir('obter_colecoes/[PT] Diario de Noticias/noticias/') if isfile(join('obter_colecoes/[PT] Diario de Noticias/noticias/',f))]
 
 dict_DN = {}
@@ -56,5 +57,25 @@ json = json.dumps(dict_DN)
 f=open("DN.json","w")
 f.write(json)
 f.close()
+"""
+#_______________Jornal de Angola__________________________
+onlyfiles = [f for f in listdir('obter_colecoes/[AGO] jornal angola/noticias/') if isfile(join('obter_colecoes/[AGO] jornal angola/noticias/',f))]
 
+dict_JA = {}
+i=1
+for filename in onlyfiles:
+    print(filename)
+    key_dict = 'noticia' + str(i)
+    path= 'obter_colecoes/[AGO] jornal angola/noticias/' + filename
+    tree = ET.parse(path)
+    root = tree.getroot()
+    dict_JA[key_dict] = {}
+    for child in root:
+        dict_JA[key_dict][child.tag] = child.text
+        print(i)
+    i+=1
 
+json = json.dumps(dict_JA)
+f=open("JA.json","w")
+f.write(json)
+f.close()
