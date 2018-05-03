@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div class="story__content" id="story-content">
+
+
+    <figure class="story__media media media--image media--action  media--horizontal-medium" data-media-action="modal" aria-label="media">
+        <div class="flex-media camera" style="padding-bottom: 66.65%;">
+                <img alt="bruno lisita" data-media-size="2048x1365" data-media-viewer="https://imagens.publicocdn.com/imagens.aspx/1231550?tp=UH&amp;amp;db=IMAGENS" data-interchange="[https://imagens.publicocdn.com/imagens.aspx/1231550?tp=UH&amp;amp;db=IMAGENS&amp;w=480, small],&#xA;                        [https://imagens.publicocdn.com/imagens.aspx/1231550?tp=UH&amp;amp;db=IMAGENS&amp;w=960, small-retina]&#xA;                        [https://imagens.publicocdn.com/imagens.aspx/1231550?tp=UH&amp;amp;db=IMAGENS&amp;w=640, xmedium],&#xA;                        [https://imagens.publicocdn.com/imagens.aspx/1231550?tp=UH&amp;amp;db=IMAGENS&amp;w=1280, xmedium-retina],&#xA;                        [https://imagens.publicocdn.com/imagens.aspx/1231550?tp=UH&amp;amp;db=IMAGENS&amp;w=1024, medium],&#xA;                        [https://imagens.publicocdn.com/imagens.aspx/1231550?tp=UH&amp;amp;db=IMAGENS&amp;w=2048, medium-retina],&#xA;                        [https://imagens.publicocdn.com/imagens.aspx/1231550?tp=UH&amp;amp;db=IMAGENS&amp;w=823, large],&#xA;                        [https://imagens.publicocdn.com/imagens.aspx/1231550?tp=UH&amp;amp;db=IMAGENS&amp;w=1646, large-retina]" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
+                <div class="media-badge">
+                    <span class="show-for-sr">Foto</span>
+                    <i class="i-expand" aria-hidden="true"/>
+                </div>
+        </div>
+            <figcaption class="caption caption--image">
+                
+                    <span class="credit">bruno lisita</span>
+            </figcaption>
+    </figure>
+
+        <aside class="ad-slot ad-slot--margin show-for-large">
+            <div class="ad-slot__w--300">
+                <div class="ad-slot__label">PUB</div>
+                <div id="MrecPrincipalAd" class="ad-slot__container">
+                    <script type="text/javascript">
+                        googletag.cmd.push(function () {
+                            googletag.display(&apos;MrecPrincipalAd&apos;);
+                        });
+                    </script>
+                </div>
+            </div>
+        </aside>
+
+        <div class="story__body" id="story-body">
+                        <p>Um atropelamento na linha do Norte, junto à estação de Pombal, fez um morto. A vítima mortal foi confirmada pelo PÚBLICO junto de fonte do Comando Distrital de Operações de Socorro de Leiria (CDOS).</p>                        <aside class="ad-slot ad-slot--margin show-for-large">
+                            <div class="ad-slot__w--300">
+                                <div class="ad-slot__label">PUB</div>
+                                <div id="botao300x60Ad" class="ad lazy-loading ad-slot__container" data-ad="botao300x60" data-show-always="false" data-show-when="desktop">
+                                    <script type="text/javascript">
+                                        googletag.cmd.push(function () {
+                                            googletag.display(&apos;botao300x60Ad&apos;);
+                                        });
+                                    </script>
+                                </div>
+                            </div>
+                        </aside>
+<p>A circulação esteve interrompidana via descendente (Porto-Lisboa), mas já foi restabelecida, embora os comboios passem com velocidade reduzida. No sentido ascendente (Lisboa-Porto) a circulação nunca esteve interrompida. </p><p>O alerta foi dado pelas 21h17, para um acidente na estação de Pombal, de acordo com o CDOS. Os bombeiros Voluntários de Pombal e o INEM têm, neste momento, equipas no local, num total de 16 operacionais, apoiados por cinco viaturas.</p>                    <aside class="ad-slot ad-slot--margin hide-for-large">
+                        <div class="ad-slot__w--300">
+                            <div class="ad-slot__label">PUB</div>
+                            <div id="MrecPrincipalAdMobile" class="ad-slot__container">
+                                <script type="text/javascript">
+                                        googletag.cmd.push(function () {
+                                            googletag.display(&apos;MrecPrincipalAdMobile&apos;);
+                                        });
+                                </script>
+                            </div>
+                        </div>
+                    </aside>
+
+
+
+            <aside class="ad-slot ad-slot--margin hide-for-large">
+                <div class="ad-slot__w--300">
+                    <div class="ad-slot__label">PUB</div>
+                    <div id="botao300x60AdMobile" class="ad lazy-loading ad-slot__container" data-ad="botao300x60Mobile" data-show-always="false" data-show-when="mobile">
+                        <script type="text/javascript">
+                            googletag.cmd.push(function () {
+                                googletag.display(&apos;botao300x60AdMobile&apos;);
+                                //googletag.pubads().refresh();
+                            });
+                        </script>
+                    </div>
+                </div>
+            </aside>
+
+            <div class="story__show-full">
+                <button class="button story__show-full__button page-count" type="button" id="story-showfull">Continuar a ler</button>
+            </div>
+        </div>
+
+
+    </div>
