@@ -1,0 +1,867 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title>Eduardo Paim canta  na Cidade da Praia | Cultura | Jornal de Angola - Online</title>
+        <meta name="description" content="">
+                    <meta property="og:title" content="Eduardo Paim canta  na Cidade da Praia | Cultura | Jornal de Angola - Online" />
+                    <meta property="og:type" content="article" />
+                    <meta property="og:url" content="http://jornaldeangola.sapo.ao/cultura/eduardo_paim_canta__na_cidade_da_praia" />
+                    <meta property="og:image" content="http://imgs.sapo.pt/jornaldeangola/2016//img/placeholder_ja.jpg" />
+                    <meta property="og:description" content="Fãs de Eduardo Paim, residentes na Cidade da Praia, a capital de Cabo Verde, terão o privilegio de saciar o jejum, 25 anos depois, desde a sua última actuação por aquelas paragens." />
+            
+        <meta name="author" content="ink, cookbook, recipes">
+        <meta name="HandheldFriendly" content="True">
+        <meta name="MobileOptimized" content="320">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+
+        <link rel="icon" type="image/png" href="http://imgs.sapo.pt/jornaldeangola/2016/img/icons/favicon.ico" />
+
+        <link rel="apple-touch-icon" href="http://imgs.sapo.pt/jornaldeangola/2016/img/touch-icon-iphone.png">
+        <link rel="apple-touch-icon" sizes="76x76" href="http://imgs.sapo.pt/jornaldeangola/2016/img/touch-icon-ipad.png">
+        <link rel="apple-touch-icon" sizes="120x120" href="http://imgs.sapo.pt/jornaldeangola/2016/img/touch-icon-iphone-retina.png">
+        <link rel="apple-touch-icon" sizes="152x152" href="http://imgs.sapo.pt/jornaldeangola/2016/img/touch-icon-ipad-retina.png">
+
+        <meta name="msapplication-TileColor" content="#ffffff">
+        <meta name="msapplication-TileImage" content="http://imgs.sapo.pt/jornaldeangola/2016/img/icons/ms-icon-144x144.png">
+        <meta name="msapplication-square70x70logo" content="http://imgs.sapo.pt/jornaldeangola/2016/img/icons/ms-icon-70x70.png" />
+        <meta name="msapplication-square150x150logo" content="http://imgs.sapo.pt/jornaldeangola/2016/img/icons/ms-icon-150x150.png" />
+        <meta name="msapplication-square310x310logo" content="http://imgs.sapo.pt/jornaldeangola/2016/img/icons/ms-icon-310x310.png" />
+
+        <!-- load Ink's CSS -->
+        <link rel="stylesheet" type="text/css" href="http://imgs.sapo.pt/jornaldeangola/2016/css/ink-flex.min.css">
+        <link rel="stylesheet" type="text/css" href="http://imgs.sapo.pt/jornaldeangola/2016/css/font-awesome.min.css">
+        <!-- load my CSS -->        
+        <link rel="stylesheet" type="text/css" href="http://imgs.sapo.pt/jornaldeangola/2016/css/style.css">
+        <link rel="stylesheet" type="text/css" href="http://imgs.sapo.pt/jornaldeangola/2016/css/sizes.css">
+
+        <link rel="stylesheet" type="text/css" href="http://imgs.sapo.pt/jornaldeangola/2016/css/inline.css">
+        <link rel="stylesheet" type="text/css" href="http://imgs.sapo.pt/jornaldeangola/2016/css/print.css" media="print">
+
+        <!-- load Ink's CSS for IE8 -->
+        <!--[if lt IE 9 ]>
+            <link rel="stylesheet" href="http://imgs.sapo.pt/jornaldeangola/2016/css/ink-ie.min.css" type="text/css" media="screen" title="no title" charset="utf-8">
+        <![endif]-->
+
+        <!-- test browser flexbox support and load legacy grid if unsupported -->
+        <script type="text/javascript" src="http://imgs.sapo.pt/jornaldeangola/2016/js/vendor/modernizr.js"></script>
+        <script type="text/javascript">
+            Modernizr.load({
+              test: Modernizr.flexbox,
+              nope : 'http://imgs.sapo.pt/jornaldeangola/2016/css/ink-legacy.min.css'
+            });
+        </script>
+
+        <!-- load Ink's javascript files -->
+        <script type="text/javascript" src="http://imgs.sapo.pt/jornaldeangola/2016/js/vendor/holder.js"></script>
+        <script type="text/javascript" src="http://fastly.ink.sapo.pt/3.1.10/js/ink-all.min.js"></script>
+        <script type="text/javascript" src="http://imgs.sapo.pt/jornaldeangola/2016/js/vendor/autoload.js"></script>
+        
+        <style type="text/css">.bsu_almofada,.subbsu_almofada
+        {overflow:hidden; min-height: 36px;
+        background-color:#222;}.subbsu_almofada {
+        background-color:#fafafa;}</style>
+    </head>
+    <body class="ink-drawer">
+        <div id="bsu-target">
+        <div id="bsu_root">
+            <div class="bsu_almofada"></div>
+        </div>
+        </div>
+
+        <!-- links menu mobile -->              
+        <nav class="drawer right-drawer show hide-large hide-xlarge">
+            <nav class="ink-navigation content-menu" role="navigation">
+                <ul class="menu vertical blue line">
+                    <li class="search">
+                        <form class="ink-form search-form" role="search"  name="form" action="/pesquisa" method="get">  
+                            <div class="control-group all-100">
+                                <div class="control append-button" role="search">
+                                    <span><input type="text" name="k" id="name"></span>
+                                    <button class="ink-button"><span class="hide-text">pesquisar</span><i class="fa fa-search"></i></button>
+                                </div>
+                            </div>
+                        </form>
+                    </li>
+
+                    <li class="icon home">
+                        <a href="/"><i class="fa fa-home hide-tiny hide-small hide-medium"></i><span class="hide-large hide-xlarge">Início</span></a>
+                    </li>
+                                        <li  ><a href="/politica"><span class="hide-large hide-xlarge">Política</span></a></li>  
+                                        <li  ><a href="/reportagem"><span class="hide-large hide-xlarge">Reportagem</span></a></li>  
+                                        <li  ><a href="/opiniao"><span class="hide-large hide-xlarge">Opinião</span></a></li>  
+                                        <li  ><a href="/mundo"><span class="hide-large hide-xlarge">Mundo</span></a></li>  
+                                        <li  ><a href="/economia"><span class="hide-large hide-xlarge">Economia</span></a></li>  
+                                        <li  ><a href="/provincias"><span class="hide-large hide-xlarge">Províncias</span></a></li>  
+                                        <li  ><a href="/sociedade"><span class="hide-large hide-xlarge">Sociedade</span></a></li>  
+                                        <li  ><a href="/gente"><span class="hide-large hide-xlarge">Gente</span></a></li>  
+                                        <li  class="active"><a href="/cultura"><span class="hide-large hide-xlarge">Cultura</span></a></li>  
+                                        <li  ><a href="/desporto"><span class="hide-large hide-xlarge">Desporto</span></a></li>  
+                                        </ul>
+                    <ul class="menu vertical blue">
+                    <li><a href="/oportunidades_de_emprego"><span class="hide-large hide-xlarge">Emprego</span></a></li>
+                    <li><a href="/classificados"><span class="hide-large hide-xlarge">Classificados</span></a></li>
+                    <li><a href="/ficha_tecnica_e_contactos#contactos"><span class="hide-large hide-xlarge">Anunciar no Jornal de Angola</span></a></li>
+                    <li><a href="/ficha_tecnica_e_contactos#contactos"><span class="hide-large hide-xlarge">Contactos</span></a></li>
+                </ul>
+            </nav>
+        </nav>
+                <!-- /menu mobile -->              
+        <div class="ink-grid content-drawer">
+
+            <!--[if lte IE 9 ]>
+            <div class="ink-alert basic" role="alert">
+                <button class="ink-dismiss">&times;</button>
+                <p>
+                    <strong>You are using an outdated Internet Explorer version.</strong>
+                    Please <a href="http://browsehappy.com/">upgrade to a modern browser</a> to improve your web experience.
+                </p>
+            </div>
+            <![endif]-->
+
+            <div id="billboard-target"></div>
+
+            <header class="main-header" role="banner">
+                <nav class="ink-navigation hide-tiny half-bottom-space">
+                    <ul class="menu horizontal blue menu-principal">
+                        <li><a href="/oportunidades_de_emprego">Emprego</a></li>
+                        <li><a href="/classificados">Classificados</a></li>
+                        <li><a href="/ficha_tecnica_e_contactos#contactos">Anunciar no Jornal de Angola</a></li>
+                        <li><a href="/ficha_tecnica_e_contactos#contactos">Contactos</a></li>
+                    </ul>
+                </nav>
+                <div class="column-group gutters">
+                    <div class="logo all-33 medium-50 small-60 tiny-60">  
+                        <time class="date-time" datetime="">Sexta, 04 de Maio 2018 <strong>22:38</strong></time>            
+                        <h1><a href="/"><img src="http://imgs.sapo.pt/jornaldeangola/2016/img/jornal-de-angola-2017.png" alt="Jornal Angola"/></a></h1>
+                        <div class="jornal-info">
+                        <span><strong>Director:</strong> Victor Silva</span>
+                        <span><strong>Director Adjunto:</strong> Caetano Júnior</span>
+                        </div>
+                    </div>
+                     <div class="medium-50 small-40 tiny-40 hide-large hide-xlarge">  <button class="right-drawer-trigger menu-mobile push-right">Menu <span class="fa fa-reorder"></span></button> </div>                   
+                     <div class="all-33  medium-25 hide-small hide-tiny align-center header-pub">             
+                        <p class="align-content-bottom">
+                                                        <!--/* OpenDisplay Javascript Tag v2.8.5 -->
+                            <script type='text/javascript'><!--//<![CDATA[
+                               var m3_u = (location.protocol=='https:'?'https://pub.sapo.pt/ajs.php':'http://pub.sapo.pt/ajs.php');
+                               var m3_r = Math.floor(Math.random()*99999999999);
+                               if (!document.MAX_used) document.MAX_used = ',';
+                               document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+                               document.write ("?zoneid=987");
+                               document.write ('&cb=' + m3_r);
+                               if (document.MAX_used != ',') document.write ("&exclude=" + document.MAX_used);
+                               document.write (document.charset ? '&charset='+document.charset : (document.characterSet ? '&charset='+document.characterSet : ''));
+                               document.write ("&loc=" + escape(window.location));
+                               if (document.referrer) document.write ("&referer=" + escape(document.referrer));
+                               if (document.context) document.write ("&context=" + escape(document.context));
+                               document.write ('&cpid=jornalangola');
+                               if (document.mmm_fo) document.write ("&;mmm_fo=1");
+                               document.write ("'><\/scr"+"ipt>");
+                            //]]>-->
+                            </script><noscript><a href='http://pub.sapo.pt/ck.php?n=ab9fa60b&cb=1564403587&cpid=jornalangola' target='_blank'><img src='http://pub.sapo.pt/avw.php?zoneid=987&cb=1564403587&n=ab9fa60b&cpid=jornalangola' border='0' alt='' /></a></noscript>
+                        </p>
+                    </div>
+
+                    <div class="all-33  medium-25 small-100 hide-tiny header-pesquisa">                
+                        <form action="/pesquisa" method="get" class="ink-form align-content-bottom" id="search_form" role="search"  ><label class="hide-text" for="search_input">pesquisar</label> 
+                        <input type="search" required name="k" id="search_input" placeholder="Pesquisar">
+                        <button class="ink-button" type="submit">Pesquisar</button>
+                        <p class="tip"><a href="/pesquisa_avancada">Pesquisa Avançada</a></p>
+                        </form>
+                    </div>
+
+                </div>
+
+                <nav class="ink-navigation hide-tiny half-top-space">
+                    <ul class="menu horizontal blue menu-principal sticky">
+                        <li ><a href="/">Início</a></li>
+                                                <li  ><a href="/politica">Política</a>
+                                                            <ul class="submenu noticias-hover">
+                                                                            <li>
+                                            <a href="/politica/vitimas_de_cassinga_sao_homenageadas">
+	                                            <article>
+	                                                	                                                    <div class="image">
+	                                                        <img src="http://thumbs.web.sapo.io/?pic=http%3A%2F%2Fimgs.sapo.pt%2Fjornaldeangola%2Fimg%2Fthumb1%2F20180504073140joao_lourenco.jpg&W=368&H=198&errorpic=http%3A%2F%2Fimgs.sapo.pt%2Fjornaldeangola%2F2016%2F%2Fimg%2Fdefault-article-2017.png" alt=""/>
+	                                                    </div>
+	                                                	                                                <h3>V&iacute;timas de Cassinga s&atilde;o homenageadas</h3>
+	                                                <p class="lead"><p><strong>Angola e Nam&iacute;bia </strong>v&atilde;o assinar, na pr&oacute;xima semana, um acordo para a  constru&ccedil;&atilde;o de dois monumentos nas localidades de Cassinga, na prov&iacute;ncia  da Hu&iacute;la, e Chetequela, na prov&iacute;ncia do Cunene, em mem&oacute;ria dos  combatentes da Organiza&ccedil;&atilde;o do Povo do Sudoeste Africano (SWAPO)  massacrados pelas For&ccedil;as de Defesa Sul-Africana (SADF) durante o regime  do &ldquo;apartheid&rdquo;.</p></p>
+	                                            </article>
+                                            </a>
+                                        </li>
+                                                                                                        </ul>
+                                                    </li>
+                                                <li  ><a href="/reportagem">Reportagem</a>
+                                                            <ul class="submenu noticias-hover">
+                                                                            <li>
+                                            <a href="/reportagem/cacadores_furtivos_ameacam_parques">
+	                                            <article>
+	                                                	                                                <h3>Ca&ccedil;adores furtivos amea&ccedil;am parques</h3>
+	                                                <p class="lead"><p>Os ca&ccedil;adores furtivos s&atilde;o bastante astutos, actuam com muitas cautelas e s&atilde;o na sua maioria cidad&atilde;os estrangeiros, que nalguns casos em conluio com cidad&atilde;os angolanos residentes no pa&iacute;s ou na Nam&iacute;bia e Z&acirc;mbia entram ilegalmente no pa&iacute;s</p></p>
+	                                            </article>
+                                            </a>
+                                        </li>
+                                                                                                        </ul>
+                                                    </li>
+                                                <li  ><a href="/opiniao">Opinião</a>
+                                                            <ul class="submenu noticias-hover">
+                                                                                                        </ul>
+                                                    </li>
+                                                <li  ><a href="/mundo">Mundo</a>
+                                                            <ul class="submenu noticias-hover">
+                                                                            <li>
+                                            <a href="/mundo/manifestantes__saem_as_ruas__a_protestar_contra__a_corrupcaoo">
+	                                            <article>
+	                                                	                                                    <div class="image">
+	                                                        <img src="http://thumbs.web.sapo.io/?pic=http%3A%2F%2Fimgs.sapo.pt%2Fjornaldeangola%2Fimg%2Fthumb1%2F20180504162639malawi.jpg&W=368&H=198&errorpic=http%3A%2F%2Fimgs.sapo.pt%2Fjornaldeangola%2F2016%2F%2Fimg%2Fdefault-article-2017.png" alt=""/>
+	                                                    </div>
+	                                                	                                                <h3> Manifestantes  saem &agrave;s ruas  a protestar contra  a corrup&ccedil;&atilde;oo</h3>
+	                                                <p class="lead"><p>Milhares de pessoas sa&iacute;ram esta semana, por v&aacute;rios dias, &agrave;s ruas de seis cidades do Malawi para protestar contra a corrup&ccedil;&atilde;o e a m&aacute; governa&ccedil;&atilde;o.</p></p>
+	                                            </article>
+                                            </a>
+                                        </li>
+                                                                                                        </ul>
+                                                    </li>
+                                                <li  ><a href="/economia">Economia</a>
+                                                            <ul class="submenu noticias-hover">
+                                                                            <li>
+                                            <a href="/economia/denuncia_de_poluicao_averiguada_pelo_estado_1">
+	                                            <article>
+	                                                	                                                <h3>Den&uacute;ncia de polui&ccedil;&atilde;o averiguada pelo Estado</h3>
+	                                                <p class="lead"><p>Uma equipa multissectorial integrada por t&eacute;cnicos dos minist&eacute;rios do  Ambiente, Ind&uacute;stria e Sa&uacute;de foi quarta-feira enviada ao Lubango, Hu&iacute;la,  para averiguar den&uacute;ncias feitas pela Televis&atilde;o P&uacute;blica de Angola (TPA)  na segunda-feira, segundo as quais a cervejeira Ngola polui dois rios  pr&oacute;ximos da &aacute;rea em que est&aacute; implantada.</p></p>
+	                                            </article>
+                                            </a>
+                                        </li>
+                                                                                                        </ul>
+                                                    </li>
+                                                <li  ><a href="/provincias">Províncias</a>
+                                                            <ul class="submenu noticias-hover">
+                                                                            <li>
+                                            <a href="/provincias/iluminacao_publica_abrange_a_periferia">
+	                                            <article>
+	                                                	                                                    <div class="image">
+	                                                        <img src="http://thumbs.web.sapo.io/?pic=http%3A%2F%2Fimgs.sapo.pt%2Fjornaldeangola%2Fimg%2Fthumb1%2F20180504110759bairros.jpg&W=368&H=198&errorpic=http%3A%2F%2Fimgs.sapo.pt%2Fjornaldeangola%2F2016%2F%2Fimg%2Fdefault-article-2017.png" alt=""/>
+	                                                    </div>
+	                                                	                                                <h3>Ilumina&ccedil;&atilde;o p&uacute;blica abrange a periferia </h3>
+	                                                <p class="lead"><p>Os bairros de S&atilde;o Tarciso e Sassonde II, situados nos arredores da  cidade do Huambo, beneficiam desde quarta-feira, pela primeira vez, de  ilumina&ccedil;&atilde;o p&uacute;blica e domiciliar.</p></p>
+	                                            </article>
+                                            </a>
+                                        </li>
+                                                                                                        </ul>
+                                                    </li>
+                                                <li  ><a href="/sociedade">Sociedade</a>
+                                                            <ul class="submenu noticias-hover">
+                                                                            <li>
+                                            <a href="/sociedade/motoristas_lamentam_a_reducao_de_clientes">
+	                                            <article>
+	                                                	                                                <h3>Motoristas lamentam a redu&ccedil;&atilde;o de clientes</h3>
+	                                                <p class="lead"><p>O n&uacute;mero de viaturas,  para a transporta&ccedil;&atilde;o de mineiros, aumentou de forma consider&aacute;vel nos &uacute;ltimos meses no mercado do Chissindo, localizado na zona perif&eacute;rica da cidade do Cuito, prov&iacute;ncia do Bi&eacute;, ao passo que os clientes t&ecirc;m vindo a diminuir, devido ao encerramento de algumas obras e empresas privadas de constru&ccedil;&atilde;o civil.<br />Jo&atilde;o Mavinga, de 32 anos, t&eacute;cnico m&eacute;dio e motorista h&aacute; cinco anos, reconhece a redu&ccedil;&atilde;o de clientes na compra de areia e brita, em compara&ccedil;&atilde;o com os anos anteriores.</p></p>
+	                                            </article>
+                                            </a>
+                                        </li>
+                                                                                                        </ul>
+                                                    </li>
+                                                <li  ><a href="/gente">Gente</a>
+                                                            <ul class="submenu noticias-hover">
+                                                                                                        </ul>
+                                                    </li>
+                                                <li class="active" ><a href="/cultura">Cultura</a>
+                                                            <ul class="submenu noticias-hover">
+                                                                            <li>
+                                            <a href="/cultura/eduardo_paim_canta__na_cidade_da_praia">
+	                                            <article>
+	                                                	                                                <h3>Eduardo Paim canta  na Cidade da Praia</h3>
+	                                                <p class="lead"><p>F&atilde;s de Eduardo Paim, residentes na Cidade da Praia, a capital de Cabo Verde, ter&atilde;o o privilegio de saciar o jejum, 25 anos depois, desde a sua &uacute;ltima actua&ccedil;&atilde;o por aquelas paragens.</p></p>
+	                                            </article>
+                                            </a>
+                                        </li>
+                                                                                                        </ul>
+                                                    </li>
+                                                <li  ><a href="/desporto">Desporto</a>
+                                                            <ul class="submenu noticias-hover">
+                                                                            <li>
+                                            <a href="/desporto/1_de_agosto_quer_quebrar__jejum_de_seis_anos_na_taca">
+	                                            <article>
+	                                                	                                                <h3>1&ordm; de Agosto quer quebrar  jejum de seis anos na Ta&ccedil;a</h3>
+	                                                <p class="lead"><p>Militares e "&aacute;guias" de Calulo jogam pela terceira vez a final <br />e a equipa da prov&iacute;ncia do Cuanza Sul sempre saiu vencedora</p></p>
+	                                            </article>
+                                            </a>
+                                        </li>
+                                                                                                        </ul>
+                                                    </li>
+                                            </ul>
+                </nav>
+                
+<div class="align-center half-top-space">
+<!--/* OpenDisplay Javascript Tag v2.8.5 */-->
+<script type='text/javascript'><!--//<![CDATA[
+   var m3_u = (location.protocol=='https:'?'https://pub.sapo.pt/ajs.php':'http://pub.sapo.pt/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?zoneid=4182");
+   document.write ('&cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&exclude=" + document.MAX_used);
+   document.write (document.charset ? '&charset='+document.charset : (document.characterSet ? '&charset='+document.characterSet : ''));
+   document.write ("&loc=" + escape(window.location));
+   if (document.referrer) document.write ("&referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if (document.mmm_fo) document.write ("&;mmm_fo=1");
+   document.write ("'><\/scr"+"ipt>");
+//]]>--></script><noscript><a href='http://pub.sapo.pt/ck.php?n=a477847e&cb=472366540' target='_blank'><img src='http://pub.sapo.pt/avw.php?zoneid=4182&cb=472366540&n=a477847e' border='0' alt='' /></a></noscript>
+</div>
+
+            </header><main role="main" class="clearfix"> 
+    <div class="highlight">
+        <div class="highlight-wrapper">
+            <nav class="ink-navigation">
+               <ul class="breadcrumbs">
+                   <li><a href="/">Início</a></li>
+                   <li><a href="/cultura">Cultura</a></li>
+                                      <li class="active"><a href="#">Eduardo Paim canta  na Cidade da Praia</a></li>
+               </ul>
+            </nav>
+
+            <main role="main" class="column-group artigo">
+
+            <article class="half-bottom-space">
+
+                
+                <div class="categoria">Cultura</div>
+                    <h1>Eduardo Paim canta  na Cidade da Praia</h1>
+
+                                            <p class="info-autor"></p>
+                            <p><time class="date-time" datetime="2018-05-04 21:09:28">4 de Maio, 2018</time></p>
+
+                    <p class="lead"><p>F&atilde;s de Eduardo Paim, residentes na Cidade da Praia, a capital de Cabo Verde, ter&atilde;o o privilegio de saciar o jejum, 25 anos depois, desde a sua &uacute;ltima actua&ccedil;&atilde;o por aquelas paragens.</p></p>
+
+                <p><p>Hoje, dia 5, o valor e o potencial do report&oacute;rio art&iacute;stico, daquele que &eacute; considerado uma das principais vozes de refer&ecirc;ncias da m&uacute;sica contempor&acirc;nea angolana estar&aacute; em evid&ecirc;ncia. General Kambuengo como tamb&eacute;m &eacute; conhecido nas lides musicais, integra a lista de m&uacute;sicos convidados &agrave; 8&ordf; edi&ccedil;&atilde;o da gala Cabo Verde Music Awards by Unitel T+, que acontece na noite de hoje, na sala principal da Assembleia Nacional, na Cidade de Praia, Rep&uacute;blica de Cabo Verde.</p></p><!--/* OpenDisplay Javascript Tag v2.8.5 */-->
+<script type='text/javascript'><!--//<![CDATA[
+   var m3_u = (location.protocol=='https:'?'https://pub.sapo.pt/ajs.php':'http://pub.sapo.pt/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?zoneid=2817");
+   document.write ('&cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&exclude=" + document.MAX_used);
+   document.write (document.charset ? '&charset='+document.charset : (document.characterSet ? '&charset='+document.characterSet : ''));
+   document.write ("&loc=" + escape(window.location));
+   if (document.referrer) document.write ("&referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if (document.mmm_fo) document.write ("&;mmm_fo=1");
+   document.write ("'><\/scr"+"ipt>");
+//]]>--></script><noscript><a href='http://pub.sapo.pt/ck.php?n=a23f5e49&cb=1250061940' target='_blank'><img src='http://pub.sapo.pt/avw.php?zoneid=2817&cb=1250061940&n=a23f5e49' border='0' alt='' /></a></noscript>
+                                                </article>
+
+            <section id="share" class="ink-navigation half-vertical-space bottom-space">
+	<ul class="menu horizontal share-list">
+        <li class="">
+            <a rel="nofollow" href="https://www.facebook.com/sharer.php?url=http%3A%2F%2Fjornaldeangola.sapo.ao%2Fcultura%2Feduardo_paim_canta__na_cidade_da_praia&t=Eduardo+Paim+canta++na+Cidade+da+Praia+%7C+Cultura+%7C+Jornal+de+Angola+-+Online" target="_blank" class="ink-button facebook">
+                <i class="fa fa-facebook"></i> <span>facebook</span>
+            </a>
+        </li>
+        <li class="">
+            <a rel="nofollow" href="http://twitter.com/share?url=http%3A%2F%2Fjornaldeangola.sapo.ao%2Fcultura%2Feduardo_paim_canta__na_cidade_da_praia&text=Eduardo+Paim+canta++na+Cidade+da+Praia+%7C+Cultura+%7C+Jornal+de+Angola+-+Online" target="_blank" class="ink-button twitter">
+                <i class="fa fa-twitter"></i> <span>Twitter</span>
+            </a>
+        </li>
+		<li class="">
+			<a rel="nofollow" href="mailto:?&amp;subject=Eduardo Paim canta  na Cidade da Praia / Cultura / Jornal de Angola - Online&amp;body=http%3A%2F%2Fjornaldeangola.sapo.ao%2Fcultura%2Feduardo_paim_canta__na_cidade_da_praia" class="ink-button email">
+				<i class="fa fa-envelope"></i> <span>Email</span>
+			</a>
+		</li>
+	</ul>
+</section>                <div class="lista-noticias bottom-space">
+                    <h2>Últimas</h2>
+                    <ul>
+                                                <li><a href="/cultura/duo_debademba__realiza_concerto___pelo_dia_de_africa">Duo Debademba  realiza concerto   pelo Dia de &Aacute;frica<p class="link-more">ver mais</p></a></li>
+                                                <li><a href="/cultura/projecto_musical_no_soyo_aposta_em_talentos_locais">Projecto musical no Soyo aposta em talentos locais<p class="link-more">ver mais</p></a></li>
+                                                <li><a href="/cultura/musica/melhores_da_musica_conhecidos_no_kilamba">Melhores da m&uacute;sica conhecidos no Kilamba<p class="link-more">ver mais</p></a></li>
+                                                <li><a href="/cultura/momentos_de_poesia_marcam_actividades_do_dia_da_lusofonia">Momentos de poesia marcam actividades do dia da lusofonia <p class="link-more">ver mais</p></a></li>
+                                                <li><a href="/cultura/vidrul_fotografia_expoe_obras_no_memorial">   &ldquo;Vidrul Fotografia&rdquo; exp&otilde;e obras no Memorial<p class="link-more">ver mais</p></a></li>
+                                                <li><a href="/cultura/livros/cremilda_de_lima_lanca_segunda-feira_40_livro_de_contos">Cremilda de Lima lan&ccedil;a segunda-feira 40&ordm; livro de contos <p class="link-more">ver mais</p></a></li>
+                                            </ul>
+                </div>
+                    </div>
+    </div>
+    <section class="pub lateral small-100 xlarge-push-right large-push-right medium-push-right small-push-center">
+
+   <!-- Widget banca -->            
+    <div class="widget-banca">
+        <div class="column-group gutters">                                    
+                            <div class="all-55 tiny-50">
+                    <a href="http://www.pressreader.com/angola/jornal-de-angola"><img src="http://thumbs.web.sapo.io/?pic=http%3A%2F%2Fimgs.sapo.pt%2Fjornaldeangola%2Fimg%2Ffile5aebff0e86ed8capa_5.jpg&W=149&H=209&errorpic=http%3A%2F%2Fimgs.sapo.pt%2Fjornaldeangola%2F2016%2F%2Fimg%2Fdefault-article-2017.png" alt="Jornal Luanda"/></a>
+                </div>
+            
+            <div class="widget-buttons all-45 tiny-50">
+                <h2>Edição impressa</h2>
+                <a class="blue-button half-bottom-space"  href="http://www.pressreader.com/angola/jornal-de-angola" target="_blank">
+                <strong class="">Subscrever</strong>
+                <small>versão impressa</small>
+                <span class=""></span>
+                </a>
+                <a class="blue-button" href="/suplementos">
+                <strong class="">Suplementos</strong>
+                <small>Downloand pdf</small>
+                <span class=""></span>
+                </a>
+            </div>
+        </div>
+    </div>
+
+    <!-- Publicidade mrec-->
+    <div class="mrec bottom-space">
+        <iframe class="mrec" id="mrecIframe" src="/mrec" height="250" width="300" scrolling="no" frameborder="0" allowTransparency="true"></iframe>    </div>
+
+    <!-- Publicidade banners-->
+    <div class="banner-box half-bottom-space">
+        <div><p><a href="http://jornaldosdesportos.sapo.ao/"><img src="http://imgs.sapo.pt/jornaldeangola/2016/img/jd.png" alt="Jornal de Desportos" /></a></p></div>    </div>
+    <div class="banner-box bottom-space">
+        <div><p><a href="http://jaimagens.com/"><img src="http://imgs.sapo.pt/jornaldeangola/2016/img/jimag.png" alt="JA Imagens" /></a></p></div>
+    </div>
+
+    <!-- classificados-->
+    <div class="link-box half-bottom-space">
+        <a href="/classificados">
+        <span class="img-icon align-center"><img src="//imgs.sapo.pt/jornaldeangola2012/img/new/icon-class.png" alt=""></span>
+        <strong>Classificados</strong></a>
+    </div>
+
+    <!-- emprego-->                   
+    <div class="link-box bottom-space">
+        <a href="/oportunidades_de_emprego">
+        <span class="img-icon align-center"><img src="//imgs.sapo.pt/jornaldeangola2012/img/new/icon-emprego.png" alt=""></span>
+        <strong>Oportunidade de Emprego</strong></a>
+    </div>
+
+    <!-- Publicidade banners lado a lado-->                                               
+    <div class="banners-lado">
+        <div class="column-group gutters">
+            <div class="all-50 tiny-100">
+                <p><a href="/ficha_tecnica_e_contactos#contactos" target="_self"><img src="http://imgs.sapo.pt/jornaldeangola/img/1744801175_pub-anuncie.png" alt="" /></a></p>            </div>
+            <div class="all-50 tiny-100">
+                <p><a href="http://www.sapo.ao/" target="_self"><img src="http://imgs.sapo.pt/jornaldeangola/img/1968774097_sapo-140x100ja.jpg" alt="" /></a></p>            </div>
+        </div>
+    </div>
+
+    <!-- Publicidade mrec-->
+    
+   <!-- artigos -->
+            <div class="coluna-artigos bottom-space">
+            <h2>Artigos</h2>
+            <ul>
+                                <li>
+                    <article>
+                    <a href="/opiniao/cartas_dos_leitores/agua_no_morro_bento">
+                                        <time class="date-time" datetime="2018-05-04 09:22:46">4 de Maio, 2018 <strong>09:22</strong></time> 
+                                        <h3>&Aacute;gua no Morro Bento</h3>
+                    <p class="link-more">Ler mais</p>
+                    </a>
+                    </article>
+                </li>
+                                <li>
+                    <article>
+                    <a href="/opiniao/cartas_dos_leitores/avarias_eternas_na_caop">
+                                        <time class="date-time" datetime="2018-05-04 09:21:29">4 de Maio, 2018 <strong>09:21</strong></time> 
+                                        <h3>Avarias eternas na CAOP</h3>
+                    <p class="link-more">Ler mais</p>
+                    </a>
+                    </article>
+                </li>
+                                <li>
+                    <article>
+                    <a href="/opiniao/cartas_dos_leitores/policia_com_poucos_meios_para_combater_o_crime">
+                                        <time class="date-time" datetime="2018-05-04 09:15:55">4 de Maio, 2018 <strong>09:15</strong></time> 
+                                        <h3>Pol&iacute;cia com poucos meios para combater o crime</h3>
+                    <p class="link-more">Ler mais</p>
+                    </a>
+                    </article>
+                </li>
+                             </ul>
+        </div>
+    
+   <!-- Widget Tempo -->
+    <div class="widget-tempo bottom-space">
+        <h2>Tempo</h2>
+        <div id="widget-sapo-tempo"></div>
+    </div>
+
+    
+   <!-- Palavra do Director -->
+            <div class="coluna-artigos bottom-space">
+            <h2>Palavra do Director</h2>
+            <ul>
+                                <li>
+                    <article>
+                    <a href="/opiniao/a_palavra_do_director/os_desafios_da_imprensa_publica">
+                                        <time class="date-time" datetime="2018-04-29 08:41:35">29 de Abril, 2018 <strong>08:41</strong></time> 
+                                        <h3>Os desafios da Imprensa p&uacute;blica</h3>
+                    <p class="link-more">Ler mais</p> 
+                    </a>
+                    </article>
+                </li>
+                                <li>
+                    <article>
+                    <a href="/opiniao/a_palavra_do_director/pressao_sindical">
+                                        <time class="date-time" datetime="2018-04-22 08:27:48">22 de Abril, 2018 <strong>08:27</strong></time> 
+                                        <h3>Press&atilde;o sindical</h3>
+                    <p class="link-more">Ler mais</p> 
+                    </a>
+                    </article>
+                </li>
+                                <li>
+                    <article>
+                    <a href="/opiniao/a_palavra_do_director/recomecar_de_novo">
+                                        <time class="date-time" datetime="2018-04-15 08:43:06">15 de Abril, 2018 <strong>08:43</strong></time> 
+                                        <h3>Recome&ccedil;ar de novo</h3>
+                    <p class="link-more">Ler mais</p> 
+                    </a>
+                    </article>
+                </li>
+                             </ul>
+        </div>
+    </section>
+
+               
+<!-- Multimédia -->
+<section class="top-space bottom-space multimedia">
+    <h2>Multimédia</h2>
+
+    <div class="panel">
+        <div id="car1" class="ink-carousel" data-space-after-last-slide="false" data-autoload="false">
+            <ul class="stage column-group half-gutters">
+                                    <li class="slide xlarge-25 large-25 medium-33 small-50 tiny-100">
+                    <a href="/mundo/morreu_afonso_dhlakama#foto">                                    
+                                                    <img src="http://thumbs.web.sapo.io/?pic=http%3A%2F%2Fimgs.sapo.pt%2Fjornaldeangola%2Fimg%2Fthumb1%2F20180504073918dhilakama.jpg&W=304&H=163&errorpic=http%3A%2F%2Fimgs.sapo.pt%2Fjornaldeangola%2F2016%2F%2Fimg%2Fdefault-article-2017.png" alt="">
+                        
+                        <div class="description">
+                            <h4 class="no-margin">Morreu Afonso Dhlakama</h4>
+                        </div>
+                        </a>
+                    </li>
+                                    <li class="slide xlarge-25 large-25 medium-33 small-50 tiny-100">
+                    <a href="/sociedade/catedraticos_divergem_nas_opinioes_sobre_eleicoes_nas_universidades#foto">                                    
+                                                    <img src="http://thumbs.web.sapo.io/?pic=http%3A%2F%2Fimgs.sapo.pt%2Fjornaldeangola%2Fimg%2Fthumb1%2F20180503121747universidade_agostinho_neto.jpg&W=304&H=163&errorpic=http%3A%2F%2Fimgs.sapo.pt%2Fjornaldeangola%2F2016%2F%2Fimg%2Fdefault-article-2017.png" alt="">
+                        
+                        <div class="description">
+                            <h4 class="no-margin">Catedr&aacute;ticos divergem nas opini&otilde;es sobre elei&ccedil;&otilde;es nas universidades </h4>
+                        </div>
+                        </a>
+                    </li>
+                                    <li class="slide xlarge-25 large-25 medium-33 small-50 tiny-100">
+                    <a href="/reportagem/a_fabrica_no_meio_de_uma_batalha_judicial#foto">                                    
+                                                    <img src="http://thumbs.web.sapo.io/?pic=http%3A%2F%2Fimgs.sapo.pt%2Fjornaldeangola%2Fimg%2Fthumb1%2F20180502091201fabrica1.jpg&W=304&H=163&errorpic=http%3A%2F%2Fimgs.sapo.pt%2Fjornaldeangola%2F2016%2F%2Fimg%2Fdefault-article-2017.png" alt="">
+                        
+                        <div class="description">
+                            <h4 class="no-margin"> A f&aacute;brica no meio de uma batalha judicial</h4>
+                        </div>
+                        </a>
+                    </li>
+                                    <li class="slide xlarge-25 large-25 medium-33 small-50 tiny-100">
+                    <a href="/reportagem/trabalhadores_tem_problemas_agravados#foto">                                    
+                                                    <img src="http://thumbs.web.sapo.io/?pic=http%3A%2F%2Fimgs.sapo.pt%2Fjornaldeangola%2Fimg%2Fthumb1%2F20180501083410destaque.jpg&W=304&H=163&errorpic=http%3A%2F%2Fimgs.sapo.pt%2Fjornaldeangola%2F2016%2F%2Fimg%2Fdefault-article-2017.png" alt="">
+                        
+                        <div class="description">
+                            <h4 class="no-margin">Trabalhadores t&ecirc;m problemas agravados</h4>
+                        </div>
+                        </a>
+                    </li>
+                                    <li class="slide xlarge-25 large-25 medium-33 small-50 tiny-100">
+                    <a href="/politica/pr_pede_empenho_das_faa_na_moralizacao_da_sociedade#foto">                                    
+                                                    <img src="http://thumbs.web.sapo.io/?pic=http%3A%2F%2Fimgs.sapo.pt%2Fjornaldeangola%2Fimg%2Fthumb1%2F2018042407475611.jpg&W=304&H=163&errorpic=http%3A%2F%2Fimgs.sapo.pt%2Fjornaldeangola%2F2016%2F%2Fimg%2Fdefault-article-2017.png" alt="">
+                        
+                        <div class="description">
+                            <h4 class="no-margin">PR pede empenho das FAA na moraliza&ccedil;&atilde;o da sociedade</h4>
+                        </div>
+                        </a>
+                    </li>
+                                    <li class="slide xlarge-25 large-25 medium-33 small-50 tiny-100">
+                    <a href="/reportagem/terra_pede_socorro#foto">                                    
+                                                    <img src="http://thumbs.web.sapo.io/?pic=http%3A%2F%2Fimgs.sapo.pt%2Fjornaldeangola%2Fimg%2Fthumb1%2F2018042209152411.jpg&W=304&H=163&errorpic=http%3A%2F%2Fimgs.sapo.pt%2Fjornaldeangola%2F2016%2F%2Fimg%2Fdefault-article-2017.png" alt="">
+                        
+                        <div class="description">
+                            <h4 class="no-margin">Terra pede socorro</h4>
+                        </div>
+                        </a>
+                    </li>
+                                    <li class="slide xlarge-25 large-25 medium-33 small-50 tiny-100">
+                    <a href="/mundo/ramaphosa_interrompe_visita_a_londres#foto">                                    
+                                                    <img src="http://thumbs.web.sapo.io/?pic=http%3A%2F%2Fimgs.sapo.pt%2Fjornaldeangola%2Fimg%2Fthumb1%2F20180421113101ramaaphosa.jpg&W=304&H=163&errorpic=http%3A%2F%2Fimgs.sapo.pt%2Fjornaldeangola%2F2016%2F%2Fimg%2Fdefault-article-2017.png" alt="">
+                        
+                        <div class="description">
+                            <h4 class="no-margin">Ramaphosa interrompe visita a Londres</h4>
+                        </div>
+                        </a>
+                    </li>
+                                    <li class="slide xlarge-25 large-25 medium-33 small-50 tiny-100">
+                    <a href="/reportagem/populacao_de_sacandica__procura_servicos_medicos_e_escolares_no_congo_democratico#foto">                                    
+                                                    <img src="http://thumbs.web.sapo.io/?pic=http%3A%2F%2Fimgs.sapo.pt%2Fjornaldeangola%2Fimg%2Fthumb1%2F20180420085231refugiados.jpg&W=304&H=163&errorpic=http%3A%2F%2Fimgs.sapo.pt%2Fjornaldeangola%2F2016%2F%2Fimg%2Fdefault-article-2017.png" alt="">
+                        
+                        <div class="description">
+                            <h4 class="no-margin">Popula&ccedil;&atilde;o de Sacandica  procura servi&ccedil;os m&eacute;dicos e escolares no Congo Democr&aacute;tico</h4>
+                        </div>
+                        </a>
+                    </li>
+                            </ul>
+        </div>
+
+        <nav id="p1" class="ink-navigation half-top-space">
+            <ul class="pagination chevron">
+            </ul>
+        </nav>
+    </div>  
+
+    <script>
+        Ink.requireModules(['Ink.UI.Carousel_1'], function(InkCarousel) {
+            new InkCarousel('#car1', {pagination: '#p1'});
+        });
+    </script>
+</section>    
+
+<div class="lista-noticias">
+    <div class="column-group gutters bottom-space">    
+                                                    
+            <div class="all-25 medium-50 small-100 tiny-100">
+                <h2>Política<span class="push-right"><a href="politica" class="link-more">ver mais</a></span></h2>
+                <ul>
+                                             <li><a href="/politica/vitimas_de_cassinga_sao_homenageadas">V&iacute;timas de Cassinga s&atilde;o homenageadas</a></li>
+                                            <li><a href="/politica/magistratura_judicial_abre_novo_concurso">Magistratura Judicial abre novo concurso</a></li>
+                                            <li><a href="/politica/vice-presidente_orienta__reuniao_multissectorial">Vice-Presidente orienta  reuni&atilde;o multissectorial</a></li>
+                                    </ul>
+            </div>  
+                                                    
+            <div class="all-25 medium-50 small-100 tiny-100">
+                <h2>Províncias<span class="push-right"><a href="provincias" class="link-more">ver mais</a></span></h2>
+                <ul>
+                                             <li><a href="/provincias/iluminacao_publica_abrange_a_periferia">Ilumina&ccedil;&atilde;o p&uacute;blica abrange a periferia </a></li>
+                                            <li><a href="/provincias/mara_quiosa_quer_mais_uniao_entre_instituicoes"> Mara Quiosa quer mais uni&atilde;o entre institui&ccedil;&otilde;es </a></li>
+                                            <li><a href="/provincias/alunos_com_dificuldades_investigados_em_malanje_1">Alunos com dificuldades investigados em Malanje</a></li>
+                                    </ul>
+            </div>  
+                                                    
+            <div class="all-25 medium-50 small-100 tiny-100">
+                <h2>Mundo<span class="push-right"><a href="mundo" class="link-more">ver mais</a></span></h2>
+                <ul>
+                                             <li><a href="/mundo/manifestantes__saem_as_ruas__a_protestar_contra__a_corrupcaoo"> Manifestantes  saem &agrave;s ruas  a protestar contra  a corrup&ccedil;&atilde;oo</a></li>
+                                            <li><a href="/mundo/momento_au__para_o_pais"> &ldquo;Momento au  Para o pa&iacute;s&rdquo;</a></li>
+                                            <li><a href="/mundo/morreu_afonso_dhlakama">Morreu Afonso Dhlakama</a></li>
+                                    </ul>
+            </div>  
+                                                    
+            <div class="all-25 medium-50 small-100 tiny-100">
+                <h2>Economia<span class="push-right"><a href="economia" class="link-more">ver mais</a></span></h2>
+                <ul>
+                                             <li><a href="/economia/denuncia_de_poluicao_averiguada_pelo_estado_1">Den&uacute;ncia de polui&ccedil;&atilde;o averiguada pelo Estado</a></li>
+                                            <li><a href="/economia/angola_capta_investimento_no_forum_japao-africa">Angola capta investimento no f&oacute;rum Jap&atilde;o-&Aacute;frica </a></li>
+                                            <li><a href="/economia/sonangol_recebe_garantias_de_apoio">Sonangol recebe garantias de apoio</a></li>
+                                    </ul>
+            </div>  
+                                                    
+            <div class="all-25 medium-50 small-100 tiny-100">
+                <h2>Sociedade<span class="push-right"><a href="sociedade" class="link-more">ver mais</a></span></h2>
+                <ul>
+                                             <li><a href="/sociedade/motoristas_lamentam_a_reducao_de_clientes">Motoristas lamentam a redu&ccedil;&atilde;o de clientes</a></li>
+                                            <li><a href="/sociedade/jovens_recebem_kits_para_o_auto-emprego">Jovens recebem kits para o auto-emprego</a></li>
+                                            <li><a href="/sociedade/lares_de_idosos__e_de_criancas__recebem_apoio">Lares de idosos  e de crian&ccedil;as  recebem apoio </a></li>
+                                    </ul>
+            </div>  
+                                                    
+            <div class="all-25 medium-50 small-100 tiny-100">
+                <h2>Cultura<span class="push-right"><a href="cultura" class="link-more">ver mais</a></span></h2>
+                <ul>
+                                             <li><a href="/cultura/eduardo_paim_canta__na_cidade_da_praia">Eduardo Paim canta  na Cidade da Praia</a></li>
+                                            <li><a href="/cultura/duo_debademba__realiza_concerto___pelo_dia_de_africa">Duo Debademba  realiza concerto   pelo Dia de &Aacute;frica</a></li>
+                                            <li><a href="/cultura/projecto_musical_no_soyo_aposta_em_talentos_locais">Projecto musical no Soyo aposta em talentos locais</a></li>
+                                    </ul>
+            </div>  
+                                                    
+            <div class="all-25 medium-50 small-100 tiny-100">
+                <h2>Desporto<span class="push-right"><a href="desporto" class="link-more">ver mais</a></span></h2>
+                <ul>
+                                             <li><a href="/desporto/1_de_agosto_quer_quebrar__jejum_de_seis_anos_na_taca">1&ordm; de Agosto quer quebrar  jejum de seis anos na Ta&ccedil;a</a></li>
+                                            <li><a href="/desporto/1_de_agosto_esconde_tactica_para_o_desafio">1&ordm; de Agosto esconde t&aacute;ctica para o desafio  </a></li>
+                                            <li><a href="/desporto/progresso_volta_a_testar_aptidoes_da_seleccao_sub-20">Progresso volta a testar aptid&otilde;es da Selec&ccedil;&atilde;o Sub-20 </a></li>
+                                    </ul>
+            </div>  
+                                                    
+            <div class="all-25 medium-50 small-100 tiny-100">
+                <h2>Opinião<span class="push-right"><a href="opiniao" class="link-more">ver mais</a></span></h2>
+                <ul>
+                                             <li><a href="/opiniao/cartas_dos_leitores/agua_no_morro_bento">&Aacute;gua no Morro Bento</a></li>
+                                            <li><a href="/opiniao/cartas_dos_leitores/avarias_eternas_na_caop">Avarias eternas na CAOP</a></li>
+                                            <li><a href="/opiniao/cartas_dos_leitores/policia_com_poucos_meios_para_combater_o_crime">Pol&iacute;cia com poucos meios para combater o crime</a></li>
+                                    </ul>
+            </div>  
+                                                                                     
+    </div>    
+</div>            </main>
+        </div>
+        <!-- footer  -->
+        <footer class="clearfix" role="contentinfo">
+            <div class="ink-grid">
+             <!-- footer Jornal -->
+            <div class="column-group gutters footer-jornal">
+                <!-- coluna 1 -->
+                <div class="all-30 small-50 tiny-100">
+                    <section class="seccoes">
+                        <h2>SECÇÕES</h2>
+                        <nav class="ink-navigation">
+                            <ul class="black">
+                                <li class="active"><a href="/">Início</a></li>
+                                <li><a href="/politica">Política</a></li>
+                                <li><a href="/reportagem">Reportagem</a></li>
+                                <li><a href="/opiniao">Opinião</a></li>
+                                <li><a href="/mundo">Mundo</a></li>
+                                <li><a href="/economia">Economia</a> </li>
+                                <li><a href="/provincias">Províncias</a></li>
+                                <li><a href="/sociedade">Sociedade</a></li>
+                                <li><a href="/gente">Gente</a></li>
+                                <li><a href="/cultura">Cultura</a></li>
+                                <li><a href="/desporto">Desporto</a></li>
+                            </ul>
+                        </nav>
+                    </section>
+                </div>
+                <!-- coluna 2 -->
+                <div class="all-30 medium-25 small-50 tiny-100">
+                    <section class="seccoes footer-logos"> 
+                        <h2>ORGÃOS PÚBLICOS</h2>  
+                        <ul class="o">
+                            <li><a href="http://tpa.sapo.ao/" title="TPA" target="_blank">
+                            <img src="http://imgs.sapo.pt/jornaldeangola2012/img/2015/tpa_logo.jpg" alt=""></a></li>
+                            <li><a href="http://www.rna.ao" title="RNA" target="_blank">
+                            <img src="http://imgs.sapo.pt/jornaldeangola2012/img/2015/rna_logo.jpg" alt=""></a></li>
+                            <li><a href="http://www.portalangop.co.ao/angola/pt_pt" title="ANGOP" target="_blank">
+                            <img src="http://imgs.sapo.pt/jornaldeangola2012/img/2015/angop_logo.jpg" alt=""></a></li>
+                            <li><a href="http://www.embajadadeangola.com/" title="Embajada de Angola" target="_blank">
+                            <img src="http://imgs.sapo.pt/jornaldeangola2012/img/2015/JA_espanha.png" alt=""></a></li>
+                        </ul>
+                    </section>                           
+                </div>
+                <!-- coluna 3 -->   
+                <div class="all-30 medium-25 small-100 tiny-100">
+                    <section class="seccoes">
+                        <div class="newsletter">
+                            <h2> newsletter</h2>
+                            <p>Receba as notícias no seu e-mail:</p>
+                            <form class="ink-form search-form" role="search" action="/subscribing" id="ardina-form">
+                                <input type="hidden" name="id" value="11" />
+                                <input type="hidden" name="nome" value="" />
+                                <input type="hidden" name="json" value="1" title="output do pedido (json/xml)" />
+                                <div class="control-group all-100">
+                                    <div class="control append-button" role="search">
+                                        <span><label class="hide-text" for="search_input">inserir email</label>
+                                        <input type="email" required name="email" id="newsletter_input"  placeholder="Insira o seu email"></span>
+                                        <button class="ink-button orange-jornal" type="submit"><span>ok</span></button>
+                                    </div>
+                                </div>
+                                <div class="ink-alert basic error" role="alert" style="display: none" id="erro">
+                                    <button class="ink-dismiss">×</button>
+                                    <p></p>
+                                </div>
+                                <div class="ink-alert success basic" role="alert" style="display: none" id="sucesso">
+                                    <button class="ink-dismiss">&times;</button>
+                                    <p>Dentro de momentos, receberá um email para confirmar a sua subscrição.</p>
+                                </div>
+                            </form>
+                        </div>
+                    </section>
+                </div>  
+                 <!-- coluna 4 -->                             
+                <div class="all-10 medium-20 small-100 tiny-100">
+                    <section class="seccoes"> 
+                            <h2 class="assist">Social</h2><ul class="social align-right">
+                                <li class="fb"><a href="https://www.facebook.com/Jornal-de-Angola-529322957264861/" target="_blank"><i class="fa fa-facebook"></i><span class="assist">Facebook</span></a></li>
+                                <li class="rss"><a href="/rss"><i class="fa fa-rss"></i>RSS</a></li>                                   
+                            </ul>
+                    </section>                          
+                </div>                          
+
+             </div> 
+             <p class="align-right">&copy; 2017 Jornal de Angola - Todos os direitos reservados</p>
+             </div>
+
+            <section class="footer-links">
+                    <h2 class="assist">Outros</h2>
+                    <div class="ink-grid">
+                    <ul class="add-network">
+                        <li class="first"><a class="first" href="http://edicoesnovembro.co.ao" target="_blank">
+                        <img src="http://imgs.sapo.pt/jornaldeangola/2016/img/EdNovembro_Logobarra.png" alt="Edições Novembro" class="fl"></a></li>
+                        <li><img src="http://imgs.sapo.pt/jornaldeangola2012/img/2015/barra-edicoes-novmebro/seta.png" alt=""></li>
+                        <li><a class="ja" href="//jornaldeangola.sapo.ao" title="Jornal de Angola" target="_blank"></a></li>
+                        <li><a class="jd" href="//jornaldosdesportos.sapo.ao" title="Jornal dos Desportos" target="_blank"></a></li>
+                        <li><a class="jef" href="//jornaldeeconomia.sapo.ao/" title="Jornal Economia &amp; Finanças" target="_blank"></a></li>
+                        <li><a class="jc" href="//jornalcultura.sapo.ao" title="Cultura - Jornal Angolano de Arte e Letras" target="_blank"></a></li>
+                        <li><a class="jai" href="//jaimagens.com/" title="" target="_blank"></a></li>
+
+                         <li class="push-right">
+                        <span class="spc-sapoao">
+                            <a href="http://www.sapo.ao" title="Desenvolvido por SAPO ANGOLA" target="_blank"><img src="http://imgs.sapo.pt/sapologos/madeby/madeby-100x35-color.png" alt="sapo.ao"></a>
+                        </span>
+                        </li>                    
+                    </ul>
+                    </div>
+            </section>
+
+        </footer>
+
+            
+    <!--Inicio de TAG Netscope v2 Jornal de Angola -->
+    <script language="javascript">
+    var WRP_ID= 395030;
+    var WRP_SECTION='Cultura';
+    var WRP_SUBSECTION='';
+    var WRP_SECTION_GRP='Home grupo';
+    var WRP_SUBSECTION_GRP= WRP_ID;
+    var WRP_CONTENT='eduardo_paim_canta__na_cidade_da_praia';
+    var WRP_CHANNEL;
+    
+    /* Profondeur Frame */
+    var WRP_ACC ;
+    
+    wreport_ok=0;
+    </script>
+    <script language="javascript" src="http://js.sl.pt/Netscope"></SCRIPT>
+    <SCRIPT>
+    if(wreport_ok==1){ var w_counter = new wreport_counter(WRP_SECTION, WRP_SUBSECTION, WRP_ID, WRP_ACC, WRP_CHANNEL, WRP_SECTION_GRP, WRP_SUBSECTION_GRP);
+    w_counter.add_content(WRP_CONTENT);
+    w_counter.count();}
+    </script>
+    <!-- Fim TAG Netscope v2 www.netscope.marktest.pt (C)Weborama/Marktest -->    
+
+    
+<!--/* OpenDisplay Javascript Tag v2.8.5 */-->
+ 
+<script type='text/javascript'><!--//<![CDATA[
+   var m3_u = (location.protocol=='https:'?'https://pub.sapo.pt/ajs.php':'http://pub.sapo.pt/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?zoneid=2752");
+   document.write ('&cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&exclude=" + document.MAX_used);
+   document.write (document.charset ? '&charset='+document.charset : (document.characterSet ? '&charset='+document.characterSet : ''));
+   document.write ("&loc=" + escape(window.location));
+   if (document.referrer) document.write ("&referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if (document.mmm_fo) document.write ("&;mmm_fo=1");
+   document.write ("'><\/scr"+"ipt>");
+//]]>-->
+</script><noscript><a href='http://pub.sapo.pt/ck.php?n=a3dd088c&cb=27480699' target='_blank'><img src='http://pub.sapo.pt/avw.php?zoneid=2752&cb=18562785&n=a3dd088c' border='0' alt='' /></a></noscript>
+
+
+<script type="text/javascript">
+SAPO_Project_TakeOver={
+
+zoneId: 3170,
+container: 'billboard-target'
+};
+</script>
+<script type="text/javascript" src="http://js.sapo.pt/Snippets/TakeOver-v1.js"></script>
+
+        <script data-sapo-tempo src="//js.sapo.pt/Projects/Weather/tempo.js" data-target="widget-sapo-tempo" data-country="ao"></script>
+        <script src="http://imgs.sapo.pt/jornaldeangola/js/app.js"></script>
+        <script id="bsu-v2-sapo" src="http://bars.sapo.pt/bsu_v2.0/barra.js" data-width="1400" data-partner="edicoesnovembro" data-country="ao"></script>
+    </body>
+</html>
