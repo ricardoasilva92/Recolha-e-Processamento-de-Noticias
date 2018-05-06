@@ -6,12 +6,23 @@ import os, json
 from os import listdir
 from os.path import isfile, join
 
-
+import codecs
 
 pp = pprint.PrettyPrinter(indent=4)
+from nltk import FreqDist
 
 from nltk.tokenize import sent_tokenize, word_tokenize
 from nltk.corpus import stopwords
+from collections import Counter
+from string import punctuation
+
+from nltk.corpus import floresta
+
+import nltk
+#nltk.download()
+stopwords = nltk.corpus.stopwords.words('portuguese')
+
+import string
 
 
 #__________________PARSE de um ficheiro_____________________
@@ -59,6 +70,8 @@ f.write(json)
 f.close()
 """
 #_______________Jornal de Angola__________________________
+
+"""
 onlyfiles = [f for f in listdir('obter_colecoes/[AGO] jornal angola/noticias/') if isfile(join('obter_colecoes/[AGO] jornal angola/noticias/',f))]
 
 dict_JA = {}
@@ -79,3 +92,26 @@ json = json.dumps(dict_JA)
 f=open("JA.json","w")
 f.write(json)
 f.close()
+"""
+
+dn = json.load(codecs.open('DN.json', 'r', 'utf-8-sig'))
+
+raw = ""
+for key in dn:
+    raw += dn[key]["Text"]
+
+palavras = word_tokenize(raw)
+
+a = nltk.pos_tag(palavras)
+
+pontos = ['.', ',', ':','-',';', ' ', '?', '!',')','(']
+
+filtro = []
+for w in palavras:
+    if w not in stopwords and len(w) > 3:
+        filtro.append(w)
+
+fdist = FreqDist(filtro)
+
+#print(fdist.most_common(2))
+print(a)

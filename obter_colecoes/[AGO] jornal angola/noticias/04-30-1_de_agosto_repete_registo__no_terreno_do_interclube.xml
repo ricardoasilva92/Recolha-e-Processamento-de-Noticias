@@ -21,13 +21,13 @@ Numa espécie de cumprimento da tradição de invencibilidade no bairro Rocha Pi
    if (!document.MAX_used) document.MAX_used = ',';
    document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
    document.write ("?zoneid=2817");
-   document.write ('&cb=' + m3_r);
-   if (document.MAX_used != ',') document.write ("&exclude=" + document.MAX_used);
-   document.write (document.charset ? '&charset='+document.charset : (document.characterSet ? '&charset='+document.characterSet : ''));
-   document.write ("&loc=" + escape(window.location));
-   if (document.referrer) document.write ("&referer=" + escape(document.referrer));
-   if (document.context) document.write ("&context=" + escape(document.context));
-   if (document.mmm_fo) document.write ("&;mmm_fo=1");
+   document.write ('ecb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("eexclude=" + document.MAX_used);
+   document.write (document.charset ? 'echarset='+document.charset : (document.characterSet ? 'echarset='+document.characterSet : ''));
+   document.write ("eloc=" + escape(window.location));
+   if (document.referrer) document.write ("ereferer=" + escape(document.referrer));
+   if (document.context) document.write ("econtext=" + escape(document.context));
+   if (document.mmm_fo) document.write ("e;mmm_fo=1");
    document.write ("'><\/scr"+"ipt>");
 //]]>-->
  da partida surgiu precisamente no período de maior balanceamento ofensivo dos polícias, aos 59 minutos, por intermédio de Jacques, avançado que calou os críticos, ao finalizar com sucesso, depois de uma defesa incompleta da Landu à cabeçada de Buá, assistido por Geraldo, na única vez que conseguiu superar o seu marcador. Está aberto o caminho para a quarta vitória consecutiva dos militares.A julgar pelas incidências do desafio, o Interclube passou com reserva no teste à sua competência enquanto aspirante ao título, antes de defrontar, na próxima jornada, o Petro de Luanda, outro colosso distanciado da estabilidade competitiva. Mas ficaram os registos da boa fase do comandante do Girabola, que mostrou argumentos para desfilar entre os crónicos candidatos.      Ainda ontem, o Kabuscorp do Palanca evitou nos descontos a derrota na deslocação ao reduto do 1º de Maio de Benguela. Dilma, aos cinco minutos, colocou os proletários em vantagem, enquanto aos 90+1, Caleiro repôs a igualdade.No Estádio Municipal dos Coqueiros, Progresso Sambizanga e Sporting de Cabinda empataram sem golos, resultado que penaliza os donos da casa, ainda à procura da superação do desencontro com as vitórias, quando os visitantes se dão por satisfeitos pelo ponto conquistado fora dos seus domínios.Recreativo da Caála e Domant FC não passaram da igualdade (0-0). A formação do Huambo desperdiçou a oportunidade de melhorar o posicionamento na parte baixa da classificação, também ocupada pela formação de Bula Atumba, apostada em assegurar a permanência no Girabola.Sábado, na abertura da jornada, o Sagrada Esperança perdeu em casa, por 1-2, diante do Recreativo do Libolo. Os diamantíferos voltaram a exibir falta de regularidade na prova.

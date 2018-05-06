@@ -16,7 +16,7 @@ A tecnológica IBM - International Business Machines e um consórcio de empresas
         require( [ 'ipub/video-player', 'parts/ads-setup' ], function( Player, Ads ) {
             // init player widget
             Player.start( '#video-5ae239ff55571', {
-                                                vast: {"skip":true,"showCountdown":true,"url":"https:\/\/www8.smartadserver.com\/ac?siteid=89002&pgid=618879&fmtid=37785&ab=1&tgt=&oc=1&out=vast3&ps=1&pb=0&visit=S&vcn=s&tmstp=[timestamp]","entries":[{"offset":0}]},
+                                                vast: {"skip":true,"showCountdown":true,"url":"https:\/\/www8.smartadserver.com\/ac?siteid=89002epgid=618879efmtid=37785eab=1etgt=eoc=1eout=vast3eps=1epb=0evisit=Sevcn=setmstp=[timestamp]","entries":[{"offset":0}]},
                 vastTarget: Ads.getTargetingInfo(),
                                 autoplay: false,
                 panorama: false,

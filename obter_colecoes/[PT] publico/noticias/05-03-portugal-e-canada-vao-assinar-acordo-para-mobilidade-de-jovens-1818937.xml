@@ -4,7 +4,7 @@
 
     <figure class="story__media media media--image media--action  media--horizontal-medium" data-media-action="modal" aria-label="media">
         <div class="flex-media camera" style="padding-bottom: 66.65%;">
-                <img alt="José Luís Carneiro, secretário de Estado das Comunidades" data-media-size="2048x1365" data-media-viewer="https://imagens.publicocdn.com/imagens.aspx/1231564?tp=UH&amp;amp;db=IMAGENS" data-interchange="[https://imagens.publicocdn.com/imagens.aspx/1231564?tp=UH&amp;amp;db=IMAGENS&amp;w=480, small],&#xA;                        [https://imagens.publicocdn.com/imagens.aspx/1231564?tp=UH&amp;amp;db=IMAGENS&amp;w=960, small-retina]&#xA;                        [https://imagens.publicocdn.com/imagens.aspx/1231564?tp=UH&amp;amp;db=IMAGENS&amp;w=640, xmedium],&#xA;                        [https://imagens.publicocdn.com/imagens.aspx/1231564?tp=UH&amp;amp;db=IMAGENS&amp;w=1280, xmedium-retina],&#xA;                        [https://imagens.publicocdn.com/imagens.aspx/1231564?tp=UH&amp;amp;db=IMAGENS&amp;w=1024, medium],&#xA;                        [https://imagens.publicocdn.com/imagens.aspx/1231564?tp=UH&amp;amp;db=IMAGENS&amp;w=2048, medium-retina],&#xA;                        [https://imagens.publicocdn.com/imagens.aspx/1231564?tp=UH&amp;amp;db=IMAGENS&amp;w=823, large],&#xA;                        [https://imagens.publicocdn.com/imagens.aspx/1231564?tp=UH&amp;amp;db=IMAGENS&amp;w=1646, large-retina]" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
+                <img alt="José Luís Carneiro, secretário de Estado das Comunidades" data-media-size="2048x1365" data-media-viewer="https://imagens.publicocdn.com/imagens.aspx/1231564?tp=UHeamp;amp;db=IMAGENS" data-interchange="[https://imagens.publicocdn.com/imagens.aspx/1231564?tp=UHeamp;amp;db=IMAGENSeamp;w=480, small],e#xA;                        [https://imagens.publicocdn.com/imagens.aspx/1231564?tp=UHeamp;amp;db=IMAGENSeamp;w=960, small-retina]e#xA;                        [https://imagens.publicocdn.com/imagens.aspx/1231564?tp=UHeamp;amp;db=IMAGENSeamp;w=640, xmedium],e#xA;                        [https://imagens.publicocdn.com/imagens.aspx/1231564?tp=UHeamp;amp;db=IMAGENSeamp;w=1280, xmedium-retina],e#xA;                        [https://imagens.publicocdn.com/imagens.aspx/1231564?tp=UHeamp;amp;db=IMAGENSeamp;w=1024, medium],e#xA;                        [https://imagens.publicocdn.com/imagens.aspx/1231564?tp=UHeamp;amp;db=IMAGENSeamp;w=2048, medium-retina],e#xA;                        [https://imagens.publicocdn.com/imagens.aspx/1231564?tp=UHeamp;amp;db=IMAGENSeamp;w=823, large],e#xA;                        [https://imagens.publicocdn.com/imagens.aspx/1231564?tp=UHeamp;amp;db=IMAGENSeamp;w=1646, large-retina]" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
                 <div class="media-badge">
                     <span class="show-for-sr">Foto</span>
                     <i class="i-expand" aria-hidden="true"/>
@@ -22,7 +22,7 @@
                 <div id="MrecPrincipalAd" class="ad-slot__container">
                     <script type="text/javascript">
                         googletag.cmd.push(function () {
-                            googletag.display(&apos;MrecPrincipalAd&apos;);
+                            googletag.display(eapos;MrecPrincipalAdeapos;);
                         });
                     </script>
                 </div>
@@ -44,7 +44,7 @@
                                 <div id="botao300x60Ad" class="ad lazy-loading ad-slot__container" data-ad="botao300x60" data-show-always="false" data-show-when="desktop">
                                     <script type="text/javascript">
                                         googletag.cmd.push(function () {
-                                            googletag.display(&apos;botao300x60Ad&apos;);
+                                            googletag.display(eapos;botao300x60Adeapos;);
                                         });
                                     </script>
                                 </div>
@@ -56,13 +56,13 @@
                             <div id="MrecPrincipalAdMobile" class="ad-slot__container">
                                 <script type="text/javascript">
                                         googletag.cmd.push(function () {
-                                            googletag.display(&apos;MrecPrincipalAdMobile&apos;);
+                                            googletag.display(eapos;MrecPrincipalAdMobileeapos;);
                                         });
                                 </script>
                             </div>
                         </div>
                     </aside>
-<p>José Luís Carneiro defendeu que todas as questões levantadas pelos sociais-democratas &quot;têm sido objecto de tratamento sistemático&quot; por parte do actual Governo e salientou que esta visita ao Canadá do primeiro-ministro permitirá &quot;dar um passo significativo ao nível da mobilidade de cidadãos&quot;, sobretudo dos mais jovens.</p><div class="supplemental-slot supplemental-slot--full hide-if-closed" data-value="newsletter-box" style="display:none" id="newsletters_inline">
+<p>José Luís Carneiro defendeu que todas as questões levantadas pelos sociais-democratas equot;têm sido objecto de tratamento sistemáticoequot; por parte do actual Governo e salientou que esta visita ao Canadá do primeiro-ministro permitirá equot;dar um passo significativo ao nível da mobilidade de cidadãosequot;, sobretudo dos mais jovens.</p><div class="supplemental-slot supplemental-slot--full hide-if-closed" data-value="newsletter-box" style="display:none" id="newsletters_inline">
     <aside class="callout callout--newsletter" data-closable="">
         <header>
             <h3 class="callout__heading">O melhor do Público no email</h3>
@@ -76,7 +76,7 @@
             <span aria-hidden="true">×</span>
         </button>
     </aside>
-</div><p>&quot;No que respeita à Segurança Social, a questão terá uma evolução com uma declaração comum dos governos de Portugal e do Canadá&quot;, adiantou o secretário de Estado das Comunidades, que também referiu que este tipo de problemas de morosidade &quot;já exista com o executivo anterior&quot; PSD/CDS-PP. &quot;É um problema que os deputados do PSD conhecem há vários anos&quot;, completou.</p><p>Quanto ao assunto relativo aos cidadãos indocumentados, José Luís Carneiro considerou &quot;incompreensível&quot; que o PSD &quot;levante este tema de grande sensibilidade&quot;. &quot;Temos mantido um diálogo permanente com o poder legislativo e com o ministro da emigração canadiano. É uma questão complexa – e o PSD sabe isso perfeitamente. Já há medidas de flexibilização para a sua regularização&quot;, disse o membro do Governo.</p><p>O secretário de Estado das Comunidades também recusou a crítica do PSD sobre uma alegada degradação dos serviços consulares portugueses em Toronto, onde reside o maior número de portugueses (um total de 450 mil no Canadá). &quot;Os serviços consulares de Toronto têm sido reforçados. Não se pode falar em degradação&quot;, contrapôs José Luís Carneiro, antes de acrescentar que, durante a visita do primeiro-ministro ao Canadá, serão também adoptadas medidas para o reforço do ensino da língua portuguesa.</p>
+</div><p>equot;No que respeita à Segurança Social, a questão terá uma evolução com uma declaração comum dos governos de Portugal e do Canadáequot;, adiantou o secretário de Estado das Comunidades, que também referiu que este tipo de problemas de morosidade equot;já exista com o executivo anteriorequot; PSD/CDS-PP. equot;É um problema que os deputados do PSD conhecem há vários anosequot;, completou.</p><p>Quanto ao assunto relativo aos cidadãos indocumentados, José Luís Carneiro considerou equot;incompreensívelequot; que o PSD equot;levante este tema de grande sensibilidadeequot;. equot;Temos mantido um diálogo permanente com o poder legislativo e com o ministro da emigração canadiano. É uma questão complexa – e o PSD sabe isso perfeitamente. Já há medidas de flexibilização para a sua regularizaçãoequot;, disse o membro do Governo.</p><p>O secretário de Estado das Comunidades também recusou a crítica do PSD sobre uma alegada degradação dos serviços consulares portugueses em Toronto, onde reside o maior número de portugueses (um total de 450 mil no Canadá). equot;Os serviços consulares de Toronto têm sido reforçados. Não se pode falar em degradaçãoequot;, contrapôs José Luís Carneiro, antes de acrescentar que, durante a visita do primeiro-ministro ao Canadá, serão também adoptadas medidas para o reforço do ensino da língua portuguesa.</p>
 
 
             <aside class="ad-slot ad-slot--margin hide-for-large">
@@ -85,7 +85,7 @@
                     <div id="botao300x60AdMobile" class="ad lazy-loading ad-slot__container" data-ad="botao300x60Mobile" data-show-always="false" data-show-when="mobile">
                         <script type="text/javascript">
                             googletag.cmd.push(function () {
-                                googletag.display(&apos;botao300x60AdMobile&apos;);
+                                googletag.display(eapos;botao300x60AdMobileeapos;);
                                 //googletag.pubads().refresh();
                             });
                         </script>

@@ -21,13 +21,13 @@ O licenciamento das equipas desportivamente habilitadas a desfilar na maior mont
    if (!document.MAX_used) document.MAX_used = ',';
    document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
    document.write ("?zoneid=2817");
-   document.write ('&cb=' + m3_r);
-   if (document.MAX_used != ',') document.write ("&exclude=" + document.MAX_used);
-   document.write (document.charset ? '&charset='+document.charset : (document.characterSet ? '&charset='+document.characterSet : ''));
-   document.write ("&loc=" + escape(window.location));
-   if (document.referrer) document.write ("&referer=" + escape(document.referrer));
-   if (document.context) document.write ("&context=" + escape(document.context));
-   if (document.mmm_fo) document.write ("&;mmm_fo=1");
+   document.write ('ecb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("eexclude=" + document.MAX_used);
+   document.write (document.charset ? 'echarset='+document.charset : (document.characterSet ? 'echarset='+document.characterSet : ''));
+   document.write ("eloc=" + escape(window.location));
+   if (document.referrer) document.write ("ereferer=" + escape(document.referrer));
+   if (document.context) document.write ("econtext=" + escape(document.context));
+   if (document.mmm_fo) document.write ("e;mmm_fo=1");
    document.write ("'><\/scr"+"ipt>");
 //]]>-->
  no tempo das “vacas gordas”, quando kwanzas e dólares andavam de mãos dadas por ruelas e avenidas, numa fartura que parecia não ter fim.Mas o que custa entender é a atitude agoirenta do agente aventureiro, que, na ânsia de apelar à caridade de investidores de circunstância, se queixou de uma pretensa desigualdade na distribuição da riqueza nacional, por existirem clubes mantidos com fundos provenientes do Estado, como 1º de Agosto, Petro de Luanda, Interclube e Sagrada Esperança, quando outros fazem de tripas coração, para se manter no campeonato. Choradeira de quem parece ter despertado tarde para uma realidade com respaldo legal, pois os patrocinadores citados actuam dentro dos marcos da lei.Agora, o que parece fazer pouco sentido é a retirada de pontos aos clubes que venceram e empataram frente ao prófugo JGM. Aqui começa a “inverdade desportiva”, porque, além de não ter culpa da falta de exigência da instituição federativa, quem pontuou deve ao menos ver as suas despesas compensadas. Fica a lição para futuros bailes.
