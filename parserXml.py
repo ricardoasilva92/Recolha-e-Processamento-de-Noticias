@@ -24,6 +24,11 @@ stopwords = nltk.corpus.stopwords.words('portuguese')
 
 import string
 
+#nomes
+#from nameparser import HumanName
+#outro para nomes
+from nltk.tag import StanfordNERTagger
+st = StanfordNERTagger('stanford-ner/all.3class.distsim.crf.ser.gz', 'stanford-ner/stanford-ner.jar')
 
 #__________________PARSE de um ficheiro_____________________
 """
@@ -96,22 +101,33 @@ f.close()
 
 dn = json.load(codecs.open('DN.json', 'r', 'utf-8-sig'))
 
+#texto das noticias do DN
 raw = ""
 for key in dn:
     raw += dn[key]["Text"]
 
-palavras = word_tokenize(raw)
+#lista de palavras
+tokens = word_tokenize(raw)
 
-a = nltk.pos_tag(palavras)
+#cada palavra com a sua tag (nome, adjetivo, verbo, etc)
+tagged = nltk.pos_tag(tokens)
 
-pontos = ['.', ',', ':','-',';', ' ', '?', '!',')','(']
+#obter nomes
+nomes= []
+for word, pos in tagged:
+    if pos in ["NNP"] and word not in stopwords and len(word)>3:
+        nomes.append(word)
 
-filtro = []
-for w in palavras:
-    if w not in stopwords and len(w) > 3:
-        filtro.append(w)
+#nomes mais comuns
+freq_nomes = nltk.FreqDist(nomes)
+print(freq_nomes.most_common(10))
 
-fdist = FreqDist(filtro)
 
-#print(fdist.most_common(2))
-print(a)
+
+
+
+for sent in nltk.sent_tokenize(raw):
+    tokens = nltk.tokenize.word_tokenize(sent)
+    tags = st.tag(tokens)
+    for tag in tags:
+        if tag[1]=='PERSON': print(tag)
