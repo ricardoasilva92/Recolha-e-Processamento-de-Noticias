@@ -6,7 +6,9 @@ import os, json
 from os import listdir
 from os.path import isfile, join
 
-import codecs
+import codecs, re, getopt, sys
+
+sys.excepthook = sys.__excepthook__
 
 pp = pprint.PrettyPrinter(indent=4)
 from nltk import FreqDist
@@ -27,9 +29,18 @@ import string
 #nomes
 #from nameparser import HumanName
 #outro para nomes
-from nltk.tag import StanfordNERTagger
-st = StanfordNERTagger('stanford-ner/all.3class.distsim.crf.ser.gz', 'stanford-ner/stanford-ner.jar')
+import urllib.request
+import zipfile
+urllib.request.urlretrieve(r'http://nlp.stanford.edu/software/stanford-ner-2015-04-20.zip', r'/home/ricardo/Desktop/SPLN/projeto_spln/stanford-ner-2015-04-20.zip')
+zfile = zipfile.ZipFile(r'/home/ricardo/Desktop/SPLN/projeto_spln/stanford-ner-2015-04-20.zip')
+zfile.extractall(r'/home/ricardo/Desktop/SPLN/projeto_spln/stanford-ner')
 
+from nltk.tag.stanford import StanfordNERTagger
+# First we set the direct path to the NER Tagger.
+_model_filename = r'/home/ricardo/Desktop/SPLN/projeto_spln/stanford-ner/stanford-ner-2015-04-20/classifiers/english.all.3class.distsim.crf.ser.gz'
+_path_to_jar = r'/home/ricardo/Desktop/SPLN/projeto_spln/stanford-ner/stanford-ner-2015-04-20/stanford-ner.jar'
+# Then we initialize the NLTK's Stanford NER Tagger API with the DIRECT PATH to the model and .jar file.
+st = StanfordNERTagger(model_filename=_model_filename, path_to_jar=_path_to_jar)
 #__________________PARSE de um ficheiro_____________________
 """
 tree = ET.parse('obter_colecoes/[PT] Diario de Noticias/noticias/04-28-a-solidariedade-marchou-pelas-ruas-de-santana-DC3073371.xml')
@@ -104,8 +115,10 @@ dn = json.load(codecs.open('DN.json', 'r', 'utf-8-sig'))
 #texto das noticias do DN
 raw = ""
 for key in dn:
-    raw += dn[key]["Text"]
+	raw += dn[key]["Text"]
 
+
+"""
 #lista de palavras
 tokens = word_tokenize(raw)
 
@@ -122,12 +135,48 @@ for word, pos in tagged:
 freq_nomes = nltk.FreqDist(nomes)
 print(freq_nomes.most_common(10))
 
+"""
 
 
 
-
+#anota nomes 1
+#anotar nomes pela lib de stanford mas demora muito tempo
 for sent in nltk.sent_tokenize(raw):
     tokens = nltk.tokenize.word_tokenize(sent)
     tags = st.tag(tokens)
     for tag in tags:
         if tag[1]=='PERSON': print(tag)
+
+
+"""
+# https://gist.github.com/onyxfish/322906
+sentences = nltk.sent_tokenize(raw)
+tokenized_sentences = [nltk.word_tokenize(sentence) for sentence in sentences]
+tagged_sentences = [nltk.pos_tag(sentence) for sentence in tokenized_sentences]
+chunked_sentences = nltk.ne_chunk_sents(tagged_sentences, binary=True)
+
+def extract_entity_names(t):
+    entity_names = []
+
+    if hasattr(t, 'label') and t.label:
+        if t.label() == 'NE':
+            entity_names.append(' '.join([child[0] for child in t]))
+        else:
+            for child in t:
+                entity_names.extend(extract_entity_names(child))
+
+    return entity_names
+
+entity_names = []
+for tree in chunked_sentences:
+    # Print results per sentence
+    # print extract_entity_names(tree)
+	entity_names.extend(extract_entity_names(tree))
+	print(extract_entity_names(tree))
+
+# Print all entity names
+#print entity_names
+
+# Print unique entity names
+print(entity_names)
+"""
