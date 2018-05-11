@@ -1,0 +1,242 @@
+<!DOCTYPE html><html class="no-js" lang="pt-PT"><head> <meta charset="UTF-8"/> <meta http-equiv="X-UA-Compatible" content="IE=edge"/> <meta http-equiv="Content-Language" content="pt"> <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no"/> <link rel="manifest" href="/manifest.json"/> <meta name="apple-mobile-web-app-title" content="Expresso"/> <meta name="theme-color" content="#e65100"/> <meta name="msapplication-TileColor" content="#e65100"/> <link rel="icon" sizes="152x152" href="//static.impresa.pt/expresso/2481//assets/gfx/icon.png"/> <meta name="msapplication-square150x150logo" content="//static.impresa.pt/expresso/2481//assets/gfx/icon.png"/> <link rel="dns-prefetch" href="//ajax.googleapis.com"><link rel="preconnect" href="//images-cdn.impresa.pt/"><link rel="stylesheet" type="text/css" href="//static.impresa.pt/expresso/2481//assets/css/main.min.css"/> <!--[if lte IE 8]>
+     <link href="//static.impresa.pt/expresso/2481//assets/respond-proxy.html" id="respond-proxy" rel="respond-proxy"/>  <link href="/assets/gfx/respond.proxy.gif" id="respond-redirect" rel="respond-redirect"/> <script src="//static.impresa.pt/expresso/2481//assets/js/legacy.min.js"></script> <![endif]--> <script src="//static.impresa.pt/expresso/2481//assets/js/head.min.js"></script> <script>
+        require.config({
+            baseUrl: '//static.impresa.pt/expresso/2481//assets/js/'
+        });
+    </script><script>
+    require.config({
+        map: {
+            "*": {
+                'user': 'parts/web/user',
+                'parts/config': 'parts/web/config'
+            }
+        },
+        paths: {
+            'ImpresaSSO': 'https://id.impresa.pt/js/impresa-sso.min'
+        },
+        config: {
+            'parts/web/user': {"profile":{"url":"https:\/\/api.impresa.pt\/profile"},"sso":{"url":"https:\/\/id.impresa.pt","gigyaKey":"3_SlQdOiQ8k-7grQ_Mx0LfKus2fvYJ7ge7QRBxXcLAk0x_hhvxLLYiLrGZwQrLpUlW"}},
+
+            'parts/escolas/2016': {"fbag":{"url":"https:\/\/api.impresa.pt\/bag"}},
+
+            'parts/escolas/2017': {"fbag":{"url":"https:\/\/api.impresa.pt\/bag"}},
+
+            'parts/eleicoes/autarquicas2017': {"fbag":{"url":"https:\/\/api.impresa.pt\/bag"}}
+        }
+    });
+
+        window.lazySizesConfig = window.lazySizesConfig || {};
+    window.lazySizesConfig.lazyClass = "js-lazy-picture";
+    window.lazySizesConfig.preloadClass = "js-lazy-picture-preload";
+    window.lazySizesConfig.loadingClass = "js-lazy-picture-loading";
+    window.lazySizesConfig.loadedClass = "js-lazy-picture-loaded";
+    </script><script async>
+    require(['modernizr', 'parts/ua']);
+
+        require(['picturefill', 'lazysizes']);
+    
+        require(['parts/trackr'], function (Trackr) { Trackr.trackPage(document.location.pathname, document.title); });
+    
+        require( ['parts/getSocial' ], function( GetSocial ) {
+        GetSocial.init( { id: 'ffe7f9' } );
+    } );
+    </script> <title>Expresso | “O Governo não tem nada a opor”: Costa reage à OPA chinesa sobre a EDP</title><meta name="twitter:title" property="og:title" content="“O Governo não tem nada a opor”: Costa reage à OPA chinesa sobre a EDP"/><link rel="canonical" href="http://expresso.sapo.pt/economia/2018-05-11-O-Governo-nao-tem-nada-a-opor-Costa-reage-a-OPA-chinesa-sobre-a-EDP"><meta name="twitter:url" property="og:url" content="http://expresso.sapo.pt/economia/2018-05-11-O-Governo-nao-tem-nada-a-opor-Costa-reage-a-OPA-chinesa-sobre-a-EDP"> <meta name="description" content="Um consórcio chinês que inclui a China Three Gorges está a preparar o lançamento de uma oferta pública de aquisição (OPA) sobre a EDP, tal como o Expresso avançou esta sexta-feira em primeira mão"> <meta name="twitter:description" property="og:description" content="Um consórcio chinês que inclui a China Three Gorges está a preparar o lançamento de uma oferta pública de aquisição (OPA) sobre a EDP, tal como o Expresso avançou esta sexta-feira em primeira mão"/> <meta name="twitter:image" property="og:image" content="http://images-cdn.impresa.pt/expresso/2018-05-11-POL---24127067.jpg/fb/wm"/><meta property="og:image:width" content="1200"/><meta property="og:image:height" content="630"/><meta name="twitter:card" content="summary"><meta property="og:type" content="article"><meta name="twitter:site" content="@expresso"/><meta property="og:site_name" content="Jornal Expresso"/><link rel="alternate" type="application/rss+xml" title="Expresso RSS" href="http://feeds.feedburner.com/expresso-geral"/> <meta property="impresa:id" content="ed5ed9c3-926a-4728-a26e-45768859cabc"/> <meta property="impresa:type" content="ARTICLE"/> <meta property="impresa:publishedDate" content="2018-05-11T20:05:09.395Z"/> <script>
+        window.ImpresaAdTargeting = {"_":"economia","url":"2018-05-11-O-Governo-nao-tem-nada-a-opor-Costa-reage-a-OPA-chinesa-sobre-a-EDP","tag":""};
+    </script> </head><body class="skin-economia multimediaPage full-article-video "> <!--[if lt IE 8]>
+    <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a
+            href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+    <![endif]--> <div id="impresaBar" class="impresaBar"></div><script async>
+    require(['impresa-bars'], function (Bar) {
+        Bar.init("#impresaBar", {template: "expresso", active: "olimpia"});
+    });
+</script> <div class="headerElementsWrapper"> <div class="headerElements"> <ul class="headerTopLinks"> <li> <a href="http://promo.impresa.pt/cartaomx/COB7I.html" target="_blank">Assinar</a> </li> <li> <a href="https://loja.expresso.pt" target="_blank">Loja</a> </li> </ul> <section class="headerSocial"> <h2 class="socialLinksHeader">Siga-nos</h2><ul class="social"> <li class="facebook"> <a href="https://www.facebook.com/jornalexpresso" title="Facebook"><i class="icon icon-facebook"></i><span>Facebook</span></a> </li> <li class="twitter"> <a href="https://twitter.com/expresso" title="Twitter"><i class="icon icon-twitter"></i><span>Twitter</span></a> </li> <li class="rss"> <a href="http://feeds.feedburner.com/expresso-geral" title="RSS"><i class="icon icon-rss"></i><span>RSS</span></a> </li> </ul> </section> <div class="headerActions"> <p class="headerUser"> <button class="btn login js-loginButton" title="Login"><span>Login</span> <i class="icon icon-user"></i></button> <button class="btn logout js-logoutButton" title="Logout"><span>Logout</span></button> <a class="btn profile" href="https://perfil.impresa.pt" target="_blank" title="Perfil"><span>Perfil</span> <i class="icon icon-user"></i></a></p><script async>
+    require(['user'], function(User) {
+        User.update();
+    });
+</script> </div></div> </div> <div id="bsu_root"></div> <script async>
+        require(['parts/relative-times'], function(RelativeTimes) {
+            RelativeTimes.start(document, { selector: '.js-relative-time' });
+        });
+    </script> <div class="adContainer billboard" id="impresaBillboard"></div><script async>
+    require(['ipub'], function (Ads) {
+        Ads.register("#impresaBillboard", 'billboard');
+    });
+</script> <header class="mainHeader js-mainHeader"> <section class="headerTop"> <button class="menuTrigger js-menuTrigger" style="display: none;"><i class="icon icon-menu"></i><span>Menu</span></button> <h1 class="headerLogo"><a href="/economia">Economia</a></h1> <div class="headerRight"> <ul class="headerMajorLinks"> <li><a class="expresso" href="/destaques"><span>Expresso</span></a></li> <li><a class="diario" href="/diario" title="Diário"><span>Diário</span></a></li> <li><a class="semanario" href="/semanario" title="Semanário"><span>Semanário</span></a></li> </ul> </div> </section> <section class="headerNavigation js-headerNavigation" data-href="/api/molecule/header/navigation/"></section> <section class="subHeader" id="headerNavigationTarget"> <section class="default"></section> <section class="content"></section> </section></header><div class="js-header-target"></div><script async>
+    require(['jquery', 'widgets/visibility-checker', 'parts/header', 'parts/sidebar', 'widgets/content-loader'],
+            function($, VisibilityChecker, Header, Sidebar, ContentLoader) {
+                var $header = $('.js-mainHeader'),
+                    $menuTrigger = $header.find('.js-menuTrigger'),
+                    $parts = $header.find('.js-headerNavigation, .js-headerTopLinks');
+
+                                // Header Collapse
+                Header.start($header, {
+                    className: 'collapsedHeader',
+                    target: '.js-header-target',
+                    placeholder: true,
+                    placeholderClass: 'mainHeaderPlaceholder',
+                    placeholderOutClass: 'mainHeaderPlaceholderOut'
+                });
+                
+                                // Sidebar trigger
+                Sidebar.start($menuTrigger, {
+                    className: 'sideMenuIsExpanded',
+                    ignore: '.sideNavigation',
+                    scrollTarget: $header,
+                    targetSelector: '.js-sideNavigation'
+                });
+
+                // Show the menu trigger
+                $menuTrigger.show();
+                
+                // Load Header Parts
+                VisibilityChecker.start($parts, {
+                    onVisible: function($el) {
+                        this.stop();
+
+                        ContentLoader.start($el, {
+                            cache: true
+                        });
+                    }
+                });
+            });
+</script> <div class="adContainer pushdown homePushdown" id="pushdown"></div><script async>
+    require(['ipub'], function (Ads) {
+        Ads.register("#pushdown", 'pushdown');
+    });
+</script> <div class="wrapper"> <main class="mainContent"> <article itemscope itemtype="http://schema.org/NewsArticle" class="MC-ex_sections_23413 AT-video noPicture noLead notHeadline notIsolated"> <div class="innerMaster fullWidth skipMarginTopBody"> <section class="content fullArticle"> <div class="titleZone darkStyle"> <div class="inner"> <header> <p class="mainSection"> <a href="/economia">Economia</a></p> <h1 class="title " itemprop="name"> “O Governo não tem nada a opor”: Costa reage à OPA chinesa sobre a EDP </h1> <div class="articleToolsContainer"> <p class="timeStamp publishedDate" datetime="2018-05-11T20:05:09.395Z" itemprop="datePublished"> 11.05.2018 às 21h05</p> <ul class="shareTools " id="social-5af611b4179aa"> <li class="share-facebook"> <a href="http://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fexpresso.sapo.pt%2Feconomia%2F2018-05-11-O-Governo-nao-tem-nada-a-opor-Costa-reage-a-OPA-chinesa-sobre-a-EDP&amp;t=%E2%80%9CO%20Governo%20n%C3%A3o%20tem%20nada%20a%20opor%E2%80%9D%3A%20Costa%20reage%20%C3%A0%20OPA%20chinesa%20sobre%20a%20EDP" data-type="facebook" class="shareToolsEntry js-share gs-foreign-tracking gs-provider-facebook" target="_blank" title="Facebook"> <i class="icon icon-facebook"></i> <span>Facebook</span> </a> </li> <li class="share-twitter"> <a href="http://twitter.com/intent/tweet?url=http%3A%2F%2Fexpresso.sapo.pt%2Feconomia%2F2018-05-11-O-Governo-nao-tem-nada-a-opor-Costa-reage-a-OPA-chinesa-sobre-a-EDP&amp;text=%E2%80%9CO%20Governo%20n%C3%A3o%20tem%20nada%20a%20opor%E2%80%9D%3A%20Costa%20reage%20%C3%A0%20OPA%20chinesa%20sobre%20a%20EDP&amp;via=expresso" data-type="twitter" class="shareToolsEntry js-share gs-foreign-tracking gs-provider-twitter" target="_blank" title="Twitter"> <i class="icon icon-twitter"></i> <span>Twitter</span> </a> </li> <li class="share-mail"> <a href="mailto:?subject=%E2%80%9CO%20Governo%20n%C3%A3o%20tem%20nada%20a%20opor%E2%80%9D%3A%20Costa%20reage%20%C3%A0%20OPA%20chinesa%20sobre%20a%20EDP&amp;body=%E2%80%9CO%20Governo%20n%C3%A3o%20tem%20nada%20a%20opor%E2%80%9D%3A%20Costa%20reage%20%C3%A0%20OPA%20chinesa%20sobre%20a%20EDP%0D%0A%0D%0AUm%20cons%C3%B3rcio%20chin%C3%AAs%20que%20inclui%20a%20China%20Three%20Gorges%20est%C3%A1%20a%20preparar%20o%20lan%C3%A7amento%20de%20uma%20oferta%20p%C3%BAblica%20de%20aquisi%C3%A7%C3%A3o%20%28OPA%29%20sobre%20a%20EDP%2C%20tal%20como%20o%20Expresso%20avan%C3%A7ou%20esta%20sexta-feira%20em%20primeira%20m%C3%A3o%0D%0A%0D%0ALer mais: http%3A%2F%2Fexpresso.sapo.pt%2Feconomia%2F2018-05-11-O-Governo-nao-tem-nada-a-opor-Costa-reage-a-OPA-chinesa-sobre-a-EDP" data-type="email" title="Email" class="shareToolsEntry gs-foreign-tracking gs-provider-email"> <i class="icon icon-mail"></i> <span>Email</span> </a> </li> <li class="share-whatsapp"> <a href="whatsapp://send?text=%E2%80%9CO%20Governo%20n%C3%A3o%20tem%20nada%20a%20opor%E2%80%9D%3A%20Costa%20reage%20%C3%A0%20OPA%20chinesa%20sobre%20a%20EDP%20http%3A%2F%2Fexpresso.sapo.pt%2Feconomia%2F2018-05-11-O-Governo-nao-tem-nada-a-opor-Costa-reage-a-OPA-chinesa-sobre-a-EDP" class="shareToolsEntry" data-type="whatsapp" target="_blank" title="Whatsapp" style="display:none"> <i class="icon icon-whatsapp"></i> <span>Whatsapp</span> </a> </li> <li class="share-showMore"> <div class="shareToolsEntry"> <i class="icon icon-dot-3"></i> <span>Mais</span> </div> <div class="moreShareTools"> <div class="moreShareToolsInner"> <ul> <li class="share-google+"> <a href="http://plus.google.com/share?url=http%3A%2F%2Fexpresso.sapo.pt%2Feconomia%2F2018-05-11-O-Governo-nao-tem-nada-a-opor-Costa-reage-a-OPA-chinesa-sobre-a-EDP" data-type="googleplus" class="shareToolsEntry js-share gs-foreign-tracking gs-provider-google" target="_blank" title="Google+"> <i class="icon icon-gplus"></i> <span>Google+</span> </a> </li> <li class="share-linkedin"> <a href="https://www.linkedin.com/shareArticle?mini=true&amp;title=%E2%80%9CO%20Governo%20n%C3%A3o%20tem%20nada%20a%20opor%E2%80%9D%3A%20Costa%20reage%20%C3%A0%20OPA%20chinesa%20sobre%20a%20EDP&amp;summary=Um%20cons%C3%B3rcio%20chin%C3%AAs%20que%20inclui%20a%20China%20Three%20Gorges%20est%C3%A1%20a%20preparar%20o%20lan%C3%A7amento%20de%20uma%20oferta%20p%C3%BAblica%20de%20aquisi%C3%A7%C3%A3o%20%28OPA%29%20sobre%20a%20EDP%2C%20tal%20como%20o%20Expresso%20avan%C3%A7ou%20esta%20sexta-feira%20em%20primeira%20m%C3%A3o&amp;url=http%3A%2F%2Fexpresso.sapo.pt%2Feconomia%2F2018-05-11-O-Governo-nao-tem-nada-a-opor-Costa-reage-a-OPA-chinesa-sobre-a-EDP&amp;source=Expresso" data-type="linkedin" class="shareToolsEntry js-share gs-foreign-tracking gs-provider-linkedin" target="_blank" title="Linkedin"> <i class="icon icon-linkedin"></i> <span>Linkedin</span> </a> </li> <li class="share-pinterest"> <a href="https://www.pinterest.com/pin/create/link/?url=http%3A%2F%2Fexpresso.sapo.pt%2Feconomia%2F2018-05-11-O-Governo-nao-tem-nada-a-opor-Costa-reage-a-OPA-chinesa-sobre-a-EDP&amp;media=%2F%2Fimages-cdn.impresa.pt%2Fexpresso%2F2018-05-11-POL---24127067.jpg%3Fv%3Dw620h395&amp;description=%E2%80%9CO%20Governo%20n%C3%A3o%20tem%20nada%20a%20opor%E2%80%9D%3A%20Costa%20reage%20%C3%A0%20OPA%20chinesa%20sobre%20a%20EDP" data-type="pinterest" class="shareToolsEntry js-share gs-foreign-tracking gs-provider-pinterest" target="_blank" title="Pinterest"> <i class="icon icon-pinterest"></i> <span>Pinterest</span> </a> </li> </ul> <div class="linkTool"> <p class="inputLabel">Link:</p> <div class="inputContainer"> <input aria-label="Link para partilha" readonly="readonly" class="url" type="text" value="http://expresso.sapo.pt/economia/2018-05-11-O-Governo-nao-tem-nada-a-opor-Costa-reage-a-OPA-chinesa-sobre-a-EDP" onclick="this.focus();this.select()"> </div> </div> </div> </div> </li> </ul><script async>
+    require(['widgets/social-share'], function (SocialShare) {
+        SocialShare.start('#social-5af611b4179aa');
+    });
+</script> </div> </header> </div></div><div class="mediaZone darkStyle"> <div class="inner"> <div class="videoContainer "> <video id="video-5af611b417b8e" class="video-player-container video-js vjs-default-skin" width="1024" height="576" controls preload="none" poster="//images-cdn.impresa.pt/expresso/2018-05-11-DOC.20180511.24164555.AK_110518_746.JPG/16x9/mw-680"> <source src="//videos.impresa.pt/sicnot/2018-05-11/145096f4-afa5-40e3-ad75-54e533c8abaa_costa-opa-th/net_wide" type="video/mp4"/> </video> <script async>
+        require( [ 'ipub/video-player', 'parts/ads-setup' ], function( Player, Ads ) {
+            // init player widget
+            Player.start( '#video-5af611b417b8e', {
+                                                vast: {"skip":true,"showCountdown":true,"url":"https:\/\/www8.smartadserver.com\/ac?siteid=89002&pgid=618879&fmtid=37785&ab=1&tgt=&oc=1&out=vast3&ps=1&pb=0&visit=S&vcn=s&tmstp=[timestamp]","entries":[{"offset":0}]},
+                vastTarget: Ads.getTargetingInfo(),
+                                autoplay: false,
+                panorama: false,
+                volume: 0.50,
+                meta: {
+                    contentUri: '/economia/2018-05-11-Governo-favoravel-a-aquisicao-da-EDP-por-parte-de-investidores-chineses',
+                    title: document.title,
+                    label: '2018-05-11-Governo-favoravel-a-aquisicao-da-EDP-por-parte-de-investidores-chineses'
+                }
+            } );
+        } );
+    </script></div> </div></div><div class="leadZone"> <div class="inner"> <h2 class="lead"> Um consórcio chinês que inclui a China Three Gorges está a preparar o lançamento de uma oferta pública de aquisição (OPA) sobre a EDP, tal como o Expresso avançou esta sexta-feira em primeira mão </h2> </div></div> </section> </div> <div class="innerMaster article-bottom"> <section class="content halfWidth content-top"> <div class="fullArticle"> <div class="signatureWrapper horizontal"> <section class="signature singleAuthor"> <div class="authorContainer"> <p class="author"> Expresso </p> </div> </section> </div><div class="articleSide"> </div><div class="articleContent"> <p>O primeiro-ministro, António Costa, disse esta sexta-feira que “o Governo “não tem nada a opor” à OPA chinesa sobre a EDP. “Os chineses têm sido sido bons investidores em Portugal, quer na REN, quer na EDP, quer noutros sectores”.</p> <p>Costa diz que Portugal é “um país aberto, que não tem uma visão fechada”. “Os chineses têm sido sempre respeitadores da legalidade do nosso país.”</p> <p>O primeiro-ministro diz que “o que importa é que os acionistas possam avaliar o projeto e mais importante que saber quais são os acionistas é saber qual é o projeto que têm para a empresa - essa é que é a questão essencial”.</p> <p>António Costa sublinha ainda que o Governo “não tem de ser informado sobre o negócio”. “A EDP é uma empresa privada, o Estado não tem qualquer participação, deixamos o mercado funcionar.”</p> <p>Um consórcio chinês que inclui a China Three Gorges está a preparar o lançamento de uma oferta pública de aquisição (OPA) sobre a EDP, de acordo com informações obtidas pelo Expresso.</p> <p>A OPA acontece num momento em que o Estado chinês já detém 28,25% do capital da EDP, e depois de nos últimos meses se ter especulado no mercado que a elétrica portuguesa poderia vir a fazer parte do movimento de consolidação no sector energético europeu.</p> <p>Entre as empresas que, pelo seu perfil, eram apontadas no mercado como potencialmente interessadas numa aquisição da EDP estavam a italiana Enel e a francesa Engie. A própria China Three Gorges já havia manifestado disponibilidade para reforçar no capital da EDP.</p> </div><footer class="articleFooter"> <div class="articleToolsContainer"> <ul class="shareTools " id="social-5af611b4183c2"> <li class="share-facebook"> <a href="http://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fexpresso.sapo.pt%2Feconomia%2F2018-05-11-O-Governo-nao-tem-nada-a-opor-Costa-reage-a-OPA-chinesa-sobre-a-EDP&amp;t=%E2%80%9CO%20Governo%20n%C3%A3o%20tem%20nada%20a%20opor%E2%80%9D%3A%20Costa%20reage%20%C3%A0%20OPA%20chinesa%20sobre%20a%20EDP" data-type="facebook" class="shareToolsEntry js-share gs-foreign-tracking gs-provider-facebook" target="_blank" title="Facebook"> <i class="icon icon-facebook"></i> <span>Facebook</span> </a> </li> <li class="share-twitter"> <a href="http://twitter.com/intent/tweet?url=http%3A%2F%2Fexpresso.sapo.pt%2Feconomia%2F2018-05-11-O-Governo-nao-tem-nada-a-opor-Costa-reage-a-OPA-chinesa-sobre-a-EDP&amp;text=%E2%80%9CO%20Governo%20n%C3%A3o%20tem%20nada%20a%20opor%E2%80%9D%3A%20Costa%20reage%20%C3%A0%20OPA%20chinesa%20sobre%20a%20EDP&amp;via=expresso" data-type="twitter" class="shareToolsEntry js-share gs-foreign-tracking gs-provider-twitter" target="_blank" title="Twitter"> <i class="icon icon-twitter"></i> <span>Twitter</span> </a> </li> <li class="share-mail"> <a href="mailto:?subject=%E2%80%9CO%20Governo%20n%C3%A3o%20tem%20nada%20a%20opor%E2%80%9D%3A%20Costa%20reage%20%C3%A0%20OPA%20chinesa%20sobre%20a%20EDP&amp;body=%E2%80%9CO%20Governo%20n%C3%A3o%20tem%20nada%20a%20opor%E2%80%9D%3A%20Costa%20reage%20%C3%A0%20OPA%20chinesa%20sobre%20a%20EDP%0D%0A%0D%0AUm%20cons%C3%B3rcio%20chin%C3%AAs%20que%20inclui%20a%20China%20Three%20Gorges%20est%C3%A1%20a%20preparar%20o%20lan%C3%A7amento%20de%20uma%20oferta%20p%C3%BAblica%20de%20aquisi%C3%A7%C3%A3o%20%28OPA%29%20sobre%20a%20EDP%2C%20tal%20como%20o%20Expresso%20avan%C3%A7ou%20esta%20sexta-feira%20em%20primeira%20m%C3%A3o%0D%0A%0D%0ALer mais: http%3A%2F%2Fexpresso.sapo.pt%2Feconomia%2F2018-05-11-O-Governo-nao-tem-nada-a-opor-Costa-reage-a-OPA-chinesa-sobre-a-EDP" data-type="email" title="Email" class="shareToolsEntry gs-foreign-tracking gs-provider-email"> <i class="icon icon-mail"></i> <span>Email</span> </a> </li> <li class="share-whatsapp"> <a href="whatsapp://send?text=%E2%80%9CO%20Governo%20n%C3%A3o%20tem%20nada%20a%20opor%E2%80%9D%3A%20Costa%20reage%20%C3%A0%20OPA%20chinesa%20sobre%20a%20EDP%20http%3A%2F%2Fexpresso.sapo.pt%2Feconomia%2F2018-05-11-O-Governo-nao-tem-nada-a-opor-Costa-reage-a-OPA-chinesa-sobre-a-EDP" class="shareToolsEntry" data-type="whatsapp" target="_blank" title="Whatsapp" style="display:none"> <i class="icon icon-whatsapp"></i> <span>Whatsapp</span> </a> </li> <li class="share-showMore"> <div class="shareToolsEntry"> <i class="icon icon-dot-3"></i> <span>Mais</span> </div> <div class="moreShareTools"> <div class="moreShareToolsInner"> <ul> <li class="share-google+"> <a href="http://plus.google.com/share?url=http%3A%2F%2Fexpresso.sapo.pt%2Feconomia%2F2018-05-11-O-Governo-nao-tem-nada-a-opor-Costa-reage-a-OPA-chinesa-sobre-a-EDP" data-type="googleplus" class="shareToolsEntry js-share gs-foreign-tracking gs-provider-google" target="_blank" title="Google+"> <i class="icon icon-gplus"></i> <span>Google+</span> </a> </li> <li class="share-linkedin"> <a href="https://www.linkedin.com/shareArticle?mini=true&amp;title=%E2%80%9CO%20Governo%20n%C3%A3o%20tem%20nada%20a%20opor%E2%80%9D%3A%20Costa%20reage%20%C3%A0%20OPA%20chinesa%20sobre%20a%20EDP&amp;summary=Um%20cons%C3%B3rcio%20chin%C3%AAs%20que%20inclui%20a%20China%20Three%20Gorges%20est%C3%A1%20a%20preparar%20o%20lan%C3%A7amento%20de%20uma%20oferta%20p%C3%BAblica%20de%20aquisi%C3%A7%C3%A3o%20%28OPA%29%20sobre%20a%20EDP%2C%20tal%20como%20o%20Expresso%20avan%C3%A7ou%20esta%20sexta-feira%20em%20primeira%20m%C3%A3o&amp;url=http%3A%2F%2Fexpresso.sapo.pt%2Feconomia%2F2018-05-11-O-Governo-nao-tem-nada-a-opor-Costa-reage-a-OPA-chinesa-sobre-a-EDP&amp;source=Expresso" data-type="linkedin" class="shareToolsEntry js-share gs-foreign-tracking gs-provider-linkedin" target="_blank" title="Linkedin"> <i class="icon icon-linkedin"></i> <span>Linkedin</span> </a> </li> <li class="share-pinterest"> <a href="https://www.pinterest.com/pin/create/link/?url=http%3A%2F%2Fexpresso.sapo.pt%2Feconomia%2F2018-05-11-O-Governo-nao-tem-nada-a-opor-Costa-reage-a-OPA-chinesa-sobre-a-EDP&amp;media=%2F%2Fimages-cdn.impresa.pt%2Fexpresso%2F2018-05-11-POL---24127067.jpg%3Fv%3Dw620h395&amp;description=%E2%80%9CO%20Governo%20n%C3%A3o%20tem%20nada%20a%20opor%E2%80%9D%3A%20Costa%20reage%20%C3%A0%20OPA%20chinesa%20sobre%20a%20EDP" data-type="pinterest" class="shareToolsEntry js-share gs-foreign-tracking gs-provider-pinterest" target="_blank" title="Pinterest"> <i class="icon icon-pinterest"></i> <span>Pinterest</span> </a> </li> </ul> <div class="linkTool"> <p class="inputLabel">Link:</p> <div class="inputContainer"> <input aria-label="Link para partilha" readonly="readonly" class="url" type="text" value="http://expresso.sapo.pt/economia/2018-05-11-O-Governo-nao-tem-nada-a-opor-Costa-reage-a-OPA-chinesa-sobre-a-EDP" onclick="this.focus();this.select()"> </div> </div> </div> </div> </li> </ul><script async>
+    require(['widgets/social-share'], function (SocialShare) {
+        SocialShare.start('#social-5af611b4183c2');
+    });
+</script> </div></footer> </div> <div class="adContainer autopromo"> <div id="Pub5af611b418531" class="adWrapper"></div> <script async>
+            require(['ipub'], function (Ads) {
+                Ads.register("#Pub5af611b418531", "ad-slot");
+            });
+        </script> </div> </section> <section class="rightSidebar js-sidebar js-right-sidebar article-top" id="rightSidebar5af611b41878b" data-ads-section="/economia" data-href="/api/molecule/sidebar/top?location=site"> <div class="placeholder mrec"></div> <div class="placeholder"> <span></span> <span></span> </div> <script async>
+            require(['widgets/visibility-checker', 'widgets/content-loader'],
+                    function(VisibilityChecker, ContentLoader) {
+                        // Load Sidebar Parts
+                        VisibilityChecker.start("#rightSidebar5af611b41878b", {
+                            viewport: false,
+                            onVisible: function($el) {
+                                this.stop();
+
+                                ContentLoader.start($el, {
+                                    cache: true
+                                });
+                            }
+                        });
+                    });
+        </script> </section> </div> </article> <div class="innerMaster"> <section class="content halfWidth"> <div class="adContainer atHomeFeed mrec onlyWithoutSidebar" id="Pub5af611b418990"> <div class="adWrapper" style="display:none;"></div> </div> <script async>
+            require(['ipub'], function (Ads) {
+                Ads.register("#Pub5af611b418990", 'mrec', '#Pub5af611b418990 .adWrapper');
+            });
+        </script> <div class="listPortlet hasListTitle " > <h2 class="sectionLabel"><span>Relacionados</span></h2> <ul class="listArticles listRelacionados floated applySplitter itemCount_6"> <li class="entry_1 odd"> <article itemscope itemtype="http://schema.org/NewsArticle" class="MC-ex_sections_23413 AT-noticia DOMAIN-expresso noPicture noLead notHeadline notIsolated"> <div class="textDetails"> <input type="hidden" datetime="2018-05-11T21:28:06.468Z" itemprop="datePublished"/> <h1 class="title " itemprop="name"> <a href="/economia/2018-05-11-CMVM-vai-exigir-mais-informacao-aos-chineses-da-CTG" itemprop="url" rel="canonical" > CMVM vai exigir mais informação aos chineses da CTG </a> </h1> <h2 class="lead"> O regulador do mercado de capitais não ficou satisfeito com os esclarecimentos prestados pela China Three Gorges (CTG) e vai exigir que este preste informações adicionais sobre a OPA que lançou sobre a EDP. Suspensão da negociação das acções foi levantada. </h2> </div></article> </li> <li class="entry_2 even"> <article itemscope itemtype="http://schema.org/NewsArticle" class="MC-ex_sections_23413 AT-noticia DOMAIN-expresso hasPicture noLead notHeadline notIsolated"> <figure> <a href="/economia/2018-05-11-Chineses-oferecem-326-por-acao-menos-do-que-pagaram-na-privatizacao-da-EDP-em-2011" target="_self" > <picture class="landscape"> <img src="//images-cdn.impresa.pt/expresso/2017-07-03-China-Three-Gorges-EDP-mexia-1/3x2/mw-320" alt="Chineses oferecem €3,26 por ação, menos do que pagaram na privatização da EDP em 2011" class="js-lazy-picture" data-srcset="//images-cdn.impresa.pt/expresso/2017-07-03-China-Three-Gorges-EDP-mexia-1/3x2/mw-80 80w, //images-cdn.impresa.pt/expresso/2017-07-03-China-Three-Gorges-EDP-mexia-1/3x2/mw-120 120w, //images-cdn.impresa.pt/expresso/2017-07-03-China-Three-Gorges-EDP-mexia-1/3x2/mw-160 160w, //images-cdn.impresa.pt/expresso/2017-07-03-China-Three-Gorges-EDP-mexia-1/3x2/mw-200 200w, //images-cdn.impresa.pt/expresso/2017-07-03-China-Three-Gorges-EDP-mexia-1/3x2/mw-240 240w, //images-cdn.impresa.pt/expresso/2017-07-03-China-Three-Gorges-EDP-mexia-1/3x2/mw-320 320w, //images-cdn.impresa.pt/expresso/2017-07-03-China-Three-Gorges-EDP-mexia-1/3x2/mw-360 360w, //images-cdn.impresa.pt/expresso/2017-07-03-China-Three-Gorges-EDP-mexia-1/3x2/mw-480 480w, //images-cdn.impresa.pt/expresso/2017-07-03-China-Three-Gorges-EDP-mexia-1/3x2/mw-640 640w, //images-cdn.impresa.pt/expresso/2017-07-03-China-Three-Gorges-EDP-mexia-1/3x2/mw-720 720w, //images-cdn.impresa.pt/expresso/2017-07-03-China-Three-Gorges-EDP-mexia-1/3x2/mw-800 800w, //images-cdn.impresa.pt/expresso/2017-07-03-China-Three-Gorges-EDP-mexia-1/3x2/mw-960 960w, //images-cdn.impresa.pt/expresso/2017-07-03-China-Three-Gorges-EDP-mexia-1/3x2/mw-1024 1024w, //images-cdn.impresa.pt/expresso/2017-07-03-China-Three-Gorges-EDP-mexia-1/3x2/mw-1280 1280w, //images-cdn.impresa.pt/expresso/2017-07-03-China-Three-Gorges-EDP-mexia-1/3x2/mw-1360 1360w" data-sizes="(min-width: 768px) 240px, 100px" /> </picture></a> </figure> <div class="textDetails"> <input type="hidden" datetime="2018-05-11T20:23:58.243Z" itemprop="datePublished"/> <h1 class="title " itemprop="name"> <a href="/economia/2018-05-11-Chineses-oferecem-326-por-acao-menos-do-que-pagaram-na-privatizacao-da-EDP-em-2011" itemprop="url" rel="canonical" > Chineses oferecem €3,26 por ação, menos do que pagaram na privatização da EDP em 2011 </a> </h1> <h2 class="lead"> Em 2011 a China Three Gorges comprou 21,35% da EDP ao Estado português ao preço de 3,45 euros por ação. Agora oferece 3,26 euros. </h2> </div></article> </li> <li class="entry_3 odd"> <article itemscope itemtype="http://schema.org/NewsArticle" class="MC-ex_sections_23413 AT-noticia DOMAIN-expresso noPicture noLead notHeadline notIsolated"> <div class="textDetails"> <input type="hidden" datetime="2018-05-11T20:37:49.532Z" itemprop="datePublished"/> <h1 class="title " itemprop="name"> <a href="/economia/2018-05-11-China-Three-Gorges-lanca-oferta-de-compra-da-EDP-Renovaveis-abaixo-da-cotacao-atual" itemprop="url" rel="canonical" > China Three Gorges lança oferta de compra da EDP Renováveis abaixo da cotação atual </a> </h1> <h2 class="lead"> Além da compra da EDP, o grupo chinês lançou uma oferta de aquisição da EDP Renováveis, onde se propõe pagar menos que o valor das ações esta sexta-feira </h2> </div></article> </li> <li class="entry_4 even"> <article itemscope itemtype="http://schema.org/NewsArticle" class="MC-ex_sections_25729 AT-noticia DOMAIN-expresso hasPicture noLead notHeadline notIsolated"> <figure> <a href="/dossies/diario/2018-05-11-OPA.-Chineses-tem-de-dar-pelo-menos-77-mil-milhoes-pela-EDP" target="_self" > <picture class="landscape"> <img src="//images-cdn.impresa.pt/expresso/2018-05-11-mexia/3x2/mw-320" alt="OPA. Chineses têm de dar pelo menos €7,7 mil milhões pela EDP" class="js-lazy-picture" data-srcset="//images-cdn.impresa.pt/expresso/2018-05-11-mexia/3x2/mw-80 80w, //images-cdn.impresa.pt/expresso/2018-05-11-mexia/3x2/mw-120 120w, //images-cdn.impresa.pt/expresso/2018-05-11-mexia/3x2/mw-160 160w, //images-cdn.impresa.pt/expresso/2018-05-11-mexia/3x2/mw-200 200w, //images-cdn.impresa.pt/expresso/2018-05-11-mexia/3x2/mw-240 240w, //images-cdn.impresa.pt/expresso/2018-05-11-mexia/3x2/mw-320 320w, //images-cdn.impresa.pt/expresso/2018-05-11-mexia/3x2/mw-360 360w, //images-cdn.impresa.pt/expresso/2018-05-11-mexia/3x2/mw-480 480w, //images-cdn.impresa.pt/expresso/2018-05-11-mexia/3x2/mw-640 640w, //images-cdn.impresa.pt/expresso/2018-05-11-mexia/3x2/mw-720 720w, //images-cdn.impresa.pt/expresso/2018-05-11-mexia/3x2/mw-800 800w, //images-cdn.impresa.pt/expresso/2018-05-11-mexia/3x2/mw-960 960w, //images-cdn.impresa.pt/expresso/2018-05-11-mexia/3x2/mw-1024 1024w, //images-cdn.impresa.pt/expresso/2018-05-11-mexia/3x2/mw-1280 1280w, //images-cdn.impresa.pt/expresso/2018-05-11-mexia/3x2/mw-1360 1360w" data-sizes="(min-width: 768px) 240px, 100px" /> </picture></a> </figure> <div class="textDetails"> <input type="hidden" datetime="2018-05-11T17:00:02.000Z" itemprop="datePublished"/> <h1 class="title " itemprop="name"> <a href="/dossies/diario/2018-05-11-OPA.-Chineses-tem-de-dar-pelo-menos-77-mil-milhoes-pela-EDP" itemprop="url" rel="canonical" > OPA. Chineses têm de dar pelo menos €7,7 mil milhões pela EDP </a> </h1> <h2 class="lead"> OPA noticiada esta sexta-feira em primeira mão pelo Expresso obriga o consórcio chinês a oferecer pelo menos a cotação média da EDP nos últimos seis meses, o que até é um valor inferior à cotação das ações esta sexta-feira </h2> </div></article> </li> <li class="entry_5 odd"> <article itemscope itemtype="http://schema.org/NewsArticle" class="MC-ex_sections_23413 AT-noticia DOMAIN-expresso hasPicture noLead notHeadline notIsolated"> <figure> <a href="/economia/2018-05-11-MNE-e-conselheiro-de-Estado-chines-vem-a-Portugal-em-plena-febre-da-OPA-a-EDP" target="_self" > <picture class="landscape"> <img src="//images-cdn.impresa.pt/expresso/2018-05-03-RTR2V7E8--3-.jpg/3x2/mw-320" alt="MNE e conselheiro de Estado chinês vem a Portugal em plena febre da OPA à EDP" class="js-lazy-picture" data-srcset="//images-cdn.impresa.pt/expresso/2018-05-03-RTR2V7E8--3-.jpg/3x2/mw-80 80w, //images-cdn.impresa.pt/expresso/2018-05-03-RTR2V7E8--3-.jpg/3x2/mw-120 120w, //images-cdn.impresa.pt/expresso/2018-05-03-RTR2V7E8--3-.jpg/3x2/mw-160 160w, //images-cdn.impresa.pt/expresso/2018-05-03-RTR2V7E8--3-.jpg/3x2/mw-200 200w, //images-cdn.impresa.pt/expresso/2018-05-03-RTR2V7E8--3-.jpg/3x2/mw-240 240w, //images-cdn.impresa.pt/expresso/2018-05-03-RTR2V7E8--3-.jpg/3x2/mw-320 320w, //images-cdn.impresa.pt/expresso/2018-05-03-RTR2V7E8--3-.jpg/3x2/mw-360 360w, //images-cdn.impresa.pt/expresso/2018-05-03-RTR2V7E8--3-.jpg/3x2/mw-480 480w, //images-cdn.impresa.pt/expresso/2018-05-03-RTR2V7E8--3-.jpg/3x2/mw-640 640w, //images-cdn.impresa.pt/expresso/2018-05-03-RTR2V7E8--3-.jpg/3x2/mw-720 720w, //images-cdn.impresa.pt/expresso/2018-05-03-RTR2V7E8--3-.jpg/3x2/mw-800 800w, //images-cdn.impresa.pt/expresso/2018-05-03-RTR2V7E8--3-.jpg/3x2/mw-960 960w, //images-cdn.impresa.pt/expresso/2018-05-03-RTR2V7E8--3-.jpg/3x2/mw-1024 1024w, //images-cdn.impresa.pt/expresso/2018-05-03-RTR2V7E8--3-.jpg/3x2/mw-1280 1280w, //images-cdn.impresa.pt/expresso/2018-05-03-RTR2V7E8--3-.jpg/3x2/mw-1360 1360w" data-sizes="(min-width: 768px) 240px, 100px" /> </picture></a> </figure> <div class="textDetails"> <input type="hidden" datetime="2018-05-11T18:31:39.144Z" itemprop="datePublished"/> <h1 class="title " itemprop="name"> <a href="/economia/2018-05-11-MNE-e-conselheiro-de-Estado-chines-vem-a-Portugal-em-plena-febre-da-OPA-a-EDP" itemprop="url" rel="canonical" > MNE e conselheiro de Estado chinês vem a Portugal em plena febre da OPA à EDP </a> </h1> <h2 class="lead"> Expresso noticiou esta sexta-feira que um consórcio chinês está a preparar o lançamento de uma oferta pública de aquisição sobre a EDP </h2> </div></article> </li> <li class="entry_6 even"> <article itemscope itemtype="http://schema.org/NewsArticle" class="MC-ex_sections_23413 AT-video DOMAIN-expresso hasPicture noLead notHeadline notIsolated"> <figure> <a href="/economia/2018-05-11-Joao-Vieira-Pereira-acredita-que-governos-europeus-vao-tentar-travar-OPA-sobre-a-EDP" target="_self" > <picture class="landscape"> <img src="//images-cdn.impresa.pt/expresso/2018-05-11-joao-vieira-pereira.JPG/3x2/mw-320" alt="João Vieira Pereira acredita que governos europeus vão tentar travar OPA sobre a EDP" class="js-lazy-picture" data-srcset="//images-cdn.impresa.pt/expresso/2018-05-11-joao-vieira-pereira.JPG/3x2/mw-80 80w, //images-cdn.impresa.pt/expresso/2018-05-11-joao-vieira-pereira.JPG/3x2/mw-120 120w, //images-cdn.impresa.pt/expresso/2018-05-11-joao-vieira-pereira.JPG/3x2/mw-160 160w, //images-cdn.impresa.pt/expresso/2018-05-11-joao-vieira-pereira.JPG/3x2/mw-200 200w, //images-cdn.impresa.pt/expresso/2018-05-11-joao-vieira-pereira.JPG/3x2/mw-240 240w, //images-cdn.impresa.pt/expresso/2018-05-11-joao-vieira-pereira.JPG/3x2/mw-320 320w, //images-cdn.impresa.pt/expresso/2018-05-11-joao-vieira-pereira.JPG/3x2/mw-360 360w, //images-cdn.impresa.pt/expresso/2018-05-11-joao-vieira-pereira.JPG/3x2/mw-480 480w, //images-cdn.impresa.pt/expresso/2018-05-11-joao-vieira-pereira.JPG/3x2/mw-640 640w, //images-cdn.impresa.pt/expresso/2018-05-11-joao-vieira-pereira.JPG/3x2/mw-720 720w, //images-cdn.impresa.pt/expresso/2018-05-11-joao-vieira-pereira.JPG/3x2/mw-800 800w, //images-cdn.impresa.pt/expresso/2018-05-11-joao-vieira-pereira.JPG/3x2/mw-960 960w, //images-cdn.impresa.pt/expresso/2018-05-11-joao-vieira-pereira.JPG/3x2/mw-1024 1024w, //images-cdn.impresa.pt/expresso/2018-05-11-joao-vieira-pereira.JPG/3x2/mw-1280 1280w, //images-cdn.impresa.pt/expresso/2018-05-11-joao-vieira-pereira.JPG/3x2/mw-1360 1360w" data-sizes="(min-width: 768px) 240px, 100px" /> </picture></a> </figure> <div class="textDetails"> <input type="hidden" datetime="2018-05-11T18:21:19.795Z" itemprop="datePublished"/> <h1 class="title " itemprop="name"> <a href="/economia/2018-05-11-Joao-Vieira-Pereira-acredita-que-governos-europeus-vao-tentar-travar-OPA-sobre-a-EDP" itemprop="url" rel="canonical" > João Vieira Pereira acredita que governos europeus vão tentar travar OPA sobre a EDP </a> </h1> <h2 class="lead"> Diretor-adjunto do Expresso acredita que a OPA lançada pelos chineses da China Three Gorges à EDP poderá ser travada pelos governos europeus. João Vieira Pereira diz que a má imagem dos capitais chineses na Europa poderá resultar em outras ofertas de elétricas europeias </h2> </div></article> </li> </ul> </div> <div id="List5af611b41946e" data-href="/api/molecule/recommendation"> <div class="loading js-loader" style="display: none; margin-bottom:40px">A carregar...</div> </div> <script async>
+        require(['parts/recommended-priberam'], function(RecommendedPriberam) {
+            RecommendedPriberam.start('#List5af611b41946e', {
+                'limit': 3,
+                'articleId': 'ed5ed9c3-926a-4728-a26e-45768859cabc'
+            });
+        });
+    </script> <div class="adContainer revcontent" id="revContent"></div><script async>
+    require(['ipub'], function (Ads) {
+        Ads.register("#revContent", 'revcontent');
+    });
+</script> <div id="homeLatest" data-href="/api/molecule/latest//economia"> <div class="js-container "></div> <button class="js-more moreButton" style="display: none">Mais Artigos</button> <div class="loading js-loader" style="display: none; margin-bottom:40px">a carregar...</div></div><script async>
+    require(['parts/latest'], function(InfiniteScroll) {
+        InfiniteScroll.start('#homeLatest', {
+            'auto': true,
+            'title': '',
+            'offset-attribute': 'datetime',
+            'more-selector': '.js-more',
+            'loader-selector': '.js-loader',
+            'container-selector': '.js-container'
+        });
+    });
+</script> </section> <section class="rightSidebar js-sidebar js-right-sidebar article-bottom" id="rightSidebar5af611b41983a" data-ads-section="/economia" data-href="/api/molecule/sidebar/bottom?location=site"> <div class="placeholder"> <span></span> <span></span> </div> <script async>
+            require(['widgets/visibility-checker', 'widgets/content-loader'],
+                    function(VisibilityChecker, ContentLoader) {
+                        // Load Sidebar Parts
+                        VisibilityChecker.start("#rightSidebar5af611b41983a", {
+                            viewport: false,
+                            onVisible: function($el) {
+                                this.stop();
+
+                                ContentLoader.start($el, {
+                                    cache: true
+                                });
+                            }
+                        });
+                    });
+        </script> </section><script async>
+    require(['parts/sticky-scroll'], function(StickyScroll) {
+        StickyScroll.start("#rightSidebar5af611b41983a", {
+            infinite: 1
+        });
+    });
+</script> </div> </main> <nav class="sideNavigation js-sideNavigation"> <div class="inner"> <div class="sidenavActions"> <form class="sidenavSearch search-bar" action="/pesquisa" > <div class="search-input-wrap"> <input type="search" placeholder="Pesquisa" class="search-input" name="q" value=""/> </div> <button type="submit" title="Pesquisar" class="search-submit icon icon-search"><span>Pesquisar</span></button> </form> <p class="sidenavUser"> <button class="btn login js-loginButton" title="Login"><span>Login</span> <i class="icon icon-user"></i></button> <button class="btn register js-registerButton" title="Registo"><span>Registo</span> <i class="icon icon-user"></i></button> <button class="btn logout js-logoutButton" title="Logout"><span>Logout</span></button> <a class="btn profile" href="https://perfil.impresa.pt" target="_blank" title="Perfil"><span>Perfil</span> <i class="icon icon-user"></i></a> </p> <script async>
+    require(['user'], function(User) {
+        User.update();
+    });
+</script> </div> <section > <h2>Edições</h2> <ul> <li><a href="/diario" >Diário</a> </li> <li><a href="/semanario" >Semanário</a> </li> <li><a href="/newsletters/expressomatinal" >Expresso Curto</a> </li> <li><a href="/podcasts" >Podcasts</a> </li> <li><a href="http://tribuna.expresso.pt" >Tribuna</a> </li> </ul> </section> <section > <h2>Secções</h2> <ul> <li><a href="/destaques" >Início</a> </li> <li><a href="/ultimas" >Últimas</a> </li> <li><a href="/ineditos" >Inéditos</a> </li> <li><a href="/multimedia" >Multimédia</a> </li> <li><a href="/politica" >Política</a> </li> <li><a href="/sociedade" >Sociedade</a> </li> <li><a href="/internacional" >Internacional</a> </li> <li><a href="/economia" >Economia</a> </li> <li><a href="http://tribuna.expresso.pt" >Desporto</a> </li> <li><a href="/cultura" >Cultura</a> </li> <li><a href="/opiniao" >Opinião</a> </li> <li><a href="/gen.pl?sid=ex.sections/25024&amp;amp;m2=48" >Cartoons</a> </li> <li><a href="/gen.pl?sid=ex.sections/23425&amp;amp;m2=45" >Está dito</a> </li> </ul> </section> <section > <h2>Iniciativas</h2> <ul> <li><a href="/economia/gic" >Global Investment Challenge</a> </li> <li><a href="/iniciativaseprodutos/entrepreneur-of-the-year" >Entrepreneur Of The Year</a> </li> </ul> </section> <section > <h2>Classificados</h2> <ul> <li><a href="http://expressoemprego.pt/" target="_blank">Emprego</a> </li> <li><a href="http://bpiexpressoimobiliario.pt/" target="_blank">Imobiliário</a> </li> </ul> </section> <section class="meta"> <h2 class="socialLinksHeader">Siga-nos</h2><ul class="social"> <li class="facebook"> <a href="https://www.facebook.com/jornalexpresso" title="Facebook"><i class="icon icon-facebook"></i><span>Facebook</span></a> </li> <li class="twitter"> <a href="https://twitter.com/expresso" title="Twitter"><i class="icon icon-twitter"></i><span>Twitter</span></a> </li> <li class="googlePlus"> <a href="https://plus.google.com/110189231159586871953/posts" title="Google+"><i class="icon icon-gplus"></i><span>Google+</span></a> </li> <li class="linkedIn"> <a href="https://www.linkedin.com/company/expresso-emprego" title="LinkedIn"><i class="icon icon-linkedin"></i><span>LinkedIn</span></a> </li> <li class="rss"> <a href="http://feeds.feedburner.com/expresso-geral" title="RSS"><i class="icon icon-rss"></i><span>RSS</span></a> </li> </ul> <ul class="institucional"> <li><a href="/gen.pl?p=stories&amp;fokey=ex.stories/774690&amp;op=view&amp;mid1=ex.menus/66&amp;m2=487" >Estatuto editorial</a> </li> <li><a href="/gen.pl?p=stories&amp;fokey=ex.stories/198040&amp;op=view&amp;mid1=ex.menus/66&amp;m2=487" >Código de Conduta</a> </li> <li><a href="/gen.pl?p=stories&amp;fokey=ex.stories/774685&amp;op=view&amp;mid1=ex.menus/66&amp;m2=488" >Ficha Técnica do Expresso</a> </li> <li><a href="/informacao/cookies/2015-05-03-Politica-de-cookies" >Política de cookies</a> </li> <li><a href="/arquivo/paginas_institucionais/termos_de_utilizacao/2015-05-03-Termos-de-Utilizacao-1" >Termos de utilização</a> </li> <li><a href="/informacao/PolticadePrivacidade/2015-05-04-Politica-de-privacidade" >Política de privacidade</a> </li> <li><a href="/regras-da-comunidade=f740487" >Regras da Comunidade</a> </li> <li><a href="/gen.pl?p=stories&amp;op=view&amp;fokey=ex.stories/723177" >Publicidade</a> </li> <li><a href="/contactos-directos=f774722" >Contactos</a> </li> <li><a href="http://www.impresa.pt/lei782015" target="_blank">Lei da Transparência</a> </li> <li><a href="http://promo.impresa.pt/cartaomx/COB7I.html" target="_blank">Assinar</a> </li> <li><a href="/cartas-ao-diretor" >Cartas ao Director</a> </li> <li><a href="https://loja.expresso.pt" target="_blank">Loja</a> </li> </ul> <p class="copyright">&copy; Expresso Impresa Publishing S.A.</p> </section> <section class="footerImpresaContainer"> <div id="impresaFooter"></div> <script>
+                require(['impresa-footer'], function(Lib) {
+                    Lib.init('#impresaFooter',{responsive:false});
+                });
+            </script> </section> </div> <script async>
+        require(['jquery', 'parts/scroll-binder'], function ($, ScrollBinder) {
+            var $el = $('.js-sideNavigation');
+
+            ScrollBinder.start($el, {
+                scroller: $el.find('.inner'),
+                mq: '(min-width: 768px)'
+            });
+        });
+    </script></nav> </div> <script async>
+                require(['ipub'], function(Ads) {
+                    Ads.enableOverlay("/1058775/Expresso_Overlay");
+                });
+            </script> <script async>
+    require(['impresa-cookie-policy'], function(Lib) {
+        Lib.init("body", {
+            policyUrl: "/informacao/cookies/2015-05-03-Politica-de-cookies",
+            usageUrl: "/informacao/cookies/2015-05-03-Politica-de-cookies"
+        });
+    });
+</script> <div class="adContainer sniffer" id="Pub5af611b419ddf"></div><script async>
+    require(['ipub'], function (Ads) {
+        Ads.register("#Pub5af611b419ddf", 'xaxis');
+    });
+</script> <div class="adContainer sniffer" id="Pub5af611b419e27"></div><script async>
+    require(['ipub'], function (Ads) {
+        Ads.register("#Pub5af611b419e27", 'tracking');
+    });
+</script> <script async>
+            require(['parts/ads-setup'], function (Ads) {
+                Ads.run({"siteId":89002,"pageId":618887,"revcontent":{"widgetId":84556}});
+            });
+        </script> <script async>
+            require(['parts/push-notifications'], function (PushNotifications) {
+                PushNotifications.start('body', {
+                    onesignal: {"subdomainName":"expresso","appId":"14f37390-73dd-4ccf-9a46-0384a2846344","safari_web_id":"web.onesignal.auto.560021c2-877c-448b-9811-f001e7b5ec58"}
+                });
+            });
+        </script> </body></html>

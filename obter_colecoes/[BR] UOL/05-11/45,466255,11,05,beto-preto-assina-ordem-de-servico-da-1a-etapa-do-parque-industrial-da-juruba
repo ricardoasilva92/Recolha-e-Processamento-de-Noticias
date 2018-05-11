@@ -1,0 +1,814 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="pt-BR" itemscope itemtype="http://schema.org/ItemList">
+<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#">
+    <meta charset="utf-8" />
+    <script>
+    function verificaUserAgent() {
+        var user_agent  = navigator.userAgent.toLowerCase();
+        var urlAtual    = location.href;
+        var screenWidth = screen.width;
+
+        if(user_agent.match(/Android/i) || user_agent.match(/Windows Phone/i) || user_agent.match(/iPhone/i) || screenWidth <= 728) {
+            if(window.location.protocol != 'https:') {
+                urlAtual = location.href.replace("http://", "https://");
+            }
+            window.location = urlAtual.replace("://", "://m.");
+        }
+    }
+
+    verificaUserAgent();
+    </script>
+    <meta http-equiv="Content-Type" content="text/html" />
+    <meta name="Content-Language" content="pt-BR" />
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+    <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1" />
+    <meta name="referrer" content="unsafe-url" />
+    <meta name="googlebot" content="noodp" />
+    <meta name="Robots" content="INDEX,FOLLOW" />
+    <meta name="RESOURCE-TYPE" content="DOCUMENT" />
+    <meta name="DISTRIBUTION" content="GLOBAL" />
+    <meta name="AUTHOR" content="TNOnline" />
+    <meta name="COPYRIGHT" content="Copyright (c) Tribuna do Norte" />
+    <meta name="language" content="pt-BR" />
+    <meta name="RATING" content="GENERAL" />
+    <meta name="google-site-verification" content="r_kbDinNFMTTjM17fj9GIh63RMu__X-plZfySwc8d8Q" />
+    <meta name="msvalidate.01" content="5711A15BD2E6CE157476BDED9EE16087" />
+    <meta http-equiv="x-dns-prefetch-control" content="on" />
+    <link rel="dns-prefetch" href="//www.google-analytics.com" />
+    <link rel="dns-prefetch" href="//www.googletagservices.com" />
+    <link rel="dns-prefetch" href="//googleadservices.com" />
+    <link rel="dns-prefetch" href="//connect.facebook.net" />
+    <link rel="dns-prefetch" href="//m1.tnonline.com.br/" />
+    <meta name="application-name" content="TNOnline" />
+    <meta property="article:publisher" content="https://www.facebook.com/sitetnonline" />
+    <meta property="fb:admins" content="100003367970652" />
+    <meta property="fb:app_id" content="315653428516563" />
+    <meta property="fb:pages" content="380786901968808" />
+    <meta property="twitter:account_id" content="122684856" />
+    <meta name="theme-color" content="#A31E24" />
+    <link rel="amphtml" href="https://www.tnnews.com.br/amphtml/noticias/apucarana/45,466255,11,05,beto-preto-assina-ordem-de-servico-da-1a-etapa-do-parque-industrial-da-juruba" />
+    <link rel="canonical" href="https://tnonline.uol.com.br/noticias/apucarana/45,466255,11,05,beto-preto-assina-ordem-de-servico-da-1a-etapa-do-parque-industrial-da-juruba" />
+    <link rel="shortcut icon" href="https://tnonline.uol.com.br/favicon.png" />
+    <link rel="apple-touch-icon" href="https://tnonline.uol.com.br/notification-icon.png" />
+    <link rel="manifest" href="https://tnonline.uol.com.br/manifest.json" />
+    <link itemprop="url" rel="canonical" href="https://tnonline.uol.com.br/noticias/apucarana/45,466255,11,05,beto-preto-assina-ordem-de-servico-da-1a-etapa-do-parque-industrial-da-juruba" />
+    <link rel="alternate" media="handheld" href="https://m.tnonline.com.br/noticias/apucarana/45,466255,11,05,beto-preto-assina-ordem-de-servico-da-1a-etapa-do-parque-industrial-da-juruba" />
+    <link rel="alternate" media="only screen and (max-width: 640px)" href="https://m.tnonline.com.br/noticias/apucarana/45,466255,11,05,beto-preto-assina-ordem-de-servico-da-1a-etapa-do-parque-industrial-da-juruba" />
+    <link rel="alternate" type="application/rss+xml" title="Notícias minuto a minuto - TNOnline RSS" href="https://tnonline.uol.com.br/rss/homepage" />
+    <link rel="search" type="application/opensearchdescription+xml" href="https://tnonline.uol.com.br/opensearch.xml" title="TNOnline" />
+    <!--<noscript> <meta http-equiv="refresh" content="250;url=?refresh=true" /> </noscript>-->
+    <script>var TIME_TO_RELOAD=4.1667*60*1000;</script>
+    <title>Beto Preto assina ordem de serviço da 1ª etapa do Parque Industrial da Juruba - TNOnline</title>
+    <meta itemprop="description" name="description" content="Principal projeto dentro da política de expansão industrial da atual gestão municipal, o prefeito Beto Preto assinou na tarde desta sexta-feira (11), em ato oficial no gabinete municipal, a ordem de s..." />
+    <meta name="keywords" content="Apucarana, Arapongas, Ivaiporã, Classificados, Imóveis, Apartametos, Imobiliárias, Automóveis, Jornais, Notícias, Informações, Esportes, Jornalismo, Entretenimento, Televisão, Novela, Horóscopo, Blog, Social, Classificados, Mapa do Crime, Opinião, Diversão" />
+    <meta property="article:section" content="Apucarana" />
+    <meta property='article:published_time' content='2018-05-11T18:30:00-03:00' />
+    <meta property="og:site_name" content="TNOnline" />
+    <meta property="og:locale" content="pt_BR" />
+    <meta property="og:url" content="https://tnonline.uol.com.br/noticias/apucarana/45,466255,11,05,beto-preto-assina-ordem-de-servico-da-1a-etapa-do-parque-industrial-da-juruba" />
+    <meta property="og:description" content="Principal projeto dentro da política de expansão industrial da atual gestão municipal, o prefeito Beto Preto assinou na tarde desta sexta-feira (11), em ato oficial no gabinete municipal, a ordem de s..." />
+    <meta property="og:title" content="Beto Preto assina ordem de serviço da 1ª etapa do Parque Industrial da Juruba - TNOnline" />
+    <meta property="og:type" content="article" />
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:site" content="@tnonline_" />
+    <meta name="twitter:url" content="https://tnonline.uol.com.br/noticias/apucarana/45,466255,11,05,beto-preto-assina-ordem-de-servico-da-1a-etapa-do-parque-industrial-da-juruba" />
+    <meta name="twitter:title" content="Beto Preto assina ordem de serviço da 1ª etapa do Parque Industrial da Juruba - TNOnline" />
+    <meta name="twitter:description" content="Principal projeto dentro da política de expansão industrial da atual gestão municipal, o prefeito Beto Preto assinou na tarde desta sexta-feira (11), em ato oficial no gabinete municipal, a ordem de s..." />
+    <meta property="og:image" content="https://m1.tnonline.com.br/fcb/2018/05/11/tn_0a7be63727_juruba3.jpg" />
+    <meta itemprop="image" content="https://m1.tnonline.com.br/fcb/2018/05/11/tn_0a7be63727_juruba3.jpg" />
+    <link rel="stylesheet" type="text/css" href="/static/css/home.css?id=a55684d0d318dff9712a" />
+    <link rel="stylesheet" type="text/css" href="/static/css/print.css?id=522a19fde5097ebc9c90" media="print" />
+    <script src="/static/js/home.js?id=c8090b4166bcc5517f07"></script>
+    <script>
+        window.TNOnline = {"baseUrl":"https:\/\/tnonline.uol.com.br","user":null,"csrfToken":null,"vapidPublicKey":"BJEkbb0X2Of3k0a6Mi6B1McZzbs12Y11+yI2FRApCXeoPc5ePwKeJyZtoZJtS6RY2rVNcNetr96D5VwAxoo2qpI=","pusher":{"key":null,"cluster":null}};
+    </script>
+    <script async src="//www.google.com/recaptcha/api.js"></script>
+    <script async src="//cdn.iframe.ly/embed.js" type="text/javascript" charset="utf-8"></script>
+
+            <link rel="manifest" href="/manifest.json">
+        <script src="//cdn.onesignal.com/sdks/OneSignalSDK.js" async></script>
+    <script>
+        var OneSignal = window.OneSignal || [];
+        OneSignal.push(["init", {
+            promptOptions: { actionMessage: "Deseja receber notificações das últimas notícias do TNOnline?", acceptButtonText: "CONTINUAR", cancelButtonText: "NÃO, OBRIGADO" },
+            appId: "26e00b36-0d3d-43fd-99cf-ecfe4edd212b", autoRegister: false, notifyButton: { enable: false },
+            welcomeNotification: { "title": "TNOnline", "message": "Obrigado por se inscrever!" }
+        }]);
+
+        OneSignal.push(function() {
+          OneSignal.isPushNotificationsEnabled(function(isEnabled) {
+            if (!isEnabled)
+              OneSignal.showHttpPrompt()
+          });
+        });
+    </script>
+
+<!-- Hotjar Tracking Code for www.tnonline.com.br -->
+<script>
+    (function(h,o,t,j,a,r){
+        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+        h._hjSettings={hjid:874975,hjsv:6};
+        a=o.getElementsByTagName('head')[0];
+        r=o.createElement('script');r.async=1;
+        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+        a.appendChild(r);
+    })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+</script>
+
+    <script type="application/ld+json">
+{"@context":"http:\/\/schema.org","@type":"NewsArticle","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/tnonline.uol.com.br\/noticias\/apucarana\/45,466255,11,05,beto-preto-assina-ordem-de-servico-da-1a-etapa-do-parque-industrial-da-juruba"},"headline":"Beto Preto assina ordem de servi\u00e7o da 1\u00aa etapa do Parque Industrial da Juruba","description":"Principal projeto dentro da pol\u00edtica de expans\u00e3o industrial da atual gest\u00e3...","datePublished":"2018-05-11T18:30:00-03:00","dateModified":"2018-05-11T18:35:07-03:00","author":{"@type":"Person","name":"DA REDA\u00c7\u00c3O"},"publisher":{"@type":"Organization","name":"TNOnline","logo":{"@type":"ImageObject","url":"https:\/\/tnonline.uol.com.br\/static\/img\/logo.png"}},"image":{"@type":"ImageObject","url":"https:\/\/m1.tnonline.com.br\/fcb\/2018\/05\/11\/tn_0a7be63727_juruba3.jpg"}}
+</script>
+
+    <!-- Google - Analytics -->
+    <script async src="//www.googletagmanager.com/gtag/js?id=UA-11755421-1"></script>
+    <script type="text/javascript">function gtag(){dataLayer.push(arguments)}window.dataLayer=window.dataLayer||[],gtag("js",new Date),gtag("config","UA-11755421-1");</script>
+
+
+    <!-- UOL - Analytics -->
+    <script type="text/javascript">
+    window.universal_variable=window.universal_variable||{},window.universal_variable.dfp={custom_params:{subchan:""}},window.uolads=window.uolads||[],function(){var a=document.createElement("script");a.async=!0,a.src="//tm.jsuol.com.br/uoltm.js?id=2aljwf";var e=document.getElementsByTagName("script")[0];e.parentNode.insertBefore(a,e)}();
+    </script>
+    </head>
+<!--                          _
+                          .-'` `}
+                  _./)   /       }
+                .'o   \ |       }
+                '.___.'`.\    {`
+                /`\_/  , `.    }
+                \=' .-'   _`\  {
+                 `'`;/      `,  }
+                    _\       ;  }
+  O HAI THERE      /__`;-...'--'
+
+-->
+<body itemscope itemtype="http://schema.org/WebPage">
+    <div id="fb-root"></div>
+
+    <script>(function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) return;
+      js = d.createElement(s); js.id = id;
+      js.src = "//connect.facebook.net/pt_BR/all.js#xfbml=1&appId=315653428516563";
+      fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));</script>
+
+    
+
+    <img src="https://tnonline.uol.com.br/static/facebook600.jpg" alt="Facebook Img Logo" class="schema-only" width="600" height="600" />
+
+    <header id="masthead" class="height-transition">
+        <div class="tnonline">
+            <div itemscope itemtype="http://schema.org/Organization" class="logo">
+                <a href="https://tnonline.uol.com.br" itemprop="url" title="TNOnline" data-event-category="logo" data-event-action="click">
+                    <span itemprop="name" class="schema-only">TNOnline</span>
+                    <img src="https://tnonline.uol.com.br/static/img/logo.png" itemprop="logo" alt="TNOnline Logo">
+                </a>
+            </div>
+
+            <nav itemscope itemtype="http://schema.org/SiteNavigationElement">
+                <ul class="menu">
+                    <li itemprop="name"><a itemprop="url" href="https://tnonline.uol.com.br/noticias/apucarana"><span class="cor2 cor-transition"> Apucarana </span></a></li>
+                    <li itemprop="name"><a itemprop="url" href="https://tnonline.uol.com.br/noticias/arapongas"><span class="cor2 cor-transition"> Arapongas </span></a></li>
+                    <li itemprop="name"><a itemprop="url" href="https://tnonline.uol.com.br/noticias/regiao"><span class="cor2 cor-transition"> Região </span></a></li>
+                    <li itemprop="name"><a itemprop="url" href="https://tnonline.uol.com.br/empregos"><span class="cor2 cor-transition"> Empregos </span></a></li>
+                    <li itemprop="name"><a itemprop="url" href="https://tnonline.uol.com.br/noticias/ultimas"><span class="cor2 cor-transition"> Últimas </span></a></li>
+                    <li itemprop="name"><a itemprop="url" href="https://tnonline.uol.com.br/classificados/diversos"><span class="cor2 cor-transition"> Classificados </span></a></li>
+                </ul>
+            </nav>
+
+            <ol id="meta-nav">
+                <li class="search">
+                    <form class="search-container" action="https://tnonline.uol.com.br/busca/" accept-charset="utf-8" autocomplete="off" itemprop="potentialAction" itemscope itemtype="http://schema.org/SearchAction">
+                        <meta itemprop="target" content="https://tnonline.uol.com.br/busca?q={q}"/>
+                        <input type="search" name="q" class="search-input" placeholder="Busque no TNOnline." itemprop="query-input" accesskey="s" lang="pt-BR" required />
+                        <button for="search" type="button" class="search-icon" id="search-icon"><i class="fa fa-search" aria-hidden="true"></i></button>
+                    </form>
+                </li>
+                <li class="handmenu">
+                    <a href="#" class="nav-toggle" id="nav-toggle" aria-hidden="true"><i class="fa fa-bars" aria-hidden="true"></i></a>
+                </li>
+            </ol>
+        </div>
+    </header>
+
+    <nav class="menu-side" id="menu-side" role="navigation">
+        <ul>
+            <li><a href="https://tnonline.uol.com.br"><span class="cor3 cor-transition">Página principal</span></a></li>
+            <li><a href="https://tnonline.uol.com.br/classificados/diversos"><span class="cor3 cor-transition">Classificados</span></a></li>
+            <li><a href="https://tnonline.uol.com.br/noticias/apucarana"><span class="cor3 cor-transition">Apucarana</span></a></li>
+            <li><a href="https://tnonline.uol.com.br/noticias/arapongas"><span class="cor3 cor-transition">Arapongas</span></a></li>
+            <li><a href="https://tnonline.uol.com.br/noticias/regiao"><span class="cor3 cor-transition">Região</span></a></li>
+            <li><a href="https://tnonline.uol.com.br/empregos"><span class="cor3 cor-transition">Empregos</span></a></li>
+            <li><a href="https://tnonline.uol.com.br/noticias/mais-lidas"><span class="cor3 cor-transition"> Mais Lidas </span></a></li>
+            <li><a href="https://tnonline.uol.com.br/noticias/ultimas"><span class="cor3 cor-transition"> Últimas </span></a></li>
+            <li><a href="https://tnonline.uol.com.br/servicos/fale-conosco"><span class="cor3 cor-transition"> Fale Conosco </span></a></li>
+        </ul>
+    </nav>
+
+    <div id="modulo-topo-banner">
+        <div class="row">
+            <div class="centraliza728x90" style="width: inherit!important;">
+                <div class="tm-ads" id="banner-728x90-area">
+        <script> window.uolads && window.uolads.push({ id: "banner-728x90-area" }); </script>
+    </div>
+            </div>
+        </div>
+    </div>
+
+        <div class="row" id="modulo-topo">
+        <span class="content-box-title bg1 cor3">Mais lidas</span>
+
+        
+            <div class="large-2 columns moduloTopo horizontal-chamada">
+                <article data-story-id="466228" data-rank="4876">
+                    <h2>
+                        <a href="https://tnonline.uol.com.br/noticias/apucarana/45,466228,10,05,morre-aos-89-anos-ananias-bittencourt-da-baterias-eletran" title="Morre aos 89 anos Ananias Bittencourt, da Baterias Eletran">
+                                                    <div class="a-img">
+                                <img src="https://m1.tnonline.com.br/690X400/2018/05/10/tn_cd8b3d0374_img-20180510-wa0053.jpg" class="thumbnail float-left" alt="Foto - Reprodução">
+                            </div>
+                            <strong class="chapeu cor1 cor-transition"> LUTO </strong>
+                            <span class="chamada cor2 cor-transition"> Morre aos 89 anos Ananias Bittencourt, da Bat... </span>
+                                                </a>
+                    </h2>
+                </article>
+            </div>
+        
+            <div class="large-2 columns moduloTopo horizontal-chamada">
+                <article data-story-id="466232" data-rank="2859">
+                    <h2>
+                        <a href="https://tnonline.uol.com.br/noticias/apucarana/45,466232,11,05,pai-de-uma-das-6-vitimas-de-tragedia-na-pr-082-sofre-acidente-ao-voltar-para-apucarana-apos-sepultamento" title="Pai de uma das 6 vítimas de tragédia na PR-082 sofre acidente ao voltar para Apucarana  após sepultamento">
+                                                    <div class="a-img">
+                                <img src="https://m1.tnonline.com.br/690X400/2018/05/11/tn_3c25e6b213_carrobate44.jpg" class="thumbnail float-left" alt="Pai de uma das 6 vítimas de tragédia na PR-082 sofre acidente ao voltar para Apucarana  após sepultamento do filho - Foto: Reprodução">
+                            </div>
+                            <strong class="chapeu cor1 cor-transition"> FATALIDADE </strong>
+                            <span class="chamada cor2 cor-transition"> Pai de uma das 6 vítimas de tragédia na PR-08... </span>
+                                                </a>
+                    </h2>
+                </article>
+            </div>
+        
+            <div class="large-2 columns moduloTopo horizontal-chamada">
+                <article data-story-id="466200" data-rank="2821">
+                    <h2>
+                        <a href="https://tnonline.uol.com.br/noticias/apucarana/45,466200,10,05,pm-desmancha-boca-de-fumo-e-detem-cinco-pessoas" title="PM desmancha boca de fumo e detém cinco pessoas">
+                                                    <div class="a-img">
+                                <img src="https://m1.tnonline.com.br/690X400/2017/10/30/tn_8b784067ab_viatura-pm-10.jpeg" class="thumbnail float-left" alt="A Polícia Militar chegou até o local após denúncia anônima. (foto - TNOnline)">
+                            </div>
+                            <strong class="chapeu cor1 cor-transition"> APUCARANA </strong>
+                            <span class="chamada cor2 cor-transition"> PM desmancha boca de fumo e detém cinco pesso... </span>
+                                                </a>
+                    </h2>
+                </article>
+            </div>
+        
+            <div class="large-2 columns moduloTopo horizontal-chamada">
+                <article data-story-id="466236" data-rank="2648">
+                    <h2>
+                        <a href="https://tnonline.uol.com.br/noticias/apucarana/45,466236,11,05,homem-e-achado-morto-em-frente-a-casa-da-ex-em-apucarana" title="Homem é achado morto em frente à casa da ex em Apucarana">
+                                                    <div class="a-img">
+                                <img src="https://m1.tnonline.com.br/690X400/2017/12/22/tn_304fd7d6b2_viatura-pm-5.jpeg" class="thumbnail float-left" alt="Polícia foi acionada por populares que foram os responsáveis por socorrer a mulher. Foto: TNOnline">
+                            </div>
+                            <strong class="chapeu cor1 cor-transition"> ATO EXTREMO </strong>
+                            <span class="chamada cor2 cor-transition"> Homem é achado morto em frente à casa da ex e... </span>
+                                                </a>
+                    </h2>
+                </article>
+            </div>
+        
+            <div class="large-2 columns moduloTopo horizontal-chamada">
+                <article data-story-id="466199" data-rank="2069">
+                    <h2>
+                        <a href="https://tnonline.uol.com.br/noticias/apucarana/45,466199,10,05,acidente-no-centro-de-apucarana-provoca-danos-materiais" title="Acidente no centro de Apucarana provoca danos materiais">
+                                                    <div class="a-img">
+                                <img src="https://m1.tnonline.com.br/690X400/2018/05/10/tn_95b92f061f_gol97.jpg" class="thumbnail float-left" alt="Foto: Reprodução/Whatsapp">
+                            </div>
+                            <strong class="chapeu cor1 cor-transition"> NESTA MANHÃ </strong>
+                            <span class="chamada cor2 cor-transition"> Acidente no centro de Apucarana provoca danos... </span>
+                                                </a>
+                    </h2>
+                </article>
+            </div>
+        
+            <div class="large-2 columns moduloTopo horizontal-chamada">
+                <article data-story-id="466210" data-rank="1876">
+                    <h2>
+                        <a href="https://tnonline.uol.com.br/noticias/arapongas/46,466210,10,05,policia-civil-investiga-assassinato-em-arapongas" title="Polícia Civil investiga assassinato em Arapongas">
+                                                    <div class="a-img">
+                                <img src="https://m1.tnonline.com.br/690X400/2018/05/10/tn_2db362d0d7_fato.png" class="thumbnail float-left" alt="Foto: Fato Atual/Reprodução">
+                            </div>
+                            <strong class="chapeu cor1 cor-transition"> 6º HOMICÍDIO DO ANO </strong>
+                            <span class="chamada cor2 cor-transition"> Polícia Civil investiga assassinato em Arapon... </span>
+                                                </a>
+                    </h2>
+                </article>
+            </div>
+            </div>
+    
+    <div class="banner-topo"></div>
+
+<div class="corpo-noticia">
+
+    <article class="noticia" itemscope itemtype="http://schema.org/NewsArticle" data-story-id="466255" data-rank="66">
+    <meta itemprop="keywords" content="@TAGS" />
+    <meta itemprop="inLanguage" content="pt-BR" />
+    <meta itemprop="description" content="Principal projeto dentro da política de expansão industrial da atual gestã..." />
+    <meta itemscope itemprop="mainEntityOfPage" itemtype="https://schema.org/WebPage" itemid="https://google.com/article" />
+    <meta itemprop="url" content="https://tnonline.uol.com.br/noticias/apucarana/45,466255,11,05,beto-preto-assina-ordem-de-servico-da-1a-etapa-do-parque-industrial-da-juruba" />
+    <meta itemprop="isFamilyFriendly" content="True" />
+    <header>
+        <div class="text-center margin-top-2">
+                        <span class="chapeu text-uppercase"> Apucarana </span>
+                    </div>
+
+        
+        <h1 itemprop="name headline" class="font-weight-bold">Beto Preto assina ordem de serviço da 1ª etapa do Parque Industrial da Juruba</h1>
+        <div class="publish my-3">
+            <small>
+                <p itemprop="author" class="pb-autor" itemscope itemtype="https://schema.org/Person">
+                    <strong itemprop="name"> Por DA REDAÇÃO, <a itemprop="url" href="https://tnonline.uol.com.br">TNOnline</a> </strong>
+                </p>
+
+                <p class="text-center">
+                    <time class="date" datetime="2018-05-11T18:30:00-03:00"> 11 de maio de 2018 </time> .
+                    <meta itemprop="datePublished" content="2018-05-11T18:30:00-03:00" />
+                    <time class="date" datetime="2018-05-11T18:30:00-03:00"> Atualizado há 19 minutos </time>
+                    <meta itemprop="dateModified" content="2018-05-11T18:30:00-03:00" />
+                </p>
+            </small>
+        </div>
+    </header>
+
+    <div class="centraliza728x90 ">
+        <div class="tm-ads banner-728x90">
+            <div class="tm-ads" id="banner-728x90-2-area">
+        <script> window.uolads && window.uolads.push({ id: "banner-728x90-2-area" }); </script>
+    </div>
+        </div>
+    </div>
+
+    <div class="row">
+                    <figure class="media large-horizontal" itemscope itemprop="image associatedMedia" itemid="https://m1.tnonline.com.br/665x600/2018/05/11/tn_0a7be63727_juruba3.jpg" itemtype="http://schema.org/ImageObject">
+    <div class="large-12 columns">
+        <div class="media-photo">
+            <meta itemprop="height" content="665">
+            <meta itemprop="width" content="600">
+            <img src="https://m1.tnonline.com.br/665x600/2018/05/11/tn_0a7be63727_juruba3.jpg" class="thumbnail"
+                itemprop="contentURL"
+                data-mediaviewer-src="https://m1.tnonline.com.br/665x600/2018/05/11/tn_0a7be63727_juruba3.jpg"
+                data-mediaviewer-caption="Foto: Divulgação"
+                data-mediaviewer-credit=""
+                itemid="https://m1.tnonline.com.br/665x600/2018/05/11/tn_0a7be63727_juruba3.jpg"
+                alt="Foto: Divulgação" itemprop="image">
+            <figcaption itemprop="caption description">
+                <span class="pb-caption">Foto: Divulgação</span>
+            </figcaption>
+        </div>
+    </div>
+</figure>
+<div class="ads-300x600--right has-img">
+    <div class="tm-ads" id="banner-300x600-area">
+        <script> window.uolads && window.uolads.push({ id: "banner-300x600-area" }); </script>
+    </div>
+</div>
+            </div>
+
+    <div class="news-article-share full-bottom">
+        <a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https://tnonline.uol.com.br/noticias/apucarana/45,466255,11,05,beto-preto-assina-ordem-de-servico-da-1a-etapa-do-parque-industrial-da-juruba" class="facebook-color"> <i class="fa fa-facebook-square" aria-hidden="true"></i> </a>
+        <a target="_blank" href="https://twitter.com/home?status=https://tnonline.uol.com.br/noticias/apucarana/45,466255,11,05,beto-preto-assina-ordem-de-servico-da-1a-etapa-do-parque-industrial-da-juruba" class="twitter-color"> <i class="fa fa-twitter" aria-hidden="true"></i> </a>
+        <a href="#comentarios_466255" class="google-color"> <i class="fa fa-commenting" aria-hidden="true"></i> </a>
+        <a href="javascript:window.print()" title="Imprimir!" class="mail-color"> <i class="fa fa-print" aria-hidden="true"></i> </a>
+        <div class="clear"></div>
+    </div>
+
+    <div class="conteudo corpo-noticia">
+
+        
+        <div class="ads-300x250--left">
+            <div class="tm-ads" id="banner-300x250-area">
+        <script> window.uolads && window.uolads.push({ id: "banner-300x250-area" }); </script>
+    </div>
+            <p></p>
+            <div class="tm-ads" id="banner-300x250-20-area">
+        <script> window.uolads && window.uolads.push({ id: "banner-300x250-20-area" }); </script>
+    </div>
+        </div>
+
+        <section itemprop="articleBody" class="ArticleContent">
+
+            
+            <p>Principal projeto dentro da política de expansão industrial da atual gestão municipal, o prefeito Beto Preto assinou na tarde desta sexta-feira (11), em ato oficial no gabinete municipal, a ordem de serviço autorizando a empresa vencedora da licitação para dar inicio às obras de pavimentação asfáltica, meio-fio e galerias pluviais do Parque Industrial da Juruba. A primeira etapa do empreendimento, projetado para 237 lotes com metragens entre mil e dois mil metros quadrados, consiste na liberação de 31 lotes.</p>
+<p>A empresa Romo Pavimentadora Ltda foi à vendedora do processo licitatório e terá 180 dias para conclusão da obra.  O investimento para esta fase inicial é de R$ 535.623,98 mil com recursos do próprio município. Já a estimativa da prefeitura para a estruturação completa do parque – que será feita em quatro etapas – é de que serão necessários cerca de R$10 milhões.</p>
+<p>Serão feitos aproximadamente oitocentos metros lineares de pavimentação, meio-fio e galerias em três ruas inicialmente. As ruas terão entre 12 e 15 metros para manobras de caminhões e carretas, além de rotatórias e calçadas.</p>
+<p>“Este parque industrial vai impulsionar ainda mais o potencial econômico de Apucarana e, consequentemente, a geração de emprego e renda para nossas famílias”, disse o prefeito Beto Preto. “Ao contrário do que ocorreu em um passado recente, a cidade conta hoje com o trabalho de uma gestão que não quer atrapalhar a vida dos empresários, e sim criar condições favoráveis e juntar forças para que Apucarana se desenvolva ainda mais”, destacou o prefeito.</p>
+<p>Conforme avaliou Beto Preto, tem sido gratificante planejar realizar investimentos para Apucarana, aplicando o dinheiro público com responsabilidade e na certeza de obter resultados positivos. “Vamos priorizar estes lotes para empresas de pequeno e médio porte, por que são as que efetivamente movem a economia”, anunciou o prefeito.   </p><figure><em><img src="https://m1.tnonline.com.br/690X400/2018/05/11/tn_d9ca6b2404_juruba4.jpg"></em></figure><p><strong><em>Foto: Divulgação</em></strong><br></p>
+<p><strong>Estrutura de “cidade industrial”</strong><br></p>
+<p>O Parque Industrial da Juruba será construído no conceito de Cidade Industrial e está sendo implantado em um terreno de 23 alqueires junto à BR-376, na região Sul de Apucarana, saída para Curitiba. Com área total de 556 mil metros quadrados, o terreno fazia parte da antiga Fazenda Juruba. “A prefeitura adquiriu esse terreno por R$ 1 milhão, mas o seu valor comercial é superior a R$ 4 milhões”, informou o prefeito.</p>
+<p>O evento contou com a participação de empresários e vereadores, que parabenizaram a gestão pelo projeto. O empresário Armando Boscardin afirmou que “o maior trabalho social que uma autoridade pode fazer é oferecer emprego, simplesmente doar não leva nada a ninguém. Gerar emprego é um trabalho social permanente. Apoiar e atrair indústrias também aumenta a arrecadação e contribui para a prefeitura executar as obras que Apucarana necessita. Parabéns ao prefeito Beto Preto e sua equipe pelo projeto deste novo parque industrial”, declarou Boscardin.</p>
+<p>O presidente da Acia, Jayme Leonel, cumprimentou o prefeito Beto Preto pelo novo parque industrial que começa a ser estruturado. “Todo investimento na industrialização é relevante, pois a melhor ação do poder público na área social é a geração de emprego e renda”, destacou Leonel, elogiando a localização estratégica do Parque da Juruba, na saída para Curitiba.</p>
+<p>A presidente do Sivale, Elisabete Ardigo, agradeceu, em nome do empresariado de Apucarana, a conquista do novo parque industrial na região Sul da cidade. “Se instalar num parque com esta estrutura é um sonho para os empreendedores, considerando toda a estrutura pronta e o conceito de cidade industrial”, avaliou Elisabete, acrescentando que os funcionários da sua empresa têm elogiado a prefeitura pela qualidade das escolas e creches de Apucarana.</p>
+<p>O vice-prefeito Junior da Femac enalteceu os investimentos que a gestão realizou com o novo Plano Diretor, que impulsionou a verticalização na construção civil, a formalização de cerca de quatrocentas pequenas empresas, e agora com o início da estruturação do Parque da Juruba,c om o conceito de “Cidade Industrial”.</p>
+<p>O secretário da fazenda, Marcello Machado, anunciou a formalização de um contrato com a Agência Paraná Desenvolvimento, estabelecendo diretrizes e estratégias para impulsionar o setor industrial. “A Apucarana do passado ficou para trás, nós trabalhamos compromissados com o futuro, mesmo com os obstáculos – dívidas e precatórios - deixados pelas gestões anteriores”, ponderou Machado.    </p>
+<p>Além de secretários municipais, empresários e dos vereadores Lucas Leugi, José Airton “Deco” de Araújo, Francisley “Poim” Godoi, Antônio Marques da Silva (Marcos da Vila Reis) e Márcia Sousa, a solenidade contou com a presença de representantes da Associação Comercial, Industrial e de Serviços de Apucarana (ACIA), na pessoa do seu presidente, Jayme Leonel; de Elisabete Ardigo, presidente do Sindicato das Indústrias do Vestuário de Apucarana e Vale do Ivaí (Sivale); de Adam Lenharo, presidente da Associação dos Empresários do Contorno Sul de Apucarana; e dos empresários Aldevino da Cruz Marques (Val) e Sebastião Fante. Também participaram representantes das empresas Isaías A. Oliveira Confecção, Padova Indústria e comércio de EPIS, Indústria e Comércio de Alimentos Caldani Ltda, Rhinosize Confecções Ltda e Ramos Indústria e Comércio de Confecções.</p>
+
+        </section>
+
+                <div class="tags-container">
+            <ul class="tag-list">
+                <li class="tag-item">Mais sobre:</li>
+                                <li class="tag-item"><a href="https://tnonline.uol.com.br/topicos/apucarana">Apucarana</a></li>
+                                <li class="tag-item"><a href="https://tnonline.uol.com.br/topicos/parque-industrial">parque industrial</a></li>
+                            </ul>
+        </div>
+        
+                    <div class="clearfix"><br></div>
+            <div class="large-12 columns cell margin-bottom-3"><iframe data-iframely-url="//www.tguia.com.br/widgets/mobile" width="100%" frameborder="0" height="300px" scrolling="no"></iframe></div>
+            <div class="clearfix"><br><br></div>
+        
+        <div class="bloco-native-rodape"></div>
+
+        <div class="modulo modulo-comentarios" id="comentarios_466255">
+            <div class="atencao">
+                <p>O portal TNOnline.com.br não se responsabiliza pelos comentários, opiniões, depoimentos, mensagens ou qualquer outro tipo de conteúdo. Seu comentário passará por um filtro de moderação. O portal TNOnline.com.br não se obriga a publicar caso não esteja de acordo com a política de privacidade do site. <span><a href="https://tnonline.uol.com.br/servicos/termo-de-uso">Leia aqui</a> o termo de uso e responsabilidade.</span></p>
+            </div>
+
+            <div class="comments">
+                <div id="disqus_thread"></div>
+                <script type="text/javascript">
+                    var disqus_config = function () {
+                        this.page.identifier = 'conteudo:conteudo#466255';
+                    };
+                    (function() {
+                        var d = document, s = d.createElement('script');
+                            s.src = '//tnonline.disqus.com/embed.js';
+                            s.setAttribute('data-timestamp', +new Date());
+                        (d.head || d.body).appendChild(s);
+                    })();
+                </script>
+                <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+            </div>
+        </div>
+    </div>
+
+</article>
+
+    <style>
+    .ListaVideos {
+        position: relative;
+        overflow: hidden;
+        width: 100%;
+    }
+    .espacamento {
+    margin-bottom: 25px;
+    min-height: 300px;
+}
+
+.thumbnail {
+    display: block;
+    line-height: 1.75;
+    background-color: #fff;
+    border-radius: 0;
+    color: #333;
+    background-color: transparent;
+}
+.thumbnail>.image {
+    position: relative;
+}
+.ListaVideos .thumbnail>.image>a {
+    opacity: 1;
+}
+.thumbnail img {
+    width: 100%;
+    height: auto;
+}
+.thumbnail-horizontal-legend, .thumbnail-legend {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    padding: 4px 8px 4px 4px;
+    font-size: 12px;
+    color: #666;
+    background-color: #fff;
+}
+.thumbnail-caption, .thumbnail-horizontal-caption {
+    font-size: 18px;
+}
+.thumbnail-caption>h5 {
+    margin: 0;
+}
+.thumbnail-caption>h5 a {
+    font-size: 16px;
+    display: block;
+    margin: 10px 5px;
+    color: #222;
+    font-weight: 400;
+}
+    </style>
+
+    <div class="container">
+        <div class="a">
+            <section class="ListaVideos">
+
+                <div class="header-component">
+                    <h2 class="title"><a href="https://tnonline.uol.com.br/videos">VÍDEOS</a></h2>
+                </div>
+
+                <div class="row shadowbottom">
+
+                                                            <div class="small-3 columns min400">
+                            <div class="thumbnail espacamento">
+                                <div class="image">
+                                    <a href="https://tnonline.uol.com.br/programas/kairos-na-tv/0,,466111/dicas-motivacionais-com-o-gerede-carneiro-diferencial-estrategico" title="Dicas Motivacionais com o Gerede Carneiro - DIFERENCIAL ESTRATÉGICO">
+                                        <img alt="#" src="https://m1.tnonline.com.br/entre/2018/05/07/tn_e3d7116212_5.png">
+                                        <span class="thumbnail-legend">07/05 13h:54</span>
+                                    </a>
+                                </div>
+
+                                <div class="thumbnail-caption">
+                                    <h5><a href="https://tnonline.uol.com.br/programas/kairos-na-tv/0,,466111/dicas-motivacionais-com-o-gerede-carneiro-diferencial-estrategico" title="Dicas Motivacionais com o Gerede Carneiro - DIFERENCIAL ESTRATÉGICO">Dicas Motivacionais com o Gerede Carneiro - DIFERENCIAL ESTRATÉGICO</a></h5>
+                                </div>
+                            </div>
+                        </div>
+                                                                                <div class="small-3 columns min400">
+                            <div class="thumbnail espacamento">
+                                <div class="image">
+                                    <a href="https://tnonline.uol.com.br/programas/kairos-na-tv/0,,466110/participacao-especial-com-o-pe-paulinho-amaral" title="Participação Especial com o Pe Paulinho Amaral">
+                                        <img alt="#" src="https://m1.tnonline.com.br/entre/2018/05/07/tn_b5b3078a84_4.png">
+                                        <span class="thumbnail-legend">07/05 13h:53</span>
+                                    </a>
+                                </div>
+
+                                <div class="thumbnail-caption">
+                                    <h5><a href="https://tnonline.uol.com.br/programas/kairos-na-tv/0,,466110/participacao-especial-com-o-pe-paulinho-amaral" title="Participação Especial com o Pe Paulinho Amaral">Participação Especial com o Pe Paulinho Amaral</a></h5>
+                                </div>
+                            </div>
+                        </div>
+                                                                                <div class="small-3 columns min400">
+                            <div class="thumbnail espacamento">
+                                <div class="image">
+                                    <a href="https://tnonline.uol.com.br/programas/kairos-na-tv/0,,466109/quadro-musical-cantor-kleber-candiotto" title="Quadro Musical - Cantor Kleber Candiotto">
+                                        <img alt="#" src="https://m1.tnonline.com.br/entre/2018/05/07/tn_5fc4d43cd1_3.png">
+                                        <span class="thumbnail-legend">07/05 13h:50</span>
+                                    </a>
+                                </div>
+
+                                <div class="thumbnail-caption">
+                                    <h5><a href="https://tnonline.uol.com.br/programas/kairos-na-tv/0,,466109/quadro-musical-cantor-kleber-candiotto" title="Quadro Musical - Cantor Kleber Candiotto">Quadro Musical - Cantor Kleber Candiotto</a></h5>
+                                </div>
+                            </div>
+                        </div>
+                                                                                <div class="small-3 columns min400">
+                            <div class="thumbnail espacamento">
+                                <div class="image">
+                                    <a href="https://tnonline.uol.com.br/programas/kairos-na-tv/0,,466108/entrevista-com-o-carlao-falando-sobre-o-ferra-mula" title="Entrevista com o Carlão falando sobre o FERRA MULA">
+                                        <img alt="#" src="https://m1.tnonline.com.br/entre/2018/05/07/tn_1348a0f667_2.png">
+                                        <span class="thumbnail-legend">07/05 13h:48</span>
+                                    </a>
+                                </div>
+
+                                <div class="thumbnail-caption">
+                                    <h5><a href="https://tnonline.uol.com.br/programas/kairos-na-tv/0,,466108/entrevista-com-o-carlao-falando-sobre-o-ferra-mula" title="Entrevista com o Carlão falando sobre o FERRA MULA">Entrevista com o Carlão falando sobre o FERRA MULA</a></h5>
+                                </div>
+                            </div>
+                        </div>
+                                    
+                </div>
+            </section>
+        </div>
+    </div>
+
+</div>
+
+<div class="container">
+    <div class="horizontal-header2" style="text-align: inherit;">
+        <a href="https://tnonline.uol.com.br/noticias/45" title="Mais Notícias" class="float-right margin-top-1 margin-left-3 btn-cstl"><strong class="cor1 cor-transition"> mais notícias </strong></a>
+        <h2 class="cor11"> Últimas de Apucarana </h2>
+    </div>
+
+        <div class="bloco-primario">
+        <div class="modulo horizontal-chamada3 min--h--360" data-story-id="10000000466255" data-rank="0">
+            <a href="https://tnonline.uol.com.br/noticias/apucarana/45,466255,11,05,beto-preto-assina-ordem-de-servico-da-1a-etapa-do-parque-industrial-da-juruba">
+                                <img src="https://tnonline.uol.com.br/static/img/1x1.gif" data-src="https://m1.tnonline.com.br/690X400/2018/05/11/tn_0a7be63727_juruba3.jpg" class="thumbnail lazyload" alt="Foto: Divulgação">
+                
+                <span class="chapeu cor3 cor-transition"> APUCARANA </span>
+                <h2><span class="titulo cor2 cor-transition"> Beto Preto assina ordem de serviço da 1ª etapa do Parque Industrial da Juruba </span></h2>
+
+                            </a>
+        </div>
+    </div>
+        <div class="bloco-primario">
+        <div class="modulo horizontal-chamada3 min--h--360" data-story-id="10000000466253" data-rank="0">
+            <a href="https://tnonline.uol.com.br/noticias/apucarana/45,466253,11,05,tres-jogos-agitam-rodada-da-primeira-divisao-da-copa-cidade-alta">
+                                <img src="https://tnonline.uol.com.br/static/img/1x1.gif" data-src="https://m1.tnonline.com.br/690X400/2018/05/11/tn_3aaaffcfbb_marambaiajpg.jpg" class="thumbnail lazyload" alt="Campo da Marambaia terá jogo da 1ª Divisão |  Foto: www.oesporte.com.br">
+                
+                <span class="chapeu cor3 cor-transition"> 10ª edição </span>
+                <h2><span class="titulo cor2 cor-transition"> Três jogos agitam rodada da Primeira Divisão da Copa Cidade Alta </span></h2>
+
+                            </a>
+        </div>
+    </div>
+        <div class="bloco-primario">
+        <div class="modulo horizontal-chamada3 min--h--360" data-story-id="10000000466252" data-rank="0">
+            <a href="https://tnonline.uol.com.br/noticias/apucarana/45,466252,11,05,apucarana-realiza-etapa-inicial-do-campeonato-paranaense-de-skate">
+                                <img src="https://tnonline.uol.com.br/static/img/1x1.gif" data-src="https://m1.tnonline.com.br/690X400/2018/05/11/tn_a1ec6b3be3_skate2jpg.jpg" class="thumbnail lazyload" alt="Primeira etapa do Campeonato Estadual de Skate em Apucarana terá atletas do Paraná, São Paulo e Santa Catarina - Foto: SEED">
+                
+                <span class="chapeu cor3 cor-transition"> Por dois dias </span>
+                <h2><span class="titulo cor2 cor-transition"> Apucarana realiza etapa inicial do Campeonato Paranaense de Skate </span></h2>
+
+                            </a>
+        </div>
+    </div>
+        <div class="bloco-primario">
+        <div class="modulo horizontal-chamada3 min--h--360" data-story-id="10000000466250" data-rank="0">
+            <a href="https://tnonline.uol.com.br/noticias/apucarana/45,466250,11,05,policia-militar-lanca-operacao-tiradentes-em-apucarana">
+                                <img src="https://tnonline.uol.com.br/static/img/1x1.gif" data-src="https://m1.tnonline.com.br/690X400/2018/05/11/tn_1207015c62_lancamento-operacao.jpg" class="thumbnail lazyload" alt="">
+                
+                <span class="chapeu cor3 cor-transition"> SEGURANÇA </span>
+                <h2><span class="titulo cor2 cor-transition"> Polícia Militar lança Operação Tiradentes em Apucarana </span></h2>
+
+                            </a>
+        </div>
+    </div>
+        <div class="bloco-primario">
+        <div class="modulo horizontal-chamada3 min--h--360" data-story-id="10000000466248" data-rank="0">
+            <a href="https://tnonline.uol.com.br/noticias/apucarana/45,466248,11,05,bombeiros-resgatam-cavalo-que-caiu-em-corrego">
+                                <img src="https://tnonline.uol.com.br/static/img/1x1.gif" data-src="https://m1.tnonline.com.br/690X400/2018/05/11/tn_90e343e2c6_cavalo-corrego.jpg" class="thumbnail lazyload" alt="">
+                
+                <span class="chapeu cor3 cor-transition"> APUCARANA </span>
+                <h2><span class="titulo cor2 cor-transition"> Bombeiros resgatam cavalo que caiu em córrego </span></h2>
+
+                            </a>
+        </div>
+    </div>
+        <div class="bloco-primario">
+        <div class="modulo horizontal-chamada3 min--h--360" data-story-id="10000000466247" data-rank="0">
+            <a href="https://tnonline.uol.com.br/noticias/apucarana/45,466247,11,05,veja-os-falecimentos-em-apucarana-arapongas-e-jandaia-do-sul">
+                                <img src="https://tnonline.uol.com.br/static/img/1x1.gif" data-src="https://m1.tnonline.com.br/690X400/2018/04/12/tn_44453cf805_cemiterio-jose-luiz00009.jpg" class="thumbnail lazyload" alt="">
+                
+                <span class="chapeu cor3 cor-transition"> OBITUÁRIO </span>
+                <h2><span class="titulo cor2 cor-transition"> Veja os falecimentos em Apucarana, Arapongas e Jandaia do Sul  </span></h2>
+
+                            </a>
+        </div>
+    </div>
+        <div class="bloco-primario">
+        <div class="modulo horizontal-chamada3 min--h--360" data-story-id="10000000466245" data-rank="0">
+            <a href="https://tnonline.uol.com.br/noticias/apucarana/45,466245,11,05,obra-vai-garantir-captacao-de-esgoto-no-sumatra-i-e-ii">
+                                <img src="https://tnonline.uol.com.br/static/img/1x1.gif" data-src="https://m1.tnonline.com.br/690X400/2018/05/11/tn_6ec6bd6b58_saneparedson-denobi03.jpg" class="thumbnail lazyload" alt="">
+                
+                <span class="chapeu cor3 cor-transition"> APUCARANA </span>
+                <h2><span class="titulo cor2 cor-transition"> Obra vai garantir captação de esgoto no Sumatra I e II </span></h2>
+
+                            </a>
+        </div>
+    </div>
+        <div class="bloco-primario">
+        <div class="modulo horizontal-chamada3 min--h--360" data-story-id="10000000466246" data-rank="0">
+            <a href="https://tnonline.uol.com.br/noticias/apucarana/45,466246,11,05,projeto-do-hospital-da-providencia-e-materno-infantil-homenageia-mamaes">
+                                <img src="https://tnonline.uol.com.br/static/img/1x1.gif" data-src="https://m1.tnonline.com.br/690X400/2018/05/11/tn_920eb7730a_foto-elos-de-vida-2.jpg" class="thumbnail lazyload" alt="">
+                
+                <span class="chapeu cor3 cor-transition"> APUCARANA </span>
+                <h2><span class="titulo cor2 cor-transition"> Projeto do Hospital da Providência e Materno Infantil homenageia mamães </span></h2>
+
+                            </a>
+        </div>
+    </div>
+        <div class="bloco-primario">
+        <div class="modulo horizontal-chamada3 min--h--360" data-story-id="10000000466244" data-rank="0">
+            <a href="https://tnonline.uol.com.br/noticias/apucarana/45,466244,11,05,micropavimento-beneficia-residencial-na-zona-norte">
+                                <img src="https://tnonline.uol.com.br/static/img/1x1.gif" data-src="https://m1.tnonline.com.br/690X400/2018/05/11/tn_da1924a779_pavimentacao.jpg" class="thumbnail lazyload" alt="">
+                
+                <span class="chapeu cor3 cor-transition"> APUCARANA </span>
+                <h2><span class="titulo cor2 cor-transition"> Micropavimento beneficia residencial na zona Norte </span></h2>
+
+                            </a>
+        </div>
+    </div>
+    
+</div>
+
+
+    <div id="banner-1x1-area"> <script> window.uolads && window.uolads.push({ id: "banner-1x1-area" }); </script> </div>
+
+    <footer id="footer">
+        <div class="row">
+            <div class="large-9 columns">
+                <div class="">
+                    <div class="large-2 columns borderw-right">
+                        <dl>
+                            <dt> <a name="rodape" href="https://tnonline.uol.com.br" class="cor7 cor-transition"> TNOnline </a> </dt>
+                            <dd> <a name="rodape" href="https://tnonline.uol.com.br/servicos/fale-conosco" class="cor9 cor-transition"> Fale conosco </a> </dd>
+                            <dd> <a name="rodape" href="https://tnonline.uol.com.br/servicos/anuncie" class="cor9 cor-transition"> Anuncie </a> </dd>
+                            <dd> <a name="rodape" href="https://tnonline.uol.com.br/servicos/expediente" class="cor9 cor-transition"> Expediente </a> </dd>
+                            <dd> <a name="rodape" href="https://tnonline.uol.com.br/servicos/copyright" class="cor9 cor-transition"> Copyright </a> </dd>
+                            <dd> <a name="rodape" href="https://tnonline.uol.com.br/servicos/termo-de-uso" class="cor9 cor-transition"> Termos e Condições </a> </dd>
+                        </dl>
+                    </div>
+
+                    <div class="large-4 columns borderw-right">
+                        <dl>
+                            <dt>  Canais  </dt>
+                            <dl class="colunas">
+                                <dd> <a name="rodape" href="https://tnonline.uol.com.br/noticias/apucarana" class="cor9 cor-transition"> Apucarana </a> </dd>
+                                <dd> <a name="rodape" href="https://tnonline.uol.com.br/noticias/arapongas" class="cor9 cor-transition"> Arapongas </a> </dd>
+                                <dd> <a name="rodape" href="https://tnonline.uol.com.br/noticias/regiao" class="cor9 cor-transition"> Região </a> </dd>
+                                <dd> <a name="rodape" href="https://tnonline.uol.com.br/noticias/cotidiano" class="cor9 cor-transition"> Cotidiano </a> </dd>
+                            </dl>
+                            <dl class="colunas">
+                                <dd> <a name="rodape" href="https://tnonline.uol.com.br/noticias/geral" class="cor9 cor-transition"> Geral </a> </dd>
+                                <dd> <a name="rodape" href="https://tnonline.uol.com.br/noticias/economia" class="cor9 cor-transition"> Economia </a> </dd>
+                                <dd> <a name="rodape" href="https://tnonline.uol.com.br/noticias/politica" class="cor9 cor-transition"> Política </a> </dd>
+                                <dd> <a name="rodape" href="https://tnonline.uol.com.br/noticias/esportes" class="cor9 cor-transition"> Esportes </a> </dd>
+                            </dl>
+                        </dl>
+                    </div>
+                    <div class="large-6 columns">
+                        <dl>
+                            <dt> Mapa do Site </dt>
+                            <dl class="colunas">
+                                <dd> <a name="rodape" href="https://tnonline.uol.com.br/servicos/sugestao-de-pauta" class="cor9 cor-transition"> Sugestão de Pauta </a> </dd>
+                                <dd> <a name="rodape" href="https://tnonline.uol.com.br/servicos/obituario" class="cor9 cor-transition"> Obituários </a> </dd>
+                                <dd> <a name="rodape" href="https://tnonline.uol.com.br/empregos" class="cor9 cor-transition"> Empregos </a> </dd>
+                            </dl>
+                            <dl class="colunas">
+                                <dd> <a name="rodape" href="https://tnonline.uol.com.br/noticias/entretenimento" class="cor9 cor-transition"> Entretenimento </a> </dd>
+                                <dd> <a name="rodape" href="https://tnonline.uol.com.br/classificados/veiculos" class="cor9 cor-transition"> Veiculos </a> </dd>
+                                <dd> <a name="rodape" href="https://tnonline.uol.com.br/classificados/diversos" class="cor9 cor-transition"> Diversos </a> </dd>
+                            </dl>
+                            <dl class="colunas">
+                                <dd> <a name="rodape" href="https://tnonline.uol.com.br/classificados/diversos" class="cor9 cor-transition"> Classificados </a> </dd>
+                                <dd> <a name="rodape" href="https://m.tnonline.uol.com.br" class="cor9 cor-transition"> Mobile </a> </dd>
+                                <dd> <a name="rodape" href="https://www.grafinorte.com.br" class="cor9 cor-transition"> Grafinorte </a> </dd>
+                                <dd> <a name="rodape" href="https://www.tribunadonorte.com" class="cor9 cor-transition"> Tribuna do Norte </a> </dd>
+                            </dl>
+                        </dl>
+                    </div>
+                </div>
+            </div>
+            <div class="large-3 columns border_left">
+                <div itemscope itemtype="http://schema.org/LocalBusiness">
+                    <div class="enderecoF0" itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                        <span class="address_title" itemprop="name">TNOnline</span>
+                        <span itemprop="streetAddress">Av. Zilda Seixas do Amaral, 4270 - Sala D</span>
+                        <br/> <span itemprop="addressLocality">Apucarana, PR - Brasil</span>
+                        <br/> <span class="phone" itemprop="telephone"><a href="tel:+554334207777">(43) 3420-7777</a></span>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <section class="databar">
+            <div class="container">
+                <div class="large-2 columns">
+                    <a href="https://tnonline.uol.com.br">
+                        <img src="https://tnonline.uol.com.br/static/img/logo_new.png" alt="TNOnline.com.br Logo">
+                    </a>
+                </div>
+
+                <div class="large-6 columns">
+                    <div class="page-footer">
+                        <div class="really-serious-copyright">© 2000 -
+                            <span href="https://tnonline.uol.com.br/servicos/copyright">
+                                <span itemprop="copyrightYear"> 2018</span>
+                                <span itemprop="copyrightHolder provider sourceOrganization" itemscope="" itemtype="http://schema.org/Organization" itemid="https://tnonline.uol.com.br">
+                                    <span itemprop="name"> TNOnline </span>
+                                </span>
+                            </span> Todos os direitos reservados
+                        </div>
+                    </div>
+                </div>
+
+                <div class="large-4 columns">
+                <!--
+                    <form class="footer-newsletter" action="https://tnonline.uol.com.br/servicos/newsletter" method="post" id="newsletter" >
+                        <input placeholder="Receba nossa Newsletter" type="email" name="newsletter_email" id="newsletter_email" value="" >
+                        <button type="submit">Cadastrar!</button>
+                    </form>
+                -->
+                </div>
+            </div>
+        </section>
+    </footer>
+
+    <script>$(document).foundation();</script>
+    <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+    <script src="//cdn.jsdelivr.net/npm/sharer.js@latest/sharer.min.js"></script>
+    <script>
+var dynadTvPlayer = '<div class="player_dynad_tv"></div>'
+$(document).ready( function() {
+    $(document).find('.ArticleContent>p:eq(3)').after(dynadTvPlayer);
+});
+</script>
+
+    <div class="widget-newsletter">
+        <div class="close" id="widget-newsletter-close" title="Clique para fechar">&times;</div>
+
+        <h4>Newsletter</h4>
+        <p>Conteúdo direto para você:</p>
+        <form id="widget-newsletter-form">
+            <input type="text" name="email" class="form-control" placeholder="Digite seu email" id="widget-newsletter-email">
+            <a class="button success" href="javascript:void(0);" id="widget-newsletter-send">Quero Receber</a>
+        </form>
+    </div>
+
+</body>
+</html>

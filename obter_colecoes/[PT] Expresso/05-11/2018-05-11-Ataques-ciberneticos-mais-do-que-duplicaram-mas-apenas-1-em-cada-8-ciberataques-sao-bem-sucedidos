@@ -1,0 +1,230 @@
+<!DOCTYPE html><html class="no-js" lang="pt-PT"><head> <meta charset="UTF-8"/> <meta http-equiv="X-UA-Compatible" content="IE=edge"/> <meta http-equiv="Content-Language" content="pt"> <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no"/> <link rel="manifest" href="/manifest.json"/> <meta name="apple-mobile-web-app-title" content="Expresso"/> <meta name="theme-color" content="#e65100"/> <meta name="msapplication-TileColor" content="#e65100"/> <link rel="icon" sizes="152x152" href="//static.impresa.pt/expresso/2481//assets/gfx/icon.png"/> <meta name="msapplication-square150x150logo" content="//static.impresa.pt/expresso/2481//assets/gfx/icon.png"/> <link rel="dns-prefetch" href="//ajax.googleapis.com"><link rel="preconnect" href="//images-cdn.impresa.pt/"><link rel="stylesheet" type="text/css" href="//static.impresa.pt/expresso/2481//assets/css/main.min.css"/> <!--[if lte IE 8]>
+     <link href="//static.impresa.pt/expresso/2481//assets/respond-proxy.html" id="respond-proxy" rel="respond-proxy"/>  <link href="/assets/gfx/respond.proxy.gif" id="respond-redirect" rel="respond-redirect"/> <script src="//static.impresa.pt/expresso/2481//assets/js/legacy.min.js"></script> <![endif]--> <script src="//static.impresa.pt/expresso/2481//assets/js/head.min.js"></script> <script>
+        require.config({
+            baseUrl: '//static.impresa.pt/expresso/2481//assets/js/'
+        });
+    </script><script>
+    require.config({
+        map: {
+            "*": {
+                'user': 'parts/web/user',
+                'parts/config': 'parts/web/config'
+            }
+        },
+        paths: {
+            'ImpresaSSO': 'https://id.impresa.pt/js/impresa-sso.min'
+        },
+        config: {
+            'parts/web/user': {"profile":{"url":"https:\/\/api.impresa.pt\/profile"},"sso":{"url":"https:\/\/id.impresa.pt","gigyaKey":"3_SlQdOiQ8k-7grQ_Mx0LfKus2fvYJ7ge7QRBxXcLAk0x_hhvxLLYiLrGZwQrLpUlW"}},
+
+            'parts/escolas/2016': {"fbag":{"url":"https:\/\/api.impresa.pt\/bag"}},
+
+            'parts/escolas/2017': {"fbag":{"url":"https:\/\/api.impresa.pt\/bag"}},
+
+            'parts/eleicoes/autarquicas2017': {"fbag":{"url":"https:\/\/api.impresa.pt\/bag"}}
+        }
+    });
+
+        window.lazySizesConfig = window.lazySizesConfig || {};
+    window.lazySizesConfig.lazyClass = "js-lazy-picture";
+    window.lazySizesConfig.preloadClass = "js-lazy-picture-preload";
+    window.lazySizesConfig.loadingClass = "js-lazy-picture-loading";
+    window.lazySizesConfig.loadedClass = "js-lazy-picture-loaded";
+    </script><script async>
+    require(['modernizr', 'parts/ua']);
+
+        require(['picturefill', 'lazysizes']);
+    
+        require(['parts/trackr'], function (Trackr) { Trackr.trackPage(document.location.pathname, document.title); });
+    
+        require( ['parts/getSocial' ], function( GetSocial ) {
+        GetSocial.init( { id: 'ffe7f9' } );
+    } );
+    </script> <title>Expresso | Ataques cibernéticos mais do que duplicaram mas apenas 1 em cada 8 ciberataques são bem-sucedidos</title><meta name="twitter:title" property="og:title" content="Ataques cibernéticos mais do que duplicaram mas apenas 1 em cada 8 ciberataques são bem-sucedidos"/><link rel="canonical" href="http://expresso.sapo.pt/economia/economia_tecnologia/2018-05-11-Ataques-ciberneticos-mais-do-que-duplicaram-mas-apenas-1-em-cada-8-ciberataques-sao-bem-sucedidos"><meta name="twitter:url" property="og:url" content="http://expresso.sapo.pt/economia/economia_tecnologia/2018-05-11-Ataques-ciberneticos-mais-do-que-duplicaram-mas-apenas-1-em-cada-8-ciberataques-sao-bem-sucedidos"> <meta name="description" content="Estudo inquiriu 4.600 executivos da área da segurança de 15 países, que representam empresas com receitas anuais de mais de 800 milhões de euros"> <meta name="twitter:description" property="og:description" content="Estudo inquiriu 4.600 executivos da área da segurança de 15 países, que representam empresas com receitas anuais de mais de 800 milhões de euros"/> <meta name="twitter:image" property="og:image" content="http://images-cdn.impresa.pt/expresso/2017-12-07-computador/fb/wm"/><meta property="og:image:width" content="1200"/><meta property="og:image:height" content="630"/><meta name="twitter:card" content="summary"><meta property="og:type" content="article"><meta name="twitter:site" content="@expresso"/><meta property="og:site_name" content="Jornal Expresso"/><link rel="alternate" type="application/rss+xml" title="Expresso RSS" href="http://feeds.feedburner.com/expresso-geral"/> <meta property="impresa:id" content="fc116082-1cd5-44bc-a4ec-580fc46c8313"/> <meta property="impresa:type" content="ARTICLE"/> <meta property="impresa:publishedDate" content="2018-05-11T19:25:00.483Z"/> <script>
+        window.ImpresaAdTargeting = {"_":"economia_economia_tecnologia","url":"2018-05-11-Ataques-ciberneticos-mais-do-que-duplicaram-mas-apenas-1-em-cada-8-ciberataques-sao-bem-sucedidos","tag":""};
+    </script> </head><body class="skin-economia full-article "> <!--[if lt IE 8]>
+    <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a
+            href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+    <![endif]--> <div id="impresaBar" class="impresaBar"></div><script async>
+    require(['impresa-bars'], function (Bar) {
+        Bar.init("#impresaBar", {template: "expresso", active: "olimpia"});
+    });
+</script> <div class="headerElementsWrapper"> <div class="headerElements"> <ul class="headerTopLinks"> <li> <a href="http://promo.impresa.pt/cartaomx/COB7I.html" target="_blank">Assinar</a> </li> <li> <a href="https://loja.expresso.pt" target="_blank">Loja</a> </li> </ul> <section class="headerSocial"> <h2 class="socialLinksHeader">Siga-nos</h2><ul class="social"> <li class="facebook"> <a href="https://www.facebook.com/jornalexpresso" title="Facebook"><i class="icon icon-facebook"></i><span>Facebook</span></a> </li> <li class="twitter"> <a href="https://twitter.com/expresso" title="Twitter"><i class="icon icon-twitter"></i><span>Twitter</span></a> </li> <li class="rss"> <a href="http://feeds.feedburner.com/expresso-geral" title="RSS"><i class="icon icon-rss"></i><span>RSS</span></a> </li> </ul> </section> <div class="headerActions"> <p class="headerUser"> <button class="btn login js-loginButton" title="Login"><span>Login</span> <i class="icon icon-user"></i></button> <button class="btn logout js-logoutButton" title="Logout"><span>Logout</span></button> <a class="btn profile" href="https://perfil.impresa.pt" target="_blank" title="Perfil"><span>Perfil</span> <i class="icon icon-user"></i></a></p><script async>
+    require(['user'], function(User) {
+        User.update();
+    });
+</script> </div></div> </div> <div id="bsu_root"></div> <script async>
+        require(['parts/relative-times'], function(RelativeTimes) {
+            RelativeTimes.start(document, { selector: '.js-relative-time' });
+        });
+    </script> <div class="adContainer billboard" id="impresaBillboard"></div><script async>
+    require(['ipub'], function (Ads) {
+        Ads.register("#impresaBillboard", 'billboard');
+    });
+</script> <header class="mainHeader js-mainHeader"> <section class="headerTop"> <button class="menuTrigger js-menuTrigger" style="display: none;"><i class="icon icon-menu"></i><span>Menu</span></button> <h1 class="headerLogo"><a href="/economia">Economia</a></h1> <div class="headerRight"> <ul class="headerMajorLinks"> <li><a class="expresso" href="/destaques"><span>Expresso</span></a></li> <li><a class="diario" href="/diario" title="Diário"><span>Diário</span></a></li> <li><a class="semanario" href="/semanario" title="Semanário"><span>Semanário</span></a></li> </ul> </div> </section> <section class="headerNavigation js-headerNavigation" data-href="/api/molecule/header/navigation/"></section> <section class="subHeader" id="headerNavigationTarget"> <section class="default"></section> <section class="content"></section> </section></header><div class="js-header-target"></div><script async>
+    require(['jquery', 'widgets/visibility-checker', 'parts/header', 'parts/sidebar', 'widgets/content-loader'],
+            function($, VisibilityChecker, Header, Sidebar, ContentLoader) {
+                var $header = $('.js-mainHeader'),
+                    $menuTrigger = $header.find('.js-menuTrigger'),
+                    $parts = $header.find('.js-headerNavigation, .js-headerTopLinks');
+
+                                // Header Collapse
+                Header.start($header, {
+                    className: 'collapsedHeader',
+                    target: '.js-header-target',
+                    placeholder: true,
+                    placeholderClass: 'mainHeaderPlaceholder',
+                    placeholderOutClass: 'mainHeaderPlaceholderOut'
+                });
+                
+                                // Sidebar trigger
+                Sidebar.start($menuTrigger, {
+                    className: 'sideMenuIsExpanded',
+                    ignore: '.sideNavigation',
+                    scrollTarget: $header,
+                    targetSelector: '.js-sideNavigation'
+                });
+
+                // Show the menu trigger
+                $menuTrigger.show();
+                
+                // Load Header Parts
+                VisibilityChecker.start($parts, {
+                    onVisible: function($el) {
+                        this.stop();
+
+                        ContentLoader.start($el, {
+                            cache: true
+                        });
+                    }
+                });
+            });
+</script> <div class="adContainer pushdown homePushdown" id="pushdown"></div><script async>
+    require(['ipub'], function (Ads) {
+        Ads.register("#pushdown", 'pushdown');
+    });
+</script> <div class="wrapper"> <main class="mainContent"> <article itemscope itemtype="http://schema.org/NewsArticle" class="MC-ex_sections_25362 AT-noticia noPicture noLead notHeadline notIsolated"> <div class="innerMaster"> <section class="content halfWidth marginLess"> <div class="fullArticle"> <header> <p class="mainSection"> <a href="/economia/economia_tecnologia">Tecnologia</a></p> <h1 class="title " itemprop="name"> Ataques cibernéticos mais do que duplicaram mas apenas 1 em cada 8 ciberataques são bem-sucedidos </h1> <div class="articleToolsContainer"> <p class="timeStamp publishedDate" datetime="2018-05-11T19:25:00.483Z" itemprop="datePublished"> 11.05.2018 às 20h25</p> <ul class="shareTools " id="social-5af611fe6893d"> <li class="share-facebook"> <a href="http://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fexpresso.sapo.pt%2Feconomia%2Feconomia_tecnologia%2F2018-05-11-Ataques-ciberneticos-mais-do-que-duplicaram-mas-apenas-1-em-cada-8-ciberataques-sao-bem-sucedidos&amp;t=Ataques%20cibern%C3%A9ticos%20mais%20do%20que%20duplicaram%20mas%20apenas%201%20em%20cada%208%20ciberataques%20s%C3%A3o%20bem-sucedidos" data-type="facebook" class="shareToolsEntry js-share gs-foreign-tracking gs-provider-facebook" target="_blank" title="Facebook"> <i class="icon icon-facebook"></i> <span>Facebook</span> </a> </li> <li class="share-twitter"> <a href="http://twitter.com/intent/tweet?url=http%3A%2F%2Fexpresso.sapo.pt%2Feconomia%2Feconomia_tecnologia%2F2018-05-11-Ataques-ciberneticos-mais-do-que-duplicaram-mas-apenas-1-em-cada-8-ciberataques-sao-bem-sucedidos&amp;text=Ataques%20cibern%C3%A9ticos%20mais%20do%20que%20duplicaram%20mas%20apenas%201%20em%20cada%208%20ciberataques%20s%C3%A3o%20bem-sucedidos&amp;via=expresso" data-type="twitter" class="shareToolsEntry js-share gs-foreign-tracking gs-provider-twitter" target="_blank" title="Twitter"> <i class="icon icon-twitter"></i> <span>Twitter</span> </a> </li> <li class="share-mail"> <a href="mailto:?subject=Ataques%20cibern%C3%A9ticos%20mais%20do%20que%20duplicaram%20mas%20apenas%201%20em%20cada%208%20ciberataques%20s%C3%A3o%20bem-sucedidos&amp;body=Ataques%20cibern%C3%A9ticos%20mais%20do%20que%20duplicaram%20mas%20apenas%201%20em%20cada%208%20ciberataques%20s%C3%A3o%20bem-sucedidos%0D%0A%0D%0AEstudo%20inquiriu%204.600%20executivos%20da%20%C3%A1rea%20da%20seguran%C3%A7a%20de%2015%20pa%C3%ADses%2C%20que%20representam%20empresas%20com%20receitas%20anuais%20de%20mais%20de%20800%20milh%C3%B5es%20de%20euros%0D%0A%0D%0ALer mais: http%3A%2F%2Fexpresso.sapo.pt%2Feconomia%2Feconomia_tecnologia%2F2018-05-11-Ataques-ciberneticos-mais-do-que-duplicaram-mas-apenas-1-em-cada-8-ciberataques-sao-bem-sucedidos" data-type="email" title="Email" class="shareToolsEntry gs-foreign-tracking gs-provider-email"> <i class="icon icon-mail"></i> <span>Email</span> </a> </li> <li class="share-whatsapp"> <a href="whatsapp://send?text=Ataques%20cibern%C3%A9ticos%20mais%20do%20que%20duplicaram%20mas%20apenas%201%20em%20cada%208%20ciberataques%20s%C3%A3o%20bem-sucedidos%20http%3A%2F%2Fexpresso.sapo.pt%2Feconomia%2Feconomia_tecnologia%2F2018-05-11-Ataques-ciberneticos-mais-do-que-duplicaram-mas-apenas-1-em-cada-8-ciberataques-sao-bem-sucedidos" class="shareToolsEntry" data-type="whatsapp" target="_blank" title="Whatsapp" style="display:none"> <i class="icon icon-whatsapp"></i> <span>Whatsapp</span> </a> </li> <li class="share-showMore"> <div class="shareToolsEntry"> <i class="icon icon-dot-3"></i> <span>Mais</span> </div> <div class="moreShareTools"> <div class="moreShareToolsInner"> <ul> <li class="share-google+"> <a href="http://plus.google.com/share?url=http%3A%2F%2Fexpresso.sapo.pt%2Feconomia%2Feconomia_tecnologia%2F2018-05-11-Ataques-ciberneticos-mais-do-que-duplicaram-mas-apenas-1-em-cada-8-ciberataques-sao-bem-sucedidos" data-type="googleplus" class="shareToolsEntry js-share gs-foreign-tracking gs-provider-google" target="_blank" title="Google+"> <i class="icon icon-gplus"></i> <span>Google+</span> </a> </li> <li class="share-linkedin"> <a href="https://www.linkedin.com/shareArticle?mini=true&amp;title=Ataques%20cibern%C3%A9ticos%20mais%20do%20que%20duplicaram%20mas%20apenas%201%20em%20cada%208%20ciberataques%20s%C3%A3o%20bem-sucedidos&amp;summary=Estudo%20inquiriu%204.600%20executivos%20da%20%C3%A1rea%20da%20seguran%C3%A7a%20de%2015%20pa%C3%ADses%2C%20que%20representam%20empresas%20com%20receitas%20anuais%20de%20mais%20de%20800%20milh%C3%B5es%20de%20euros&amp;url=http%3A%2F%2Fexpresso.sapo.pt%2Feconomia%2Feconomia_tecnologia%2F2018-05-11-Ataques-ciberneticos-mais-do-que-duplicaram-mas-apenas-1-em-cada-8-ciberataques-sao-bem-sucedidos&amp;source=Expresso" data-type="linkedin" class="shareToolsEntry js-share gs-foreign-tracking gs-provider-linkedin" target="_blank" title="Linkedin"> <i class="icon icon-linkedin"></i> <span>Linkedin</span> </a> </li> <li class="share-pinterest"> <a href="https://www.pinterest.com/pin/create/link/?url=http%3A%2F%2Fexpresso.sapo.pt%2Feconomia%2Feconomia_tecnologia%2F2018-05-11-Ataques-ciberneticos-mais-do-que-duplicaram-mas-apenas-1-em-cada-8-ciberataques-sao-bem-sucedidos&amp;media=%2F%2Fimages-cdn.impresa.pt%2Fexpresso%2F2017-12-07-computador%3Fv%3Dw620h395&amp;description=Ataques%20cibern%C3%A9ticos%20mais%20do%20que%20duplicaram%20mas%20apenas%201%20em%20cada%208%20ciberataques%20s%C3%A3o%20bem-sucedidos" data-type="pinterest" class="shareToolsEntry js-share gs-foreign-tracking gs-provider-pinterest" target="_blank" title="Pinterest"> <i class="icon icon-pinterest"></i> <span>Pinterest</span> </a> </li> </ul> <div class="linkTool"> <p class="inputLabel">Link:</p> <div class="inputContainer"> <input aria-label="Link para partilha" readonly="readonly" class="url" type="text" value="http://expresso.sapo.pt/economia/economia_tecnologia/2018-05-11-Ataques-ciberneticos-mais-do-que-duplicaram-mas-apenas-1-em-cada-8-ciberataques-sao-bem-sucedidos" onclick="this.focus();this.select()"> </div> </div> </div> </div> </li> </ul><script async>
+    require(['widgets/social-share'], function (SocialShare) {
+        SocialShare.start('#social-5af611fe6893d');
+    });
+</script> </div></header> </div> </section> </div> <div class="innerMaster article-bottom"> <section class="content halfWidth content-top"> <div class="fullArticle"> <div class="afterHeader"> <figure> <picture class="landscape"> <img src="//images-cdn.impresa.pt/expresso/2017-12-07-computador/original/mw-860" alt="" class="js-lazy-picture" data-srcset="//images-cdn.impresa.pt/expresso/2017-12-07-computador/original/mw-240 240w, //images-cdn.impresa.pt/expresso/2017-12-07-computador/original/mw-320 320w, //images-cdn.impresa.pt/expresso/2017-12-07-computador/original/mw-480 480w, //images-cdn.impresa.pt/expresso/2017-12-07-computador/original/mw-680 680w, //images-cdn.impresa.pt/expresso/2017-12-07-computador/original/mw-768 768w, //images-cdn.impresa.pt/expresso/2017-12-07-computador/original/mw-860 860w, //images-cdn.impresa.pt/expresso/2017-12-07-computador/original/mw-960 960w, //images-cdn.impresa.pt/expresso/2017-12-07-computador/original/mw-1024 1024w, //images-cdn.impresa.pt/expresso/2017-12-07-computador/original/mw-1280 1280w, //images-cdn.impresa.pt/expresso/2017-12-07-computador/original/mw-1920 1920w, //images-cdn.impresa.pt/expresso/2017-12-07-computador/original/mw-2048 2048w" data-sizes="(min-width: 1280px) 860px, (min-width: 768px) 75vw, 100vw" /> </picture> <figcaption> <p class="caption">A programação é apontada como uma das profissões de futuro </p> <p class="credits">getty</p> </figcaption> </figure> <h2 class="lead"> Estudo inquiriu 4.600 executivos da área da segurança de 15 países, que representam empresas com receitas anuais de mais de 800 milhões de euros </h2></div><div class="articleSide"> <section class="signature singleAuthor"> <div class="authorContainer"> <p class="author"> Expresso </p> </div> </section> </div> <div class="adContainer atHomeFeed mrec onlyWithoutSidebar bottomLabel" id="Pub5af611fe690c6"> <div class="adWrapper" style="display:none;"></div> </div> <script async>
+            require(['ipub'], function (Ads) {
+                Ads.register("#Pub5af611fe690c6", 'mrec-alt', '#Pub5af611fe690c6 .adWrapper');
+            });
+        </script> <div class="articleContent"> <p>O número de ataques cibernéticos por organização mais do que duplicou. Apenas duas em cada cinco empresas estão atualmente a investir em tecnologias inovadoras de defesa. As organizações estão a melhorar o seu desempenho e previnem agora 87% de todos os ataques direcionados, quando comparados com os 70% registados em 2017.</p> <p>Estas são algumas das conclusões do estudo “<a href="https://www.accenture.com/us-en/insights/security/2018-state-of-cyber-resilience-index" target="_blank">2018 State of Cyber Resillience</a>”, desenvolvido pela Accenture, que inquiriu 4.600 executivos da área da segurança de 15 países, que representam empresas com receitas anuais de mais de 800 milhões de euros. O estudo foi realizado de janeiro a meados de março de 2018 e investigou ataques direcionados, definidos como tendo o potencial para penetrar as defesas de redes e causar danos, assim como extrair ativos e processos de alto valor dentro das organizações.</p> <p>Os resultados, embora alarmantes, sugerem melhorias e outras cautelas no que toca à segurança cibernética. O número médio de ataques cibernéticos direcionados por organização mais do que duplicou este ano, em comparação com os 12 meses anteriores: 232 até janeiro de 2018 vs. 106 até janeiro de 2017.</p> <p>O relatório mostra que, apesar do aumento de ameaças cibernéticas, as organizações estão a mostrar um maior sucesso na deteção e bloqueio destas ameaças. “Apenas um em cada oito ciberataques direcionados são bem-sucedidos contra um em cada três no ano passado, o que indica que as organizações estão a fazer um melhor trabalho na prevenção dos dados serem pirateados, roubados ou divulgados, refere Kelly Bissell, Managing Director da Accenture Security.</p> <p>Apesar das melhorias, o relatório nota que apenas duas em cada cinco empresas estão atualmente a investir em tecnologias inovadoras como machine learning, inteligência artificial e automação. Quanto ao tempo que demora a detectar uma falha de segurança, o relatório refere que se passou de meses e anos para dias e semanas.</p> <h2>Cinco dicas da Accenture para as organizações</h2> <p>1. Construir uma base sólida. Identifique ativos de alto valor e dê-lhes robustez. Assegure-se de que os controlos estão distribuídos na cadeia de valor organizacional e não apenas na função corporativa</p> <p>2. Testar a resiliência como um invasor. Melhore as red e blue teams de defesa com player-coaches que se movam entre eles e que forneçam análises indicando as melhorias que devem ser implementadas</p> <p>3. Utilizar tecnologias inovadoras. Aumente a capacidade de investimento para apostar em tecnologias que podem automatizar as suas defesas. Utilize recursos mecanizados de orquestração e análises avançadas de comportamento</p> <p>4. Ser proativo e detetar as ameaças. Com base em dados sobre ameaças, desenvolva estratégias e táticas adequadas ao seu ambiente para identificar potenciais riscos. Monitorize atividades anómalas nos pontos de ataques mais prováveis</p> <p>5. Contribuir para a evolução do papel de Diretor de Segurança de Informação. Promova o desenvolvimento da próxima geração de diretores de segurança de informação – imergindo nos negócios e equilibrando a segurança baseada na tolerância a riscos de negócio</p> </div><footer class="articleFooter"> <div class="articleToolsContainer"> <ul class="shareTools " id="social-5af611fe6930d"> <li class="share-facebook"> <a href="http://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fexpresso.sapo.pt%2Feconomia%2Feconomia_tecnologia%2F2018-05-11-Ataques-ciberneticos-mais-do-que-duplicaram-mas-apenas-1-em-cada-8-ciberataques-sao-bem-sucedidos&amp;t=Ataques%20cibern%C3%A9ticos%20mais%20do%20que%20duplicaram%20mas%20apenas%201%20em%20cada%208%20ciberataques%20s%C3%A3o%20bem-sucedidos" data-type="facebook" class="shareToolsEntry js-share gs-foreign-tracking gs-provider-facebook" target="_blank" title="Facebook"> <i class="icon icon-facebook"></i> <span>Facebook</span> </a> </li> <li class="share-twitter"> <a href="http://twitter.com/intent/tweet?url=http%3A%2F%2Fexpresso.sapo.pt%2Feconomia%2Feconomia_tecnologia%2F2018-05-11-Ataques-ciberneticos-mais-do-que-duplicaram-mas-apenas-1-em-cada-8-ciberataques-sao-bem-sucedidos&amp;text=Ataques%20cibern%C3%A9ticos%20mais%20do%20que%20duplicaram%20mas%20apenas%201%20em%20cada%208%20ciberataques%20s%C3%A3o%20bem-sucedidos&amp;via=expresso" data-type="twitter" class="shareToolsEntry js-share gs-foreign-tracking gs-provider-twitter" target="_blank" title="Twitter"> <i class="icon icon-twitter"></i> <span>Twitter</span> </a> </li> <li class="share-mail"> <a href="mailto:?subject=Ataques%20cibern%C3%A9ticos%20mais%20do%20que%20duplicaram%20mas%20apenas%201%20em%20cada%208%20ciberataques%20s%C3%A3o%20bem-sucedidos&amp;body=Ataques%20cibern%C3%A9ticos%20mais%20do%20que%20duplicaram%20mas%20apenas%201%20em%20cada%208%20ciberataques%20s%C3%A3o%20bem-sucedidos%0D%0A%0D%0AEstudo%20inquiriu%204.600%20executivos%20da%20%C3%A1rea%20da%20seguran%C3%A7a%20de%2015%20pa%C3%ADses%2C%20que%20representam%20empresas%20com%20receitas%20anuais%20de%20mais%20de%20800%20milh%C3%B5es%20de%20euros%0D%0A%0D%0ALer mais: http%3A%2F%2Fexpresso.sapo.pt%2Feconomia%2Feconomia_tecnologia%2F2018-05-11-Ataques-ciberneticos-mais-do-que-duplicaram-mas-apenas-1-em-cada-8-ciberataques-sao-bem-sucedidos" data-type="email" title="Email" class="shareToolsEntry gs-foreign-tracking gs-provider-email"> <i class="icon icon-mail"></i> <span>Email</span> </a> </li> <li class="share-whatsapp"> <a href="whatsapp://send?text=Ataques%20cibern%C3%A9ticos%20mais%20do%20que%20duplicaram%20mas%20apenas%201%20em%20cada%208%20ciberataques%20s%C3%A3o%20bem-sucedidos%20http%3A%2F%2Fexpresso.sapo.pt%2Feconomia%2Feconomia_tecnologia%2F2018-05-11-Ataques-ciberneticos-mais-do-que-duplicaram-mas-apenas-1-em-cada-8-ciberataques-sao-bem-sucedidos" class="shareToolsEntry" data-type="whatsapp" target="_blank" title="Whatsapp" style="display:none"> <i class="icon icon-whatsapp"></i> <span>Whatsapp</span> </a> </li> <li class="share-showMore"> <div class="shareToolsEntry"> <i class="icon icon-dot-3"></i> <span>Mais</span> </div> <div class="moreShareTools"> <div class="moreShareToolsInner"> <ul> <li class="share-google+"> <a href="http://plus.google.com/share?url=http%3A%2F%2Fexpresso.sapo.pt%2Feconomia%2Feconomia_tecnologia%2F2018-05-11-Ataques-ciberneticos-mais-do-que-duplicaram-mas-apenas-1-em-cada-8-ciberataques-sao-bem-sucedidos" data-type="googleplus" class="shareToolsEntry js-share gs-foreign-tracking gs-provider-google" target="_blank" title="Google+"> <i class="icon icon-gplus"></i> <span>Google+</span> </a> </li> <li class="share-linkedin"> <a href="https://www.linkedin.com/shareArticle?mini=true&amp;title=Ataques%20cibern%C3%A9ticos%20mais%20do%20que%20duplicaram%20mas%20apenas%201%20em%20cada%208%20ciberataques%20s%C3%A3o%20bem-sucedidos&amp;summary=Estudo%20inquiriu%204.600%20executivos%20da%20%C3%A1rea%20da%20seguran%C3%A7a%20de%2015%20pa%C3%ADses%2C%20que%20representam%20empresas%20com%20receitas%20anuais%20de%20mais%20de%20800%20milh%C3%B5es%20de%20euros&amp;url=http%3A%2F%2Fexpresso.sapo.pt%2Feconomia%2Feconomia_tecnologia%2F2018-05-11-Ataques-ciberneticos-mais-do-que-duplicaram-mas-apenas-1-em-cada-8-ciberataques-sao-bem-sucedidos&amp;source=Expresso" data-type="linkedin" class="shareToolsEntry js-share gs-foreign-tracking gs-provider-linkedin" target="_blank" title="Linkedin"> <i class="icon icon-linkedin"></i> <span>Linkedin</span> </a> </li> <li class="share-pinterest"> <a href="https://www.pinterest.com/pin/create/link/?url=http%3A%2F%2Fexpresso.sapo.pt%2Feconomia%2Feconomia_tecnologia%2F2018-05-11-Ataques-ciberneticos-mais-do-que-duplicaram-mas-apenas-1-em-cada-8-ciberataques-sao-bem-sucedidos&amp;media=%2F%2Fimages-cdn.impresa.pt%2Fexpresso%2F2017-12-07-computador%3Fv%3Dw620h395&amp;description=Ataques%20cibern%C3%A9ticos%20mais%20do%20que%20duplicaram%20mas%20apenas%201%20em%20cada%208%20ciberataques%20s%C3%A3o%20bem-sucedidos" data-type="pinterest" class="shareToolsEntry js-share gs-foreign-tracking gs-provider-pinterest" target="_blank" title="Pinterest"> <i class="icon icon-pinterest"></i> <span>Pinterest</span> </a> </li> </ul> <div class="linkTool"> <p class="inputLabel">Link:</p> <div class="inputContainer"> <input aria-label="Link para partilha" readonly="readonly" class="url" type="text" value="http://expresso.sapo.pt/economia/economia_tecnologia/2018-05-11-Ataques-ciberneticos-mais-do-que-duplicaram-mas-apenas-1-em-cada-8-ciberataques-sao-bem-sucedidos" onclick="this.focus();this.select()"> </div> </div> </div> </div> </li> </ul><script async>
+    require(['widgets/social-share'], function (SocialShare) {
+        SocialShare.start('#social-5af611fe6930d');
+    });
+</script> </div></footer> </div> <div class="adContainer autopromo"> <div id="Pub5af611fe6941b" class="adWrapper"></div> <script async>
+            require(['ipub'], function (Ads) {
+                Ads.register("#Pub5af611fe6941b", "ad-slot");
+            });
+        </script> </div> </section> <section class="rightSidebar js-sidebar js-right-sidebar article-top" id="rightSidebar5af611fe6961a" data-ads-section="/economia/economia_tecnologia" data-href="/api/molecule/sidebar/top?location=site"> <div class="placeholder mrec"></div> <div class="placeholder"> <span></span> <span></span> </div> <script async>
+            require(['widgets/visibility-checker', 'widgets/content-loader'],
+                    function(VisibilityChecker, ContentLoader) {
+                        // Load Sidebar Parts
+                        VisibilityChecker.start("#rightSidebar5af611fe6961a", {
+                            viewport: false,
+                            onVisible: function($el) {
+                                this.stop();
+
+                                ContentLoader.start($el, {
+                                    cache: true
+                                });
+                            }
+                        });
+                    });
+        </script> </section> </div> </article> <div class="innerMaster"> <section class="content halfWidth"> <div class="adContainer atHomeFeed mrec onlyWithoutSidebar" id="Pub5af611fe696dc"> <div class="adWrapper" style="display:none;"></div> </div> <script async>
+            require(['ipub'], function (Ads) {
+                Ads.register("#Pub5af611fe696dc", 'mrec', '#Pub5af611fe696dc .adWrapper');
+            });
+        </script> <div id="List5af611fe6986f" data-href="/api/molecule/recommendation"> <div class="loading js-loader" style="display: none; margin-bottom:40px">A carregar...</div> </div> <script async>
+        require(['parts/recommended-priberam'], function(RecommendedPriberam) {
+            RecommendedPriberam.start('#List5af611fe6986f', {
+                'limit': 3,
+                'articleId': 'fc116082-1cd5-44bc-a4ec-580fc46c8313'
+            });
+        });
+    </script> <div class="adContainer revcontent" id="revContent"></div><script async>
+    require(['ipub'], function (Ads) {
+        Ads.register("#revContent", 'revcontent');
+    });
+</script> <div id="homeLatest" data-href="/api/molecule/latest//economia/economia_tecnologia"> <div class="js-container inArticleContext"></div> <button class="js-more moreButton" style="display: none">Mais Artigos</button> <div class="loading js-loader" style="display: none; margin-bottom:40px">a carregar...</div></div><script async>
+    require(['parts/latest'], function(InfiniteScroll) {
+        InfiniteScroll.start('#homeLatest', {
+            'auto': true,
+            'title': 'Tecnologia',
+            'offset-attribute': 'datetime',
+            'more-selector': '.js-more',
+            'loader-selector': '.js-loader',
+            'container-selector': '.js-container'
+        });
+    });
+</script> </section> <section class="rightSidebar js-sidebar js-right-sidebar article-bottom" id="rightSidebar5af611fe69b1d" data-ads-section="/economia/economia_tecnologia" data-href="/api/molecule/sidebar/bottom?location=site"> <div class="placeholder"> <span></span> <span></span> </div> <script async>
+            require(['widgets/visibility-checker', 'widgets/content-loader'],
+                    function(VisibilityChecker, ContentLoader) {
+                        // Load Sidebar Parts
+                        VisibilityChecker.start("#rightSidebar5af611fe69b1d", {
+                            viewport: false,
+                            onVisible: function($el) {
+                                this.stop();
+
+                                ContentLoader.start($el, {
+                                    cache: true
+                                });
+                            }
+                        });
+                    });
+        </script> </section><script async>
+    require(['parts/sticky-scroll'], function(StickyScroll) {
+        StickyScroll.start("#rightSidebar5af611fe69b1d", {
+            infinite: 1
+        });
+    });
+</script> </div> </main> <nav class="sideNavigation js-sideNavigation"> <div class="inner"> <div class="sidenavActions"> <form class="sidenavSearch search-bar" action="/pesquisa" > <div class="search-input-wrap"> <input type="search" placeholder="Pesquisa" class="search-input" name="q" value=""/> </div> <button type="submit" title="Pesquisar" class="search-submit icon icon-search"><span>Pesquisar</span></button> </form> <p class="sidenavUser"> <button class="btn login js-loginButton" title="Login"><span>Login</span> <i class="icon icon-user"></i></button> <button class="btn register js-registerButton" title="Registo"><span>Registo</span> <i class="icon icon-user"></i></button> <button class="btn logout js-logoutButton" title="Logout"><span>Logout</span></button> <a class="btn profile" href="https://perfil.impresa.pt" target="_blank" title="Perfil"><span>Perfil</span> <i class="icon icon-user"></i></a> </p> <script async>
+    require(['user'], function(User) {
+        User.update();
+    });
+</script> </div> <section > <h2>Edições</h2> <ul> <li><a href="/diario" >Diário</a> </li> <li><a href="/semanario" >Semanário</a> </li> <li><a href="/newsletters/expressomatinal" >Expresso Curto</a> </li> <li><a href="/podcasts" >Podcasts</a> </li> <li><a href="http://tribuna.expresso.pt" >Tribuna</a> </li> </ul> </section> <section > <h2>Secções</h2> <ul> <li><a href="/destaques" >Início</a> </li> <li><a href="/ultimas" >Últimas</a> </li> <li><a href="/ineditos" >Inéditos</a> </li> <li><a href="/multimedia" >Multimédia</a> </li> <li><a href="/politica" >Política</a> </li> <li><a href="/sociedade" >Sociedade</a> </li> <li><a href="/internacional" >Internacional</a> </li> <li><a href="/economia" >Economia</a> </li> <li><a href="http://tribuna.expresso.pt" >Desporto</a> </li> <li><a href="/cultura" >Cultura</a> </li> <li><a href="/opiniao" >Opinião</a> </li> <li><a href="/gen.pl?sid=ex.sections/25024&amp;amp;m2=48" >Cartoons</a> </li> <li><a href="/gen.pl?sid=ex.sections/23425&amp;amp;m2=45" >Está dito</a> </li> </ul> </section> <section > <h2>Iniciativas</h2> <ul> <li><a href="/economia/gic" >Global Investment Challenge</a> </li> <li><a href="/iniciativaseprodutos/entrepreneur-of-the-year" >Entrepreneur Of The Year</a> </li> </ul> </section> <section > <h2>Classificados</h2> <ul> <li><a href="http://expressoemprego.pt/" target="_blank">Emprego</a> </li> <li><a href="http://bpiexpressoimobiliario.pt/" target="_blank">Imobiliário</a> </li> </ul> </section> <section class="meta"> <h2 class="socialLinksHeader">Siga-nos</h2><ul class="social"> <li class="facebook"> <a href="https://www.facebook.com/jornalexpresso" title="Facebook"><i class="icon icon-facebook"></i><span>Facebook</span></a> </li> <li class="twitter"> <a href="https://twitter.com/expresso" title="Twitter"><i class="icon icon-twitter"></i><span>Twitter</span></a> </li> <li class="googlePlus"> <a href="https://plus.google.com/110189231159586871953/posts" title="Google+"><i class="icon icon-gplus"></i><span>Google+</span></a> </li> <li class="linkedIn"> <a href="https://www.linkedin.com/company/expresso-emprego" title="LinkedIn"><i class="icon icon-linkedin"></i><span>LinkedIn</span></a> </li> <li class="rss"> <a href="http://feeds.feedburner.com/expresso-geral" title="RSS"><i class="icon icon-rss"></i><span>RSS</span></a> </li> </ul> <ul class="institucional"> <li><a href="/gen.pl?p=stories&amp;fokey=ex.stories/774690&amp;op=view&amp;mid1=ex.menus/66&amp;m2=487" >Estatuto editorial</a> </li> <li><a href="/gen.pl?p=stories&amp;fokey=ex.stories/198040&amp;op=view&amp;mid1=ex.menus/66&amp;m2=487" >Código de Conduta</a> </li> <li><a href="/gen.pl?p=stories&amp;fokey=ex.stories/774685&amp;op=view&amp;mid1=ex.menus/66&amp;m2=488" >Ficha Técnica do Expresso</a> </li> <li><a href="/informacao/cookies/2015-05-03-Politica-de-cookies" >Política de cookies</a> </li> <li><a href="/arquivo/paginas_institucionais/termos_de_utilizacao/2015-05-03-Termos-de-Utilizacao-1" >Termos de utilização</a> </li> <li><a href="/informacao/PolticadePrivacidade/2015-05-04-Politica-de-privacidade" >Política de privacidade</a> </li> <li><a href="/regras-da-comunidade=f740487" >Regras da Comunidade</a> </li> <li><a href="/gen.pl?p=stories&amp;op=view&amp;fokey=ex.stories/723177" >Publicidade</a> </li> <li><a href="/contactos-directos=f774722" >Contactos</a> </li> <li><a href="http://www.impresa.pt/lei782015" target="_blank">Lei da Transparência</a> </li> <li><a href="http://promo.impresa.pt/cartaomx/COB7I.html" target="_blank">Assinar</a> </li> <li><a href="/cartas-ao-diretor" >Cartas ao Director</a> </li> <li><a href="https://loja.expresso.pt" target="_blank">Loja</a> </li> </ul> <p class="copyright">&copy; Expresso Impresa Publishing S.A.</p> </section> <section class="footerImpresaContainer"> <div id="impresaFooter"></div> <script>
+                require(['impresa-footer'], function(Lib) {
+                    Lib.init('#impresaFooter',{responsive:false});
+                });
+            </script> </section> </div> <script async>
+        require(['jquery', 'parts/scroll-binder'], function ($, ScrollBinder) {
+            var $el = $('.js-sideNavigation');
+
+            ScrollBinder.start($el, {
+                scroller: $el.find('.inner'),
+                mq: '(min-width: 768px)'
+            });
+        });
+    </script></nav> </div> <script async>
+                require(['ipub'], function(Ads) {
+                    Ads.enableOverlay("/1058775/Expresso_Overlay");
+                });
+            </script> <script async>
+    require(['impresa-cookie-policy'], function(Lib) {
+        Lib.init("body", {
+            policyUrl: "/informacao/cookies/2015-05-03-Politica-de-cookies",
+            usageUrl: "/informacao/cookies/2015-05-03-Politica-de-cookies"
+        });
+    });
+</script> <div class="adContainer sniffer" id="Pub5af611fe6a01d"></div><script async>
+    require(['ipub'], function (Ads) {
+        Ads.register("#Pub5af611fe6a01d", 'xaxis');
+    });
+</script> <div class="adContainer sniffer" id="Pub5af611fe6a064"></div><script async>
+    require(['ipub'], function (Ads) {
+        Ads.register("#Pub5af611fe6a064", 'tracking');
+    });
+</script> <script async>
+            require(['parts/ads-setup'], function (Ads) {
+                Ads.run({"siteId":89002,"pageId":618887,"revcontent":{"widgetId":84556}});
+            });
+        </script> <script async>
+            require(['parts/push-notifications'], function (PushNotifications) {
+                PushNotifications.start('body', {
+                    onesignal: {"subdomainName":"expresso","appId":"14f37390-73dd-4ccf-9a46-0384a2846344","safari_web_id":"web.onesignal.auto.560021c2-877c-448b-9811-f001e7b5ec58"}
+                });
+            });
+        </script> </body></html>
