@@ -34,7 +34,7 @@ stopPortuguesesFicheiro = open('portugues/stopwords.txt')
 stopPtSet = set()
 for row in stopPortuguesesFicheiro:
     stopPtSet.add(row.split('\n')[0])
-
+conetoresNomes = ['de','da','dos','das','do']
 
 #_____________________________________________________________________
 
@@ -46,11 +46,8 @@ def previous_and_next(some_iterable):
     return zip(prevs, items, nexts)
 
 
-
-onlyfiles = [f for f in listdir('obter_colecoes/[PT] Diario de Noticias/noticias/') if isfile(join('obter_colecoes/[PT] Diario de Noticias/noticias/',f))]
-
-conetoresNomes = ['de','da','dos','das','do']
-
+#______________________DIARIO DE NOTICIAS_______________________________
+"""onlyfiles = [f for f in listdir('obter_colecoes/[PT] Diario de Noticias/noticias/') if isfile(join('obter_colecoes/[PT] Diario de Noticias/noticias/',f))]
 dict_DN = {}
 for filename in onlyfiles:
     aux_set = set ()
@@ -86,7 +83,14 @@ for filename in onlyfiles:
                             aux_set.add(nome_completo)
                
 
-            dataAsKey = (data.split('/')[0]).strip('\n') 
+
+            dataAsKey = ((data.split('/')[0]).strip('\n')).strip()
+            c = dataAsKey.split(',')
+            if len(c)>1:
+                c = c[1].strip().split(' ')
+                dataAsKey = c[0] + ' ' + c[1] + ' ' + c[2]
+            
+            
             if dataAsKey in dict_DN: 
                 for elem in aux_set:
                     dict_DN[dataAsKey].append(elem)
@@ -102,5 +106,188 @@ for filename in onlyfiles:
 print(dict_DN) 
 json = json.dumps(dict_DN)
 f=open("DN.json","w")
+f.write(json)
+f.close()
+
+"""
+#________________________________JORNAL DE ANGOLA_________________________________________-
+"""onlyfiles = [f for f in listdir('obter_colecoes/[AGO] jornal angola/noticias/') if isfile(join('obter_colecoes/[AGO] jornal angola/noticias/',f))]
+dict_JA = {}
+for filename in onlyfiles:
+    aux_set = set ()
+    #print(filename)
+    path= 'obter_colecoes/[AGO] jornal angola/noticias/' + filename
+    tree = ET.parse(path)
+    root = tree.getroot()
+    data = "data Null"
+    for child in root:
+        if child.tag == "Date":
+            data = child.text
+
+        if child.tag == "Text":
+            tokens = nltk.word_tokenize(child.text)
+            #for pal in tokens:
+            for previous, item, nxt in previous_and_next(tokens):
+                if item[0].isupper() and item.upper() in nomesPtSet:
+                    #nomeProprio + (nomeProprio || apelido)
+                    if nxt.upper() in apelidosPtSet or nxt.upper() in nomesPtSet:
+                        nome_completo = item + ' ' + nxt
+                        aux_set.add(nome_completo)                       
+                    else:
+                        #se nao tem nome nem atras nem à frente
+                        if previous:
+                            if previous.upper() not in nomesPtSet:
+                                aux_set.add(item)
+                     
+                #se anterior for nome e seguinte tambem nome_completo
+                else:
+                    if item in conetoresNomes:
+                        if previous.upper() in nomesPtSet and (nxt.upper() in nomesPtSet or nxt.upper() in apelidosPtSet) and previous[0].isupper():
+                            nome_completo = previous + ' ' + item + ' ' + nxt
+                            aux_set.add(nome_completo)
+               
+            #Antes: "Sexta, 04 de Maio 2018 22:38"
+            #Depois: "04 Mai 2018"
+            aux = (data.split(' '))
+            dataAsKey = aux[1] + ' ' + aux[3][:3] + ' ' + aux[4]
+            
+            
+            if dataAsKey in dict_JA: 
+                for elem in aux_set:
+                    dict_JA[dataAsKey].append(elem)
+            else:
+                dict_JA[dataAsKey] = []
+                for elem in aux_set:
+                    dict_JA[dataAsKey].append(elem)
+            #print('-------------')
+            #print('PERSONS [DN] : ' + data.split('/')[0])
+            #for pal in aux_set:
+                #print(pal)
+
+print(dict_JA) 
+json = json.dumps(dict_JA)
+f=open("JA.json","w")
+f.write(json)
+f.close()"""
+
+#_________________________CABO VERDE - A semana______________________________-
+
+"""onlyfiles = [f for f in listdir('obter_colecoes/[CV] A_Semana/noticias/') if isfile(join('obter_colecoes/[CV] A_Semana/noticias/',f))]
+dict_AS = {}
+for filename in onlyfiles:
+    aux_set = set ()
+    #print(filename)
+    path= 'obter_colecoes/[CV] A_Semana/noticias/' + filename
+    tree = ET.parse(path)
+    root = tree.getroot()
+    data = "data Null"
+    for child in root:
+        if child.tag == "Date":
+            data = child.text
+
+        if child.tag == "Text":
+            tokens = nltk.word_tokenize(child.text)
+            #for pal in tokens:
+            for previous, item, nxt in previous_and_next(tokens):
+                if item[0].isupper() and item.upper() in nomesPtSet:
+                    #nomeProprio + (nomeProprio || apelido)
+                    if nxt.upper() in apelidosPtSet or nxt.upper() in nomesPtSet:
+                        nome_completo = item + ' ' + nxt
+                        aux_set.add(nome_completo)                       
+                    else:
+                        #se nao tem nome nem atras nem à frente
+                        if previous:
+                            if previous.upper() not in nomesPtSet:
+                                aux_set.add(item)
+                     
+                #se anterior for nome e seguinte tambem nome_completo
+                else:
+                    if item in conetoresNomes:
+                        if previous.upper() in nomesPtSet and (nxt.upper() in nomesPtSet or nxt.upper() in apelidosPtSet) and previous[0].isupper():
+                            nome_completo = previous + ' ' + item + ' ' + nxt
+                            aux_set.add(nome_completo)
+               
+            #Antes: "\n02 Maio 2018\n"
+            #Depois: "02 Mai 2018"
+            aux = (data.split(' '))
+            dataAsKey = aux[0].strip('\n') + ' ' + aux[1][:3] + ' ' + aux[2].strip('\n')
+            
+            
+            if dataAsKey in dict_AS: 
+                for elem in aux_set:
+                    dict_AS[dataAsKey].append(elem)
+            else:
+                dict_AS[dataAsKey] = []
+                for elem in aux_set:
+                    dict_AS[dataAsKey].append(elem)
+            #print('-------------')
+            #print('PERSONS [DN] : ' + data.split('/')[0])
+            #for pal in aux_set:
+                #print(pal)
+
+print(dict_AS) 
+json = json.dumps(dict_AS)
+f=open("AS.json","w")
+f.write(json)
+f.close()"""
+
+
+#______________________________S.TOME - Tela_Non________________________
+onlyfiles = [f for f in listdir('obter_colecoes/[ST] Tela_Non/noticias/') if isfile(join('obter_colecoes/[ST] Tela_Non/noticias/',f))]
+dict_TN = {}
+for filename in onlyfiles:
+    aux_set = set ()
+    #print(filename)
+    path= 'obter_colecoes/[ST] Tela_Non/noticias/' + filename
+    tree = ET.parse(path)
+    root = tree.getroot()
+    data = "data Null"
+    for child in root:
+        if child.tag == "Date":
+            data = child.text
+
+        if child.tag == "Text":
+            tokens = nltk.word_tokenize(child.text)
+            #for pal in tokens:
+            for previous, item, nxt in previous_and_next(tokens):
+                if item[0].isupper() and item.upper() in nomesPtSet:
+                    #nomeProprio + (nomeProprio || apelido)
+                    if nxt.upper() in apelidosPtSet or nxt.upper() in nomesPtSet:
+                        nome_completo = item + ' ' + nxt
+                        aux_set.add(nome_completo)                       
+                    else:
+                        #se nao tem nome nem atras nem à frente
+                        if previous:
+                            if previous.upper() not in nomesPtSet:
+                                aux_set.add(item)
+                     
+                #se anterior for nome e seguinte tambem nome_completo
+                else:
+                    if item in conetoresNomes:
+                        if previous.upper() in nomesPtSet and (nxt.upper() in nomesPtSet or nxt.upper() in apelidosPtSet) and previous[0].isupper():
+                            nome_completo = previous + ' ' + item + ' ' + nxt
+                            aux_set.add(nome_completo)
+               
+            #Antes: "\n02 Maio 2018\n"
+            #Depois: "02 Mai 2018"
+            aux = (data.split(' '))
+            dataAsKey = aux[0].strip('\n') + ' ' + aux[1][:3] + ' ' + aux[2].strip('\n')
+            
+            
+            if dataAsKey in dict_TN: 
+                for elem in aux_set:
+                    dict_TN[dataAsKey].append(elem)
+            else:
+                dict_TN[dataAsKey] = []
+                for elem in aux_set:
+                    dict_TN[dataAsKey].append(elem)
+            #print('-------------')
+            #print('PERSONS [DN] : ' + data.split('/')[0])
+            #for pal in aux_set:
+                #print(pal)
+
+print(dict_TN) 
+json = json.dumps(dict_TN)
+f=open("ST_TN.json","w")
 f.write(json)
 f.close()
