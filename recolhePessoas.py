@@ -14,15 +14,18 @@ pp = pprint.PrettyPrinter(indent=4)
 
 #___________________CRIACAO DE SETs com NOMES, APELIDOS e stopWords PORTUGUESES_____________
     #nomes proprios
-nomePortuguesesFicheiro = open('nomes e palavras/nomes_proprios.tsv')
+nomePortuguesesFicheiro = open('nomes_e_palavras/nomes_proprios.tsv',encoding="utf8")
 nomePtReader = csv.DictReader(nomePortuguesesFicheiro,delimiter='\t',fieldnames=['nome','numero'])
 
 nomesPtSet = set()
+i=0
 for row in nomePtReader:
+    i+=1
+    print(i)
     nomesPtSet.add(row['nome'])
 
     #apelidos
-apelidosPortuguesesFicheiro = open('nomes e palavras/apelidos.tsv')
+apelidosPortuguesesFicheiro = open('nomes_e_palavras/apelidos.tsv',encoding="utf8")
 apelidoPtReader = csv.DictReader(apelidosPortuguesesFicheiro,delimiter='\t',fieldnames=['apelido','numero'])
 
 apelidosPtSet = set()
@@ -30,7 +33,7 @@ for row in apelidoPtReader:
     apelidosPtSet.add(row['apelido'])
 
     #stopwords portuguesas
-stopPortuguesesFicheiro = open('nomes e palavras/stopwords.txt')
+stopPortuguesesFicheiro = open('nomes_e_palavras/stopwords.txt')
 stopPtSet = set()
 for row in stopPortuguesesFicheiro:
     stopPtSet.add(row.split('\n')[0])
@@ -51,7 +54,7 @@ def previous_and_next(some_iterable):
 dict_DN = {}
 for filename in onlyfiles:
     aux_set = set ()
-    #print(filename)
+    print(filename)
     path= 'obter_colecoes/[PT] Diario de Noticias/noticias/' + filename
     tree = ET.parse(path)
     root = tree.getroot()
@@ -108,8 +111,8 @@ json = json.dumps(dict_DN)
 f=open("DN.json","w")
 f.write(json)
 f.close()
-
 """
+
 """#________________________________JORNAL DE ANGOLA_________________________________________-
 onlyfiles = [f for f in listdir('obter_colecoes/[AGO] jornal angola/noticias/') if isfile(join('obter_colecoes/[AGO] jornal angola/noticias/',f))]
 dict_JA = {}
@@ -293,7 +296,7 @@ f.write(json)
 f.close()"""
 
 #___________________________________TIMOR LESTE _______________________________________-
-onlyfiles = [f for f in listdir('obter_colecoes/[TL] Governo Timor-Leste/noticias/') if isfile(join('obter_colecoes/[TL] Governo Timor-Leste/noticias/',f))]
+"""onlyfiles = [f for f in listdir('obter_colecoes/[TL] Governo Timor-Leste/noticias/') if isfile(join('obter_colecoes/[TL] Governo Timor-Leste/noticias/',f))]
 dict_TLEST = {}
 for filename in onlyfiles:
     aux_set = set ()
@@ -350,4 +353,4 @@ print(dict_TLEST)
 json = json.dumps(dict_TLEST)
 f=open("TL_TLEST.json","w")
 f.write(json)
-f.close()
+f.close()"""
