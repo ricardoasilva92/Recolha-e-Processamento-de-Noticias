@@ -1,4 +1,0 @@
-If you prefer to compile boost, icu and zlib yourself, it is also possible.
-      But it is something out of the scope of this README.
-      If you do, make sure to put the headers and binaries of the compiled libraries
-      in folder "dependencies" with the same structure than FreeLing binary package 

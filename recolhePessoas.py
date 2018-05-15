@@ -14,7 +14,7 @@ pp = pprint.PrettyPrinter(indent=4)
 
 #___________________CRIACAO DE SETs com NOMES, APELIDOS e stopWords PORTUGUESES_____________
     #nomes proprios
-nomePortuguesesFicheiro = open('portugues/nomes_proprios.tsv')
+nomePortuguesesFicheiro = open('nomes e palavras/nomes_proprios.tsv')
 nomePtReader = csv.DictReader(nomePortuguesesFicheiro,delimiter='\t',fieldnames=['nome','numero'])
 
 nomesPtSet = set()
@@ -22,7 +22,7 @@ for row in nomePtReader:
     nomesPtSet.add(row['nome'])
 
     #apelidos
-apelidosPortuguesesFicheiro = open('portugues/apelidos.tsv')
+apelidosPortuguesesFicheiro = open('nomes e palavras/apelidos.tsv')
 apelidoPtReader = csv.DictReader(apelidosPortuguesesFicheiro,delimiter='\t',fieldnames=['apelido','numero'])
 
 apelidosPtSet = set()
@@ -30,7 +30,7 @@ for row in apelidoPtReader:
     apelidosPtSet.add(row['apelido'])
 
     #stopwords portuguesas
-stopPortuguesesFicheiro = open('portugues/stopwords.txt')
+stopPortuguesesFicheiro = open('nomes e palavras/stopwords.txt')
 stopPtSet = set()
 for row in stopPortuguesesFicheiro:
     stopPtSet.add(row.split('\n')[0])
@@ -110,8 +110,8 @@ f.write(json)
 f.close()
 
 """
-#________________________________JORNAL DE ANGOLA_________________________________________-
-"""onlyfiles = [f for f in listdir('obter_colecoes/[AGO] jornal angola/noticias/') if isfile(join('obter_colecoes/[AGO] jornal angola/noticias/',f))]
+"""#________________________________JORNAL DE ANGOLA_________________________________________-
+onlyfiles = [f for f in listdir('obter_colecoes/[AGO] jornal angola/noticias/') if isfile(join('obter_colecoes/[AGO] jornal angola/noticias/',f))]
 dict_JA = {}
 for filename in onlyfiles:
     aux_set = set ()
@@ -233,7 +233,7 @@ f.close()"""
 
 
 #______________________________S.TOME - Tela_Non________________________
-onlyfiles = [f for f in listdir('obter_colecoes/[ST] Tela_Non/noticias/') if isfile(join('obter_colecoes/[ST] Tela_Non/noticias/',f))]
+"""onlyfiles = [f for f in listdir('obter_colecoes/[ST] Tela_Non/noticias/') if isfile(join('obter_colecoes/[ST] Tela_Non/noticias/',f))]
 dict_TN = {}
 for filename in onlyfiles:
     aux_set = set ()
@@ -289,5 +289,65 @@ for filename in onlyfiles:
 print(dict_TN) 
 json = json.dumps(dict_TN)
 f=open("ST_TN.json","w")
+f.write(json)
+f.close()"""
+
+#___________________________________TIMOR LESTE _______________________________________-
+onlyfiles = [f for f in listdir('obter_colecoes/[TL] Governo Timor-Leste/noticias/') if isfile(join('obter_colecoes/[TL] Governo Timor-Leste/noticias/',f))]
+dict_TLEST = {}
+for filename in onlyfiles:
+    aux_set = set ()
+    #print(filename)
+    path= 'obter_colecoes/[TL] Governo Timor-Leste/noticias/' + filename
+    tree = ET.parse(path)
+    root = tree.getroot()
+    data = "data Null"
+    for child in root:
+        if child.tag == "Date":
+            data = child.text
+
+        if child.tag == "Text":
+            tokens = nltk.word_tokenize(child.text)
+            #for pal in tokens:
+            for previous, item, nxt in previous_and_next(tokens):
+                if item[0].isupper() and item.upper() in nomesPtSet:
+                    #nomeProprio + (nomeProprio || apelido)
+                    if nxt.upper() in apelidosPtSet or nxt.upper() in nomesPtSet:
+                        nome_completo = item + ' ' + nxt
+                        aux_set.add(nome_completo)                       
+                    else:
+                        #se nao tem nome nem atras nem à frente
+                        if previous:
+                            if previous.upper() not in nomesPtSet:
+                                aux_set.add(item)
+                     
+                #se anterior for nome e seguinte tambem nome_completo
+                else:
+                    if item in conetoresNomes:
+                        if previous.upper() in nomesPtSet and (nxt.upper() in nomesPtSet or nxt.upper() in apelidosPtSet) and previous[0].isupper():
+                            nome_completo = previous + ' ' + item + ' ' + nxt
+                            aux_set.add(nome_completo)
+               
+            #Antes: "\nSeg. 19 de março de 2018, 10:35h\n"
+            #Depois: "19 Mar 2018"
+            aux = (data.split(' '))
+            dataAsKey = aux[1] + ' ' + (aux[3][:3]).title() + ' ' + aux[5].strip(',')
+            
+            
+            if dataAsKey in dict_TLEST: 
+                for elem in aux_set:
+                    dict_TLEST[dataAsKey].append(elem)
+            else:
+                dict_TLEST[dataAsKey] = []
+                for elem in aux_set:
+                    dict_TLEST[dataAsKey].append(elem)
+            #print('-------------')
+            #print('PERSONS [DN] : ' + data.split('/')[0])
+            #for pal in aux_set:
+                #print(pal)
+
+print(dict_TLEST) 
+json = json.dumps(dict_TLEST)
+f=open("TL_TLEST.json","w")
 f.write(json)
 f.close()
