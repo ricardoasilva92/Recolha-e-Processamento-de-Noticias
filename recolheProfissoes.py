@@ -50,6 +50,11 @@ worldCitiesSet = set()
 for row in worldCitiesFicheiro:
     worldCitiesSet.add(row.split('\n')[0])
 
+temasFicheiro = open('nomes_e_palavras/temas.txt',encoding="utf8")
+temasSet = set()
+for row in temasFicheiro:
+    temasSet.add(row.split('\n')[0])
+
 #_____________________________________________________________________
 
 
@@ -72,6 +77,7 @@ for filename in onlyfiles:
     root = tree.getroot()
     data = "data Null"
     locals = set()
+    temas = set()
     for child in root:
         if child.tag == "Date":
             data = child.text
@@ -84,6 +90,11 @@ for filename in onlyfiles:
                 decoded = ud.unidecode(item)
                 if item[0].isupper() and decoded in worldCitiesSet:
                     locals.add(decoded)
+
+                if item.lower() in temasSet:
+                    definitivo = item
+                    definivivo[0] = definitivo[0].upper()
+                    temas.add(definitivo)
 
                 if item[0].isupper() and item.upper() in nomesPtSet:
                     #nomeProprio + (nomeProprio || apelido)
@@ -119,20 +130,18 @@ for filename in onlyfiles:
                 c = c[1].strip().split(' ')
                 dataAsKey = c[0] + ' ' + c[1] + ' ' + c[2]
 
+            if locals == set():
+                locals = ''
+            if temas == set():
+                temas = ''
 
             if dataAsKey in dict_DN:
                 for (elem,prof) in zip(aux_set,profissoes_set):
-                    if locals != set():
-                        dict_DN[dataAsKey].append({'nome':elem,'prof':prof, 'locals':locals})
-                    else:
-                        dict_DN[dataAsKey].append({'nome':elem,'prof':prof})
+                    dict_DN[dataAsKey].append({'nome':elem,'prof':prof, 'locals':locals, 'temas':temas})
             else:
                 dict_DN[dataAsKey] = []
                 for (elem,prof) in zip(aux_set,profissoes_set):
-                    if locals != set():
-                        dict_DN[dataAsKey].append({'nome':elem,'prof':prof, 'locals':locals})
-                    else:
-                        dict_DN[dataAsKey].append({'nome':elem,'prof':prof})
+                    dict_DN[dataAsKey].append({'nome':elem,'prof':prof, 'locals':locals, 'temas':temas})
 
             #print('-------------')
             #print('PERSONS [DN] : ' + data.split('/')[0])
