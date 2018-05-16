@@ -18,10 +18,7 @@ nomePortuguesesFicheiro = open('nomes_e_palavras/nomes_proprios.tsv',encoding="u
 nomePtReader = csv.DictReader(nomePortuguesesFicheiro,delimiter='\t',fieldnames=['nome','numero'])
 
 nomesPtSet = set()
-i=0
 for row in nomePtReader:
-    i+=1
-    print(i)
     nomesPtSet.add(row['nome'])
 
     #apelidos
@@ -48,13 +45,25 @@ def previous_and_next(some_iterable):
     nexts = chain(islice(nexts, 1, None), [None])
     return zip(prevs, items, nexts)
 
+def convert_months(month):
+    orig = month
+    return {
+        'Jan' : 'Jan',
+        'Fev' : 'Feb',
+        'Abr' : 'Apr',
+        'Mai' : 'May',
+        'Ago' : 'Aug',
+        'Set' : 'Sep',
+        'Out' : 'Oct',
+        'Dez' : 'Dec',       
+    }.get(month, orig)
 
 #______________________DIARIO DE NOTICIAS_______________________________
-"""onlyfiles = [f for f in listdir('obter_colecoes/[PT] Diario de Noticias/noticias/') if isfile(join('obter_colecoes/[PT] Diario de Noticias/noticias/',f))]
+""""onlyfiles = [f for f in listdir('obter_colecoes/[PT] Diario de Noticias/noticias/') if isfile(join('obter_colecoes/[PT] Diario de Noticias/noticias/',f))]
 dict_DN = {}
 for filename in onlyfiles:
     aux_set = set ()
-    print(filename)
+    #print(filename)
     path= 'obter_colecoes/[PT] Diario de Noticias/noticias/' + filename
     tree = ET.parse(path)
     root = tree.getroot()
@@ -92,8 +101,10 @@ for filename in onlyfiles:
             if len(c)>1:
                 c = c[1].strip().split(' ')
                 dataAsKey = c[0] + ' ' + c[1] + ' ' + c[2]
-            
-            
+
+            aux = dataAsKey.split(' ')
+            dataAsKey = aux[0] + ' ' + convert_months(aux[1]) + ' ' + aux[2]
+
             if dataAsKey in dict_DN: 
                 for elem in aux_set:
                     dict_DN[dataAsKey].append(elem)
@@ -105,16 +116,17 @@ for filename in onlyfiles:
             #print('PERSONS [DN] : ' + data.split('/')[0])
             #for pal in aux_set:
                 #print(pal)
+#pp.pprint(dict_DN)
 
-print(dict_DN) 
+#print(dict_DN) 
 json = json.dumps(dict_DN)
 f=open("DN.json","w")
 f.write(json)
 f.close()
 """
 
-"""#________________________________JORNAL DE ANGOLA_________________________________________-
-onlyfiles = [f for f in listdir('obter_colecoes/[AGO] jornal angola/noticias/') if isfile(join('obter_colecoes/[AGO] jornal angola/noticias/',f))]
+#________________________________JORNAL DE ANGOLA_________________________________________-
+"""onlyfiles = [f for f in listdir('obter_colecoes/[AGO] jornal angola/noticias/') if isfile(join('obter_colecoes/[AGO] jornal angola/noticias/',f))]
 dict_JA = {}
 for filename in onlyfiles:
     aux_set = set ()
@@ -154,7 +166,9 @@ for filename in onlyfiles:
             aux = (data.split(' '))
             dataAsKey = aux[1] + ' ' + aux[3][:3] + ' ' + aux[4]
             
-            
+            aux = dataAsKey.split(' ')
+            dataAsKey = aux[0] + ' ' + convert_months(aux[1]) + ' ' + aux[2]
+
             if dataAsKey in dict_JA: 
                 for elem in aux_set:
                     dict_JA[dataAsKey].append(elem)
@@ -169,10 +183,10 @@ for filename in onlyfiles:
 
 print(dict_JA) 
 json = json.dumps(dict_JA)
-f=open("JA.json","w")
+f=open("pessoas_recolhidas/JA.json","w")
 f.write(json)
-f.close()"""
-
+f.close()
+"""
 #_________________________CABO VERDE - A semana______________________________-
 
 """onlyfiles = [f for f in listdir('obter_colecoes/[CV] A_Semana/noticias/') if isfile(join('obter_colecoes/[CV] A_Semana/noticias/',f))]
@@ -215,6 +229,8 @@ for filename in onlyfiles:
             aux = (data.split(' '))
             dataAsKey = aux[0].strip('\n') + ' ' + aux[1][:3] + ' ' + aux[2].strip('\n')
             
+            aux = dataAsKey.split(' ')
+            dataAsKey = aux[0] + ' ' + convert_months(aux[1]) + ' ' + aux[2]
             
             if dataAsKey in dict_AS: 
                 for elem in aux_set:
@@ -274,9 +290,12 @@ for filename in onlyfiles:
             #Antes: "\n02 Maio 2018\n"
             #Depois: "02 Mai 2018"
             aux = (data.split(' '))
-            dataAsKey = aux[0].strip('\n') + ' ' + aux[1][:3] + ' ' + aux[2].strip('\n')
+            dataAsKey = aux[0].strip('\n') + ' ' + aux[2][:3] + ' ' + aux[4].strip('\n')
             
-            
+            aux = dataAsKey.split(' ')
+            dataAsKey = aux[0] + ' ' + convert_months(aux[1]) + ' ' + aux[2]
+
+
             if dataAsKey in dict_TN: 
                 for elem in aux_set:
                     dict_TN[dataAsKey].append(elem)
@@ -291,12 +310,12 @@ for filename in onlyfiles:
 
 print(dict_TN) 
 json = json.dumps(dict_TN)
-f=open("ST_TN.json","w")
+f=open("TN.json","w")
 f.write(json)
 f.close()"""
 
 #___________________________________TIMOR LESTE _______________________________________-
-"""onlyfiles = [f for f in listdir('obter_colecoes/[TL] Governo Timor-Leste/noticias/') if isfile(join('obter_colecoes/[TL] Governo Timor-Leste/noticias/',f))]
+onlyfiles = [f for f in listdir('obter_colecoes/[TL] Governo Timor-Leste/noticias/') if isfile(join('obter_colecoes/[TL] Governo Timor-Leste/noticias/',f))]
 dict_TLEST = {}
 for filename in onlyfiles:
     aux_set = set ()
@@ -336,6 +355,8 @@ for filename in onlyfiles:
             aux = (data.split(' '))
             dataAsKey = aux[1] + ' ' + (aux[3][:3]).title() + ' ' + aux[5].strip(',')
             
+            aux = dataAsKey.split(' ')
+            dataAsKey = aux[0] + ' ' + convert_months(aux[1]) + ' ' + aux[2]
             
             if dataAsKey in dict_TLEST: 
                 for elem in aux_set:
@@ -351,6 +372,6 @@ for filename in onlyfiles:
 
 print(dict_TLEST) 
 json = json.dumps(dict_TLEST)
-f=open("TL_TLEST.json","w")
+f=open("pessoas_recolhidas/TLEST.json","w")
 f.write(json)
-f.close()"""
+f.close()
