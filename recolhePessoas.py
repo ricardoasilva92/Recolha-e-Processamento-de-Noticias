@@ -252,7 +252,7 @@ f.close()"""
 
 
 #______________________________S.TOME - Tela_Non________________________
-"""onlyfiles = [f for f in listdir('obter_colecoes/[ST] Tela_Non/noticias/') if isfile(join('obter_colecoes/[ST] Tela_Non/noticias/',f))]
+onlyfiles = [f for f in listdir('obter_colecoes/[ST] Tela_Non/noticias/') if isfile(join('obter_colecoes/[ST] Tela_Non/noticias/',f))]
 dict_TN = {}
 for filename in onlyfiles:
     aux_set = set ()
@@ -312,10 +312,10 @@ print(dict_TN)
 json = json.dumps(dict_TN)
 f=open("TN.json","w")
 f.write(json)
-f.close()"""
+f.close()
 
 #___________________________________TIMOR LESTE _______________________________________-
-onlyfiles = [f for f in listdir('obter_colecoes/[TL] Governo Timor-Leste/noticias/') if isfile(join('obter_colecoes/[TL] Governo Timor-Leste/noticias/',f))]
+"""onlyfiles = [f for f in listdir('obter_colecoes/[TL] Governo Timor-Leste/noticias/') if isfile(join('obter_colecoes/[TL] Governo Timor-Leste/noticias/',f))]
 dict_TLEST = {}
 for filename in onlyfiles:
     aux_set = set ()
@@ -375,3 +375,4 @@ json = json.dumps(dict_TLEST)
 f=open("pessoas_recolhidas/TLEST.json","w")
 f.write(json)
 f.close()
+"""
