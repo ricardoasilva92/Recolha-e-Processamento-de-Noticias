@@ -147,7 +147,13 @@ for pais in dictGrande:
     ocorrenciasGrande.append(ocorrencias)
 
 
+ordem_das_cores = ["azul","laranja","verde","vermelho","roxo"]
 
+dict_print = {}
+i=0
+for c in pais_arg:
+    dict_print[pais_arg[i]] = ordem_das_cores[i]
+    i+=1
 
 fig = plt.figure()
 i=0
@@ -161,67 +167,8 @@ for key in dictGrande:
 
 plt.gca().xaxis_date()
 fig.autofmt_xdate()
-plt.title('Referências ao país\n  ' + pais_arg[0])
+plt.xlabel("\n".join([key + ':' + dict_print[key] for key in dict_print]))
+plt.title("Referências a países em jornais portugueses")
 
 plt.show()
-
-
-"""
-#a estrutura de dict_ocopaises permite integrar o tipo Counter
-countDN = Counter(dict_ocoPaises["DN"])
-countAS = Counter(dict_ocoPaises["AS"])
-countJA = Counter(dict_ocoPaises["JA"])
-countTLEST = Counter(dict_ocoPaises["TLEST"])
-countTN = Counter(dict_ocoPaises["TN"])
-
-jDN = countDN.most_common(5)
-jAS = countAS.most_common(5)
-jJA = countJA.most_common(5)
-jTLEST = countTLEST.most_common(5)
-jTN = countTN.most_common(5)
-
-paisesDN = []
-for elem in jDN:
-    paisesDN.append(elem[0])
-
-paisesAS = []
-for elem in jAS:
-    paisesAS.append(elem[0])
-
-paisesJA = []
-for elem in jJA:
-    paisesJA.append(elem[0])
-
-paisesTLEST = []
-for elem in jTLEST:
-    paisesTLEST.append(elem[0])
-
-paisesTN = []
-for elem in jTN:
-    paisesTN.append(elem[0])
-
-paises = [paisesDN,paisesAS,paisesJA,paisesTLEST,paisesTN]
-counters = [countDN,countAS,countJA,countTLEST,countTN]
-#lista com nomes dos jornais
-nomesJornais = ["Diário de Noticias",
-         "A semana (Cabo Verde)",
-         "Jornal Angola",
-         "Jornal Timor Leste",
-         "Jornal Tela Non (S. Tomé)"]
-
-for pais, count, jornal in zip(paises, counters,nomesJornais):
-    y_pos = np.arange(len(pais))
-    performance = [count[k] for k in pais]
-    plt.barh(y_pos, performance, align='center', alpha=0.4)
-    plt.yticks(y_pos, pais)
-    plt.xlabel('Ocorrências de paises') 
-    plt.title('Paises Mais comuns: ' + jornal)
-    plt.show()"""
-
-
-"""json = json.dumps(dict_ocoPaises)
-f=open("oco_paises.json","w")
-f.write(json)
-f.close()
-"""
 
