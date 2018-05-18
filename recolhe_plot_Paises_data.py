@@ -1,3 +1,6 @@
+#recebe como parametros acrinomios de paises. Gera o grafico de ocorrencias nos jornais todos
+#por exemplo PT, calcula todas as ocorrencias a portugal (cidades portuguesas incluidas)
+
 import xml.etree.ElementTree as ET
 import pprint
 import os, json
@@ -11,13 +14,14 @@ sys.excepthook = sys.__excepthook__
 from itertools import tee, islice, chain
 pp = pprint.PrettyPrinter(indent=4)
 import unidecode as ud
-
+from dateutil import parser
 from collections import Counter
 
 import matplotlib.pyplot as plt; plt.rcdefaults()
 import numpy as np
 import matplotlib.pyplot as plt
-
+from scipy import stats
+import numpy as np
 def convert_months(month):
 	orig = month
 	return {
@@ -64,6 +68,12 @@ def convertDate(jornal,date):
 	
 	return dataAsKey
 
+pais_arg = []
+i=0
+for args in sys.argv:
+    i+=1
+    if i>1:
+        pais_arg.append(args)
 
 
 #___________________CRIACAO DE dicionario Pais:[cidade]_____________
@@ -87,11 +97,8 @@ listaJornaisAcr = ["DN","JA","AS","TN","TLEST"]
 #com datas
 dict_ocoPaisesDatas = {}
 
-#sem datas
-dict_ocoPaises = {}
 for jornal,jornalAcr in zip(listaJornais,listaJornaisAcr):
 	onlyfiles = [f for f in listdir("obter_colecoes/"+ jornal + "/noticias/") if isfile(join("obter_colecoes/"+ jornal + "/noticias/",f))]
-	dict_ocoPaises[jornalAcr] = {}
 	dict_ocoPaisesDatas[jornalAcr] = {}
 
 	for filename in onlyfiles:
@@ -107,11 +114,6 @@ for jornal,jornalAcr in zip(listaJornais,listaJornaisAcr):
 				for word in tokens:
 					word = ud.unidecode(word)
 					if word in cidades_dict and word[0].isupper():
-						#para dicionario sem datas
-						if cidades_dict[word] in dict_ocoPaises[jornalAcr]:
-							dict_ocoPaises[jornalAcr][cidades_dict[word]]+=1
-						else:
-							dict_ocoPaises[jornalAcr][cidades_dict[word]] = 1
 						#para dicionario com datas
 						if data in dict_ocoPaisesDatas[jornalAcr]:
 							if cidades_dict[word] in dict_ocoPaisesDatas[jornalAcr][data]:
@@ -121,8 +123,50 @@ for jornal,jornalAcr in zip(listaJornais,listaJornaisAcr):
 						else:
 							dict_ocoPaisesDatas[jornalAcr][data]={}
 							dict_ocoPaisesDatas[jornalAcr][data][cidades_dict[word]] = 1
+	print(jornal + " recolhido")
 
 
+dictGrande = {}
+for pais in pais_arg:
+    dictOcoData = {}
+    for jornal in dict_ocoPaisesDatas:
+        print("jornal " +jornal)
+        for date in dict_ocoPaisesDatas[jornal]:
+            if pais in dict_ocoPaisesDatas[jornal][date]:
+                dictOcoData[parser.parse(date)] = dict_ocoPaisesDatas[jornal][date][pais]
+    dictGrande[pais] = dictOcoData
+
+datasGrande = []
+ocorrenciasGrande = []
+for pais in dictGrande:
+    ocorrencias=[]
+    for key in sorted(dictGrande[pais].keys()):
+        ocorrencias.append(dictGrande[pais][key])
+    datas = sorted(dictGrande[pais].keys())
+    datasGrande.append(datas)
+    ocorrenciasGrande.append(ocorrencias)
+
+
+
+
+fig = plt.figure()
+i=0
+for key in dictGrande:
+    #plt.bar(list(dictOcoData.keys()), dictOcoData.values(), color='r')
+    plt.plot(datasGrande[i],ocorrenciasGrande[i])
+    i+=1
+
+
+
+
+plt.gca().xaxis_date()
+fig.autofmt_xdate()
+plt.title('Referências ao país\n  ' + pais_arg[0])
+
+plt.show()
+
+
+"""
 #a estrutura de dict_ocopaises permite integrar o tipo Counter
 countDN = Counter(dict_ocoPaises["DN"])
 countAS = Counter(dict_ocoPaises["AS"])
@@ -171,8 +215,8 @@ for pais, count, jornal in zip(paises, counters,nomesJornais):
     plt.barh(y_pos, performance, align='center', alpha=0.4)
     plt.yticks(y_pos, pais)
     plt.xlabel('Ocorrências de paises') 
-    plt.title('Paises Mais comuns' + jornal)
-    plt.show()
+    plt.title('Paises Mais comuns: ' + jornal)
+    plt.show()"""
 
 
 """json = json.dumps(dict_ocoPaises)
