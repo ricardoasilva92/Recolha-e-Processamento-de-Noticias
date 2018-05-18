@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><xml>
+<Date>
+18.05.2018 às 18h25
+</Date>
+<Sec>
+Internacional
+</Sec>
+<Title>
+Expresso | Avião comercial despenha-se depois de descolar do aeroporto de Havana
+</Title>
+<Description>
+Um Boeing da companhia aérea Cubana de Aviación caiu pouco depois de descolar do aeroporto de Havana, avançam os meios de comunicação cubanos
+</Description>
+<Text>
+Um avião de passageiros da companhia Cubana de Aviación ter-se-á despenhado perto do aeroporto José Martí, em Havana, pouco depois de ter descolado da pista, segundo avançam meios de comunicação cubanos. Fonte do Ministério dos Transportes, citada pela televisão pública estatal, a bordo seguiam 104 passageiros. Desconhece-se o número de vítimas mas sabe-se que o avião seguia com destino à cidade de Holguín, e terá caído em zona de cultivos.   Ver Twitter
+    require(['parts/twitter'], function(Twitter) { Twitter.start("#FB5aff14a17f485"); });
+  Ver Twitter
+    require(['parts/twitter'], function(Twitter) { Twitter.start("#FB5aff14a17f530"); });
+ em desenvolvimento
+</Text></xml>
