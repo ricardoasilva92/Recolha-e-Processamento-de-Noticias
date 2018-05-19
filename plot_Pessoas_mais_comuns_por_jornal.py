@@ -1,3 +1,5 @@
+#pessoas mais faladas em cada jornal
+
 import xml.etree.ElementTree as ET
 import pprint
 import os, json
