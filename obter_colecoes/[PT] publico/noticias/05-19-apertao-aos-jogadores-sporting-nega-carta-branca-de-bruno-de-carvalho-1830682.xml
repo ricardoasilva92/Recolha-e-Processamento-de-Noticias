@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div class="story__content" id="story-content">
+
+
+    <figure class="story__media media media--image media--action  media--horizontal-medium" data-media-action="modal" aria-label="media">
+        <div class="flex-media camera" style="padding-bottom: 66.65%;">
+                <img alt="Mensagem da claque Juve Leo mostrada no Estádio de Alvalade, antes do jogo com o Paços de Ferreira" data-media-size="2048x1365" data-media-viewer="https://imagens.publicocdn.com/imagens.aspx/1258254?tp=UH&amp;db=IMAGENS&amp;type=JPG" data-interchange="[https://imagens.publicocdn.com/imagens.aspx/1258254?tp=UH&amp;db=IMAGENS&amp;type=JPG&amp;w=480, small],&#xA;                        [https://imagens.publicocdn.com/imagens.aspx/1258254?tp=UH&amp;db=IMAGENS&amp;type=JPG&amp;w=960, small-retina]&#xA;                        [https://imagens.publicocdn.com/imagens.aspx/1258254?tp=UH&amp;db=IMAGENS&amp;type=JPG&amp;w=640, xmedium],&#xA;                        [https://imagens.publicocdn.com/imagens.aspx/1258254?tp=UH&amp;db=IMAGENS&amp;type=JPG&amp;w=1280, xmedium-retina],&#xA;                        [https://imagens.publicocdn.com/imagens.aspx/1258254?tp=UH&amp;db=IMAGENS&amp;type=JPG&amp;w=1024, medium],&#xA;                        [https://imagens.publicocdn.com/imagens.aspx/1258254?tp=UH&amp;db=IMAGENS&amp;type=JPG&amp;w=2048, medium-retina],&#xA;                        [https://imagens.publicocdn.com/imagens.aspx/1258254?tp=UH&amp;db=IMAGENS&amp;type=JPG&amp;w=823, large],&#xA;                        [https://imagens.publicocdn.com/imagens.aspx/1258254?tp=UH&amp;db=IMAGENS&amp;type=JPG&amp;w=1646, large-retina]" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
+                <div class="media-badge">
+                    <span class="show-for-sr">Foto</span>
+                    <i class="i-expand" aria-hidden="true"/>
+                </div>
+        </div>
+            <figcaption class="caption caption--image">
+                Mensagem da claque Juve Leo mostrada no Estádio de Alvalade, antes do jogo com o Paços de Ferreira
+                    <span class="credit">LUSA/MIGUEL A. LOPES</span>
+            </figcaption>
+    </figure>
+
+        <div data-sticky-container="" class="story__live-highlights__wrapper">
+            <aside class="story__live-highlights" id="live-highlights">
+                <section class="module module--live-highlights responsive-toggle" data-toggler=".expanded" id="key-moments">
+                    <h4 class="module__heading toggle" data-toggle="key-moments">
+                        <span class="responsive-toggle--toggler"><i class="i-expand-alt" aria-hidden="true"/></span>
+                        Momentos-chave
+                    </h4>
+
+                    <ol class="live-highlights__list live-highlights__list--timeline">
+                    </ol>
+                </section>
+
+            </aside>
+        </div>
+
+        <div class="story__body" id="story-body">           
+
+            <a href="javascript:void(0);" class="btn btn-primary article-live-history">Ver mais</a>
+        </div>
+
+        <aside class="module module--rich-links">
+            <h4 class="module__heading">Mais</h4>
+            <section class="rich-link rich-link--news lazy-loading data" data-source="/content/summary/SCRIPTOR_NOTICIAS/1830666" data-folder="news" data-template="link" data-max-size="1" data-auto-fill="false" data-replace="true">
+                <a href="/n1830666">
+
+                    <div class="rich-link__text">
+                        <h3 class="headline rich-link__title">Os homens que seguram Bruno de Carvalho no poder</h3>
+                    </div>
+                </a>
+            </section>
+            <section class="rich-link rich-link--news lazy-loading data" data-source="/content/summary/SCRIPTOR_NOTICIAS/1830517" data-folder="news" data-template="link" data-max-size="1" data-auto-fill="false" data-replace="true">
+                <a href="/n1830517">
+
+                    <div class="rich-link__text">
+                        <h3 class="headline rich-link__title">Jesus convicto de que Bruno deu carta-branca à Juve Leo</h3>
+                    </div>
+                </a>
+            </section>
+            <section class="rich-link rich-link--news lazy-loading data" data-source="/content/summary/SCRIPTOR_NOTICIAS/1830522" data-folder="news" data-template="link" data-max-size="1" data-auto-fill="false" data-replace="true">
+                <a href="/n1830522">
+
+                    <div class="rich-link__text">
+                        <h3 class="headline rich-link__title">Ferro Rodrigues não vai à final da Taça</h3>
+                    </div>
+                </a>
+            </section>
+            <section class="rich-link rich-link--news lazy-loading data" data-source="/content/summary/SCRIPTOR_NOTICIAS/1830579" data-folder="news" data-template="link" data-max-size="1" data-auto-fill="false" data-replace="true">
+                <a href="/n1830579">
+
+                    <div class="rich-link__text">
+                        <h3 class="headline rich-link__title">Futebol: o reservatório da violência alimentado pelo dinheiro, pelos <i>media</i> e pela complacência de todos</h3>
+                    </div>
+                </a>
+            </section>
+            <section class="rich-link rich-link--news lazy-loading data" data-source="/content/summary/SCRIPTOR_NOTICIAS/1830570" data-folder="news" data-template="link" data-max-size="1" data-auto-fill="false" data-replace="true">
+                <a href="/n1830570">
+
+                    <div class="rich-link__text">
+                        <h3 class="headline rich-link__title">O futebol português é um meio feio, sujo e mau</h3>
+                    </div>
+                </a>
+            </section>
+        </aside>
+    </div>

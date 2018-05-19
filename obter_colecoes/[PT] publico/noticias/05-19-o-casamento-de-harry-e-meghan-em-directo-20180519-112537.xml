@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div class="story__content" id="story-content">
+                <figure class="story__media media media--video media--action media--horizontal-medium" aria-label="media">
+                    <div class="flex-media widescreen">
+                        <div id="video-holder-89029" class="video-holder">
+<div id="video-holder-89029" class="video-holder">
+                <video controls="" id="video-89029" class="video-js vjs-default-skin video vjs-big-play-centered" poster="https://imagens.publicocdn.com/imagens.aspx/canal_videos/videoPortal/Images/201805/EmDirecto_1estatico89029.png?tp=VIDEOS" data-title="O casamento de Harry e Meghan em directo" data-type="YOUTUBE">
+                <source src="https://www.youtube.com/embed/8nbFfetIsks" type="video/youtube"/>
+            </video>
+</div>                        </div>
+                    </div>
+                </figure>
+
+            <div class="story__body" id="story-body">
+                <p>Emissão em directo do casamento do princípe Harry e de Meghan Markle. Aqui pode <a href="https://www.publico.pt/2018/05/19/culto/noticia/harry-e-meghan-serao-os-duques-de-sussex-1830677">acompanhar o acontecimento ao minuto</a>.</p>
+            </div>
+
+        </div>
