@@ -6,7 +6,7 @@ import pprint
 import os, json
 from os import listdir
 from os.path import isfile, join
-
+from dateutil import parser
 import codecs, re, getopt, sys, string, csv
 import nltk
 sys.excepthook = sys.__excepthook__
@@ -14,7 +14,7 @@ sys.excepthook = sys.__excepthook__
 from itertools import tee, islice, chain
 pp = pprint.PrettyPrinter(indent=4)
 import unidecode as ud
-from dateutil import parser
+
 from collections import Counter
 
 import matplotlib.pyplot as plt; plt.rcdefaults()
@@ -97,6 +97,10 @@ listaJornaisAcr = ["DN","JA","AS","TN","TLEST"]
 #com datas
 dict_ocoPaisesDatas = {}
 
+#recolha de todas as noticias
+#criacao de dicionario {"Acrinomio de Jornal":{
+# 											"data":{
+# 													"País": Int}}
 for jornal,jornalAcr in zip(listaJornais,listaJornaisAcr):
 	onlyfiles = [f for f in listdir("obter_colecoes/"+ jornal + "/noticias/") if isfile(join("obter_colecoes/"+ jornal + "/noticias/",f))]
 	dict_ocoPaisesDatas[jornalAcr] = {}
@@ -128,13 +132,14 @@ for jornal,jornalAcr in zip(listaJornais,listaJornaisAcr):
 
 dictGrande = {}
 for pais in pais_arg:
-    dictOcoData = {}
-    for jornal in dict_ocoPaisesDatas:
-        print("jornal " +jornal)
-        for date in dict_ocoPaisesDatas[jornal]:
-            if pais in dict_ocoPaisesDatas[jornal][date]:
-                dictOcoData[parser.parse(date)] = dict_ocoPaisesDatas[jornal][date][pais]
-    dictGrande[pais] = dictOcoData
+	dictOcoData = {}
+	for jornal in dict_ocoPaisesDatas:
+		print("jornal " +jornal)
+		for date in dict_ocoPaisesDatas[jornal]:
+			if (parser.parse(date) > parser.parse("01 Jan 2018")):
+				if pais in dict_ocoPaisesDatas[jornal][date]:
+					dictOcoData[parser.parse(date)] = dict_ocoPaisesDatas[jornal][date][pais]
+	dictGrande[pais] = dictOcoData
 
 datasGrande = []
 ocorrenciasGrande = []

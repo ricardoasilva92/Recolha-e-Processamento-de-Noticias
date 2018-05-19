@@ -1427,7 +1427,6 @@ Halstead	US
 Dumbravita	RO
 Essen	DE
 Singleton	AU
-London	CA
 Yeovil	GB
 Lambourn	GB
 Geesthacht	DE
@@ -3689,7 +3688,6 @@ Nambour	AU
 Tugun	AU
 Woombye	AU
 Goondiwindi	AU
-Como	AU
 North Turramurra	AU
 Earlwood	AU
 Taree	AU
@@ -3809,7 +3807,6 @@ Curl Curl	AU
 Ayr	AU
 Condobolin	AU
 McLaren Vale	AU
-Como	AU
 Bonnet Bay	AU
 Warnbro	AU
 Normanhurst	AU
@@ -5680,7 +5677,6 @@ Cosenza	IT
 Taranto	IT
 Carpi	IT
 Sora	IT
-Este	IT
 Monza	IT
 Montoggio	IT
 Salerno	IT
@@ -12494,7 +12490,7 @@ Cabrero	CL
 Collipulli	CL
 Graneros	CL
 Victoria	CL
-Tome	CL
+Tome	ST
 Nueva Imperial	CL
 Bulnes	CL
 San Carlos	CL
@@ -13476,7 +13472,6 @@ Bento Goncalves	BR
 Cacador	BR
 Sapiranga	BR
 Bauru	BR
-Santos	BR
 Para de Minas	BR
 Joinville	BR
 Assis	BR
@@ -13598,7 +13593,6 @@ Itapevi	BR
 Itapipoca	BR
 Picos	BR
 Campos	BR
-Monteiro	BR
 Itatiaia	BR
 Rio Bonito	BR
 Olinda	BR
@@ -13683,7 +13677,6 @@ Itaperucu	BR
 Tiradentes	BR
 Votuporanga	BR
 Jose Bonifacio	BR
-Machado	BR
 Horizonte	BR
 Pompeia	BR
 Lages	BR
@@ -13897,7 +13890,6 @@ Iguaba Grande	BR
 Irece	BR
 Conceicao do Coite	BR
 Alagoinhas	BR
-Teixeira	BR
 Nazare	BR
 Caruaru	BR
 Brumado	BR
@@ -14001,7 +13993,6 @@ Caninde	BR
 Rio Novo	BR
 Barbalha	BR
 Maragogipe	BR
-Uniao	BR
 Floriano	BR
 Varzea Paulista	BR
 Sao Bernardo do Campo	BR
@@ -14143,7 +14134,6 @@ Uniao dos Palmares	BR
 Varjota	BR
 Itajuipe	BR
 Parelhas	BR
-Mari	BR
 Anadia	BR
 Sao Jose do Calcado	BR
 Vitoria de Santo Antao	BR
@@ -14244,7 +14234,6 @@ Santana do Livramento	BR
 Porto Franco	BR
 Santa Vitoria do Palmar	BR
 Tres Passos	BR
-Cardoso	BR
 Santa Cruz das Palmeiras	BR
 Paraguacu Paulista	BR
 Urupes	BR
@@ -14562,7 +14551,6 @@ Quixere	BR
 Pendencias	BR
 Jaguaribe	BR
 Pirai do Sul	BR
-Tavares	BR
 Itaueira	BR
 Altos	BR
 Santa Quiteria	BR
@@ -17261,7 +17249,6 @@ Sasinci	RS
 Klek	RS
 Novi Kozarci	RS
 Banatsko Karadordevo	RS
-Sofia	BG
 Varna	BG
 Burgas	BG
 Pleven	BG
@@ -18290,7 +18277,6 @@ Montecristi	EC
 Zaruma	EC
 Catamayo	EC
 Santa Lucia	EC
-Lima	PE
 Arequipa	PE
 Callao	PE
 Sullana	PE
@@ -18560,7 +18546,6 @@ Santo Tomas	CO
 San Luis de Palenque	CO
 Tame	CO
 Flandes	CO
-Pesca	CO
 El Retiro	CO
 Corozal	CO
 Yotoco	CO
@@ -18586,7 +18571,6 @@ Arbelaez	CO
 Puerto Santander	CO
 La Tebaida	CO
 Puerto Colombia	CO
-Fonseca	CO
 San Juan del Cesar	CO
 Sucre	CO
 Malambo	CO
@@ -20313,7 +20297,6 @@ Chapadinha	BR
 Caucaia	BR
 Capanema	BR
 Campo Alegre	BR
-Cabo	BR
 Buriti Bravo	BR
 Bezerros	BR
 Belo Jardim	BR
@@ -20395,7 +20378,6 @@ Nossa Senhora da Gloria	BR
 Muritiba	BR
 Monte Alto	BR
 Mogi das Cruzes	BR
-Mendes	BR
 Medeiros Neto	BR
 Matozinhos	BR
 Mata de Sao Joao	BR
@@ -26534,7 +26516,6 @@ Cordenons	IT
 Corciano	IT
 Copparo	IT
 Conversano	IT
-Como	IT
 Colle Salvetti	IT
 Collegno	IT
 Colleferro	IT
@@ -28611,7 +28592,6 @@ Bacoor	PH
 Babo-Pangulo	PH
 Baao	PH
 Atimonan	PH
-Asia	PH
 Aringay	PH
 Arayat	PH
 Aparri	PH
@@ -32303,7 +32283,6 @@ Hilliard	US
 Hudson	US
 Kent	US
 Lakewood	US
-Lima	US
 Lorain	US
 Mansfield	US
 Maple Heights	US
@@ -35765,7 +35744,7 @@ Los Telares	AR
 Los Menucos	AR
 Los Frentones	AR
 Los Altos	AR
-Londres	AR
+Londres	GB
 Loncopue	AR
 La Toma	AR
 La Tigra	AR
@@ -37875,7 +37854,6 @@ Awans	BE
 Avelgem	BE
 Aubange	BE
 Attert	BE
-As	BE
 Ardooie	BE
 Anzegem	BE
 Antoing	BE
@@ -38041,7 +38019,6 @@ Redencao	BR
 Raposa	BR
 Quipapa	BR
 Prainha	BR
-Porto	BR
 Pocao de Pedras	BR
 Pitimbu	BR
 Pio XII	BR
@@ -42139,8 +42116,8 @@ Guadalix de la Sierra	ES
 O Grove	ES
 Grinon	ES
 Grado	ES
+Gaia	PT
 Gorliz-Elexalde	ES
-Gondomar	ES
 Gironella	ES
 Xinzo de Limia	ES
 Gelida	ES
@@ -56254,7 +56231,6 @@ Villa Isla	PH
 Villahermosa	PH
 Villaba	PH
 Villa Aglipay	PH
-Vigo	PH
 Viga	PH
 Biga	PH
 Viga	PH
@@ -56286,8 +56262,6 @@ Union	PH
 Union	PH
 Union	PH
 Union	PH
-Unidos	PH
-Unidos	PH
 Unidad	PH
 Ungca	PH
 Umiray	PH
@@ -66031,7 +66005,6 @@ Sweetwater	US
 Taft	US
 Tangelo Park	US
 Tangerine	US
-Tavares	US
 Tavernier	US
 Taylor Creek	US
 Tedder	US
@@ -66656,7 +66629,7 @@ Lawrenceburg	US
 Lebanon	US
 Leitchfield	US
 Liberty	US
-London	US
+London	GB
 Louisa	US
 Ludlow	US
 Lyndon	US
@@ -67815,11 +67788,10 @@ Lincoln Village	US
 Lisbon	US
 Lockland	US
 Logan	US
-London	US
 Loveland	US
 Lucasville	US
 Mack	US
-Madeira	US
+Madeira	PT
 Manchester	US
 Mariemont	US
 Marietta	US
@@ -68048,7 +68020,6 @@ Hopwood	US
 Kennett Square	US
 Lake Meade	US
 Lansdowne	US
-Lima	US
 Linwood	US
 Littlestown	US
 Luzerne	US
@@ -70973,7 +70944,6 @@ Le Roy	US
 Lewiston	US
 Liberty	US
 Lido Beach	US
-Lima	US
 Lincoln Park	US
 Little Falls	US
 Liverpool	US
@@ -72047,7 +72017,6 @@ Chippewa Falls	US
 Clinton	US
 Columbus	US
 Combined Locks	US
-Como	US
 Cottage Grove	US
 Crandon	US
 Cross Plains	US

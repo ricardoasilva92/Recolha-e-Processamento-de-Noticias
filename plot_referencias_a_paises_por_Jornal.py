@@ -1,3 +1,5 @@
+#referencias a Paises de cada Jornal
+
 import xml.etree.ElementTree as ET
 import pprint
 import os, json
@@ -84,15 +86,14 @@ listaJornais = ["[PT] Diario de Noticias",
 listaJornaisAcr = ["DN","JA","AS","TN","TLEST"]
 
 
-#com datas
-dict_ocoPaisesDatas = {}
+
 
 #sem datas
 dict_ocoPaises = {}
 for jornal,jornalAcr in zip(listaJornais,listaJornaisAcr):
 	onlyfiles = [f for f in listdir("obter_colecoes/"+ jornal + "/noticias/") if isfile(join("obter_colecoes/"+ jornal + "/noticias/",f))]
 	dict_ocoPaises[jornalAcr] = {}
-	dict_ocoPaisesDatas[jornalAcr] = {}
+	
 
 	for filename in onlyfiles:
 		path= "obter_colecoes/"+ jornal + "/noticias/" + filename
@@ -108,20 +109,13 @@ for jornal,jornalAcr in zip(listaJornais,listaJornaisAcr):
 					word = ud.unidecode(word)
 					if word in cidades_dict and word[0].isupper():
 						#para dicionario sem datas
+						print(jornalAcr + '\t' + word + '\t' + cidades_dict[word])
 						if cidades_dict[word] in dict_ocoPaises[jornalAcr]:
 							dict_ocoPaises[jornalAcr][cidades_dict[word]]+=1
 						else:
 							dict_ocoPaises[jornalAcr][cidades_dict[word]] = 1
-						#para dicionario com datas
-						if data in dict_ocoPaisesDatas[jornalAcr]:
-							if cidades_dict[word] in dict_ocoPaisesDatas[jornalAcr][data]:
-								dict_ocoPaisesDatas[jornalAcr][data][cidades_dict[word]]+=1
-							else:
-								dict_ocoPaisesDatas[jornalAcr][data][cidades_dict[word]] = 1
-						else:
-							dict_ocoPaisesDatas[jornalAcr][data]={}
-							dict_ocoPaisesDatas[jornalAcr][data][cidades_dict[word]] = 1
-	print(jornal + " recolhido")
+
+	#print(jornal + " recolhido")
 
 #a estrutura de dict_ocopaises permite integrar o tipo Counter
 countDN = Counter(dict_ocoPaises["DN"])

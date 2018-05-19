@@ -98,7 +98,9 @@ nomes = ["Diário de Noticias",
 
 for pessoa, count, jornal, dataMin, dataMax in zip(pessoas, counters,nomes,listDataMin,listDataMax):
     y_pos = np.arange(len(pessoa))
+    print(pessoa)
     performance = [count[k] for k in pessoa]
+    print(performance)
     plt.barh(y_pos, performance, align='center', alpha=0.4)
     plt.yticks(y_pos, pessoa)
     plt.xlabel('Ocorrências de ' + str(dataMin.date()) + ' até ' + str(dataMax.date())) 
