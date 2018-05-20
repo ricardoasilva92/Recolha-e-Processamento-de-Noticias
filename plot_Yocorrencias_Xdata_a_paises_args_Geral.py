@@ -75,6 +75,8 @@ for args in sys.argv:
     if i>1:
         pais_arg.append(args)
 
+if len(pais_arg)==0:
+	sys.exit("ERRO ARGUMENTOS NÂO DETETADOS. POR EXEMPLO: PT ou US")
 
 #___________________CRIACAO DE dicionario Pais:[cidade]_____________
 	#nomes proprios
@@ -131,6 +133,9 @@ for jornal,jornalAcr in zip(listaJornais,listaJornaisAcr):
 
 
 dictGrande = {}
+#dicionario organizado por paises argumentos
+#{Pais:{
+# 		dateTime:Int}}
 for pais in pais_arg:
 	dictOcoData = {}
 	for jornal in dict_ocoPaisesDatas:
@@ -141,10 +146,13 @@ for pais in pais_arg:
 					dictOcoData[parser.parse(date)] = dict_ocoPaisesDatas[jornal][date][pais]
 	dictGrande[pais] = dictOcoData
 
+#lista onde cada elemento é uma lista com as datas referentes a cada país
 datasGrande = []
+#lista onde cada elemento é uma lista com as ocurrencias, onde cada elemento é um int
 ocorrenciasGrande = []
 for pais in dictGrande:
     ocorrencias=[]
+	#nao ordena automaticamente
     for key in sorted(dictGrande[pais].keys()):
         ocorrencias.append(dictGrande[pais][key])
     datas = sorted(dictGrande[pais].keys())
@@ -154,6 +162,7 @@ for pais in dictGrande:
 
 ordem_das_cores = ["azul","laranja","verde","vermelho","roxo"]
 
+#para por mensagem informativa no plot
 dict_print = {}
 i=0
 for c in pais_arg:
@@ -162,6 +171,7 @@ for c in pais_arg:
 
 fig = plt.figure()
 i=0
+#cada iteração corresponde às referencias de um Pais (argumento) por datas
 for key in dictGrande:
     #plt.bar(list(dictOcoData.keys()), dictOcoData.values(), color='r')
     plt.plot(datasGrande[i],ocorrenciasGrande[i])
