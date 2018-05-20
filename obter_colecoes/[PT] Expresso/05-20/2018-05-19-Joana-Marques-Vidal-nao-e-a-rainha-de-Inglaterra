@@ -1,0 +1,230 @@
+<!DOCTYPE html><html class="no-js" lang="pt-PT"><head> <meta charset="UTF-8"/> <meta http-equiv="X-UA-Compatible" content="IE=edge"/> <meta http-equiv="Content-Language" content="pt"> <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no"/> <link rel="manifest" href="/manifest.json"/> <meta name="apple-mobile-web-app-title" content="Expresso"/> <meta name="theme-color" content="#015782"/> <meta name="msapplication-TileColor" content="#015782"/> <link rel="icon" sizes="152x152" href="//static.impresa.pt/expresso/2494//assets/gfx/icon.png"/> <meta name="msapplication-square150x150logo" content="//static.impresa.pt/expresso/2494//assets/gfx/icon.png"/> <link rel="dns-prefetch" href="//ajax.googleapis.com"><link rel="preconnect" href="//images-cdn.impresa.pt/"><link rel="stylesheet" type="text/css" href="//static.impresa.pt/expresso/2494//assets/css/main.min.css"/> <!--[if lte IE 8]>
+     <link href="//static.impresa.pt/expresso/2494//assets/respond-proxy.html" id="respond-proxy" rel="respond-proxy"/>  <link href="/assets/gfx/respond.proxy.gif" id="respond-redirect" rel="respond-redirect"/> <script src="//static.impresa.pt/expresso/2494//assets/js/legacy.min.js"></script> <![endif]--> <script src="//static.impresa.pt/expresso/2494//assets/js/head.min.js"></script> <script>
+        require.config({
+            baseUrl: '//static.impresa.pt/expresso/2494//assets/js/'
+        });
+    </script><script>
+    require.config({
+        map: {
+            "*": {
+                'user': 'parts/web/user',
+                'parts/config': 'parts/web/config'
+            }
+        },
+        paths: {
+            'ImpresaSSO': 'https://id.impresa.pt/js/impresa-sso.min'
+        },
+        config: {
+            'parts/web/user': {"profile":{"url":"https:\/\/api.impresa.pt\/profile"},"sso":{"url":"https:\/\/id.impresa.pt","gigyaKey":"3_SlQdOiQ8k-7grQ_Mx0LfKus2fvYJ7ge7QRBxXcLAk0x_hhvxLLYiLrGZwQrLpUlW"}},
+
+            'parts/escolas/2016': {"fbag":{"url":"https:\/\/api.impresa.pt\/bag"}},
+
+            'parts/escolas/2017': {"fbag":{"url":"https:\/\/api.impresa.pt\/bag"}},
+
+            'parts/eleicoes/autarquicas2017': {"fbag":{"url":"https:\/\/api.impresa.pt\/bag"}}
+        }
+    });
+
+        window.lazySizesConfig = window.lazySizesConfig || {};
+    window.lazySizesConfig.lazyClass = "js-lazy-picture";
+    window.lazySizesConfig.preloadClass = "js-lazy-picture-preload";
+    window.lazySizesConfig.loadingClass = "js-lazy-picture-loading";
+    window.lazySizesConfig.loadedClass = "js-lazy-picture-loaded";
+    </script><script async>
+    require(['modernizr', 'parts/ua']);
+
+        require(['picturefill', 'lazysizes']);
+    
+        require(['parts/trackr'], function (Trackr) { Trackr.trackPage(document.location.pathname, document.title); });
+    
+        require( ['parts/getSocial' ], function( GetSocial ) {
+        GetSocial.init( { id: 'ffe7f9' } );
+    } );
+    </script> <title>Expresso | “Joana Marques Vidal não é a rainha de Inglaterra”</title><meta name="twitter:title" property="og:title" content="“Joana Marques Vidal não é a rainha de Inglaterra”"/><link rel="canonical" href="http://expresso.sapo.pt/sociedade/2018-05-19-Joana-Marques-Vidal-nao-e-a-rainha-de-Inglaterra"><meta name="twitter:url" property="og:url" content="http://expresso.sapo.pt/sociedade/2018-05-19-Joana-Marques-Vidal-nao-e-a-rainha-de-Inglaterra"> <meta name="description" content="António Ventinhas, Presidente do Sindicato dos Magistrados do MP"> <meta name="twitter:description" property="og:description" content="António Ventinhas, Presidente do Sindicato dos Magistrados do MP"/> <meta name="twitter:image" property="og:image" content="http://images-cdn.impresa.pt/expresso/2018-05-18-antonio-ventinhas-1/fb/wm"/><meta property="og:image:width" content="1200"/><meta property="og:image:height" content="630"/><meta name="twitter:card" content="summary"><meta property="og:type" content="article"><meta name="twitter:site" content="@expresso"/><meta property="og:site_name" content="Jornal Expresso"/><link rel="alternate" type="application/rss+xml" title="Expresso RSS" href="http://feeds.feedburner.com/expresso-geral"/> <meta property="impresa:id" content="af4696f2-4731-4023-b631-1958bd611edf"/> <meta property="impresa:type" content="ARTICLE"/> <meta property="impresa:publishedDate" content="2018-05-19T21:00:03.000Z"/> <script>
+        window.ImpresaAdTargeting = {"_":"sociedade","url":"2018-05-19-Joana-Marques-Vidal-nao-e-a-rainha-de-Inglaterra","tag":""};
+    </script> </head><body class="skin-expresso full-article "> <!--[if lt IE 8]>
+    <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a
+            href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+    <![endif]--> <div id="impresaBar" class="impresaBar"></div><script async>
+    require(['impresa-bars'], function (Bar) {
+        Bar.init("#impresaBar", {template: "expresso", active: "olimpia"});
+    });
+</script> <div class="headerElementsWrapper"> <div class="headerElements"> <ul class="headerTopLinks"> <li> <a href="http://promo.impresa.pt/cartaomx/COB7I.html" target="_blank">Assinar</a> </li> <li> <a href="https://loja.expresso.pt" target="_blank">Loja</a> </li> </ul> <section class="headerSocial"> <h2 class="socialLinksHeader">Siga-nos</h2><ul class="social"> <li class="facebook"> <a href="https://www.facebook.com/jornalexpresso" title="Facebook"><i class="icon icon-facebook"></i><span>Facebook</span></a> </li> <li class="twitter"> <a href="https://twitter.com/expresso" title="Twitter"><i class="icon icon-twitter"></i><span>Twitter</span></a> </li> <li class="rss"> <a href="http://feeds.feedburner.com/expresso-geral" title="RSS"><i class="icon icon-rss"></i><span>RSS</span></a> </li> </ul> </section> <div class="headerActions"> <p class="headerUser"> <button class="btn login js-loginButton" title="Login"><span>Login</span> <i class="icon icon-user"></i></button> <button class="btn logout js-logoutButton" title="Logout"><span>Logout</span></button> <a class="btn profile" href="https://perfil.impresa.pt" target="_blank" title="Perfil"><span>Perfil</span> <i class="icon icon-user"></i></a></p><script async>
+    require(['user'], function(User) {
+        User.update();
+    });
+</script> </div></div> </div> <div id="bsu_root"></div> <script async>
+        require(['parts/relative-times'], function(RelativeTimes) {
+            RelativeTimes.start(document, { selector: '.js-relative-time' });
+        });
+    </script> <div class="adContainer billboard" id="impresaBillboard"></div><script async>
+    require(['ipub'], function (Ads) {
+        Ads.register("#impresaBillboard", 'billboard');
+    });
+</script> <header class="mainHeader js-mainHeader"> <section class="headerTop"> <button class="menuTrigger js-menuTrigger" style="display: none;"><i class="icon icon-menu"></i><span>Menu</span></button> <h1 class="headerLogo"><a href="/">Expresso</a></h1> <div class="headerRight"> <ul class="headerMajorLinks"> <li><a class="diario" href="/diario" title="Diário"><span>Diário</span></a></li> <li><a class="semanario" href="/semanario" title="Semanário"><span>Semanário</span></a></li> </ul> </div> </section> <section class="headerNavigation js-headerNavigation" data-href="/api/molecule/header/navigation/"></section> <section class="subHeader" id="headerNavigationTarget"> <section class="default"></section> <section class="content"></section> </section></header><div class="js-header-target"></div><script async>
+    require(['jquery', 'widgets/visibility-checker', 'parts/header', 'parts/sidebar', 'widgets/content-loader'],
+            function($, VisibilityChecker, Header, Sidebar, ContentLoader) {
+                var $header = $('.js-mainHeader'),
+                    $menuTrigger = $header.find('.js-menuTrigger'),
+                    $parts = $header.find('.js-headerNavigation, .js-headerTopLinks');
+
+                                // Header Collapse
+                Header.start($header, {
+                    className: 'collapsedHeader',
+                    target: '.js-header-target',
+                    placeholder: true,
+                    placeholderClass: 'mainHeaderPlaceholder',
+                    placeholderOutClass: 'mainHeaderPlaceholderOut'
+                });
+                
+                                // Sidebar trigger
+                Sidebar.start($menuTrigger, {
+                    className: 'sideMenuIsExpanded',
+                    ignore: '.sideNavigation',
+                    scrollTarget: $header,
+                    targetSelector: '.js-sideNavigation'
+                });
+
+                // Show the menu trigger
+                $menuTrigger.show();
+                
+                // Load Header Parts
+                VisibilityChecker.start($parts, {
+                    onVisible: function($el) {
+                        this.stop();
+
+                        ContentLoader.start($el, {
+                            cache: true
+                        });
+                    }
+                });
+            });
+</script> <div class="adContainer pushdown homePushdown" id="pushdown"></div><script async>
+    require(['ipub'], function (Ads) {
+        Ads.register("#pushdown", 'pushdown');
+    });
+</script> <div class="wrapper"> <main class="mainContent"> <article itemscope itemtype="http://schema.org/NewsArticle" class="MC-ex_sections_25194 AT-noticia noPicture noLead notHeadline notIsolated"> <div class="innerMaster"> <section class="content halfWidth marginLess"> <div class="fullArticle"> <header> <p class="mainSection"> <a href="/sociedade">Sociedade</a></p> <h1 class="title " itemprop="name"> “Joana Marques Vidal não é a rainha de Inglaterra” </h1> <div class="articleToolsContainer"> <p class="timeStamp publishedDate" datetime="2018-05-19T21:00:03.000Z" itemprop="datePublished"> 19.05.2018 às 22h00</p> <ul class="shareTools " id="social-5b00c9136ac7e"> <li class="share-facebook"> <a href="http://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fexpresso.sapo.pt%2Fsociedade%2F2018-05-19-Joana-Marques-Vidal-nao-e-a-rainha-de-Inglaterra&amp;t=%E2%80%9CJoana%20Marques%20Vidal%20n%C3%A3o%20%C3%A9%20a%20rainha%20de%20Inglaterra%E2%80%9D" data-type="facebook" class="shareToolsEntry js-share gs-foreign-tracking gs-provider-facebook" target="_blank" title="Facebook"> <i class="icon icon-facebook"></i> <span>Facebook</span> </a> </li> <li class="share-twitter"> <a href="http://twitter.com/intent/tweet?url=http%3A%2F%2Fexpresso.sapo.pt%2Fsociedade%2F2018-05-19-Joana-Marques-Vidal-nao-e-a-rainha-de-Inglaterra&amp;text=%E2%80%9CJoana%20Marques%20Vidal%20n%C3%A3o%20%C3%A9%20a%20rainha%20de%20Inglaterra%E2%80%9D&amp;via=expresso" data-type="twitter" class="shareToolsEntry js-share gs-foreign-tracking gs-provider-twitter" target="_blank" title="Twitter"> <i class="icon icon-twitter"></i> <span>Twitter</span> </a> </li> <li class="share-mail"> <a href="mailto:?subject=%E2%80%9CJoana%20Marques%20Vidal%20n%C3%A3o%20%C3%A9%20a%20rainha%20de%20Inglaterra%E2%80%9D&amp;body=%E2%80%9CJoana%20Marques%20Vidal%20n%C3%A3o%20%C3%A9%20a%20rainha%20de%20Inglaterra%E2%80%9D%0D%0A%0D%0AAnt%C3%B3nio%20Ventinhas%2C%20Presidente%20do%20Sindicato%20dos%20Magistrados%20do%20MP%0D%0A%0D%0ALer mais: http%3A%2F%2Fexpresso.sapo.pt%2Fsociedade%2F2018-05-19-Joana-Marques-Vidal-nao-e-a-rainha-de-Inglaterra" data-type="email" title="Email" class="shareToolsEntry gs-foreign-tracking gs-provider-email"> <i class="icon icon-mail"></i> <span>Email</span> </a> </li> <li class="share-whatsapp"> <a href="whatsapp://send?text=%E2%80%9CJoana%20Marques%20Vidal%20n%C3%A3o%20%C3%A9%20a%20rainha%20de%20Inglaterra%E2%80%9D%20http%3A%2F%2Fexpresso.sapo.pt%2Fsociedade%2F2018-05-19-Joana-Marques-Vidal-nao-e-a-rainha-de-Inglaterra" class="shareToolsEntry" data-type="whatsapp" target="_blank" title="Whatsapp" style="display:none"> <i class="icon icon-whatsapp"></i> <span>Whatsapp</span> </a> </li> <li class="share-showMore"> <div class="shareToolsEntry"> <i class="icon icon-dot-3"></i> <span>Mais</span> </div> <div class="moreShareTools"> <div class="moreShareToolsInner"> <ul> <li class="share-google+"> <a href="http://plus.google.com/share?url=http%3A%2F%2Fexpresso.sapo.pt%2Fsociedade%2F2018-05-19-Joana-Marques-Vidal-nao-e-a-rainha-de-Inglaterra" data-type="googleplus" class="shareToolsEntry js-share gs-foreign-tracking gs-provider-google" target="_blank" title="Google+"> <i class="icon icon-gplus"></i> <span>Google+</span> </a> </li> <li class="share-linkedin"> <a href="https://www.linkedin.com/shareArticle?mini=true&amp;title=%E2%80%9CJoana%20Marques%20Vidal%20n%C3%A3o%20%C3%A9%20a%20rainha%20de%20Inglaterra%E2%80%9D&amp;summary=Ant%C3%B3nio%20Ventinhas%2C%20Presidente%20do%20Sindicato%20dos%20Magistrados%20do%20MP&amp;url=http%3A%2F%2Fexpresso.sapo.pt%2Fsociedade%2F2018-05-19-Joana-Marques-Vidal-nao-e-a-rainha-de-Inglaterra&amp;source=Expresso" data-type="linkedin" class="shareToolsEntry js-share gs-foreign-tracking gs-provider-linkedin" target="_blank" title="Linkedin"> <i class="icon icon-linkedin"></i> <span>Linkedin</span> </a> </li> <li class="share-pinterest"> <a href="https://www.pinterest.com/pin/create/link/?url=http%3A%2F%2Fexpresso.sapo.pt%2Fsociedade%2F2018-05-19-Joana-Marques-Vidal-nao-e-a-rainha-de-Inglaterra&amp;media=%2F%2Fimages-cdn.impresa.pt%2Fexpresso%2F2018-05-18-antonio-ventinhas-1%3Fv%3Dw620h395&amp;description=%E2%80%9CJoana%20Marques%20Vidal%20n%C3%A3o%20%C3%A9%20a%20rainha%20de%20Inglaterra%E2%80%9D" data-type="pinterest" class="shareToolsEntry js-share gs-foreign-tracking gs-provider-pinterest" target="_blank" title="Pinterest"> <i class="icon icon-pinterest"></i> <span>Pinterest</span> </a> </li> </ul> <div class="linkTool"> <p class="inputLabel">Link:</p> <div class="inputContainer"> <input aria-label="Link para partilha" readonly="readonly" class="url" type="text" value="http://expresso.sapo.pt/sociedade/2018-05-19-Joana-Marques-Vidal-nao-e-a-rainha-de-Inglaterra" onclick="this.focus();this.select()"> </div> </div> </div> </div> </li> </ul><script async>
+    require(['widgets/social-share'], function (SocialShare) {
+        SocialShare.start('#social-5b00c9136ac7e');
+    });
+</script> </div></header> </div> </section> </div> <div class="innerMaster article-bottom"> <section class="content halfWidth content-top"> <div class="fullArticle"> <div class="afterHeader"> <figure> <picture class="landscape"> <img src="//images-cdn.impresa.pt/expresso/2018-05-18-antonio-ventinhas-1/original/mw-860" alt="" class="js-lazy-picture" data-srcset="//images-cdn.impresa.pt/expresso/2018-05-18-antonio-ventinhas-1/original/mw-240 240w, //images-cdn.impresa.pt/expresso/2018-05-18-antonio-ventinhas-1/original/mw-320 320w, //images-cdn.impresa.pt/expresso/2018-05-18-antonio-ventinhas-1/original/mw-480 480w, //images-cdn.impresa.pt/expresso/2018-05-18-antonio-ventinhas-1/original/mw-680 680w, //images-cdn.impresa.pt/expresso/2018-05-18-antonio-ventinhas-1/original/mw-768 768w, //images-cdn.impresa.pt/expresso/2018-05-18-antonio-ventinhas-1/original/mw-860 860w, //images-cdn.impresa.pt/expresso/2018-05-18-antonio-ventinhas-1/original/mw-960 960w, //images-cdn.impresa.pt/expresso/2018-05-18-antonio-ventinhas-1/original/mw-1024 1024w, //images-cdn.impresa.pt/expresso/2018-05-18-antonio-ventinhas-1/original/mw-1280 1280w, //images-cdn.impresa.pt/expresso/2018-05-18-antonio-ventinhas-1/original/mw-1920 1920w, //images-cdn.impresa.pt/expresso/2018-05-18-antonio-ventinhas-1/original/mw-2048 2048w" data-sizes="(min-width: 1280px) 860px, (min-width: 768px) 75vw, 100vw" /> </picture> <figcaption> <p class="credits">Goncalo F Santos / Stills</p> </figcaption> </figure> <h2 class="lead"> António Ventinhas, Presidente do Sindicato dos Magistrados do MP </h2></div><div class="articleSide"> <section class="signature singleAuthor"> <div class="authorContainer"> <figure> <a href="/autores/2015-05-02-Rui-Gustavo-1" target="_self" > <picture class="portrait"> <img src="//images-cdn.impresa.pt/expresso/2015-06-01-Rui-Gustavo.png-2/1x1/mw-30" alt="Rui Gustavo" class="js-lazy-picture" data-srcset="//images-cdn.impresa.pt/expresso/2015-06-01-Rui-Gustavo.png-2/1x1/mw-30 30w, //images-cdn.impresa.pt/expresso/2015-06-01-Rui-Gustavo.png-2/1x1/mw-50 50w, //images-cdn.impresa.pt/expresso/2015-06-01-Rui-Gustavo.png-2/1x1/mw-70 70w, //images-cdn.impresa.pt/expresso/2015-06-01-Rui-Gustavo.png-2/1x1/mw-100 100w, //images-cdn.impresa.pt/expresso/2015-06-01-Rui-Gustavo.png-2/1x1/mw-140 140w, //images-cdn.impresa.pt/expresso/2015-06-01-Rui-Gustavo.png-2/1x1/mw-200 200w, //images-cdn.impresa.pt/expresso/2015-06-01-Rui-Gustavo.png-2/1x1/mw-380 380w" data-sizes="(min-width: 768px) 50px, 30px" /> </picture></a> </figure> <p class="author"> <a href="/autores/2015-05-02-Rui-Gustavo-1"> Rui Gustavo </a></p> <p class="profession">Editor de Sociedade</p> </div> </section> </div> <div class="adContainer atHomeFeed mrec onlyWithoutSidebar bottomLabel" id="Pub5b00c9136b83a"> <div class="adWrapper" style="display:none;"></div> </div> <script async>
+            require(['ipub'], function (Ads) {
+                Ads.register("#Pub5b00c9136b83a", 'mrec-alt', '#Pub5b00c9136b83a .adWrapper');
+            });
+        </script> <div class="articleContent"> <p>O representante dos magistrados do MP considera que há um plano em curso para o Governo controlar a magistratura e defende que o procurador-geral não precisa de ter mais poderes ou mais do que um mandato. “Dois mandatos são 12 anos. Se calhar um mau PGR pode apagar uma geração inteira de corrupção”. </p> <p><strong>Porque é que o sindicato não quer que Joana Marques Vidal tenha um segundo mandato como procuradora-geral? </strong><br> A nossa posição já foi tomada e não está relacionada com a atual PGR. Não somos, por princípio, a favor da renovação do mandato do procurador-geral. Mas defendemos que o próximo devia continuar a linha da atual.</p> <p><strong>Não seria mais fácil continuar com a mesma do que tentar arranjar uma igual? </strong><br> Seria o mais fácil, de facto. Mas temos uma posição de princípio que não vamos alterar. A não-renovação serve, por exemplo, para evitar que exista a tentação de agradar ao poder para conseguir mais um mandato. Não é bom que as pessoas se eternizem no poder. Dois mandatos são 12 anos. Se for escolhido um mau PGR, é uma geração inteira de corrupção que pode ser apagada. E é precisamente por isso que também não pode ter poderes absolutos.</p> <p><strong>O novo estatuto do Ministério Público prevê um aumento de poderes do PGR. E o sindicato é contra. Porquê?</strong><br> Os poderes devem continuar como estão. Não se pode alterar as normas em função das pessoas porque elas saem e as normas continuam. Com os poderes que estão atualmente atribuídos ao Conselho Superior do Ministério Público existe uma maior garantia de autonomia dos magistrados. É importante que existam freios e contrabalanços para o poder do PGR. </p> <p><strong>Essa não é uma forma de defender o poder do próprio sindicato uma vez que tem representantes no conselho? </strong><br> Não, não. Há mais pluralidade no conselho que tem de facto magistrados membros do sindicato e elementos eleitos pela Assembleia da República. Mas nós até defendemos que o sistema de nomeações devia ser alterado. </p> <p><strong>Como? </strong><br> Criando incompatibilidades. Há pessoas que são advogados de arguidos e apresentam propostas que estão relacionadas com os processos em que estão a trabalhar. </p> <p><strong>Está a falar de Castanheira Neves (advogado de Joaquim Barroca na ‘Operação Marquês’ e membro do CSMP)? </strong><br> Pois claro. Ainda há pouco tempo apresentou uma proposta de processo disciplinar contra os magistrados da ‘Operação Marquês’ a propósito da divulgação do vídeo dos interrogatórios na SIC. E é advogado no processo. O sistema não pode permitir que uma pessoa possa estar no conselho e tome decisões conexas com os processos em que estão a trabalhar. </p> <p><strong>Esse processo disciplinar vai avançar?</strong><br> Não, foi chumbado pela maioria do conselho.</p> <p><strong>A autora da proposta de estatutos é a ministra da Justiça e sua colega procuradora Francisca Van Dunem. Acha que é cúmplice do Governo na alegada tentativa de controlo do MP denunciada pelo sindicato?</strong><br> As medidas previstas pelo estatuto facilitam que o Governo controle o Ministério Público. O Governo nomeia o PGR e se o controlar controla o MP. Por isso é que é importante o contrapeso do CSMP. Nós defendemos que seja o Parlamento a indicar os nomes e o presidente a escolher. Haveria mais garantias de imparcialidade. </p> <p><strong>Mas está a partir do princípio que o PGR é pressionável e controlável. </strong><br> O que estou a dizer é que tem de ser escrutinado. </p> <p><strong>Mas não é um facto que o PGR tem poucos poderes? Que nem pode nomear os vices? Que tem os poderes da rainha de Inglaterra como disse Pinto Monteiro? </strong><br> A Joana Marques Vidal tem os mesmos poderes e ninguém acha que seja uma rainha de Inglaterra. Pinto Monteiro nunca soube exercer os poderes que tinha. A questão não é essa. A realidade demonstra que o CSMP serve para equilibrar as forças e impede que o PGR possa controlar o MP. </p> <p><strong>As coisas mudaram de facto com o mandato de Joana Marques Vidal? </strong><br> Acho que os cidadãos já perceberam que não há ninguém acima da lei, a sensação de impunidade acabou. Todos os dias há novos processos e as pessoas percebem que o MP está a funcionar de forma diferente. Isso não se deve só à PGR, mas também ao próprio funcionamento do MP. </p> <p><strong>O julgamento de José Sócrates será também o julgamento do MP?</strong><br> Não. O MP não pode ser julgado por um caso quando investiga mais de 500 mil processos. </p> <p><strong>Mas só um envolve um ex-primeiro-ministro. </strong><br> Resumir o trabalho do MP a um processo é demasiado parcial.</p> </div><footer class="articleFooter"> <div class="articleToolsContainer"> <ul class="shareTools " id="social-5b00c9136bb5c"> <li class="share-facebook"> <a href="http://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fexpresso.sapo.pt%2Fsociedade%2F2018-05-19-Joana-Marques-Vidal-nao-e-a-rainha-de-Inglaterra&amp;t=%E2%80%9CJoana%20Marques%20Vidal%20n%C3%A3o%20%C3%A9%20a%20rainha%20de%20Inglaterra%E2%80%9D" data-type="facebook" class="shareToolsEntry js-share gs-foreign-tracking gs-provider-facebook" target="_blank" title="Facebook"> <i class="icon icon-facebook"></i> <span>Facebook</span> </a> </li> <li class="share-twitter"> <a href="http://twitter.com/intent/tweet?url=http%3A%2F%2Fexpresso.sapo.pt%2Fsociedade%2F2018-05-19-Joana-Marques-Vidal-nao-e-a-rainha-de-Inglaterra&amp;text=%E2%80%9CJoana%20Marques%20Vidal%20n%C3%A3o%20%C3%A9%20a%20rainha%20de%20Inglaterra%E2%80%9D&amp;via=expresso" data-type="twitter" class="shareToolsEntry js-share gs-foreign-tracking gs-provider-twitter" target="_blank" title="Twitter"> <i class="icon icon-twitter"></i> <span>Twitter</span> </a> </li> <li class="share-mail"> <a href="mailto:?subject=%E2%80%9CJoana%20Marques%20Vidal%20n%C3%A3o%20%C3%A9%20a%20rainha%20de%20Inglaterra%E2%80%9D&amp;body=%E2%80%9CJoana%20Marques%20Vidal%20n%C3%A3o%20%C3%A9%20a%20rainha%20de%20Inglaterra%E2%80%9D%0D%0A%0D%0AAnt%C3%B3nio%20Ventinhas%2C%20Presidente%20do%20Sindicato%20dos%20Magistrados%20do%20MP%0D%0A%0D%0ALer mais: http%3A%2F%2Fexpresso.sapo.pt%2Fsociedade%2F2018-05-19-Joana-Marques-Vidal-nao-e-a-rainha-de-Inglaterra" data-type="email" title="Email" class="shareToolsEntry gs-foreign-tracking gs-provider-email"> <i class="icon icon-mail"></i> <span>Email</span> </a> </li> <li class="share-whatsapp"> <a href="whatsapp://send?text=%E2%80%9CJoana%20Marques%20Vidal%20n%C3%A3o%20%C3%A9%20a%20rainha%20de%20Inglaterra%E2%80%9D%20http%3A%2F%2Fexpresso.sapo.pt%2Fsociedade%2F2018-05-19-Joana-Marques-Vidal-nao-e-a-rainha-de-Inglaterra" class="shareToolsEntry" data-type="whatsapp" target="_blank" title="Whatsapp" style="display:none"> <i class="icon icon-whatsapp"></i> <span>Whatsapp</span> </a> </li> <li class="share-showMore"> <div class="shareToolsEntry"> <i class="icon icon-dot-3"></i> <span>Mais</span> </div> <div class="moreShareTools"> <div class="moreShareToolsInner"> <ul> <li class="share-google+"> <a href="http://plus.google.com/share?url=http%3A%2F%2Fexpresso.sapo.pt%2Fsociedade%2F2018-05-19-Joana-Marques-Vidal-nao-e-a-rainha-de-Inglaterra" data-type="googleplus" class="shareToolsEntry js-share gs-foreign-tracking gs-provider-google" target="_blank" title="Google+"> <i class="icon icon-gplus"></i> <span>Google+</span> </a> </li> <li class="share-linkedin"> <a href="https://www.linkedin.com/shareArticle?mini=true&amp;title=%E2%80%9CJoana%20Marques%20Vidal%20n%C3%A3o%20%C3%A9%20a%20rainha%20de%20Inglaterra%E2%80%9D&amp;summary=Ant%C3%B3nio%20Ventinhas%2C%20Presidente%20do%20Sindicato%20dos%20Magistrados%20do%20MP&amp;url=http%3A%2F%2Fexpresso.sapo.pt%2Fsociedade%2F2018-05-19-Joana-Marques-Vidal-nao-e-a-rainha-de-Inglaterra&amp;source=Expresso" data-type="linkedin" class="shareToolsEntry js-share gs-foreign-tracking gs-provider-linkedin" target="_blank" title="Linkedin"> <i class="icon icon-linkedin"></i> <span>Linkedin</span> </a> </li> <li class="share-pinterest"> <a href="https://www.pinterest.com/pin/create/link/?url=http%3A%2F%2Fexpresso.sapo.pt%2Fsociedade%2F2018-05-19-Joana-Marques-Vidal-nao-e-a-rainha-de-Inglaterra&amp;media=%2F%2Fimages-cdn.impresa.pt%2Fexpresso%2F2018-05-18-antonio-ventinhas-1%3Fv%3Dw620h395&amp;description=%E2%80%9CJoana%20Marques%20Vidal%20n%C3%A3o%20%C3%A9%20a%20rainha%20de%20Inglaterra%E2%80%9D" data-type="pinterest" class="shareToolsEntry js-share gs-foreign-tracking gs-provider-pinterest" target="_blank" title="Pinterest"> <i class="icon icon-pinterest"></i> <span>Pinterest</span> </a> </li> </ul> <div class="linkTool"> <p class="inputLabel">Link:</p> <div class="inputContainer"> <input aria-label="Link para partilha" readonly="readonly" class="url" type="text" value="http://expresso.sapo.pt/sociedade/2018-05-19-Joana-Marques-Vidal-nao-e-a-rainha-de-Inglaterra" onclick="this.focus();this.select()"> </div> </div> </div> </div> </li> </ul><script async>
+    require(['widgets/social-share'], function (SocialShare) {
+        SocialShare.start('#social-5b00c9136bb5c');
+    });
+</script> </div></footer> </div> <div class="adContainer autopromo"> <div id="Pub5b00c9136bccd" class="adWrapper"></div> <script async>
+            require(['ipub'], function (Ads) {
+                Ads.register("#Pub5b00c9136bccd", "ad-slot");
+            });
+        </script> </div> </section> <section class="rightSidebar js-sidebar js-right-sidebar article-top" id="rightSidebar5b00c9136bf2d" data-ads-section="/sociedade" data-href="/api/molecule/sidebar/top?location=site"> <div class="placeholder mrec"></div> <div class="placeholder"> <span></span> <span></span> </div> <script async>
+            require(['widgets/visibility-checker', 'widgets/content-loader'],
+                    function(VisibilityChecker, ContentLoader) {
+                        // Load Sidebar Parts
+                        VisibilityChecker.start("#rightSidebar5b00c9136bf2d", {
+                            viewport: false,
+                            onVisible: function($el) {
+                                this.stop();
+
+                                ContentLoader.start($el, {
+                                    cache: true
+                                });
+                            }
+                        });
+                    });
+        </script> </section> </div> </article> <div class="innerMaster"> <section class="content halfWidth"> <div class="adContainer atHomeFeed mrec onlyWithoutSidebar" id="Pub5b00c9136c02f"> <div class="adWrapper" style="display:none;"></div> </div> <script async>
+            require(['ipub'], function (Ads) {
+                Ads.register("#Pub5b00c9136c02f", 'mrec', '#Pub5b00c9136c02f .adWrapper');
+            });
+        </script> <div id="List5b00c9136c27d" data-href="/api/molecule/recommendation"> <div class="loading js-loader" style="display: none; margin-bottom:40px">A carregar...</div> </div> <script async>
+        require(['parts/recommended-priberam'], function(RecommendedPriberam) {
+            RecommendedPriberam.start('#List5b00c9136c27d', {
+                'limit': 3,
+                'articleId': 'af4696f2-4731-4023-b631-1958bd611edf'
+            });
+        });
+    </script> <div class="adContainer revcontent" id="revContent"></div><script async>
+    require(['ipub'], function (Ads) {
+        Ads.register("#revContent", 'revcontent');
+    });
+</script> <div id="homeLatest" data-href="/api/molecule/latest//sociedade"> <div class="js-container inArticleContext"></div> <button class="js-more moreButton" style="display: none">Mais Artigos</button> <div class="loading js-loader" style="display: none; margin-bottom:40px">a carregar...</div></div><script async>
+    require(['parts/latest'], function(InfiniteScroll) {
+        InfiniteScroll.start('#homeLatest', {
+            'auto': true,
+            'title': 'Sociedade',
+            'offset-attribute': 'datetime',
+            'more-selector': '.js-more',
+            'loader-selector': '.js-loader',
+            'container-selector': '.js-container'
+        });
+    });
+</script> </section> <section class="rightSidebar js-sidebar js-right-sidebar article-bottom" id="rightSidebar5b00c9136c634" data-ads-section="/sociedade" data-href="/api/molecule/sidebar/bottom?location=site"> <div class="placeholder"> <span></span> <span></span> </div> <script async>
+            require(['widgets/visibility-checker', 'widgets/content-loader'],
+                    function(VisibilityChecker, ContentLoader) {
+                        // Load Sidebar Parts
+                        VisibilityChecker.start("#rightSidebar5b00c9136c634", {
+                            viewport: false,
+                            onVisible: function($el) {
+                                this.stop();
+
+                                ContentLoader.start($el, {
+                                    cache: true
+                                });
+                            }
+                        });
+                    });
+        </script> </section><script async>
+    require(['parts/sticky-scroll'], function(StickyScroll) {
+        StickyScroll.start("#rightSidebar5b00c9136c634", {
+            infinite: 1
+        });
+    });
+</script> </div> </main> <nav class="sideNavigation js-sideNavigation"> <div class="inner"> <div class="sidenavActions"> <form class="sidenavSearch search-bar" action="/pesquisa" > <div class="search-input-wrap"> <input type="search" placeholder="Pesquisa" class="search-input" name="q" value=""/> </div> <button type="submit" title="Pesquisar" class="search-submit icon icon-search"><span>Pesquisar</span></button> </form> <p class="sidenavUser"> <button class="btn login js-loginButton" title="Login"><span>Login</span> <i class="icon icon-user"></i></button> <button class="btn register js-registerButton" title="Registo"><span>Registo</span> <i class="icon icon-user"></i></button> <button class="btn logout js-logoutButton" title="Logout"><span>Logout</span></button> <a class="btn profile" href="https://perfil.impresa.pt" target="_blank" title="Perfil"><span>Perfil</span> <i class="icon icon-user"></i></a> </p> <script async>
+    require(['user'], function(User) {
+        User.update();
+    });
+</script> </div> <section > <h2>Edições</h2> <ul> <li><a href="/diario" >Diário</a> </li> <li><a href="/semanario" >Semanário</a> </li> <li><a href="/newsletters/expressomatinal" >Expresso Curto</a> </li> <li><a href="/podcasts" >Podcasts</a> </li> <li><a href="http://tribuna.expresso.pt" >Tribuna</a> </li> </ul> </section> <section > <h2>Secções</h2> <ul> <li><a href="/destaques" >Início</a> </li> <li><a href="/ultimas" >Últimas</a> </li> <li><a href="/colecionaveis" >Colecionáveis</a> </li> <li><a href="/multimedia" >Multimédia</a> </li> <li><a href="/politica" >Política</a> </li> <li><a href="/sociedade" >Sociedade</a> </li> <li><a href="/internacional" >Internacional</a> </li> <li><a href="/economia" >Economia</a> </li> <li><a href="http://tribuna.expresso.pt" >Desporto</a> </li> <li><a href="/cultura" >Cultura</a> </li> <li><a href="/opiniao" >Opinião</a> </li> <li><a href="/gen.pl?sid=ex.sections/25024&amp;amp;m2=48" >Cartoons</a> </li> <li><a href="/gen.pl?sid=ex.sections/23425&amp;amp;m2=45" >Está dito</a> </li> </ul> </section> <section > <h2>Iniciativas</h2> <ul> <li><a href="/economia/gic" >Global Investment Challenge</a> </li> <li><a href="/iniciativaseprodutos/entrepreneur-of-the-year" >Entrepreneur Of The Year</a> </li> </ul> </section> <section > <h2>Classificados</h2> <ul> <li><a href="http://expressoemprego.pt/" target="_blank">Emprego</a> </li> <li><a href="http://bpiexpressoimobiliario.pt/" target="_blank">Imobiliário</a> </li> </ul> </section> <section class="meta"> <h2 class="socialLinksHeader">Siga-nos</h2><ul class="social"> <li class="facebook"> <a href="https://www.facebook.com/jornalexpresso" title="Facebook"><i class="icon icon-facebook"></i><span>Facebook</span></a> </li> <li class="twitter"> <a href="https://twitter.com/expresso" title="Twitter"><i class="icon icon-twitter"></i><span>Twitter</span></a> </li> <li class="googlePlus"> <a href="https://plus.google.com/110189231159586871953/posts" title="Google+"><i class="icon icon-gplus"></i><span>Google+</span></a> </li> <li class="linkedIn"> <a href="https://www.linkedin.com/company/expresso-emprego" title="LinkedIn"><i class="icon icon-linkedin"></i><span>LinkedIn</span></a> </li> <li class="rss"> <a href="http://feeds.feedburner.com/expresso-geral" title="RSS"><i class="icon icon-rss"></i><span>RSS</span></a> </li> </ul> <ul class="institucional"> <li><a href="/gen.pl?p=stories&amp;fokey=ex.stories/774690&amp;op=view&amp;mid1=ex.menus/66&amp;m2=487" >Estatuto editorial</a> </li> <li><a href="/gen.pl?p=stories&amp;fokey=ex.stories/198040&amp;op=view&amp;mid1=ex.menus/66&amp;m2=487" >Código de Conduta</a> </li> <li><a href="/gen.pl?p=stories&amp;fokey=ex.stories/774685&amp;op=view&amp;mid1=ex.menus/66&amp;m2=488" >Ficha Técnica do Expresso</a> </li> <li><a href="/informacao/cookies/2015-05-03-Politica-de-cookies" >Política de cookies</a> </li> <li><a href="/arquivo/paginas_institucionais/termos_de_utilizacao/2015-05-03-Termos-de-Utilizacao-1" >Termos de utilização</a> </li> <li><a href="/informacao/PolticadePrivacidade/2015-05-04-Politica-de-privacidade" >Política de privacidade</a> </li> <li><a href="/regras-da-comunidade=f740487" >Regras da Comunidade</a> </li> <li><a href="/gen.pl?p=stories&amp;op=view&amp;fokey=ex.stories/723177" >Publicidade</a> </li> <li><a href="/contactos-directos=f774722" >Contactos</a> </li> <li><a href="http://www.impresa.pt/lei782015" target="_blank">Lei da Transparência</a> </li> <li><a href="http://promo.impresa.pt/cartaomx/COB7I.html" target="_blank">Assinar</a> </li> <li><a href="/cartas-ao-diretor" >Cartas ao Director</a> </li> <li><a href="https://loja.expresso.pt" target="_blank">Loja</a> </li> </ul> <p class="copyright">&copy; Expresso Impresa Publishing S.A.</p> </section> <section class="footerImpresaContainer"> <div id="impresaFooter"></div> <script>
+                require(['impresa-footer'], function(Lib) {
+                    Lib.init('#impresaFooter',{responsive:false});
+                });
+            </script> </section> </div> <script async>
+        require(['jquery', 'parts/scroll-binder'], function ($, ScrollBinder) {
+            var $el = $('.js-sideNavigation');
+
+            ScrollBinder.start($el, {
+                scroller: $el.find('.inner'),
+                mq: '(min-width: 768px)'
+            });
+        });
+    </script></nav> </div> <script async>
+                require(['ipub'], function(Ads) {
+                    Ads.enableOverlay("/1058775/Expresso_Overlay");
+                });
+            </script> <script async>
+    require(['impresa-cookie-policy'], function(Lib) {
+        Lib.init("body", {
+            policyUrl: "/informacao/cookies/2015-05-03-Politica-de-cookies",
+            usageUrl: "/informacao/cookies/2015-05-03-Politica-de-cookies"
+        });
+    });
+</script> <div class="adContainer sniffer" id="Pub5b00c9136ce07"></div><script async>
+    require(['ipub'], function (Ads) {
+        Ads.register("#Pub5b00c9136ce07", 'xaxis');
+    });
+</script> <div class="adContainer sniffer" id="Pub5b00c9136ce5b"></div><script async>
+    require(['ipub'], function (Ads) {
+        Ads.register("#Pub5b00c9136ce5b", 'tracking');
+    });
+</script> <script async>
+            require(['parts/ads-setup'], function (Ads) {
+                Ads.run({"siteId":89002,"pageId":618880,"revcontent":{"widgetId":84556}});
+            });
+        </script> <script async>
+            require(['parts/push-notifications'], function (PushNotifications) {
+                PushNotifications.start('body', {
+                    onesignal: {"subdomainName":"expresso","appId":"14f37390-73dd-4ccf-9a46-0384a2846344","safari_web_id":"web.onesignal.auto.560021c2-877c-448b-9811-f001e7b5ec58"}
+                });
+            });
+        </script> </body></html>
