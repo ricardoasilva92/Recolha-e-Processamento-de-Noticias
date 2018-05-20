@@ -137,7 +137,7 @@ for jornalAcr in dictJornais:
 		dictPessoas[jornalAcr] = {}
 		for filename in onlyfiles:
 			aux_set = set ()
-			
+			print(filename)
 			path= 'obter_colecoes/' + dictJornais[jornalAcr] + '/noticias/' + filename
 			tree = ET.parse(path)
 			root = tree.getroot()
