@@ -149,15 +149,16 @@ for jornalAcr in dictJornais:
 					for previous, item, nxt in previous_and_next(tokens):
 						if item[0].isupper() and item.upper() in nomesPtSet:
 							#nomeProprio + (nomeProprio || apelido)
-							if nxt.upper() in apelidosPtSet or nxt.upper() in nomesPtSet:
-								nome_completo = item + ' ' + nxt
-								aux_set.add(nome_completo)					   
-							else:
-								#se nao tem nome nem atras nem à frente
-								if previous:
-									if previous.upper() not in nomesPtSet:
-										aux_set.add(item)
-							
+							if nxt != None:
+								if nxt.upper() in apelidosPtSet or nxt.upper() in nomesPtSet:
+									nome_completo = item + ' ' + nxt
+									aux_set.add(nome_completo)					   
+								else:
+									#se nao tem nome nem atras nem à frente
+									if previous:
+										if previous.upper() not in nomesPtSet:
+											aux_set.add(item)
+								
 						#se anterior for nome e seguinte tambem nome_completo
 						else:
 							if item in conetoresNomes:
