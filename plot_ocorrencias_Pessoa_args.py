@@ -123,7 +123,7 @@ listaJornais = ["[PT] Diario de Noticias",
 				"[ST] Tela_Non",
 				"[TL] Governo Timor-Leste"]
 listaJornaisAcr = ["DN","JA","AS","TN","TLEST"]
-
+k=0
 #recolha de todos os nomes em todas as noticias
 #criacao de dicionario {"Acrinomio de Jornal":{
 # 											"data":[lista de nomes] (cada elemento (nome) nesta lista corresponde a uma noticia)
@@ -138,6 +138,7 @@ for jornalAcr in dictJornais:
 		for filename in onlyfiles:
 			aux_set = set ()
 			print(filename)
+			k+=1
 			path= 'obter_colecoes/' + dictJornais[jornalAcr] + '/noticias/' + filename
 			tree = ET.parse(path)
 			root = tree.getroot()
@@ -216,7 +217,7 @@ if len(nomeAprocurar)==1:
 # print(eixoY_ocos)
 
 
-
+print(str(k) + "Noticias Lidas")
 fig = plt.figure()
 
 plt.plot(eixoX_datas,eixoY_ocos)
