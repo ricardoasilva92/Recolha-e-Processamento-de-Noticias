@@ -1,0 +1,185 @@
+<!DOCTYPE html><html class="no-js" lang="pt-PT"><head> <meta charset="UTF-8"/> <meta http-equiv="X-UA-Compatible" content="IE=edge"/> <meta http-equiv="Content-Language" content="pt"> <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no"/> <link rel="manifest" href="/manifest.json"/> <meta name="apple-mobile-web-app-title" content="Tribuna Expresso"/> <meta name="theme-color" content="#102d7b"/> <meta name="msapplication-TileColor" content="#102d7b"/> <link rel="icon" sizes="152x152" href="//static.impresa.pt/tribuna/218//assets/gfx/icon.png"/> <meta name="msapplication-square150x150logo" content="//static.impresa.pt/tribuna/218//assets/gfx/icon.png"/> <link rel="shortcut icon" href="/favicon.ico"/> <link rel="preconnect" href="//ajax.googleapis.com"><link rel="preconnect" href="//images-cdn.impresa.pt/"/><link rel="stylesheet" type="text/css" href="//static.impresa.pt/tribuna/218//assets/css/main.min.css"/> <!--[if lte IE 8]>
+     <link href="//static.impresa.pt/tribuna/218//assets/respond-proxy.html" id="respond-proxy" rel="respond-proxy"/>  <link href="/assets/gfx/respond.proxy.gif" id="respond-redirect" rel="respond-redirect"/> <script src="//static.impresa.pt/tribuna/218//assets/js/legacy.min.js"></script> <![endif]--> <script src="//static.impresa.pt/tribuna/218//assets/js/head.min.js"></script> <script>
+        require.config({
+            baseUrl: '//static.impresa.pt/tribuna/218//assets/js/'
+        });
+    </script><script>
+    require.config({
+        map: {
+            "*": { 'user': 'parts/web/user' }
+        },
+        paths: {
+            'ImpresaSSO': 'https://id.impresa.pt/js/impresa-sso.min'
+        },
+        config: {
+            'parts/web/user': {"profile":{"url":"https:\/\/api.impresa.pt\/profile"},"sso":{"url":"https:\/\/id.impresa.pt","gigyaKey":"3_SlQdOiQ8k-7grQ_Mx0LfKus2fvYJ7ge7QRBxXcLAk0x_hhvxLLYiLrGZwQrLpUlW"}}
+        }
+    });
+
+        window.lazySizesConfig = window.lazySizesConfig || {};
+    window.lazySizesConfig.lazyClass = "js-lazy-picture";
+    window.lazySizesConfig.preloadClass = "js-lazy-picture-preload";
+    window.lazySizesConfig.loadingClass = "js-lazy-picture-loading";
+    window.lazySizesConfig.loadedClass = "js-lazy-picture-loaded";
+    </script><script async>
+    require(['modernizr', 'parts/ua']);
+
+        require(['picturefill', 'lazysizes']);
+    
+        require(['parts/trackr'], function (Trackr) { Trackr.trackPage(document.location.pathname, document.title); });
+    </script> <title>Tribuna Expresso | As contas principescas do contrato de Jesus: nove milhões por ano por dois anos de contrato</title><meta name="twitter:title" property="og:title" content="As contas principescas do contrato de Jesus: nove milhões por ano por dois anos de contrato"/><link rel="canonical" href="http://tribunaexpresso.pt/multimedia/video/2018-06-05-As-contas-principescas-do-contrato-de-Jesus-nove-milhoes-por-ano-por-dois-anos-de-contrato"><meta name="twitter:url" property="og:url" content="http://tribunaexpresso.pt/multimedia/video/2018-06-05-As-contas-principescas-do-contrato-de-Jesus-nove-milhoes-por-ano-por-dois-anos-de-contrato"> <meta name="description" content="Jorge Jesus está na Suíça para negociar a transferência para o Al Hilal, da Arábia Saudita. Na mesa está um contrato de dois anos por quase 18 milhões de euros"> <meta name="twitter:description" property="og:description" content="Jorge Jesus está na Suíça para negociar a transferência para o Al Hilal, da Arábia Saudita. Na mesa está um contrato de dois anos por quase 18 milhões de euros"/> <meta name="twitter:image" property="og:image" content="http://images-cdn.impresa.pt/olimpia/2018-06-05-Jorge-Jesus/fb/wm"/><meta property="og:image:width" content="1200"/><meta property="og:image:height" content="630"/> <meta name="twitter:card" content="summary"> <meta property="og:type" content="article"><meta property="og:site_name" content="Tribuna Expresso"/><link rel="alternate" type="application/rss+xml" title="Tribuna Expresso RSS" href="http://rss.impresa.pt/feed/latest/olimpia.rss"/><meta property="fb:pages" content="44028982543"/><meta property="fb:article_style" content="default"> <meta property="impresa:id" content="88c92963-2c6e-4eae-b4b4-e54151783fcf"/> <meta property="impresa:type" content="VIDEO"/> <script>
+        window.ImpresaAdTargeting = {"_":"multimedia_video","url":"2018-06-05-As-contas-principescas-do-contrato-de-Jesus-nove-milhoes-por-ano-por-dois-anos-de-contrato","tag":""};
+    </script> </head><body class="skin-olimpia hasLeftSidebar multimediaPage full-article-video"> <!--[if lt IE 8]>
+    <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a
+            href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+    <![endif]--> <div id="impresaBar" class="impresaBar"></div><script async>
+    require(['impresa-bars'], function (Bar) {
+        Bar.init("#impresaBar", {template: "expresso", active: "olimpia"});
+    });
+</script> <div class="adContainer billboard" id="impresaBillboard"></div><script async>
+    require(['ipub'], function (Ads) {
+        Ads.register("#impresaBillboard", 'billboard');
+    });
+</script> <header class="mainHeader js-mainHeader"> <section class="headerTop"> <h1 class="headerLogo "><a href="/">Tribuna Expresso</a></h1> <div class="headerElements"> <ul class="headerTopLinks"> <li> <a href="http://assineja.pt/images/landing/expresso/2016/20160520_smartwatch/C09YU.html?utm_source=expresso&amp;utm_medium=displayhpexpresso_menuheader&amp;utm_content=&amp;utm_campaign=MX_SMARTWATCH_2016" target="_blank">Assinar</a> </li> <li> <a href="https://lojaimpresa.pt" target="_blank">Loja</a> </li> </ul> <section class="headerSocial"> <ul class="social"> <li class="facebook"> <a href="https://www.facebook.com/jornalexpresso" title="Facebook"> <span>Facebook</span> <i class="icon icon-facebook"></i></a> </li> <li class="twitter"> <a href="https://twitter.com/expresso" title="Twitter"> <span>Twitter</span> <i class="icon icon-twitter"></i></a> </li> <li class="rss"> <a href="http://rss.impresa.pt/feed/latest/olimpia.rss" title="RSS"> <span>RSS Feed</span> <i class="icon icon-rss"></i></a> </li> </ul> </section> <div class="headerActions"> <p class="headerUser"> <button class="btn login js-loginButton" title="Login"><span>Login</span> <i class="icon icon-user"></i></button> <button class="btn logout js-logoutButton" title="Logout"><span>Logout</span></button> <a class="btn profile" href="https://perfil.impresa.pt" target="_blank" title="Perfil"><span>Perfil</span> <i class="icon icon-user"></i></a></p><script async>
+    require(['user'], function(User) {
+        User.update();
+    });
+</script> </div> </div> <div class="headerBrands headerBrands__top"> <ul> <li class="brandLogo brandLogo__sicnot"> <a href="http://sicnoticias.sapo.pt/" target="_blank" title="SIC Notícias"><span>SIC Notícias</span></a> </li> </ul></div> <button class="menuTrigger js-menuTrigger" style="display: none;"><span>Menu</span><i class="icon icon-menu"></i></button> </section> <section class="headerBottom js-headerBottom" data-href="/api/molecule/header/bottom"></section></header><div class="js-header-target"></div><script async>
+    require(['jquery', 'widgets/visibility-checker', 'parts/header', 'parts/sidebar', 'widgets/content-loader'],
+            function($, VisibilityChecker, Header, Sidebar, ContentLoader) {
+                var $header = $('.js-mainHeader'),
+                    $menuTrigger = $header.find('.js-menuTrigger'),
+                    $parts = $header.find('.js-headerBottom');
+
+                                // Header Collapse
+                Header.start($header, {
+                    className: 'collapsedHeader',
+                    target: '.js-header-target',
+                    placeholder: true,
+                    placeholderClass: 'mainHeaderPlaceholder',
+                    placeholderOutClass: 'mainHeaderPlaceholderOut'
+                });
+                
+                                // Sidebar trigger
+                Sidebar.start($menuTrigger, {
+                    className: 'sideMenuIsExpanded',
+                    ignore: '.siteMenu',
+                    menuSelector: '.js-siteMenu',
+                    mq: 'screen and (min-width: 768px)'
+                });
+
+                // Show the menu trigger
+                $menuTrigger.show();
+                
+                // Load Header Parts
+                VisibilityChecker.start($parts, {
+                    onVisible: function($el) {
+                        this.stop();
+
+                        ContentLoader.start($el, {
+                            cache: true
+                        });
+                    }
+                });
+            });
+</script> <div class="adContainer pushdown homePushdown" id="pushdown"></div><script async>
+    require(['ipub'], function (Ads) {
+        Ads.register("#pushdown", 'pushdown');
+    });
+</script> <div class="wrapper"> <main class="mainContent"> <div class="sponsorSlot"></div> <article itemscope itemtype="http://schema.org/NewsArticle" class="MC-multimedia_video AT-video hasLead noPicture notHeadline notIsolated notSpecial"> <div class="innerMaster fullWidth skipMarginTopBody"> <section class="content fullArticle"> <div class="titleZone darkStyle"> <div class="inner"> <header class="articleHeader"> <p class="mainSection"> <a href="/multimedia/video">vídeo</a></p> <h1 class="title" itemprop="name"> As contas principescas do contrato de Jesus: nove milhões por ano por dois anos de contrato </h1> <h2 class="lead"> Jorge Jesus está na Suíça para negociar a transferência para o Al Hilal, da Arábia Saudita. Na mesa está um contrato de dois anos por quase 18 milhões de euros </h2> <div class="inlineArticleData"> <p class="timeStamp publishedDate" datetime="2018-06-05T13:47:40.210Z" itemprop="datePublished"> 05.06.2018 às 14h47</p> </div> </header> </div></div><div class="mediaZone darkStyle"> <div class="inner"> <div > <div class="videoContainer"> <video id="video-5b16ba0256769" class="video-player-container video-js vjs-default-skin" width="1024" height="576" controls preload="none" poster="//images-cdn.impresa.pt/olimpia/2018-06-05-Jorge-Jesus/16x9/mw-680"> <source src="//videos.impresa.pt/sicnot/2018-06-05/90c6519a-95bb-4a4c-9acc-97a5c61052fd_jorge-jesus-pj/net_wide" type="video/mp4"/> </video> <script async>
+            require( [ 'ipub/video-player', 'parts/ads-setup' ], function( Player, Ads ) {
+                // init player widget
+                Player.start( '#video-5b16ba0256769', {
+                                                            vast: {"skip":true,"showCountdown":true,"url":"https:\/\/www8.smartadserver.com\/ac?siteid=104874&pgid=663616&fmtid=37785&ab=1&oc=1&out=vast3&ps=1&pb=0&visit=S&vcn=s&tmstp=[timestamp]","entries":[{"offset":0}]},
+                    vastTarget: Ads.getTargetingInfo(),
+                                        volume: 0.50,
+                    meta: {
+                        contentUri: '/multimedia/video/2018-06-05-As-contas-principescas-do-contrato-de-Jesus-nove-milhoes-por-ano-por-dois-anos-de-contrato',
+                        title: document.title,
+                        label: '2018-06-05-As-contas-principescas-do-contrato-de-Jesus-nove-milhoes-por-ano-por-dois-anos-de-contrato'
+                    }
+                } );
+            } );
+        </script> </div></div> </div></div> </section> </div> <div class="innerMaster article-bottom"> <section class="content halfWidth"> <div class="fullArticle"> <div class="articleShareToolsContainer floatable"> <p class="subSectionLabel"> <span>Partilhar</span> </p> <ul class="shareTools" id="social-5b16ba02568bc"> <li class="share-facebook"> <a href="http://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Ftribunaexpresso.pt%2Fmultimedia%2Fvideo%2F2018-06-05-As-contas-principescas-do-contrato-de-Jesus-nove-milhoes-por-ano-por-dois-anos-de-contrato&amp;t=As%20contas%20principescas%20do%20contrato%20de%20Jesus%3A%20nove%20milh%C3%B5es%20por%20ano%20por%20dois%20anos%20de%20contrato" data-type="facebook" class="js-share" target="_blank" title="Facebook"> <i class="icon icon-facebook"></i> <span>Facebook</span> </a> </li> <li class="share-twitter"> <a href="http://twitter.com/intent/tweet?url=http%3A%2F%2Ftribunaexpresso.pt%2Fmultimedia%2Fvideo%2F2018-06-05-As-contas-principescas-do-contrato-de-Jesus-nove-milhoes-por-ano-por-dois-anos-de-contrato&amp;text=As%20contas%20principescas%20do%20contrato%20de%20Jesus%3A%20nove%20milh%C3%B5es%20por%20ano%20por%20dois%20anos%20de%20contrato" data-type="twitter" class="js-share" target="_blank" title="Twitter"> <i class="icon icon-twitter"></i> <span>Twitter</span> </a> </li> <li class="share-mail"> <a href="/cdn-cgi/l/email-protection#59662a2c3b333c3a2d64182a7c6b693a36372d382a7c6b69292b30373a30293c2a3a382a7c6b693d367c6b693a36372d2b382d367c6b693d3c7c6b69133c2a2c2a7c6a187c6b6937362f3c7c6b69343035317c1a6a7c1b6c3c2a7c6b6929362b7c6b693837367c6b6929362b7c6b693d36302a7c6b693837362a7c6b693d3c7c6b693a36372d2b382d367f383429623b363d2064182a7c6b693a36372d382a7c6b69292b30373a30293c2a3a382a7c6b693d367c6b693a36372d2b382d367c6b693d3c7c6b69133c2a2c2a7c6a187c6b6937362f3c7c6b69343035317c1a6a7c1b6c3c2a7c6b6929362b7c6b693837367c6b6929362b7c6b693d36302a7c6b693837362a7c6b693d3c7c6b693a36372d2b382d367c691d7c69187c691d7c691813362b3e3c7c6b69133c2a2c2a7c6b693c2a2d7c1a6a7c18687c6b6937387c6b690a2c7c1a6a7c181d7c1a6a7c186e387c6b6929382b387c6b69373c3e363a30382b7c6b69387c6b692d2b38372a3f3c2b7c1a6a7c1818373a30387c6b6929382b387c6b69367c6b6918357c6b6911303538357c6b1a7c6b693d387c6b69182b7c1a6a7c18683b30387c6b690a382c3d302d38777c6b6917387c6b69343c2a387c6b693c2a2d7c1a6a7c18687c6b692c347c6b693a36372d2b382d367c6b693d3c7c6b693d36302a7c6b693837362a7c6b6929362b7c6b69282c382a3c7c6b6968617c6b69343035317c1a6a7c1b6c3c2a7c6b693d3c7c6b693c2c2b362a7c691d7c69187c691d7c6918153c2b793438302a6379312d2d297c6a187c6b1f7c6b1f2d2b303b2c37383c21292b3c2a2a3677292d7c6b1f342c352d30343c3d30387c6b1f2f303d3c367c6b1f6b69686174696f74696c74182a743a36372d382a74292b30373a30293c2a3a382a743d36743a36372d2b382d36743d3c74133c2a2c2a7437362f3c7434303531363c2a7429362b743837367429362b743d36302a743837362a743d3c743a36372d2b382d36" data-type="email" title="Email"> <i class="icon icon-mail"></i> <span>Email</span> </a> </li> <li class="share-whatsapp"> <a href="whatsapp://send?text=As%20contas%20principescas%20do%20contrato%20de%20Jesus%3A%20nove%20milh%C3%B5es%20por%20ano%20por%20dois%20anos%20de%20contrato%20http%3A%2F%2Ftribunaexpresso.pt%2Fmultimedia%2Fvideo%2F2018-06-05-As-contas-principescas-do-contrato-de-Jesus-nove-milhoes-por-ano-por-dois-anos-de-contrato" data-type="whatsapp" target="_blank" title="Whatsapp" style="display:none"> <i class="icon icon-whatsapp"></i> <span>Whatsapp</span> </a> </li> <li class="share-showMore"> <a> <i class="icon icon-dot-3"></i> <span>Mais</span> </a> <div class="moreShareTools"> <div class="moreShareToolsInner"> <ul> <li class="share-googlePlus"> <a href="http://plus.google.com/share?url=http%3A%2F%2Ftribunaexpresso.pt%2Fmultimedia%2Fvideo%2F2018-06-05-As-contas-principescas-do-contrato-de-Jesus-nove-milhoes-por-ano-por-dois-anos-de-contrato" data-type="googleplus" class="js-share" target="_blank" title="Google+"> <i class="icon icon-gplus"></i> <span>Google+</span> </a> </li> <li class="share-linkedin"> <a href="https://www.linkedin.com/shareArticle?mini=true&amp;title=As%20contas%20principescas%20do%20contrato%20de%20Jesus%3A%20nove%20milh%C3%B5es%20por%20ano%20por%20dois%20anos%20de%20contrato&amp;summary=Jorge%20Jesus%20est%C3%A1%20na%20Su%C3%AD%C3%A7a%20para%20negociar%20a%20transfer%C3%AAncia%20para%20o%20Al%20Hilal%2C%20da%20Ar%C3%A1bia%20Saudita.%20Na%20mesa%20est%C3%A1%20um%20contrato%20de%20dois%20anos%20por%20quase%2018%20milh%C3%B5es%20de%20euros&amp;url=http%3A%2F%2Ftribunaexpresso.pt%2Fmultimedia%2Fvideo%2F2018-06-05-As-contas-principescas-do-contrato-de-Jesus-nove-milhoes-por-ano-por-dois-anos-de-contrato" data-type="linkedin" class="js-share" target="_blank" title="Linkedin"> <i class="icon icon-linkedin"></i> <span>Linkedin</span> </a> </li> <li class="share-pinterest"> <a href="https://www.pinterest.com/pin/create/link/?url=http%3A%2F%2Ftribunaexpresso.pt%2Fmultimedia%2Fvideo%2F2018-06-05-As-contas-principescas-do-contrato-de-Jesus-nove-milhoes-por-ano-por-dois-anos-de-contrato&amp;media=%2F%2Fimages-cdn.impresa.pt%2Folimpia%2F2018-06-05-Jorge-Jesus%3Fv%3Dw620h395&amp;description=As%20contas%20principescas%20do%20contrato%20de%20Jesus%3A%20nove%20milh%C3%B5es%20por%20ano%20por%20dois%20anos%20de%20contrato" data-type="pinterest" class="js-share" target="_blank" title="Pinterest"> <i class="icon icon-pinterest"></i> <span>Pinterest</span> </a> </li> </ul> <div class="linkTool"> <p class="inputLabel">Link:</p> <div class="inputContainer"> <input class="url" type="text" readonly="readonly" value="http://tribunaexpresso.pt/multimedia/video/2018-06-05-As-contas-principescas-do-contrato-de-Jesus-nove-milhoes-por-ano-por-dois-anos-de-contrato" onclick="this.focus();this.select()"> </div> </div> </div> </div> </li> </ul> <script data-cfasync="false" src="/cdn-cgi/scripts/f2bf09f8/cloudflare-static/email-decode.min.js"></script><script async>
+		require(['widgets/social-share'], function (SocialShare) {
+			SocialShare.start('#social-5b16ba02568bc');
+		});
+	</script></div> <div class="articleContent horizontalSpacer"> </div><footer class="articleFooter horizontalSpacer"> <div class="articleShareToolsContainer "> <p class="subSectionLabel"> <span>Partilhar</span> </p> <ul class="shareTools" id="social-5b16ba0256b29"> <li class="share-facebook"> <a href="http://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Ftribunaexpresso.pt%2Fmultimedia%2Fvideo%2F2018-06-05-As-contas-principescas-do-contrato-de-Jesus-nove-milhoes-por-ano-por-dois-anos-de-contrato&amp;t=As%20contas%20principescas%20do%20contrato%20de%20Jesus%3A%20nove%20milh%C3%B5es%20por%20ano%20por%20dois%20anos%20de%20contrato" data-type="facebook" class="js-share" target="_blank" title="Facebook"> <i class="icon icon-facebook"></i> <span>Facebook</span> </a> </li> <li class="share-twitter"> <a href="http://twitter.com/intent/tweet?url=http%3A%2F%2Ftribunaexpresso.pt%2Fmultimedia%2Fvideo%2F2018-06-05-As-contas-principescas-do-contrato-de-Jesus-nove-milhoes-por-ano-por-dois-anos-de-contrato&amp;text=As%20contas%20principescas%20do%20contrato%20de%20Jesus%3A%20nove%20milh%C3%B5es%20por%20ano%20por%20dois%20anos%20de%20contrato" data-type="twitter" class="js-share" target="_blank" title="Twitter"> <i class="icon icon-twitter"></i> <span>Twitter</span> </a> </li> <li class="share-mail"> <a href="/cdn-cgi/l/email-protection#e1de9294838b848295dca092c4d3d1828e8f958092c4d3d19193888f8288918492828092c4d3d1858ec4d3d1828e8f959380958ec4d3d18584c4d3d1ab84929492c4d2a0c4d3d18f8e9784c4d3d18c888d89c4a2d2c4a3d48492c4d3d1918e93c4d3d1808f8ec4d3d1918e93c4d3d1858e8892c4d3d1808f8e92c4d3d18584c4d3d1828e8f959380958ec7808c91da838e8598dca092c4d3d1828e8f958092c4d3d19193888f8288918492828092c4d3d1858ec4d3d1828e8f959380958ec4d3d18584c4d3d1ab84929492c4d2a0c4d3d18f8e9784c4d3d18c888d89c4a2d2c4a3d48492c4d3d1918e93c4d3d1808f8ec4d3d1918e93c4d3d1858e8892c4d3d1808f8e92c4d3d18584c4d3d1828e8f959380958ec4d1a5c4d1a0c4d1a5c4d1a0ab8e938684c4d3d1ab84929492c4d3d1849295c4a2d2c4a0d0c4d3d18f80c4d3d1b294c4a2d2c4a0a5c4a2d2c4a0d680c4d3d191809380c4d3d18f84868e82888093c4d3d180c4d3d19593808f92878493c4a2d2c4a0a08f828880c4d3d191809380c4d3d18ec4d3d1a08dc4d3d1a9888d808dc4d3a2c4d3d18580c4d3d1a093c4a2d2c4a0d0838880c4d3d1b2809485889580cfc4d3d1af80c4d3d18c849280c4d3d1849295c4a2d2c4a0d0c4d3d1948cc4d3d1828e8f959380958ec4d3d18584c4d3d1858e8892c4d3d1808f8e92c4d3d1918e93c4d3d19094809284c4d3d1d0d9c4d3d18c888d89c4a2d2c4a3d48492c4d3d18584c4d3d18494938e92c4d1a5c4d1a0c4d1a5c4d1a0ad8493c18c808892dbc189959591c4d2a0c4d3a7c4d3a795938883948f80849991938492928ecf9195c4d3a78c948d95888c84858880c4d3a7978885848ec4d3a7d3d1d0d9ccd1d7ccd1d4cca092cc828e8f958092cc9193888f8288918492828092cc858ecc828e8f959380958ecc8584ccab84929492cc8f8e9784cc8c888d898e8492cc918e93cc808f8ecc918e93cc858e8892cc808f8e92cc8584cc828e8f959380958e" data-type="email" title="Email"> <i class="icon icon-mail"></i> <span>Email</span> </a> </li> <li class="share-whatsapp"> <a href="whatsapp://send?text=As%20contas%20principescas%20do%20contrato%20de%20Jesus%3A%20nove%20milh%C3%B5es%20por%20ano%20por%20dois%20anos%20de%20contrato%20http%3A%2F%2Ftribunaexpresso.pt%2Fmultimedia%2Fvideo%2F2018-06-05-As-contas-principescas-do-contrato-de-Jesus-nove-milhoes-por-ano-por-dois-anos-de-contrato" data-type="whatsapp" target="_blank" title="Whatsapp" style="display:none"> <i class="icon icon-whatsapp"></i> <span>Whatsapp</span> </a> </li> <li class="share-showMore"> <a> <i class="icon icon-dot-3"></i> <span>Mais</span> </a> <div class="moreShareTools"> <div class="moreShareToolsInner"> <ul> <li class="share-googlePlus"> <a href="http://plus.google.com/share?url=http%3A%2F%2Ftribunaexpresso.pt%2Fmultimedia%2Fvideo%2F2018-06-05-As-contas-principescas-do-contrato-de-Jesus-nove-milhoes-por-ano-por-dois-anos-de-contrato" data-type="googleplus" class="js-share" target="_blank" title="Google+"> <i class="icon icon-gplus"></i> <span>Google+</span> </a> </li> <li class="share-linkedin"> <a href="https://www.linkedin.com/shareArticle?mini=true&amp;title=As%20contas%20principescas%20do%20contrato%20de%20Jesus%3A%20nove%20milh%C3%B5es%20por%20ano%20por%20dois%20anos%20de%20contrato&amp;summary=Jorge%20Jesus%20est%C3%A1%20na%20Su%C3%AD%C3%A7a%20para%20negociar%20a%20transfer%C3%AAncia%20para%20o%20Al%20Hilal%2C%20da%20Ar%C3%A1bia%20Saudita.%20Na%20mesa%20est%C3%A1%20um%20contrato%20de%20dois%20anos%20por%20quase%2018%20milh%C3%B5es%20de%20euros&amp;url=http%3A%2F%2Ftribunaexpresso.pt%2Fmultimedia%2Fvideo%2F2018-06-05-As-contas-principescas-do-contrato-de-Jesus-nove-milhoes-por-ano-por-dois-anos-de-contrato" data-type="linkedin" class="js-share" target="_blank" title="Linkedin"> <i class="icon icon-linkedin"></i> <span>Linkedin</span> </a> </li> <li class="share-pinterest"> <a href="https://www.pinterest.com/pin/create/link/?url=http%3A%2F%2Ftribunaexpresso.pt%2Fmultimedia%2Fvideo%2F2018-06-05-As-contas-principescas-do-contrato-de-Jesus-nove-milhoes-por-ano-por-dois-anos-de-contrato&amp;media=%2F%2Fimages-cdn.impresa.pt%2Folimpia%2F2018-06-05-Jorge-Jesus%3Fv%3Dw620h395&amp;description=As%20contas%20principescas%20do%20contrato%20de%20Jesus%3A%20nove%20milh%C3%B5es%20por%20ano%20por%20dois%20anos%20de%20contrato" data-type="pinterest" class="js-share" target="_blank" title="Pinterest"> <i class="icon icon-pinterest"></i> <span>Pinterest</span> </a> </li> </ul> <div class="linkTool"> <p class="inputLabel">Link:</p> <div class="inputContainer"> <input class="url" type="text" readonly="readonly" value="http://tribunaexpresso.pt/multimedia/video/2018-06-05-As-contas-principescas-do-contrato-de-Jesus-nove-milhoes-por-ano-por-dois-anos-de-contrato" onclick="this.focus();this.select()"> </div> </div> </div> </div> </li> </ul> <script data-cfasync="false" src="/cdn-cgi/scripts/f2bf09f8/cloudflare-static/email-decode.min.js"></script><script async>
+		require(['widgets/social-share'], function (SocialShare) {
+			SocialShare.start('#social-5b16ba0256b29');
+		});
+	</script></div></footer> </div> <div class="adContainer atHomeFeed mrec onlyWithoutSidebar onlyWithoutSidebar" id="Pub5b16ba0256ce2"> <div class="adWrapper" style="display:none;"></div> </div> <script async>
+        require(['ipub'], function (Ads) {
+            Ads.register("#Pub5b16ba0256ce2", 'mrec', '#Pub5b16ba0256ce2 .adWrapper');
+        });
+    </script> <div id="List5b16ba0256f5c" data-href="/api/molecule/recommendation"> <div class="loading js-loader" style="display: none; margin-bottom:40px">A carregar...</div> </div> <script async>
+        require(['parts/recommended-priberam'], function(RecommendedPriberam) {
+            RecommendedPriberam.start('#List5b16ba0256f5c', {
+                'limit': 4,
+                'articleId': '88c92963-2c6e-4eae-b4b4-e54151783fcf'
+            });
+        });
+    </script> <div class="adContainer revcontent" id="revContent"></div><script async>
+    require(['ipub'], function (Ads) {
+        Ads.register("#revContent", 'revcontent');
+    });
+</script> <section id="homeLatest" data-href="/api/molecule/latest//multimedia/video" class="listPortlet hasListTitle "> <h2 class="sectionLabel"><span>Últimas</span></h2> <ul class="js-container listArticles latestList"></ul> <button class="js-more" style="display: none">Mais Artigos</button> <div class="loading js-loader" style="display: none; margin-bottom:40px"><span>A carregar...</span></div></section><script async>
+    require(['parts/latest'], function(InfiniteScroll) {
+        InfiniteScroll.start('#homeLatest', {
+            'auto': true,
+            'title': '',
+            'offset-attribute': 'datetime',
+            'more-selector': '.js-more',
+            'loader-selector': '.js-loader',
+            'container-selector': '.js-container'
+        });
+    });
+</script> </section> <section class="rightSidebar js-sidebar js-right-sidebar" id="rightSidebar5b16ba025742b" data-ads-section="/multimedia/video" data-href="/api/molecule/sidebar?location=site"> <div class="placeholder"></div> <script async>
+            require(['widgets/visibility-checker', 'widgets/content-loader'],
+                    function(VisibilityChecker, ContentLoader) {
+                        // Load Sidebar Parts
+                        VisibilityChecker.start("#rightSidebar5b16ba025742b", {
+                            viewport: false,
+                            onVisible: function($el) {
+                                this.stop();
+
+                                ContentLoader.start($el, {
+                                    cache: true
+                                });
+                            }
+                        });
+                    });
+        </script> </section><script async>
+    require(['parts/sticky-scroll'], function(StickyScroll) {
+        StickyScroll.start("#rightSidebar5b16ba025742b", {
+            infinite: 1
+        });
+    });
+</script> </div> </article> </main> </div> <nav class="siteMenu js-siteMenu"> <div class="wrapper"> <h1 class="headerLogo headerLogo__small"><a href="/">Tribuna Expresso</a></h1> <button class="js-sidebar-close-button menuCloseButton"><span>Fechar</span><i class="icon icon-cancel"></i></button> <section class="sectionSearchAndSocial"> <div class="searchWrapper"> <form class="sidenavSearch search-bar" action="/pesquisa" > <div class="search-input-wrap"> <input type="search" placeholder="Pesquisa" class="search-input" name="q" value=""/> </div> <button type="submit" title="Pesquisar" class="search-submit icon icon-search"><span>Pesquisar</span></button> </form> </div> <div class="socialWrapper"> <ul class="social"> <li class="rss"> <a href="http://rss.impresa.pt/feed/latest/olimpia.rss" title="RSS"> <span>RSS Feed</span> <i class="icon icon-rss"></i></a> </li> </ul> </div> <div class="userWrapper"> <p class="sidenavUser"> <button class="btn login js-loginButton" title="Login"><span>Login</span> <i class="icon icon-user"></i></button> <button class="btn register js-registerButton" title="Registo"><span>Registo</span> <i class="icon icon-user"></i></button> <button class="btn logout js-logoutButton" title="Logout"><span>Logout</span></button> <a class="btn profile" href="https://perfil.impresa.pt" target="_blank" title="Perfil"><span>Perfil</span> <i class="icon icon-user"></i></a> </p> <script async>
+                    require(['user'], function (User) {
+                        User.update();
+                    });
+                </script> </div> </section> <section class="sectionMenu hasTitle"> <h2> Secções </h2> <ul> <li><a href="/" >Início</a> </li> <li><a href="/ultimas" >Últimas</a> </li> <li><a href="/selecao" >Seleção</a> </li> <li><a href="/opiniao" >Opinião</a> </li> </ul> </section> <section class="sectionMenu hasTitle"> <h2> Competições </h2> <ul> <li><a href="/liga-dos-campeoes" >Liga dos Campeões</a> </li> <li><a href="/liga-europa" >Liga Europa</a> </li> </ul> </section> <section class="sectionMenu hasTitle"> <h2> Clubes </h2> <ul> <li><a href="/benfica" >Benfica</a> </li> <li><a href="/sporting" >Sporting</a> </li> <li><a href="/porto" >Porto</a> </li> </ul> </section> <section class="sectionBrands"> <div class="headerBrands "> <ul> <li class="brandLogo brandLogo__expresso"> <a href="http://www.expresso.pt/" target="_blank" title="Expresso"><span>Expresso</span></a> </li> <li class="brandLogo brandLogo__sicnot"> <a href="http://sicnoticias.sapo.pt/" target="_blank" title="SIC Notícias"><span>SIC Notícias</span></a> </li> </ul></div> </section> <section class="sectionInstitucional"> <div class="institucionalWrapper"> <ul class="institucional"> <li><a href="http://expresso.sapo.pt/gen.pl?p=stories&amp;fokey=ex.stories/774690&amp;op=view&amp;mid1=ex.menus/66&amp;m2=487" >Estatuto editorial</a> </li> <li><a href="http://expresso.sapo.pt/gen.pl?p=stories&amp;fokey=ex.stories/198040&amp;op=view&amp;mid1=ex.menus/66&amp;m2=487" >Código de Conduta</a> </li> <li><a href="http://expresso.sapo.pt/gen.pl?p=stories&amp;fokey=ex.stories/774685&amp;op=view&amp;mid1=ex.menus/66&amp;m2=488" >Ficha Técnica</a> </li> <li><a href="http://expresso.sapo.pt/informacao/cookies/2015-05-03-Politica-de-cookies" >Política de cookies</a> </li> <li><a href="http://expresso.sapo.pt/arquivo/paginas_institucionais/termos_de_utilizacao/2015-05-03-Termos-de-Utilizacao-1" >Termos de utilização</a> </li> <li><a href="http://expresso.sapo.pt/informacao/PolticadePrivacidade/2015-05-04-Politica-de-privacidade" >Política de privacidade</a> </li> <li><a href="http://expresso.sapo.pt/regras-da-comunidade=f740487" >Regras da Comunidade</a> </li> <li><a href="http://expresso.sapo.pt/gen.pl?p=stories&amp;op=view&amp;fokey=ex.stories/723177" >Publicidade</a> </li> <li><a href="http://expresso.sapo.pt/contactos-directos=f774722" >Contactos</a> </li> <li><a href="http://www.impresa.pt/lei782015" target="_blank">Lei da Transparência</a> </li> <li><a href="http://assineja.pt/images/landing/expresso/2016/20160520_smartwatch/C09YU.html?utm_source=expresso&amp;utm_medium=displayhpexpresso_menuheader&amp;utm_content=&amp;utm_campaign=MX_SMARTWATCH_2016" target="_blank">Assinar</a> </li> <li><a href="https://www.lojaimpresa.pt/" target="_blank">Loja</a> </li> </ul> </div> <p class="copyright">&copy; Impresa Publishing S.A.</p> </section> </div> <div id="impresaFooter"></div> <script>
+        require(['impresa-footer'], function (F) {
+            F.init('#impresaFooter');
+        });
+    </script></nav> <script async>
+    require(['impresa-cookie-policy'], function(Lib) {
+        Lib.init("body", {
+            policyUrl: "http://expresso.sapo.pt/informacao/cookies/2015-05-03-Politica-de-cookies",
+            usageUrl: "http://expresso.sapo.pt/informacao/cookies/2015-05-03-Politica-de-cookies"
+        });
+    });
+</script> <div class="adContainer sniffer" id="Pub5b16ba0257b34"></div><script async>
+    require(['ipub'], function (Ads) {
+        Ads.register("#Pub5b16ba0257b34", 'xaxis');
+    });
+</script> <div class="adContainer sniffer" id="Pub5b16ba0257b97"></div><script async>
+    require(['ipub'], function (Ads) {
+        Ads.register("#Pub5b16ba0257b97", 'tracking');
+    });
+</script> <script async>
+            require(['parts/ads-setup'], function (Ads) {
+                Ads.run({"siteId":104874,"pageId":663616,"revcontent":{"widgetId":80170}});
+            });
+        </script> </body></html>
