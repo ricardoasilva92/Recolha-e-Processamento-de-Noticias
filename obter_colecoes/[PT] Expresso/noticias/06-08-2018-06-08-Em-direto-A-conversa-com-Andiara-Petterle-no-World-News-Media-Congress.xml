@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><xml>
+<Date>
+08.06.2018 às 11h15
+</Date>
+<Sec>
+Sociedade
+</Sec>
+<Title>
+Expresso | Em direto: À conversa com Andiara Petterle no World News Media Congress
+</Title>
+<Description>
+Em entrevista ao Expresso no World News Media Congress, a vice-presidente de produto e operações do grupo brasileiro RBS fala sobre a transformação digital da empresa e a importância dos conteúdos digitais
+</Description>
+<Text>
+require( [ 'ipub/video-player', 'parts/ads-setup' ], function( Player, Ads ) {
+                // init player widget
+                Player.start( '#livestream-5b1a5c7e8ae82', {
+                                                                                vast: {"skip":true,"showCountdown":true,"url":"https:\/\/www8.smartadserver.com\/ac?siteid=89002&pgid=618879&fmtid=37785&ab=1&tgt=&oc=1&out=vast3&ps=1&pb=0&visit=S&vcn=s&tmstp=[timestamp]","entries":[{"offset":0}]},
+                    vastTarget: Ads.getTargetingInfo(),
+                                        autoplay: false,
+                    panorama: false,
+                    volume: 0.50,
+                    meta: {
+                        contentUri: '/live/tricaster1/tricaster1.m3u8',
+                        title: document.title,
+                        label: 'direto'
+                    }
+                } );
+            } );
+</Text></xml>
