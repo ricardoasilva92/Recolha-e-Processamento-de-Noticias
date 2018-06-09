@@ -20,53 +20,6 @@ import matplotlib.pyplot as plt; plt.rcdefaults()
 import numpy as np
 import matplotlib.pyplot as plt
 
-def convert_months(month):
-	orig = month
-	return {
-		'Jan' : 'Jan',
-		'Fev' : 'Feb',
-		'Abr' : 'Apr',
-		'Mai' : 'May',
-		'Ago' : 'Aug',
-		'Set' : 'Sep',
-		'Out' : 'Oct',
-		'Dez' : 'Dec',	   
-	}.get(month, orig)
-
-def convertDate(jornal,date):
-	if jornal=="DN":
-		dataAsKey = ((date.split('/')[0]).strip('\n')).strip()
-		c = dataAsKey.split(',')
-		if len(c)>1:
-			c = c[1].strip().split(' ')
-			dataAsKey = c[0] + ' ' + c[1] + ' ' + c[2]
-		aux = dataAsKey.split(' ')
-		dataAsKey = aux[0] + ' ' + convert_months(aux[1]) + ' ' + aux[2]
-	if jornal=="JA":
-		aux = (date.split(' '))
-		dataAsKey = aux[1] + ' ' + aux[3][:3] + ' ' + aux[4]
-		aux = dataAsKey.split(' ')
-		dataAsKey = aux[0] + ' ' + convert_months(aux[1]) + ' ' + aux[2]
-	if jornal=="AS":
-		aux = (date.split(' '))
-		dataAsKey = aux[0].strip('\n') + ' ' + aux[1][:3] + ' ' + aux[2].strip('\n')
-		aux = dataAsKey.split(' ')
-		dataAsKey = aux[0] + ' ' + convert_months(aux[1]) + ' ' + aux[2]
-	if jornal=="TN":
-		aux = (date.split(' '))
-		dataAsKey = aux[0].strip('\n') + ' ' + aux[2][:3] + ' ' + aux[4].strip('\n')
-		aux = dataAsKey.split(' ')
-		dataAsKey = aux[0] + ' ' + convert_months(aux[1]) + ' ' + aux[2]
-
-	if jornal=="TLEST":
-		aux = (date.split(' '))
-		dataAsKey = aux[1] + ' ' + (aux[3][:3]).title() + ' ' + aux[5].strip(',')
-		aux = dataAsKey.split(' ')
-		dataAsKey = aux[0] + ' ' + convert_months(aux[1]) + ' ' + aux[2]
-	
-	return dataAsKey
-
-
 
 #___________________CRIACAO DE dicionario Pais:[cidade]_____________
 	#nomes proprios
@@ -100,23 +53,21 @@ for jornal,jornalAcr in zip(listaJornais,listaJornaisAcr):
 		tree = ET.parse(path)
 		root = tree.getroot()
 		for child in root:
-			if child.tag == "Date":
-				#print(jornalAcr + child.text + jornal)
-				data = convertDate(jornalAcr,child.text)
+
 			if child.tag == "Text":
 				tokens = nltk.word_tokenize(child.text)
 				for word in tokens:
 					word = ud.unidecode(word)
-					if word in cidades_dict and word[0].isupper():
-						#para dicionario sem datas
-						print(jornalAcr + '\t' + word + '\t' + cidades_dict[word])
-						if cidades_dict[word] in dict_ocoPaises[jornalAcr]:
-							dict_ocoPaises[jornalAcr][cidades_dict[word]]+=1
-						else:
-							dict_ocoPaises[jornalAcr][cidades_dict[word]] = 1
+					if len(word)>1:
+						if word in cidades_dict and word[0].isupper():
+							#para dicionario sem datas
+							#print(jornalAcr + '\t' + word + '\t' + cidades_dict[word])
+							if cidades_dict[word] in dict_ocoPaises[jornalAcr]:
+								dict_ocoPaises[jornalAcr][cidades_dict[word]]+=1
+							else:
+								dict_ocoPaises[jornalAcr][cidades_dict[word]] = 1
 
-	#print(jornal + " recolhido")
-
+pp.pprint(dict_ocoPaises)
 #a estrutura de dict_ocopaises permite integrar o tipo Counter
 countDN = Counter(dict_ocoPaises["DN"])
 countAS = Counter(dict_ocoPaises["AS"])
