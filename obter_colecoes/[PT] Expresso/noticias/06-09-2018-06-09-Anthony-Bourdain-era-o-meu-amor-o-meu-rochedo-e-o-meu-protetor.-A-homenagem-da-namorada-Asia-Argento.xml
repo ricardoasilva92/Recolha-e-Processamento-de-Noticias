@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><xml>
+<Date>
+09.06.2018 às 11h39
+</Date>
+<Sec>
+</Sec>
+<Title>
+BLITZ – Anthony Bourdain “era o meu amor, o meu rochedo e o meu protetor”. A homenagem da namorada Asia Argento
+</Title>
+<Description>
+Anthony Bourdain morreu esta sexta-feira, aos 61 anos
+O "chef mais rock and roll do mundo" morreu aos 61 anos
+O norte-americano tinha 61 anos. A causa da sua morte já foi confirmada
+O chef norte-americano foi encontrado sem vida num quarto de hotel em França, esta manhã
+À BLITZ, o guitarrista dos Dead Combo lamentou a morte do chef, que conheceu durante a filmagem de “No Reservations” em Portugal. “Era um tipo normal, nada vaidoso”
+</Description>
+<Text>
+A atriz Asia Argento, namorada de Anthony Bourdain, reagiu à morte do chef com uma mensagem no Twitter onde o descreve como "o seu rochedo". "O Anthony dava tudo o que tinha em tudo o que fazia. O seu espírito intrépido e brilhante tocou e inspirou muita gente, e a sua generosidade não tinha limites. Ele era o meu amor, o meu rochedo e o meu protetor", escreveu. "Estou para lá de desolada. Os meus pensamentos estão com a sua família. Peço-vos que respeitem a privacidade deles e a minha". Anthony Bourdain, recorde-se, foi encontrado morto num hotel em França. As autoridades estão a investigar a sua morte mas tudo aponta para suicídio.  Ver Twitter
+    require(['parts/twitter'], function(Twitter) { Twitter.start("#FB5b1bbf4a3f952"); });
+</Text></xml>
