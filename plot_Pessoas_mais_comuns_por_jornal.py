@@ -146,6 +146,7 @@ for jornalAcr in dictJornais:
 							if nxt != None:
 								if nxt.upper() in apelidosPtSet or nxt.upper() in nomesPtSet:
 									nome_completo = item + ' ' + nxt
+
 									aux_set.add(nome_completo)					   
 								else:
 									#se nao tem nome nem atras nem à frente
@@ -175,7 +176,7 @@ for jornalAcr in dictJornais:
 			count += Counter(dictPessoas[jornalAcr][date])
 		counterPessoas[jornalAcr] = count.most_common(10)
 
-pp.pprint(counterPessoas)
+pp.pprint(dictPessoas)
 #data minima e data maxima para cada jornal (para por informacao no plot)
 datasMinMax = {}
 listAux = []
@@ -190,13 +191,13 @@ for jornal in dictPessoas:
 	datasMinMax[jornal]["dataMax"]=max(listAux)
 	
 res_list = [x[0] for x in counterPessoas["DN"]]
-pp.pprint(res_list)
+#pp.pprint(res_list)
 
 
 for jornal in counterPessoas:
 	count = counterPessoas[jornal]
 	pessoaTop = [x[0] for x in counterPessoas[jornal]]
-	print(pessoaTop)
+	#print(pessoaTop)
 	y_pos = np.arange(len(pessoaTop))
 	performance = [x[1] for x in counterPessoas[jornal]]
 	plt.barh(y_pos, performance, align='center', alpha=0.4)
