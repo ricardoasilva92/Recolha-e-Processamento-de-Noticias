@@ -119,16 +119,17 @@ for jornal,jornalAcr in zip(listaJornais,listaJornaisAcr):
 				tokens = nltk.word_tokenize(child.text)
 				for word in tokens:
 					word = ud.unidecode(word)
-					if word in cidades_dict and word[0].isupper():
-						#para dicionario com datas
-						if data in dict_ocoPaisesDatas[jornalAcr]:
-							if cidades_dict[word] in dict_ocoPaisesDatas[jornalAcr][data]:
-								dict_ocoPaisesDatas[jornalAcr][data][cidades_dict[word]]+=1
+					if len(word)>1:
+						if word in cidades_dict and word[0].isupper():
+							#para dicionario com datas
+							if data in dict_ocoPaisesDatas[jornalAcr]:
+								if cidades_dict[word] in dict_ocoPaisesDatas[jornalAcr][data]:
+									dict_ocoPaisesDatas[jornalAcr][data][cidades_dict[word]]+=1
+								else:
+									dict_ocoPaisesDatas[jornalAcr][data][cidades_dict[word]] = 1
 							else:
+								dict_ocoPaisesDatas[jornalAcr][data]={}
 								dict_ocoPaisesDatas[jornalAcr][data][cidades_dict[word]] = 1
-						else:
-							dict_ocoPaisesDatas[jornalAcr][data]={}
-							dict_ocoPaisesDatas[jornalAcr][data][cidades_dict[word]] = 1
 	print(jornal + " recolhido")
 
 

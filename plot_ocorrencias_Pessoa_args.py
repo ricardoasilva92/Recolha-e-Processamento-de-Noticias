@@ -109,6 +109,7 @@ for args in sys.argv:
 	if i>1:
 		nomeAprocurar.append(args)
 
+
 dictJornais={"DN":"[PT] Diario de Noticias",
 			"JA":"[AGO] jornal angola",
 			"AS":"[CV] A_Semana",
@@ -117,12 +118,7 @@ dictJornais={"DN":"[PT] Diario de Noticias",
 			}
 
 
-listaJornais = ["[PT] Diario de Noticias",
-				"[AGO] jornal angola",
-				"[CV] A_Semana",
-				"[ST] Tela_Non",
-				"[TL] Governo Timor-Leste"]
-listaJornaisAcr = ["DN","JA","AS","TN","TLEST"]
+
 k=0
 #recolha de todos os nomes em todas as noticias
 #criacao de dicionario {"Acrinomio de Jornal":{
@@ -182,12 +178,7 @@ for jornalAcr in dictJornais:
 						dictPessoas[jornalAcr][dataAsKey] = []
 						for elem in aux_set:
 							dictPessoas[jornalAcr][dataAsKey].append(elem)
-		#counter com as ocorrencias de nomes
-		#vai servir para por mensagem na figura
-		count = Counter()
-		for date in dictPessoas[jornalAcr]:
-			count += Counter(dictPessoas[jornalAcr][date])
-		counterPessoas[jornalAcr] = count
+
 
 
 #para gerar o plot em que  yy -> ocorrencias | xx -> data preciso de dois arrays de igual tamanho
@@ -212,9 +203,9 @@ if len(nomeAprocurar)==1:
 	for key in sorted(dict_final.keys()):
 		eixoY_ocos.append(dict_final[key])
 
-# pp.pprint(dict_final)
-# print(eixoX_datas)
-# print(eixoY_ocos)
+pp.pprint(dict_final)
+print(eixoX_datas)
+print(eixoY_ocos)
 
 
 print(str(k) + "Noticias Lidas")

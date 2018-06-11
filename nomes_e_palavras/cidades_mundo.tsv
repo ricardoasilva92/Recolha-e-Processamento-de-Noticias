@@ -2,6 +2,7 @@ cidade  pais
 Russia	RU
 Razvilka	RU
 Moscow	RU
+Moscovo RU
 Firozpur Jhirka	IN
 Kathmandu	NP
 Kiev	UA
@@ -18810,6 +18811,7 @@ Pedernales	DO
 Palmar de Ocoa	DO
 Villa Nueva	GT
 Guatemala City	GT
+Guatemala   GT
 Puerto San Jose	GT
 La Reforma	GT
 Quetzaltenango	GT
@@ -32984,7 +32986,6 @@ Eagle	US
 Kuna	US
 Lewiston	US
 Meridian	US
-Moscow	US
 Nampa	US
 Pocatello	US
 Post Falls	US
@@ -48236,6 +48237,7 @@ Tacana	GT
 Soloma	GT
 Senahu	GT
 Sayaxche	GT
+Sacatepéquez    GT
 San Vicente Pacaya	GT
 Santo Tomas La Union	GT
 Santo Domingo Suchitepequez	GT
@@ -54821,7 +54823,6 @@ General Bravo	MX
 Frontera Hidalgo	MX
 Filomeno Mata	MX
 Espita	MX
-Escuintla	MX
 Villa Emilio Carranza	MX
 Emiliano Zapata	MX
 El Tejar	MX
@@ -67156,7 +67157,6 @@ Moline Acres	US
 Monett	US
 Monroe City	US
 Montgomery City	US
-Moscow Mills	US
 Mount Vernon	US
 Mountain Grove	US
 Mountain View	US
@@ -69962,10 +69962,11 @@ Caro	US
 Carrollton	US
 Cedar Springs	US
 Center Line	US
-Charlevoix	US
+Charlevoix	CA
 Charlotte	US
 Cheboygan	US
 Chelsea	US
+Québeque    CA
 Chesaning	US
 Clare	US
 Clawson	US
@@ -71694,7 +71695,6 @@ Monongahela	US
 Montgomeryville	US
 Moosic	US
 Morrisville	US
-Moscow	US
 Mount Carmel	US
 Mount Holly Springs	US
 Mount Joy	US
@@ -73588,6 +73588,7 @@ Hanamaulu	US
 Hanapepe	US
 Hanapepe Heights	US
 Hauula	US
+Havai   US
 Hawaiian Beaches	US
 Hawaiian Acres	US
 Hawaiian Paradise Park	US

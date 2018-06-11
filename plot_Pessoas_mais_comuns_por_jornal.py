@@ -114,12 +114,6 @@ dictJornais={"DN":"[PT] Diario de Noticias",
 			}
 
 
-listaJornais = ["[PT] Diario de Noticias",
-				"[AGO] jornal angola",
-				"[CV] A_Semana",
-				"[ST] Tela_Non",
-				"[TL] Governo Timor-Leste"]
-listaJornaisAcr = ["DN","JA","AS","TN","TLEST"]
 
 #recolha de todos os nomes em todas as noticias
 #criacao de dicionario {"Acrinomio de Jornal":{
@@ -181,7 +175,7 @@ for jornalAcr in dictJornais:
 			count += Counter(dictPessoas[jornalAcr][date])
 		counterPessoas[jornalAcr] = count.most_common(10)
 
-
+pp.pprint(counterPessoas)
 #data minima e data maxima para cada jornal (para por informacao no plot)
 datasMinMax = {}
 listAux = []
