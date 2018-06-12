@@ -16,3 +16,4 @@ $(hoje).files: $(hoje).urls
 p4: $(hoje).files
 	mkdir -p noticias
 	cd $(hoje) ; for a in *; do echo \<?xml version=\"1.0\" encoding=\"UTF-8\"?\>\<xml\> > ../noticias/$(hoje)-$$a.xml; echo \<Date\> >> ../noticias/$(hoje)-$$a.xml; xidel $$a -e '$(xpath_date)' >> ../noticias/$(hoje)-$$a.xml; echo \<\/Date\>\\n\<Title\> >> ../noticias/$(hoje)-$$a.xml; xidel $$a -e '$(xpath_title)' >> ../noticias/$(hoje)-$$a.xml; echo \<\/Title\>\\n\<Text\> >> ../noticias/$(hoje)-$$a.xml; xidel $$a -e '$(xpath_content)' >> ../noticias/$(hoje)-$$a.xml; echo \<\/Text\>\<\/xml\> >> ../noticias/$(hoje)-$$a.xml; done
+	cd noticias ; rename 's/[ \?]/_/g' *

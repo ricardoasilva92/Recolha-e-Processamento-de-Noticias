@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><xml>
+<Date>
+12.06.2018 às 16h39
+</Date>
+<Sec>
+Internacional
+</Sec>
+<Title>
+Expresso | Homem faz dois reféns em Paris e ameaça ter uma bomba
+</Title>
+<Description>
+O sequestrador exige contactar a embaixada do Irão
+</Description>
+<Text>
+Esta é a localização do edifício onde aconteceu o sequestro DR   Um homem que diz estar armado e dispor de uma bomba fez nesta terça-feira dois reféns em Paris, de acordo com o jornal Le Figaro. Porém, o jornal Le Parisien referiu que estão em causa três reféns. Um dos reféns foi libertado e está sob a proteção dos bombeirtos que se encontram no local. Antes de ser libertado, este refém foi aspergido com gasolina e espancado pelo sequestrador, segundo uma fonte da polícia. O alerta foi dado às 15h50 desta tarde. A rue des Petites-Écuries, no décimo bairro da capital francesa onde estão instalados os escritórios da empresa em que o sequestrador se barricou, foi evacuada. O sequestrador exige contactar a embaixada do Irão. A Brigada de Intervenção Rápida (BRI) e a Companhia de Segurança e Resposta de Paris encontram-se no local. O setor está cercado pela polícia, mas as autoridades dizem desconhecer, ainda, as motivações do homem. A empresa que tem sede no número 45 daquela artéria parisiense é uma agência publicitária que trabalha com YouTubers célebres como Cyprien, Norman e Squeezie, que, segundo o Le Figaro, não se encontram no edifício. A polícia já iniciou negociações com o sequestrador, refere o mesmo jornal. [Em desenvolvimento]  Ver Twitter
+    require(['parts/twitter'], function(Twitter) { Twitter.start("#FB5b1ffbeebd62a"); });
+  Ver Twitter
+    require(['parts/twitter'], function(Twitter) { Twitter.start("#FB5b1ffbeebd69e"); });
+</Text></xml>
