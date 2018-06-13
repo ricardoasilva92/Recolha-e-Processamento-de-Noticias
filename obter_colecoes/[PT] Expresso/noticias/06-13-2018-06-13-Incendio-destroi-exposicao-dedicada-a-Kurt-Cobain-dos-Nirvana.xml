@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><xml>
+<Date>
+13.06.2018 às 11h44
+</Date>
+<Sec>
+</Sec>
+<Title>
+BLITZ – Incêndio destrói exposição dedicada a Kurt Cobain
+</Title>
+<Description>
+Vários objetos pertença de Kurt Cobain foram perdidos no incêndio
+Divórcio da filha de Kurt Cobain promete fazer correr muita tinta
+Decisão do tribunal favorece as intenções de Courtney Love e Frances Bean Cobain
+O músico que diz que os álbuns dos Nirvana são "demasiado pessoais"
+"Sinto que perdi muitos anos bons ao lado dele", diz
+</Description>
+<Text>
+Uma exposição dedicada a Kurt Cobain, num museu do estado de Washington, EUA, foi destruída por um incêndio. Da exposição faziam parte vários objetos pertença do falecido líder dos Nirvana, como desenhos originais seus. Reagindo ao incidente, o chefe dos bombeiros da cidade de Aberdeen disse que esta "é uma perda terrível para a cidade", salientando que "vários itens históricos foram destruídos". O antigo baixista dos Nirvana, Krist Novoselić, também fez referência ao incêndio nas redes sociais. "É terrível, espero que as pessoas estejam a salvo", escreveu. O incêndio não provocou quaisquer feridos.   Ver Twitter
+    require(['parts/twitter'], function(Twitter) { Twitter.start("#FB5b21519b0a1e1"); });
+</Text></xml>
